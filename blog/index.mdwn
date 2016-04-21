@@ -1,0 +1,6 @@
+[[!calendar  type="month" pages="blog/posts/* and !*/discussion"]]
+
+---
+
+[[!inline pages="page(./blog/posts/*) and !*/discussion" show="15"
+actions=yes rootpage="posts"]]
