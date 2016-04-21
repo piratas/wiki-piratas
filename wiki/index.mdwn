@@ -1,3 +1,9 @@
+# Índice
+
+[[!toc levels=6]]
+
+---
+
 # Meios de comunicação
 
 Estes meios de comunicação são tidos como extra oficiais pelo [partido pirata][0].
@@ -47,10 +53,14 @@ Os grupos públicos estão atualmente em uso.
 * [PartidoPirataBR](https://telegram.me/addstickers/PartidoPirataBR)
 * [Kopimi](https://telegram.me/addstickers/Kopimi)
 
+---
+
+# Toda a wiki
+
+[[!map pages="wiki/*"]]
+
 [0]: http://partidopirata.org
 
 [[!sidebar content="""
-[[!toc levels=6]]
-
-[[!map pages="wiki/*"]]
+[[!toc levels=1]]
 """]]
