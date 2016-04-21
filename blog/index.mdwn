@@ -1,6 +1,14 @@
-[[!calendar  type="month" pages="blog/posts/* and !*/discussion"]]
+Para publicar no blog é necessário criar uma conta neste site
+
+Para comentar nas publicações, use o recurso de comentários
+
+Para criticar ou problematizar publicações, use o recurso de discussão
 
 ---
 
 [[!inline pages="page(./blog/posts/*) and !*/discussion" show="15"
 actions=yes rootpage="posts"]]
+
+[[!sidebar content="""
+[[!calendar  type="month" pages="blog/posts/* and !*/discussion"]]
+"""]]
