@@ -1,0 +1,56 @@
+# Meios de comunicação
+
+Estes meios de comunicação são tidos como extra oficiais pelo [partido pirata][0].
+
+Não existe meio oficial de comunicação não unilateral no [partido pirata][0].
+
+## Mumble
+
+* <https://mumble.partidopirata.org> `fora do ar`
+* <https://mumble.partidopirata.xyz>
+* <https://mumble.pirata.xyz>
+
+Mumble é um software que serve para chat (texto), audioconferência e comunicação direta de pessoas. Além disto, ele serve para organização, interação e entretenimento.
+
+Pare de ler sobre mumble e venha experimentar pra saber do que se trata. Use com moderação. O Partido Pirata não é responsável pelas consequências do uso e do abuso deste serviço.
+
+Para downloads, passo-a-passo e mais informações acesse os sites supracitados.
+
+## Telegram
+
+Telegram é inseguro, não privativo e é código fechado.
+
+Utiliza-se no âmbito do [partido pirata][0] como alternativa ao feissebuqui.
+
+### Canais públicos
+
+Os canais públicos estão em desuso por desinteresse.
+
+* [PiratasBr](https://telegram.me/partidopiratabr)
+* [Piratas Centro-Oeste](https://telegram.me/piratas_centrooeste)
+* [Piratas Nordeste](https://telegram.me/piratas_nordeste)
+* [Piratas Norte](https://telegram.me/piratas_norte)
+* [Piratas Sudeste](https://telegram.me/piratas_sudeste)
+* [Piratas Sul](https://telegram.me/piratas_sul)
+
+### Grupos públicos
+
+Os grupos públicos estão atualmente em uso.
+
+* [Lounge Pirata](https://telegram.me/loungepirata)
+* [Super Grupo Pirata](https://telegram.me/piratasbr)
+
+### Pacotes de Stickers Públicos
+
+* [Pirata](https://telegram.me/addstickers/Pirata)
+* [PartidoPirata](https://telegram.me/addstickers/PartidoPirata)
+* [PartidoPirataBR](https://telegram.me/addstickers/PartidoPirataBR)
+* [Kopimi](https://telegram.me/addstickers/Kopimi)
+
+[0]: http://partidopirata.org
+
+[[!sidebar content="""
+[[!toc levels=6]]
+
+[[!map pages="wiki/*"]]
+"""]]
