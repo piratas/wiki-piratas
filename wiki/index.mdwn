@@ -59,7 +59,7 @@ Os grupos públicos estão atualmente em uso.
 
 # Toda a wiki
 
-[[!map pages="wiki/*"]]
+[[!map pages="wiki/* and !*/discussao"]]
 
 [0]: http://partidopirata.org
 
