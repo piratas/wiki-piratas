@@ -31,3 +31,5 @@ A motivação e intenção preliminar é organizar a informação de forma monoc
 ## [[sobre]]
 
 ## [[contato]]
+
+[0]: http://partidopirata.org
