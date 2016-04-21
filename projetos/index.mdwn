@@ -1,0 +1,23 @@
+Nesta página é possível sugerir ou registrar um projeto.
+
+Ao cadastrar um projeto, busque reunir informações sobre como participar, qual é o objetivo do projeto, e links.
+
+---
+
+### Projetos em andamento
+
+[[!inline pages="projeto/* and !tagged(abandonado) and !tagged(parado) and !projeto/discussao and !projeto/*/*"
+actions=yes archive=yes rootpage="projeto" postformtext="Cadastre um novo projeto:" limit=0]]
+
+[[!sidebar content="""
+**[[!pagecount pages="projeto/* and !projeto/discussao and 
+!tagged(abandonado) and !tagged(parado) and !tarefa/*/*"]] projetos em andamento**
+
+
+**[[[[!pagecount pages="projeto/* and !projeto/discussao and 
+tagged(parado) and !parado/*/*"]] projetos parados|/projetos/parados]]**
+
+
+**[[[[!pagecount pages="projeto/* and !projeto/discussao and 
+tagged(abandonado) and !parado/*/*"]] projetos parados|/projetos/abandonados]]**
+"""]]
