@@ -1,6 +1,8 @@
-# Índice
+Edite a wiki com informação factivel.
 
-[[!toc levels=6]]
+Mantenha opiniões pessoais na página de [[discussao]].
+
+Caso não concorde com alguma coisa, problematize na [[discussao]] da respectiva página.
 
 ---
 
