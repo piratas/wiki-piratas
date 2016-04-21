@@ -14,7 +14,7 @@ A motivação e intenção preliminar é organizar a informação de forma monoc
 
 ## [[tarefas]]
 
-### [[projetos]]
+## [[projetos]]
 
 ## [[wiki]]
 
@@ -23,13 +23,5 @@ A motivação e intenção preliminar é organizar a informação de forma monoc
 ### [[wiki/documentos/estatuto]]
 
 ### [[wiki/contato]]
-
----
-
-# Páginas especiais
-
-## [[sobre]]
-
-## [[contato]]
 
 [0]: http://partidopirata.org
