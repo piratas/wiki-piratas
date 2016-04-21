@@ -1,0 +1,8 @@
+Nesta página é possível criar tópicos de discussão.
+
+Para responder tópicos já existentes, use o recurso de comentários.
+
+---
+
+[[!inline pages="forum/*  and !forum/discussion and !forum/*/*" 
+archive=yes rootpage="forum" postformtext="Criar novo tópico com o título:" show=0]]
