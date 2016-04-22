@@ -1,8 +1,8 @@
-Edite a wiki com informação factivel.
+Edite a wiki com informação factível.
 
-Mantenha opiniões pessoais na página de [[discussao]].
+Mantenha opiniões pessoais na página de [[discussão|discussao]].
 
-Caso não concorde com alguma coisa, problematize na [[discussao]] da respectiva página.
+Caso não concorde com alguma coisa, problematize na [[discussão|discussao]] da respectiva página.
 
 ---
 
@@ -25,6 +25,12 @@ Caso não concorde com alguma coisa, problematize na [[discussao]] da respectiva
 ## Grupos Setoriais
 
 ### Bucaneiras
+
+---
+
+# Material
+
+## [[Documentos]]
 
 ---
 
