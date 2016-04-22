@@ -6,11 +6,29 @@ Caso não concorde com alguma coisa, problematize na [[discussao]] da respectiva
 
 ---
 
-# Grupos de trabalho
+# Organização
 
-## [[GTI]]
+## [[Secretaria Geral]]
 
-# Meios de comunicação
+### [[Tesouraria Nacional]]
+
+### [[Gestão de Crises]]
+
+## Grupos de trabalho
+
+### [[GTC]] - Grupo de Trabalho de Comunicação
+
+### [[GTI]] - Grupo de Trabalho de Tecnologia da Informação
+
+### [[GTJ]] - Grupo de Trabalho Jurídico
+
+## Grupos Setoriais
+
+### Bucaneiras
+
+---
+
+# Comunicação
 
 Estes meios de comunicação são tidos como extra oficiais pelo [partido pirata][0].
 
