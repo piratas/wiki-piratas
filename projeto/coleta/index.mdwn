@@ -5,25 +5,25 @@
 Coleta de Assinaturas para registro do Partido Pirata no TSE
 Tentativa de dia e horario de reuniao => Segunda-feria dia 25 de Abril 2016 as 21h (horario de Brasilia)
 
-## Situação
+# Situação
 
 Resolução aprovada no TSE em Dezembro de 2015 (http://chimera.tse.jus.br/legislacao-tse/res/2015/RES234652015.htm) diz que o prazo máximo para protocolar o apoiamento à criação de novos partidos é de 2 anos a partir da data de aquisição de personalidade juridica (obtenção do CNPJ). Como o partido pirata foi fundado em 2012, a principio esse prazo já teria expirado, mas juristas piratas dizem que entrando com recurso no TSE conseguimos que o prazo de 2 anos seja contado a partir da data em que a resolução entrou em vigor (dezembro de 2015) ou seja precisariamos de cerca de 1000 assinaturas por dia. Se cada associado conseguisse uma média de 3 assinaturas por dia, já seria suficiente, entao não há porque julgarmos impossivel a tarefa, mas precisamos nos organizar. Um terceiro cenário, mais improvável, é tentar recurso para que essa nova regra não valha para o Partido Pirata, pois iniciamos a abertura do partido antes da resolulçao de dezembro/2015. É mais seguro trabalharmos com o cenário de que temos ate Dezembro de 2017 para entregar as assinaturas.Além disso, agora as assinaturas devem ser validadas em sistema disponibilizado pelo TSE.
 
 ---
 
-## Proposta de Organização em GT
+# Proposta de Organização em GT
 
 A proposta é regularizar um GT no Partido Pirata que seja responsável pela coordenação da campanha de coleta de assinaturas
 
-### Grupo no telegram
+## Grupo no telegram
 
 > <https://telegram.me/coletaassinaturaspiratasbr>
 
 ---
 
-## Pendências
+# Pendências
 
-### Precisamos das seguintes informações:
+## Precisamos das seguintes informações:
 
 * O normativo do TSE vale para o Partido Pirata? Como podemos garantir? Através de consulta ao TSE?
 * Como funciona o sistema online do TSE? Quem pode cadastrar as assinaturas? Precisaremos da assinatura do secretário geral para nos cadastrarmos? Neste caso, seria preciso oficializar Daniel Prazeres e Paulo Crossara como secretários do Partido Pirata.
@@ -32,151 +32,169 @@ A proposta é regularizar um GT no Partido Pirata que seja responsável pela coo
 
 ---
 
-## Estratégias
+# Estratégias
 
 Devemos realizar varias estratégias paralelamente, para garantir máxima efetividade. 
 
 Acho que o partido tem pessoal com expertize para evitar "random walk - rhumba style" pra coletar assinatura e etc. As minhas contribuicoes aqui estao alinhadas como a visao de que devemos fazer um reconhecimento dos nossos simpatizantes para colocar os nossos esforcos onde dara mais resultado. (aprende (A) > estuda (E) > aplica (A) = estrategia AEA (por falta de outro nome))
 
-### Eventos
+---
+
+## Eventos
 
 Relação de eventos onde podemos fazer coleta de assinaturas
 
-#### Marchas da Maconha
+### Marchas da Maconha
 
 (divulgar datas em cada cidade; contactar coletivos piratas locais)
 
-#### Marcha Antifascista
+### Marcha Antifascista
 
 (data? locais?)
 
-#### Bazar Vegano
+### Bazar Vegano
 
 (Curitiba/PR, 14/05) Terá o pirata Arthur falando sobre seu sistema comidalivre.org
 
-#### Bazar Vegano
+### Bazar Vegano
 
 (Curitiba/PR, Junho) Possivelmente terá o pirata Arthur falando sobre hacktivismo
 
-### Divulgação Online
+---
 
-#### Site do Partido Pirata 
+## Divulgação Online
+
+### Site do Partido Pirata 
 
 Deve conter um "hot site" que centralize todas as informaçoes necessarias - Interessante fazer um esboço de quais informações se espera além do óbvio (passo a passo impressão, dados, coleta), por ex. a ideia de colocar pontos de referência nas cidades, para que as assinaturas possam ser entregues, endereços em vários estados para enviarem fichas pelos correios, (carta social vale a pena?)
 
-#### Facebook
+### Facebook
 
-##### Página do Partido Pirata
+#### Página do Partido Pirata
 
-##### Evento Coleta de Assinaturas
+#### Evento Coleta de Assinaturas
 
     https://www.facebook.com/events/1433779340241340/
 
-##### Grupo Coleta de Assinaturas
+#### Grupo Coleta de Assinaturas
 
-##### Páginas e grupos locais 
+#### Páginas e grupos locais 
 
-##### Páginas e grupos de temas especificos
+#### Páginas e grupos de temas especificos
 
-##### Pessoas influentes que formam pontes entre grupos distintos (hubs)
+#### Pessoas influentes que formam pontes entre grupos distintos (hubs)
 
-##### Polls
+#### Polls
 
 Descobrir a faixa demografica demografia mais eficiente para conseguir assinaturas para os piratas
 
 Ajuda a bolar estrategias na vida real.
 
-#### Twitter
+### Twitter
 
 Achar pessoas influentes no twitter ( ~> 50k seguidores) para ajudar a fazer "barulho" sobre as assinaturas.
 
-#### Sites parceiros
+### Sites parceiros
 
-##### The Rebels
+#### The Rebels
 
-##### Outros sites de downloads piratas
+#### Outros sites de downloads piratas
 
-#### Agentes online multiplicadores (assessoria de imprensa?)
+### Agentes online multiplicadores (assessoria de imprensa?)
 
 Tentar fazer algo aparecer sobre os piratas e a nossa "quest" para conseguir as assinaturas em meios multiplicadores tipo catraca livre e outros.
 
 Pra isso precisamos organizar as informacoes basicas do partido, para que interessados as achem facilmente. (Como novato por aqui, eu lhes digo: isso eh um labirinto).
 
-#### Pirâmide
+---
 
-#### Pontos de coleta de fichas de apoiamento
+## Pirâmide
+
+---
+
+## Pontos de coleta de fichas de apoiamento
 
 Locais físicos onde as pessoas podem entregar fichas de apoiamento (que baixaram da internet, imprimiram e assinaram) para nós piratas posteriormente recolhermos. Pode ser feito cartaz (genérico ou adaptado ao ambiente?) e colado na parede, junto com um maço de fichas de apoiamento e uma caneta presa por uma cordinha
 
-##### Hackerspaces
+### Hackerspaces
 
-##### Locais de alimentaçao vegetariana/vegana
+### Locais de alimentaçao vegetariana/vegana
 
-##### Sindicatos
+### Sindicatos
 
-###### Sindicato dos Metroviários / SP
+#### Sindicato dos Metroviários / SP
 
 (Daniel Souza)
 
-#### Contatos pessoais
+---
+
+## Contatos pessoais
 
 caso o contato seja "firmeza", pode dar algumas fichas de apoiamento para ele, para que consiga algumas assinaturas a mais, ao invés de pegar somente a assinatura dele
 
-##### Grupos na faculdade ou trabalho.
+### Grupos na faculdade ou trabalho.
 
-##### Familiares
+### Familiares
 
-#### Alinhamento de discurso
+---
+
+## Alinhamento de discurso
 
 responder a possiveis indagacoes / gerar "panfletos e memes" para divulgacao:
 
-##### Porque mais um partido ?
+### Porque mais um partido ?
 
 A1: (tentative) - Porque os que estao lah nao nos representa
 
-##### Qual a diferenca entre voces e o resto ?
+### Qual a diferenca entre voces e o resto ?
 
 A1: (t) Democracia direta via technologia ( o que eh um fator limitante no Brasil ainda, mas fazer o que? )
 
-##### Porque eu deveria confiar em voces?
+### Porque eu deveria confiar em voces?
 
 Aqui entra a minha bandeira zero: Nosso estatuto tem que ser mais agressivo e menos politico. (propaganda, eu sei, mas acho que eh o impreterivel ter um papel pra poder mostrar que somos realmente e gritantemente diferente de outros por regimento).
 
-### Materiais de Apoio
+---
 
-    Cartilha para coleta
+# Materiais de Apoio
 
-    Cartaz para pontos de coleta
+## Cartilha para coleta
 
-    Ficha de apoiamento (Antes de baixar a ficha leia o subitem 2.3)
+## Cartaz para pontos de coleta
 
-    A ficha que estava sendo usada está disponível em  http://partidopirata.org/documentos/ficha-de-apoiamento/
+---
 
-    Maximiliano Stefens fez um modelo de formulário online com versao pra impressao, inclusive com modelo de envelope do lado de fora. Disponível provisoriamente em http://www.cdef.com.br/1111/
+# Ficha de apoiamento
 
-    Possivelmente esse modelo mude devido à resolução do TSE de Dezembro/2015. Daniel está verificando.
+(Antes de baixar a ficha leia o subitem 2.3)
 
-    Elegibilidade e protocolagem
+A ficha que estava sendo usada está disponível em http://partidopirata.org/documentos/ficha-de-apoiamento/
 
-    Protocolar as assinaturas à medida que forem coletadas; não deixar tudo para ultima hora!
+Maximiliano Stefens fez um modelo de formulário online com versao pra impressao, inclusive com modelo de envelope do lado de fora. Disponível provisoriamente em http://www.cdef.com.br/1111/
 
-    Cada coletivo insere no sistema suas assinaturas e envia para os demais as respectivas (pois quando coletamos, vem assisaturas de outros estados tb)
+Possivelmente esse modelo mude devido à resolução do TSE de Dezembro/2015. Daniel está verificando.
 
-    Precisamos de um mínimo de 9 estados, é isso? Precisaremos constituir diretórios provisórios nesses estados, confere?
+## Elegibilidade e protocolagem
 
-    Plenário do TSE aceitou registro do NOVO, valendo regras antigas à nova lei da criação de partidos. Porem o registro do NOVO se deu antes da resolução de Dez/2015. http://www.tse.jus.br/imprensa/noticias-tse/2015/Setembro/plenario-do-tse-aprova-pedido-de-registro-do-partido-novo
+* Protocolar as assinaturas à medida que forem coletadas; não deixar tudo para ultima hora!
 
-    Pode recolher assinatura de quem eh de outro partido?
+* Cada coletivo insere no sistema suas assinaturas e envia para os demais as respectivas (pois quando coletamos, vem assisaturas de outros estados tb)
 
-    Acompanhamento do andamento das assinaturas
+* Precisamos de um mínimo de 9 estados, é isso? Precisaremos constituir diretórios provisórios nesses estados, confere?
 
-    Sistema (ou planilha) para acompanhamento, 
+* Plenário do TSE aceitou registro do NOVO, valendo regras antigas à nova lei da criação de partidos. Porem o registro do NOVO se deu antes da resolução de Dez/2015. http://www.tse.jus.br/imprensa/noticias-tse/2015/Setembro/plenario-do-tse-aprova-pedido-de-registro-do-partido-novo
 
-    Uma aba para cada estado
+* Pode recolher assinatura de quem eh de outro partido?
 
-    Cada estado informar quantas assinaturas tem de outros estados também (pois acaba-se coletando assinaturas de gente de outros estados junto, ja que as pessoas viajam)
+---
 
+# Acompanhamento do andamento das assinaturas
 
+## Sistema (ou planilha) para acompanhamento, 
+
+* Uma aba para cada estado
+
+* Cada estado informar quantas assinaturas tem de outros estados também (pois acaba-se coletando assinaturas de gente de outros estados junto, ja que as pessoas viajam)
 
 Como seria feita a coleta de assinatura? Apenas assinaturas? Nome completo, numero do titulo de elitor mais a assinatura? Isso seria numa folha com várias linhas iguais para serem assinadas? Veja o ponto (Ficha de Apoiamento) acima
 
