@@ -5,119 +5,144 @@
 Coleta de Assinaturas para registro do Partido Pirata no TSE
 Tentativa de dia e horario de reuniao => Segunda-feria dia 25 de Abril 2016 as 21h (horario de Brasilia)
 
-    Situação
+## Situação
 
-    Resolução aprovada no TSE em Dezembro de 2015 (http://chimera.tse.jus.br/legislacao-tse/res/2015/RES234652015.htm) diz que o prazo máximo para protocolar o apoiamento à criação de novos partidos é de 2 anos a partir da data de aquisição de personalidade juridica (obtenção do CNPJ). Como o partido pirata foi fundado em 2012, a principio esse prazo já teria expirado, mas juristas piratas dizem que entrando com recurso no TSE conseguimos que o prazo de 2 anos seja contado a partir da data em que a resolução entrou em vigor (dezembro de 2015) ou seja precisariamos de cerca de 1000 assinaturas por dia. Se cada associado conseguisse uma média de 3 assinaturas por dia, já seria suficiente, entao não há porque julgarmos impossivel a tarefa, mas precisamos nos organizar. Um terceiro cenário, mais improvável, é tentar recurso para que essa nova regra não valha para o Partido Pirata, pois iniciamos a abertura do partido antes da resolulçao de dezembro/2015. É mais seguro trabalharmos com o cenário de que temos ate Dezembro de 2017 para entregar as assinaturas.Além disso, agora as assinaturas devem ser validadas em sistema disponibilizado pelo TSE.
+Resolução aprovada no TSE em Dezembro de 2015 (http://chimera.tse.jus.br/legislacao-tse/res/2015/RES234652015.htm) diz que o prazo máximo para protocolar o apoiamento à criação de novos partidos é de 2 anos a partir da data de aquisição de personalidade juridica (obtenção do CNPJ). Como o partido pirata foi fundado em 2012, a principio esse prazo já teria expirado, mas juristas piratas dizem que entrando com recurso no TSE conseguimos que o prazo de 2 anos seja contado a partir da data em que a resolução entrou em vigor (dezembro de 2015) ou seja precisariamos de cerca de 1000 assinaturas por dia. Se cada associado conseguisse uma média de 3 assinaturas por dia, já seria suficiente, entao não há porque julgarmos impossivel a tarefa, mas precisamos nos organizar. Um terceiro cenário, mais improvável, é tentar recurso para que essa nova regra não valha para o Partido Pirata, pois iniciamos a abertura do partido antes da resolulçao de dezembro/2015. É mais seguro trabalharmos com o cenário de que temos ate Dezembro de 2017 para entregar as assinaturas.Além disso, agora as assinaturas devem ser validadas em sistema disponibilizado pelo TSE.
 
-    Proposta de Organização em GT
+---
 
-    A proposta é regularizar um GT no Partido Pirata que seja responsável pela coordenação da campanha de coleta de assinaturas
+## Proposta de Organização em GT
 
-    Grupo no telegram: https://telegram.me/coletaassinaturaspiratasbr
+A proposta é regularizar um GT no Partido Pirata que seja responsável pela coordenação da campanha de coleta de assinaturas
 
-    Pendências
+### Grupo no telegram
 
-    Precisamos das seguintes informações:
+> <https://telegram.me/coletaassinaturaspiratasbr>
 
-    O normativo do TSE vale para o Partido Pirata? Como podemos garantir? Através de consulta ao TSE?
+---
 
-    Como funciona o sistema online do TSE? Quem pode cadastrar as assinaturas? Precisaremos da assinatura do secretário geral para nos cadastrarmos? Neste caso, seria preciso oficializar Daniel Prazeres e Paulo Crossara como secretários do Partido Pirata.
+## Pendências
 
-    Apolinario disse que podemos fazer uma consulta impositiva sobre a possibilidade de assinaturas digitais. Existe precedentes no Brasil e existe meios tecnicos para isso.
+### Precisamos das seguintes informações:
 
-    Temos que preencher com os endereços de cada diretório e coletivo estadual
+* O normativo do TSE vale para o Partido Pirata? Como podemos garantir? Através de consulta ao TSE?
+* Como funciona o sistema online do TSE? Quem pode cadastrar as assinaturas? Precisaremos da assinatura do secretário geral para nos cadastrarmos? Neste caso, seria preciso oficializar Daniel Prazeres e Paulo Crossara como secretários do Partido Pirata.
+  * Apolinario disse que podemos fazer uma consulta impositiva sobre a possibilidade de assinaturas digitais. Existe precedentes no Brasil e existe meios tecnicos para isso.
+* Temos que preencher com os endereços de cada diretório e coletivo estadual
 
-    Estratégias - Devemos realizar varias estratégias paralelamente, para garantir máxima efetividade. 
+---
 
-    Acho que o partido tem pessoal com expertize para evitar "random walk - rhumba style" pra coletar assinatura e etc. As minhas contribuicoes aqui estao alinhadas como a visao de que devemos fazer um reconhecimento dos nossos simpatizantes para colocar os nossos esforcos onde dara mais resultado. (aprende (A) > estuda (E) > aplica (A) = estrategia AEA (por falta de outro nome))
+## Estratégias
 
-    Eventos
+Devemos realizar varias estratégias paralelamente, para garantir máxima efetividade. 
 
-    Relação de eventos onde podemos fazer coleta de assinaturas
+Acho que o partido tem pessoal com expertize para evitar "random walk - rhumba style" pra coletar assinatura e etc. As minhas contribuicoes aqui estao alinhadas como a visao de que devemos fazer um reconhecimento dos nossos simpatizantes para colocar os nossos esforcos onde dara mais resultado. (aprende (A) > estuda (E) > aplica (A) = estrategia AEA (por falta de outro nome))
 
-    Marchas da Maconha (divulgar datas em cada cidade; contactar coletivos piratas locais)
+### Eventos
 
-    Marcha Antifascista (data? locais?)
+Relação de eventos onde podemos fazer coleta de assinaturas
 
-    Bazar Vegano (Curitiba/PR, 14/05) Terá o pirata Arthur falando sobre seu sistema comidalivre.org
+#### Marchas da Maconha
 
-    Bazar Vegano (Curitiba/PR, Junho) Possivelmente terá o pirata Arthur falando sobre hacktivismo
+(divulgar datas em cada cidade; contactar coletivos piratas locais)
 
-    Divulgação Online
+#### Marcha Antifascista
 
-    Site do Partido Pirata 
+(data? locais?)
 
-    Deve conter um "hot site" que centralize todas as informaçoes necessarias - Interessante fazer um esboço de quais informações se espera além do óbvio (passo a passo impressão, dados, coleta), por ex. a ideia de colocar pontos de referência nas cidades, para que as assinaturas possam ser entregues, endereços em vários estados para enviarem fichas pelos correios, (carta social vale a pena?)
+#### Bazar Vegano
 
-    Facebook
+(Curitiba/PR, 14/05) Terá o pirata Arthur falando sobre seu sistema comidalivre.org
 
-    Página do Partido Pirata
+#### Bazar Vegano
 
-    Evento Coleta de Assinaturas https://www.facebook.com/events/1433779340241340/
+(Curitiba/PR, Junho) Possivelmente terá o pirata Arthur falando sobre hacktivismo
 
-    Grupo Coleta de Assinaturas
+### Divulgação Online
 
-    Páginas e grupos locais 
+#### Site do Partido Pirata 
 
-    Páginas e grupos de temas especificos
+Deve conter um "hot site" que centralize todas as informaçoes necessarias - Interessante fazer um esboço de quais informações se espera além do óbvio (passo a passo impressão, dados, coleta), por ex. a ideia de colocar pontos de referência nas cidades, para que as assinaturas possam ser entregues, endereços em vários estados para enviarem fichas pelos correios, (carta social vale a pena?)
 
-    Pessoas influentes que formam pontes entre grupos distintos (hubs)
+#### Facebook
 
-    Polls - Descobrir a faixa demografica demografia mais eficiente para conseguir assinaturas para os piratas
+##### Página do Partido Pirata
 
-    Ajuda a bolar estrategias na vida real.
+##### Evento Coleta de Assinaturas
 
-    Twitter
+    https://www.facebook.com/events/1433779340241340/
 
-    Achar pessoas influentes no twitter ( ~> 50k seguidores) para ajudar a fazer "barulho" sobre as assinaturas.
+##### Grupo Coleta de Assinaturas
 
-    Sites parceiros
+##### Páginas e grupos locais 
 
-    The Rebels
+##### Páginas e grupos de temas especificos
 
-    Outros sites de downloads piratas
+##### Pessoas influentes que formam pontes entre grupos distintos (hubs)
 
-    Agentes online multiplicadores (assessoria de imprensa?)
+##### Polls
 
-    Tentar fazer algo aparecer sobre os piratas e a nossa "quest" para conseguir as assinaturas em meios multiplicadores tipo catraca livre e outros.
+Descobrir a faixa demografica demografia mais eficiente para conseguir assinaturas para os piratas
 
-    Pra isso precisamos organizar as informacoes basicas do partido, para que interessados as achem facilmente. (Como novato por aqui, eu lhes digo: isso eh um labirinto).
+Ajuda a bolar estrategias na vida real.
 
-    Pirâmide
+#### Twitter
 
-    Pontos de coleta de fichas de apoiamento
+Achar pessoas influentes no twitter ( ~> 50k seguidores) para ajudar a fazer "barulho" sobre as assinaturas.
 
-    Locais físicos onde as pessoas podem entregar fichas de apoiamento (que baixaram da internet, imprimiram e assinaram) para nós piratas posteriormente recolhermos. Pode ser feito cartaz (genérico ou adaptado ao ambiente?) e colado na parede, junto com um maço de fichas de apoiamento e uma caneta presa por uma cordinha
+#### Sites parceiros
 
-    Hackerspaces
+##### The Rebels
 
-    Locais de alimentaçao vegetariana/vegana
+##### Outros sites de downloads piratas
 
-    Sindicatos
+#### Agentes online multiplicadores (assessoria de imprensa?)
 
-    Sindicato dos Metroviários / SP (Daniel Souza)
+Tentar fazer algo aparecer sobre os piratas e a nossa "quest" para conseguir as assinaturas em meios multiplicadores tipo catraca livre e outros.
 
-    Contatos pessoais - caso o contato seja "firmeza", pode dar algumas fichas de apoiamento para ele, para que consiga algumas assinaturas a mais, ao invés de pegar somente a assinatura dele
+Pra isso precisamos organizar as informacoes basicas do partido, para que interessados as achem facilmente. (Como novato por aqui, eu lhes digo: isso eh um labirinto).
 
-    Grupos na faculdade ou trabalho.
+#### Pirâmide
 
-    Familiares
+#### Pontos de coleta de fichas de apoiamento
 
-    Alinhamento de discurso - responder a possiveis indagacoes / gerar "panfletos e memes" para divulgacao:
+Locais físicos onde as pessoas podem entregar fichas de apoiamento (que baixaram da internet, imprimiram e assinaram) para nós piratas posteriormente recolhermos. Pode ser feito cartaz (genérico ou adaptado ao ambiente?) e colado na parede, junto com um maço de fichas de apoiamento e uma caneta presa por uma cordinha
 
-    Porque mais um partido ?
+##### Hackerspaces
 
-    A1: (tentative) - Porque os que estao lah nao nos representa
+##### Locais de alimentaçao vegetariana/vegana
 
-    Qual a diferenca entre voces e o resto ?
+##### Sindicatos
 
-    A1: (t) Democracia direta via technologia ( o que eh um fator limitante no Brasil ainda, mas fazer o que? )
+###### Sindicato dos Metroviários / SP
 
-    Porque eu deveria confiar em voces?
+(Daniel Souza)
 
-    Aqui entra a minha bandeira zero: Nosso estatuto tem que ser mais agressivo e menos politico. (propaganda, eu sei, mas acho que eh o impreterivel ter um papel pra poder mostrar que somos realmente e gritantemente diferente de outros por regimento).
+#### Contatos pessoais
 
-    Materiais de Apoio
+caso o contato seja "firmeza", pode dar algumas fichas de apoiamento para ele, para que consiga algumas assinaturas a mais, ao invés de pegar somente a assinatura dele
+
+##### Grupos na faculdade ou trabalho.
+
+##### Familiares
+
+#### Alinhamento de discurso
+
+responder a possiveis indagacoes / gerar "panfletos e memes" para divulgacao:
+
+##### Porque mais um partido ?
+
+A1: (tentative) - Porque os que estao lah nao nos representa
+
+##### Qual a diferenca entre voces e o resto ?
+
+A1: (t) Democracia direta via technologia ( o que eh um fator limitante no Brasil ainda, mas fazer o que? )
+
+##### Porque eu deveria confiar em voces?
+
+Aqui entra a minha bandeira zero: Nosso estatuto tem que ser mais agressivo e menos politico. (propaganda, eu sei, mas acho que eh o impreterivel ter um papel pra poder mostrar que somos realmente e gritantemente diferente de outros por regimento).
+
+### Materiais de Apoio
 
     Cartilha para coleta
 
