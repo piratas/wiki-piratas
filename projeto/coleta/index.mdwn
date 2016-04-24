@@ -32,7 +32,7 @@ A proposta é regularizar um GT no Partido Pirata que seja responsável pela coo
 
 ---
 
-# Estratégias
+[[Estratégias]]
 
 Devemos realizar varias estratégias paralelamente, para garantir máxima efetividade. 
 
