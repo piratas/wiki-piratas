@@ -4,24 +4,38 @@ Não é um espaço oficial do [Partido Pirata do Brasil][0]
 
 A motivação e intenção preliminar é organizar a informação de forma monocrática e sem espaço para disputas políticas, sob a premissa de que atualmente é a única forma de garantir as condições necessárias para organizar e reunir as informações.
 
+Reclamações, sugestões, mudanças de design, alterações na estrutura e infra estrutura e correlatos são feitos no [espaço de desenvolvimento da igreja insurgente](https://dev.iikb.xyz), mas sugestões podem ser adicionadas aqui mesmo no [[forum]].
+
 ---
 
-# Links
+# Ferramentas
 
 ## [[blog]]
 
+Este seria um espaço pra blog mesmo, ainda não é útil porque o partido pirata tem um blog [no próprio site][0].
+
 ## [[forum]]
+
+Forum é o que o nome sugere, ainda está cru e não tem todos recursos que uma coisa decente como por exemplo o [discourse](http://partidopiratamg.org), mas quebra o galho.
 
 ## [[tarefas]]
 
+Este é um sistema parecido com o de [issues do github](https://github.com/piratas/gti/issues), mais voltado pra prática e tarefas do mundo real que só de software.
+
 ## [[projetos]]
 
-## [[wiki]]
+Similar às [[tarefas]], contudo, com o intuito de mapear projetos em andamento e parados.
 
-### [[wiki/documentos]]
+---
 
-### [[wiki/documentos/estatuto]]
+Todo este site é uma wiki, mas tem um espaço pra wiki propriamente dita, destinado a armazenamento de informação:
 
-### [[wiki/contato]]
+# [[wiki]]
+
+## [[wiki/documentos]]
+
+## [[wiki/documentos/estatuto]]
+
+## [[wiki/contato]]
 
 [0]: http://partidopirata.org
