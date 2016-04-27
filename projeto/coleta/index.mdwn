@@ -1,13 +1,8 @@
-[[!toc 
+# Coleta de Assinaturas para registro do Partido Pirata no TSE
+
+[[!toc levels=6]]
 
 ---
-
-# Coleta de Assinaturas
-
-[[!meta title="Coleta de Assinaturas"]]
-
-Coleta de Assinaturas para registro do Partido Pirata no TSE
-Tentativa de dia e horario de reuniao => Segunda-feria dia 25 de Abril 2016 as 21h (horario de Brasilia)
 
 ## Situação
 
@@ -18,6 +13,10 @@ Resolução aprovada no TSE em Dezembro de 2015 (http://chimera.tse.jus.br/legis
 ## Organização
 
 A proposta é regularizar um GT no Partido Pirata que seja responsável pela coordenação da campanha de coleta de assinaturas
+
+### Reuniões
+
+Tentativa de dia e horario de reuniao => Segunda-feria dia 25 de Abril 2016 as 21h (horario de Brasilia)
 
 ### Grupo no telegram
 
@@ -102,3 +101,5 @@ http://partidopirata.org/partido-pirata-obtem-decisao-judicial-inedita-contra-ca
 
 * Lei nº 13.165/2015, publicada em 29.9.2015
 * Lei nº 13.165/2015
+
+[[!meta title="Coleta de Assinaturas"]]
