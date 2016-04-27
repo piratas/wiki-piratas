@@ -1,0 +1,4 @@
+[[!meta title="pages tagged coleta"]]
+
+[[!inline pages="tagged(coleta)" actions="no" archive="yes"
+feedshow=10]]
