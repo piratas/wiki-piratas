@@ -1,3 +1,7 @@
+[[!toc 
+
+---
+
 # Coleta de Assinaturas
 
 [[!meta title="Coleta de Assinaturas"]]
@@ -5,25 +9,25 @@
 Coleta de Assinaturas para registro do Partido Pirata no TSE
 Tentativa de dia e horario de reuniao => Segunda-feria dia 25 de Abril 2016 as 21h (horario de Brasilia)
 
-# Situação
+## Situação
 
 Resolução aprovada no TSE em Dezembro de 2015 (http://chimera.tse.jus.br/legislacao-tse/res/2015/RES234652015.htm) diz que o prazo máximo para protocolar o apoiamento à criação de novos partidos é de 2 anos a partir da data de aquisição de personalidade juridica (obtenção do CNPJ). Como o partido pirata foi fundado em 2012, a principio esse prazo já teria expirado, mas juristas piratas dizem que entrando com recurso no TSE conseguimos que o prazo de 2 anos seja contado a partir da data em que a resolução entrou em vigor (dezembro de 2015) ou seja precisariamos de cerca de 1000 assinaturas por dia. Se cada associado conseguisse uma média de 3 assinaturas por dia, já seria suficiente, entao não há porque julgarmos impossivel a tarefa, mas precisamos nos organizar. Um terceiro cenário, mais improvável, é tentar recurso para que essa nova regra não valha para o Partido Pirata, pois iniciamos a abertura do partido antes da resolulçao de dezembro/2015. É mais seguro trabalharmos com o cenário de que temos ate Dezembro de 2017 para entregar as assinaturas.Além disso, agora as assinaturas devem ser validadas em sistema disponibilizado pelo TSE.
 
 ---
 
-# Proposta de Organização em GT
+## Organização
 
 A proposta é regularizar um GT no Partido Pirata que seja responsável pela coordenação da campanha de coleta de assinaturas
 
-## Grupo no telegram
+### Grupo no telegram
 
 > <https://telegram.me/coletaassinaturaspiratasbr>
 
 ---
 
-# Pendências
+## Pendências
 
-## Precisamos das seguintes informações:
+### Precisamos das seguintes informações:
 
 * O normativo do TSE vale para o Partido Pirata? Como podemos garantir? Através de consulta ao TSE?
 * Como funciona o sistema online do TSE? Quem pode cadastrar as assinaturas? Precisaremos da assinatura do secretário geral para nos cadastrarmos? Neste caso, seria preciso oficializar Daniel Prazeres e Paulo Crossara como secretários do Partido Pirata.
@@ -32,38 +36,19 @@ A proposta é regularizar um GT no Partido Pirata que seja responsável pela coo
 
 ---
 
-#[[Estratégias]]
+## [[Estratégias]]
 
 Devemos realizar varias estratégias paralelamente, para garantir máxima efetividade. 
 
-
-
 ---
 
-# Alinhamento de discurso
+## Materiais de Apoio
 
-responder a possiveis indagacoes / gerar "panfletos e memes" para divulgacao:
+### Cartilha para coleta
 
-P: Porque mais um partido ?
-R1: - Porque os que estao lah nao nos representam
+### Cartaz para pontos de coleta
 
-P: Qual a diferenca entre voces e o resto ?
-R1: (t) Democracia direta via tecnologia, transparência
-
-### Porque eu deveria confiar em voces?
-Aqui entra a minha bandeira zero: Nosso estatuto tem que ser mais agressivo e menos politico. (propaganda, eu sei, mas acho que eh o impreterivel ter um papel pra poder mostrar que somos realmente e gritantemente diferente de outros por regimento).
-
----
-
-# Materiais de Apoio
-
-## Cartilha para coleta
-
-## Cartaz para pontos de coleta
-
----
-
-# Ficha de apoiamento
+### Ficha de apoiamento
 
 (Antes de baixar a ficha leia o subitem 2.3)
 
@@ -73,7 +58,9 @@ Maximiliano Stefens fez um modelo de formulário online com versao pra impressao
 
 Possivelmente esse modelo mude devido à resolução do TSE de Dezembro/2015. Daniel está verificando.
 
-## Elegibilidade e protocolagem
+GTC fez ainda outra com os polegares e de acordo com a nova resolução: https://www.dropbox.com/s/23jhri1r79idsz3/assinatura2016_2.pdf?dl=0
+
+### Elegibilidade e protocolagem
 
 * Protocolar as assinaturas à medida que forem coletadas; não deixar tudo para ultima hora!
 
@@ -87,9 +74,9 @@ Possivelmente esse modelo mude devido à resolução do TSE de Dezembro/2015. Da
 
 ---
 
-# Acompanhamento do andamento das assinaturas
+## Acompanhamento do andamento das assinaturas
 
-## Sistema (ou planilha) para acompanhamento, 
+### Sistema (ou planilha) para acompanhamento, 
 
 * Uma aba para cada estado
 
@@ -98,3 +85,20 @@ Possivelmente esse modelo mude devido à resolução do TSE de Dezembro/2015. Da
 Como seria feita a coleta de assinatura? Apenas assinaturas? Nome completo, numero do titulo de elitor mais a assinatura? Isso seria numa folha com várias linhas iguais para serem assinadas? Veja o ponto (Ficha de Apoiamento) acima
 
 A coleta poderá ser realizada individualmente. Em coletivos que encontram-se em formação, como o de SC, Piratas devem coletar assinaturas através de seus contatos e comunidades em que estejam inseridos. Talvez organizar um micro evento em algum espaço de coworking com o tema Democracia Líquida - o caso do Partido Pirata.
+
+---
+
+## Legalismo
+
+### CNPJ
+
+Pra quem não sabe, nosso CNPJ é 21.941.628/0001-61
+
+https://loomio-attachments.s3.amazonaws.com/uploads/ffc0226d9547b97b830bf6deffd3f512/Cart%C3%A3o%20CNPJ%20Pirata.pdf
+
+http://partidopirata.org/partido-pirata-obtem-decisao-judicial-inedita-contra-caixa-2/
+
+### Legislação
+
+* Lei nº 13.165/2015, publicada em 29.9.2015
+* Lei nº 13.165/2015
