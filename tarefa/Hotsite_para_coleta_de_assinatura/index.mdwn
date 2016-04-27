@@ -1,0 +1,29 @@
+# Porque
+
+[[/projeto/coleta]]
+
+# O que
+
+A tarefa consiste em instalar um CMS para fazer um hotsite para a coleta de assinaturas do partido pirata.
+
+# Como
+
+## Software
+
+Mandaram um CMS `#JeitoCerto` no telegram:
+
+> http://luapress.org/
+
+Isto usa:
+
+> https://luarocks.org/
+
+Que, abstraiam-se as especificadades, é um cpan/pypi/composer pra Lua.
+
+## Domínio
+
+Desejável em `coleta.partidopirata.org`
+
+Factível em `coleta.partidopirata.xyz`
+
+[[!tag coleta]]
