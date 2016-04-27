@@ -102,4 +102,10 @@ http://partidopirata.org/partido-pirata-obtem-decisao-judicial-inedita-contra-ca
 * Lei nº 13.165/2015, publicada em 29.9.2015
 * Lei nº 13.165/2015
 
+---
+
+## Tarefas
+
+[[!inline pages="tarefa/* and !tagged(encerrada) and !tarefa/discussao and !tarefa/*/* and tagged(coleta)" archive=yes]]
+
 [[!meta title="Coleta de Assinaturas"]]
