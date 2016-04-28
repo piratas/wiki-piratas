@@ -1,10 +1,24 @@
+# Status
+
+Domínio no ar e aguardando desenvolvimento do site
+
+---
+
 # Porque
 
 É "para que", e não "por que". É para a [[/projeto/coleta]].
 
 # O que
 
+## Instalação
+
 A tarefa consiste em instalar um CMS para fazer um hotsite para a coleta de assinaturas do partido pirata.
+
+**FEITO**
+
+## Desenvolvimento
+
+Agora é necessário desenvolver o site. `@crncosta` no telegram disponibilizou o corpo e alma para esta empreitada.
 
 # Como
 
@@ -20,10 +34,18 @@ Isto usa:
 
 Que, abstraiam-se as especificadades, é um cpan/pypi/composer pra Lua.
 
+Documentação da instalação e procedimetos no [portal de desenvolvimento da igreja](https://dev.iikb.xyz/wiki/projetos/?updated#index5h1).
+
 ## Domínio
 
 Desejável em `coleta.partidopirata.org`
 
 Factível em `coleta.partidopirata.xyz`
+
+### Resultado
+
+Em votação no [telegram](), decidiram usar `apoio.partidopirata.org`.
+
+Está em `apoio.partidopirata.xyz` e `apoiar.partidopirata.xyz`.
 
 [[!tag coleta]]
