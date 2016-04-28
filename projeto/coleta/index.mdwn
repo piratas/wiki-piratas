@@ -3,6 +3,7 @@
 [[!toc levels=6]]
 
 ---
+## Evitem usar a wiki como pad, especialmente porque o pad está sendo usado para tal função. As informações aqui estão desatualizadas.
 
 ## Situação
 
@@ -43,7 +44,7 @@ Devemos realizar varias estratégias paralelamente, para garantir máxima efetiv
 
 ## Materiais de Apoio
 
-### Cartilha para coleta
+### [[Cartilha do Apoiamento]]
 
 ### Cartaz para pontos de coleta
 
