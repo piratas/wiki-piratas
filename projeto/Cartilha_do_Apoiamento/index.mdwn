@@ -9,6 +9,10 @@ Cada folha A4 tem 3 fichas de apoiamento, então não se acanhe e pegue também 
 
 A pessoa que coletou a assinatura deve preencher seus dados nos campos apropriados. Qualquer pessoa pode assinar como coletor, então em uma folha com 3 apoiadoras(es), podem revezar as assinaturas como coletoras.
 
+---
+
 ## Para quem enviar?
+
 Clique no seu estado:
+
 AC - AL - AM - AP - BA - CE - DF - ES - GO - MA - MG - MS - MT - PA - PB - PE - PI - PR - RJ - RN - RO - RR - RS - SC - SE - SP - TO  
