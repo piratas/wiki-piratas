@@ -1,14 +1,25 @@
 #Paraná (PR)
 
-##Coordenador de coleta: Thomaz Ferreira
+###Coordenador de coleta: 
+Thomaz Ferreira
 
-##Endereço para envio de apoiamento pelos correios:
 
-##Pontos de coleta
+###Endereço para envio de apoiamento pelos correios:
+Endereço
+
+---
+
+###Pontos de coleta
 Pode entregar pessoalmente suas fichas de apoiamento, já preenchidas e assinadas, nos seguintes locais:
-###Curitiba
+
+---
+
+####Curitiba
 * Lugar 1
 * Lugar 2
 
-##Quer participar do Partido Pirata no Paraná?
-Nosso ponto de encontro virtual é usando o telegram, entre no grupo em https://telegram.me/joinchat/B9dRIz16Nbj7SYVV1vt70g
+---
+
+###Quer participar do Partido Pirata no Paraná?
+Nosso ponto de encontro virtual é usando o software telegram. Pode acessar o telegram na web em web.telegram.com , no Android, em aplicativo para Desktop, dentre outras formas.
+Entre no nosso grupo acessando o link https://telegram.me/joinchat/B9dRIz16Nbj7SYVV1vt70g
