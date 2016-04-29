@@ -16,5 +16,6 @@ Reclamações, sugestões, mudanças de design, alterações na estrutura e infr
 
 [[!sidebar content="""
 **Importante**
+
 [[Coleta de assinaturas|projeto/coleta]]
 """]]
