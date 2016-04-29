@@ -49,7 +49,7 @@ Devemos realizar varias estratégias paralelamente, para garantir máxima efetiv
 
 ## Materiais de Apoio
 
-### [[Cartilha do Apoiamento]]
+### [[projeto/coleta/Cartilha_do_Apoiamento]]
 
 ### Cartaz para pontos de coleta
 
