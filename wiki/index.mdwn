@@ -4,6 +4,8 @@ Mantenha opiniões pessoais na página de [[discussão|discussao]].
 
 Caso não concorde com alguma coisa, problematize na [[discussão|discussao]] da respectiva página.
 
+[[!toc levels=6]]
+
 ---
 
 # Organização
@@ -87,10 +89,6 @@ Os grupos públicos estão atualmente em uso.
 
 # Toda a wiki
 
-[[!map pages="wiki/* and !*/discussao"]]
+[[!map pages="wiki or wiki/* and !*/discussao"]]
 
 [0]: http://partidopirata.org
-
-[[!sidebar content="""
-[[!toc levels=1]]
-"""]]
