@@ -105,6 +105,13 @@ http://partidopirata.org/partido-pirata-obtem-decisao-judicial-inedita-contra-ca
 
 ---
 
+## Links e recursos
+
+* [Etherpad](https://pad.riseup.net/p/coleta_assinaturas_piratasbr)
+* [Reuniões](https://piratenpad.de/p/atas_reunioes_coleta_apoiamento_pirata)
+
+---
+
 ## Tarefas
 
 Tarefas com `\[[!tag coleta]]`:
