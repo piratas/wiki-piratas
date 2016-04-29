@@ -21,3 +21,5 @@ tagged(parado) and !parado/*/*"]] projetos parados|/projetos/parados]]**
 **[[[[!pagecount pages="projeto/* and !projeto/discussao and 
 tagged(abandonado) and !parado/*/*"]] projetos abandonados|/projetos/abandonados]]**
 """]]
+
+[[!meta title="Projetos"]]
