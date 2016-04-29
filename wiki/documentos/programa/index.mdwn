@@ -2,34 +2,9 @@
 
 O Partido Pirata surgiu no mundo a partir de um movimento de resistência civil a tentativas de criminalização de maneiras de compartilhar conhecimento propiciadas pela popularização das tecnologias digitais. O movimento apropriou-se estrategicamente da comparação com criminosos do passado, assumiu o desafio de positivar a alcunha e entrou para a política partidária reformulando o debate. Somos piratas porque somos contra a lei que diz que somos piratas. O Partido Pirata brasileiro, visando contribuir para a construção de um País moderno, de sociedade livre, participativa e pluralista, fundamenta sua ação programática nas seguintes crenças, princípios e valores:
 
-1. Democracia Plena
-2. Transparência e Eficiência da Gestão Pública
-3. Privacidade
-4. Internet como bem universal acessível a todas as pessoas
-5. Direitos Autorais e Reprodução Não-comercial
-6. Patentes
-7. Padrões Abertos e Software Livre
-8. Políticas de Cultura
-9. Liberdade nas Comunicações
-10. Economia
-11. Educação
-12. Saúde
-13. Trabalho, renda e emprego
-14. Ciência e pesquisa
-15. Meio Ambiente, biodiversidade, segurança alimentar e direitos rurais
-16. Direitos animais
-17. Direitos Urbanos
-18. Segurança Pública
-19. Mobilização social e direitos civis
-20. Internacionalismo
-21. Acessibilidade, autodeterminação do corpo e transhumanismo
-22. Política de Drogas
-23. Diversidade sócio-étnico-cultural
-24. Pluralidade familiar e liberdade do afeto
-25. Diversidade sexual e de gênero
-26. Direito das mulheres
-27. Neurodiversidade
-28. Estado Laico e liberdade de crença e descrença
+[[!toc levels=6]]
+
+---
 
 ## 1. Democracia Plena
 
