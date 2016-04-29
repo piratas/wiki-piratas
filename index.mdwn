@@ -10,32 +10,6 @@ Reclamações, sugestões, mudanças de design, alterações na estrutura e infr
 
 # Ferramentas
 
-## [[blog]]
-
-Este seria um espaço pra blog mesmo, ainda não é útil porque o partido pirata tem um blog [no próprio site][0].
-
-## [[forum]]
-
-Forum é o que o nome sugere, ainda está cru e não tem todos recursos que uma coisa decente como por exemplo o [discourse](http://partidopiratamg.org), mas quebra o galho.
-
-## [[tarefas]]
-
-Este é um sistema parecido com o de [issues do github](https://github.com/piratas/gti/issues), mais voltado pra prática e tarefas do mundo real que só de software.
-
-## [[projetos]]
-
-Similar às [[tarefas]], contudo, com o intuito de mapear projetos em andamento e parados.
-
----
-
-Todo este site é uma wiki, mas tem um espaço pra wiki propriamente dita, destinado a armazenamento de informação:
-
-# [[wiki]]
-
-## [[wiki/documentos]]
-
-## [[wiki/documentos/estatuto]]
-
-## [[wiki/contato]]
+[[!map pages="blog or forum or tarefas or projetos or (wiki or wiki/documentos or wiki/documentos/estatuto or wiki/contato) and !*/discussion" show=title]]
 
 [0]: http://partidopirata.org
