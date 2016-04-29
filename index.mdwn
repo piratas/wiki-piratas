@@ -6,6 +6,14 @@ A motivação e intenção preliminar é organizar a informação de forma monoc
 
 Reclamações, sugestões, mudanças de design, alterações na estrutura e infra estrutura e correlatos são feitos no [espaço de desenvolvimento da igreja insurgente](https://dev.iikb.xyz), mas sugestões podem ser adicionadas aqui mesmo no [[forum]].
 
+Este espaço está em **construção** e pode não ter a informação mais precisa possível. Mão de obra voluntária é bem vinda. Leia a página de [[formatação|/ikiwiki/formatting/]] (em inglês, traduza se puder).
+
+Este site está disponível em:
+
+* <https://partidopirata.xyz>
+* <https://piratas.xyz>
+* <https://pirata.xyz> `mentira, domínio expirou`
+
 ---
 
 # Ferramentas
