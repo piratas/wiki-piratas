@@ -112,3 +112,5 @@ Tarefas com `\[[!tag coleta]]`:
 [[!inline pages="tarefa/* and !tagged(encerrada) and !tarefa/discussao and !tarefa/*/* and tagged(coleta)" archive=yes]]
 
 [[!meta title="Coleta de Assinaturas" description="Coleta de Assinaturas para registro do Partido Pirata no TSE"]]
+
+[[!tag coleta]]
