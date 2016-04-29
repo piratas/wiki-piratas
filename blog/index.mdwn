@@ -7,7 +7,7 @@ Para criticar ou problematizar publicações, use o recurso de discussão
 ---
 
 [[!inline pages="page(./blog/posts/*) and !*/discussion" show="15"
-actions=yes rootpage="posts"]]
+actions=yes rootpage="blog/posts"]]
 
 [[!sidebar content="""
 [[!calendar  type="month" pages="blog/posts/* and !*/discussion"]]
