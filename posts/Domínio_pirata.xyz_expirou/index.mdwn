@@ -1,0 +1,17 @@
+Depois do [domínio iikb.org ter expirado](https://iikb.xyz/blog/post/Dom%C3%ADnio_iikb.org_expirou/) dia 16 de Abril de 2016, e consequentemente os sites *biblioteca.partidopirata.org*, *iuf.partidopirata.org* e *mumble.partidopirata.org* ficarem indisponíveis e somente acessíveis através de *biblioteca.partidopirata.xyz*, *iuf.partidopirata.xyz* e *mumble.partidopirata.xyz*, respectivamente, agora a novidade é que o domínio `pirata.xyz` expirou quarta feira dia 27 de Abril de 2016.
+
+O prejuízo desta vez é que recursos como a Social Pirata, disponível somente através de *social.pirata.xyz* está totalmente inacessível, por se tratar de serviço que exige nome canônico e SSL válido. Assim como o login por OpenID de quem usa também está fora do ar, ou seja, se alguém usa o seu login da social pirata pra acessar outras redes sociais, está temporariamente sem meios pra se autenticar, tendo que criar conta em cada lugar onde quiser interagir por enquanto.
+
+Além disto, o redirecionamento *loomio.prata.xyz* que aponta para o grupo do loomio do partido pirata, está também quebrado. Alguns lugares tinham somente esta referência para apontar para lá, visto que *loomio.partidopirata.org* nunca foi configurado como era o plano original.
+
+Outra coisa que saiu do ar foi o pseudo domínio *gti.pirata.xyz*, agora acessível somente através de *gti.partidopirata.xyz*, como pode ser visto em <https://gti.partidopirata.xyz/loomio> e <https://gti.partidopirata.xyz/github>.
+
+O domínio *pirata__s__.xyz* expirará dia 27 de Maio de 2016.
+
+---
+
+[[Eu|desci]] pretendo renovar os três domínios este mês ainda.
+
+Teve gente querendo doar bitcoins pra ajudar a renovar o domínio e colaborar em projetos como por exemplo o [naofo.de](https://we.riseup.net/iikb/naofo-de), mas [[eu|desci]] resolvi fazer uma página de doação pra igreja pra este fim e ainda não fiz.
+
+Quem quiser ajudar só o [partido pirata](http://partidopirata.org) use a página de [doações do partido](http://partidopirata.org/doacoes/).
