@@ -9,6 +9,14 @@ Possivelmente esse modelo mude devido à resolução do TSE de Dezembro/2015. Da
 GTC fez ainda outra com os polegares e de acordo com a nova resolução:
 
 * [versão 2](https://www.dropbox.com/s/23jhri1r79idsz3/assinatura2016_2.pdf?dl=0) `obsoleta`
-* [versão 3](https://www.dropbox.com/s/dgubi0vpmdvukac/assinatura2016_3.pdf?dl=0)
+
+versão 3
+
+## Última versão
+
+Esta versão está pronta, será utilizada no [[hotsite|coleta]] e enviada ao [loomio](https://loomio.partidopirata.xyz) para apreciação e deliberação
+
+* [dropbox](https://www.dropbox.com/s/dgubi0vpmdvukac/assinatura2016_3.pdf?dl=0)
+* [biblioteca](https://biblioteca.partidopirata.xyz/u/pirata/m/ficha-de-apoiamento/)
 
 [[!meta title="Ficha de apoio"]]
