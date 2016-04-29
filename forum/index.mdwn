@@ -8,3 +8,5 @@ Para responder tópicos já existentes, use o recurso de comentários.
 
 [[!inline pages="forum/*  and !forum/discussion and !forum/*/*" 
 archive=yes rootpage="forum" postformtext="Criar novo tópico com o título:" show=0]]
+
+[[!meta title="Fórum" description="Forum é o que o nome sugere, ainda está cru e não tem todos recursos que uma coisa decente como por exemplo o [discourse](http://partidopiratamg.org), mas quebra o galho."]]
