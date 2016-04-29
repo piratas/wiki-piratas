@@ -2,7 +2,7 @@
 
 O Partido Pirata surgiu no mundo a partir de um movimento de resistência civil a tentativas de criminalização de maneiras de compartilhar conhecimento propiciadas pela popularização das tecnologias digitais. O movimento apropriou-se estrategicamente da comparação com criminosos do passado, assumiu o desafio de positivar a alcunha e entrou para a política partidária reformulando o debate. Somos piratas porque somos contra a lei que diz que somos piratas. O Partido Pirata brasileiro, visando contribuir para a construção de um País moderno, de sociedade livre, participativa e pluralista, fundamenta sua ação programática nas seguintes crenças, princípios e valores:
 
-[[!toc levels=6]]
+[[!toc levels=5 startlevel=2]]
 
 ---
 
