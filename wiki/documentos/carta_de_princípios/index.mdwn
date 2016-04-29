@@ -1,0 +1,55 @@
+# Carta de princípios v1.0
+
+*Nota: este documento foi elaborado pelo Movimento Partido Pirata do Brasil (MPPBr),  mobilização coletiva que culminou na fundação do Partido Pirata do Brasil. Dada sua relevância histórica para o Partido, disponibilizamos aqui a Carta, para leitura de todos. Atualmente, os documentos oficialmente reconhecidos pelo Partido Pirata do Brasil, para efeito de deliberação, são o [[Estatuto]], o [[Programa]] e as [[Diretrizes]].*
+
+[[!toc levels=5 startlevel=2]]
+
+---
+
+## Introdução
+
+Somos um coletivo cuja missão é defender a liberdade e a democratização do acesso a cultura, informação e conhecimento. Nossa carta de princípios é fruto do consenso de todos aqueles que constroem nossa história, e todas ações e posicionamentos de nossos membros devem ser guiados por ela. Nossos princípios são construídos de maneira colaborativa, e estão sempre abertos a discussão e constante reconstrução, a fim de acompanhar as transformações pelas quais passam as pessoas e seu meio, abarcando tudo que acreditamos ser necessário para a viabilidade de uma existência livre, justa, sustentável e colaborativa.
+
+## Lutar por uma cultura livre
+
+O atual sistema de direito autoral brasileiro é um dos piores no mundo no que diz respeito ao escopo e duração da proteção (no caso, 70 anos após a morte do autor, sendo maior até que o prazo estipulado pela Convenção de Berna), às liberdades de acesso e uso e à liberdade para compartilhar e transferir cultura e conhecimento. Nossa lei vigente não possui o mecanismo de fair use, e as exceções e limitações são bastante restritas, não se enquadrando à realidade de sua população – já que não permite, por exemplo, cópia privada sem fins comerciais de obras raras e esgotadas. Além disso, a lei é obsoleta, datando de 1998, e não abrange as mudanças trazidas na sociedade contemporânea pelas inovações tecnológicas das últimas décadas.
+
+Nós queremos, portanto, que o sistema de direito autoral seja mais condizente com a realidade brasileira, mais balanceado, e que permita a democratização do acesso à cultura, informação, e conhecimento. Para isso, propomos a diminuição da duração do direito autoral para 5 anos após a publicação da obra – tempo suficiente para o autor explorá-la comercialmente e permitir que após isso ela seja apropriada pelo público. Acreditamos que toda construção de cultura e conhecimento se dá sobre aquilo que já foi criado: ninguém parte do zero para criar inovações de qualquer caráter; por isso, restringir o acesso a essas fontes significa limitar a criatividade humana. Acreditamos no acesso aberto à literatura científica, na produção de recursos educacionais abertos e ainda na colocação em domínio público ou sob licença livre a produção financiada com recursos públicos.
+
+Também queremos limitar a existência de patentes e monopólios desnecessários e prejudiciais para a sociedade, uma vez que são práticas frequentemente utilizadas no âmbito do mercado para diminuir a concorrência (sendo que algumas nem chegam a ser postas em prática), restringindo a inovação. Incentivamos a emergência de novos modelos de negócio que aproximem o autor do usuário, para que ambos se beneficiem do conhecimento criado, das oportunidades oferecidas pelas novas tecnologias e acabem assim com a influência maléfica exercida pelos intermediários da cultura na democratização do acesso. Também queremos o fim do monopólio de exploração comercial da obra e dos contratos de exclusividade, com o intuito de diversificar a qualidade e os preços para que todas as camadas sociais tenham acesso às obras em suas mais diversas formas e suportes.
+
+Buscamos um sistema de direito autoral equilibrado que regule apenas a cultura comercial, e deixe a cultura não comercial livre para ser compartilhada, apropriada e desenvolvida por todos os indivíduos.
+
+## Lutar pela democracia e pela liberdade
+
+Consideramos que os piratas podem inovar e agir de modo mais dinâmico do que os atuais players da democracia brasileira. Há diversos espaços para atuação: não somente o legislativo, mas também os órgãos executivos de gestão pública apresentam ambientes estratégicos para o diálogo crítico sobre transparência, governo eletrônico e definição de políticas de privacidade.
+
+O ambiente acadêmico também possibilita interação efetiva para o desenvolvimento político do partido pirata. Participar de todas as esferas da sociedade é indispensável para introduzirmos questões inovadoras. Além disso, sabemos que as próximas gerações estarão mais familiarizada com os ideais piratas. Por essa razão, devemos agir estrategicamente para a recepção desses novos atores nas esferas onde atuamos.
+
+Democracia é uma atividade coletiva que se adapta aos tempos. Nós acreditamos que a revolução digital abriu portas para atualizarmos os modos de engajamento político e de conquista dos direitos a ele associados, de modo que a proteção dos direitos civis, no atual ponteiro da história, passa pela revisão de leis e práticas em defesa da privacidade. Constatamos, portanto, que a privacidade não depende apenas das leis, mas também de instrumentos que a assegurem. Politizar esse debate é importante, mas politizar de modo inovador é fundamental.
+
+Por isso, devemos explorar e descobrir ferramentas para a decisão coletiva. Se nós propomos meios para envolver os cidadãos na democracia eletrônica, devemos também propor mecanismos para o diálogo mútuo. A ditadura da maioria é uma falha das instituições democráticas. Em vez disso, nós preferimos construir uma democracia deliberativa, que possibilite a participação real dos cidadãos em questões públicas do seu interesse.
+
+Os softwares livres e os sistemas de governança eletrônica nos trazem ideais libertários e oportunidades para redução de custos, geração de inteligência e accountability. Devemos aproveitar as movimentações já existentes nessa direção, considerando que tais soluções devem caminhar junto com a inclusão digital, a privacidade, o anonimato, a neutralidade da internet e democratização da mídia: valores que defendemos de maneira irredutível.
+
+## Lutar pela inclusão
+
+Acreditamos que os indivíduos tem direito de acessar e se apropriar de todos os meios de comunicação de maneira igualitária, para a promoção e desenvolvimento de suas necessidades e em prol de benefícios coletivos. Acreditamos que a importância da inclusão digital vai além do acesso: deve-se possibilitar também a instrução necessária para que se utilize esses meios de maneira adequada.
+
+A Internet deve ser entendida como direito fundamental. Por isso, apoiamos o investimento em inovação tecnológica local que cause a diminuição do preço das ferramentas tecnológicas, assim como incentivamos as empresas de tecnologia da informação a incorporarem estímulos sociais de inclusão digital em suas ações. Somos a favor de planos nacionais e regionais que promovam maior inclusão dos indivíduos na economia interconectada da informação, de maneira ampla e sustentável.
+
+Defendemos a inclusão digital como prioridade política; igualmente, defendemos que a promoção da inclusão digital caminhe também na direção da produção colaborativa e dos padrões abertos, possibilitando aos indivíduos a apropriação de cultura, conhecimento e informações.
+
+## Lutar pela descriminalização da pirataria
+
+Existe no Brasil uma tendência à criminalização da pirataria de rua, que acaba recaindo em uma criminalização da pobreza. Acreditamos que ambulantes são agentes de difusão cultural e que podemos pensar em modelos alternativos de negócios que beneficiem os atores envolvido, como a aproximação do autor e do vendedor ambulante, para que haja a legalização da cadeia produtiva e a promoção do acesso das camadas de baixa renda à cultura e ao conhecimento. Também somos favoráveis à legalização do compartilhamento de arquivos e da livre difusão da cultura, do conhecimento e da informação. Somos contrários às ameaças contra a Internet e a cultura, como a resposta graduada e o uso de DRM (Digital Rights Management) para bloquear o acesso às obras.
+
+São Paulo, Novembro de 2010.
+
+MOVIMENTO DO PARTIDO PIRATA DO BRASIL
+
+www.PartidoPirata.org
+
+---
+
+*Garimpado do [site oficial](http://partidopirata.org/documentos/carta-de-principios-v1-0/)*
