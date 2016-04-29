@@ -1,0 +1,694 @@
+# Programa
+
+O Partido Pirata surgiu no mundo a partir de um movimento de resistência civil a tentativas de criminalização de maneiras de compartilhar conhecimento propiciadas pela popularização das tecnologias digitais. O movimento apropriou-se estrategicamente da comparação com criminosos do passado, assumiu o desafio de positivar a alcunha e entrou para a política partidária reformulando o debate. Somos piratas porque somos contra a lei que diz que somos piratas. O Partido Pirata brasileiro, visando contribuir para a construção de um País moderno, de sociedade livre, participativa e pluralista, fundamenta sua ação programática nas seguintes crenças, princípios e valores:
+
+1. Democracia Plena
+2. Transparência e Eficiência da Gestão Pública
+3. Privacidade
+4. Internet como bem universal acessível a todas as pessoas
+5. Direitos Autorais e Reprodução Não-comercial
+6. Patentes
+7. Padrões Abertos e Software Livre
+8. Políticas de Cultura
+9. Liberdade nas Comunicações
+10. Economia
+11. Educação
+12. Saúde
+13. Trabalho, renda e emprego
+14. Ciência e pesquisa
+15. Meio Ambiente, biodiversidade, segurança alimentar e direitos rurais
+16. Direitos animais
+17. Direitos Urbanos
+18. Segurança Pública
+19. Mobilização social e direitos civis
+20. Internacionalismo
+21. Acessibilidade, autodeterminação do corpo e transhumanismo
+22. Política de Drogas
+23. Diversidade sócio-étnico-cultural
+24. Pluralidade familiar e liberdade do afeto
+25. Diversidade sexual e de gênero
+26. Direito das mulheres
+27. Neurodiversidade
+28. Estado Laico e liberdade de crença e descrença
+
+## 1. Democracia Plena
+
+A luta por uma democracia plena está no coração de nossa ideologia, fato marcado pela existência de uma cláusula pétrea em nosso Estatuto definindo isso. Piratas do mundo inteiro estão de acordo com o diagnóstico cada vez mais difundido que aponta para a insuficiência e o esgotamento da democracia representativa. Temos plena consciência de que o caminho é longo e árduo. Mesmo que todos os espaços de nossa sociedade passassem por uma democratização radical em algum momento, não avançaríamos muito no sentido de estabelecer uma sociedade mais igualitária e justa se esses processos não fossem antecedidos por uma série de outros. Acreditamos firmemente que não há como atingir uma democracia verdadeiramente plena sem o empoderamento de cada pessoa e o estímulo à participação direta na política. Os avanços tecnológicos que presenciamos abriram e ainda abrem um espaço radical de possibilidades para que caminhemos nessa direção. Cada vez mais pessoas podem ser ouvidas no mundo e menos elementos intermediários são necessários. Mais informações e conhecimentos se encontram disponíveis em formato digital, e mais ferramentas que viabilizam participação direta são criadas.
+
+Sem uma mudança radical em nossa educação, em nossos modos de vida, economia e em outros aspectos da sociedade, dificilmente poderemos canalizar todos esses avanços de forma a aprofundar a democracia nos mais variados espaços. De nada adiantaria instituir mecanismos de participação direta que permitam a aprovação de leis se a sociedade não avançar e se livrar de seus preconceitos e atitudes opressoras, se não se informar e aprender a conviver com a diversidade, sob o risco de oprimirmos ainda mais determinadas minorias com leis injustas aprovadas pela maior parte de uma sociedade extremamente conservadora. A participação direta é o parâmetro principal para a identificação de verdadeiras democracias, mas apenas quando não resulta em retrocesso ou manutenção do estado atual das coisas. Não pode haver democracia verdadeira quando um setor da sociedade mantém ou adquire mais privilégios enquanto outro setor tem seus direitos negados.
+
+### 1.1. Participação direta: mais poder para o povo.
+
+No Brasil são poucos os projetos de iniciativa popular que conseguem chegar ao Congresso devido a inúmeras barreiras legais, e, quando chegam, ainda sofrem emendas feitas por congressistas que acabam por destruir a essência do projeto inicial. Além disso, referendos e plebiscitos só podem ser autorizados e convocados pelo Congresso Nacional, o que cria mais uma barreira enorme para a participação popular direta nos rumos do país. É essencial o aprimoramento de meios e ferramentas de participação direta já instituídos no Brasil. Entre as diversas possibilidades nesse sentido, podemos pensar a exigência de referendo popular para aprovação de qualquer proposta de emenda constitucional, a convocação de plebiscitos e referendos por iniciativa popular com poder deliberativo e não apenas consultivo, e a simplificação da criação e trâmite de projetos de lei de iniciativa popular.
+
+Por fim, lutamos por ampliação e fortalecimento da participação popular em conselhos gestores, fóruns e conferências.
+
+### 1.2. Experimentação, possibilidades e caminhos.
+
+Não temos uma fórmula pronta para que seja atingido nosso ideal de democracia. A experimentação de novos sistemas democráticos faz parte do caminhar pirata em direção à democracia plena, assim como modelos híbridos farão parte desse processo. Aceitaremos e defenderemos sistemas que conciliem representatividade e democracia direta na medida em que ainda não forem cumpridas as condições para um aprofundamento radical da democracia, mas apenas se servirem a esse propósito. No percurso que temos à nossa frente é essencial que a população disponha de mecanismos constitucionais para revisar periodicamente a legislação eleitoral, para que possamos assim seguir passo a passo até alcançarmos a democracia plena. Compreendemos a reforma política como paliativo, a reforma constitucional como um imperativo e os movimentos de rua como essenciais para a construção da democracia plena.
+Defendemos um sistema de recall de mandatos executivos e legislativos, para que sejam revogados por decisão do eleitorado os mandatos daquelas pessoas que não estiverem cumprindo seu dever com a população. Defendemos a descentralização, a democracia líquida e a autogestão como alternativas à democracia representativa, mas não como soluções imutáveis a serem aplicadas em todos espaços da sociedade: experimentar é o único caminho possível para a democracia plena. Por último, declaramos que queremos o fim do monopólio partidário sobre sistemas político-institucionais, devendo estes estarem abertos a outras formas de participação política, e que defendemos o direito à candidatura independente.
+
+## 2. Transparência e Eficiência da Gestão Pública
+
+### 2.1. Contas públicas abertas e processamento de dados financeiros abertos
+
+Todo o fluxo financeiro do governo deve ser aberto e auditável, de modo a permitir à sociedade criar meios de controle livremente.
+
+### 2.2. Contratos públicos abertos
+
+A segurança dos contratos públicos deve ter como princípio fundamental a segurança para a sociedade que os financia. Deve-se garantir a auditoria e a criação de mecanismos ativos do governo para disponibilizar tais contratos em formatos livres e abertos.
+
+### 2.3. Não-confidencialidade de informações governamentais
+
+É importante que a sociedade tenha acesso ao maior número de informações passíveis de serem tornadas públicas ou abertas para que possa fiscalizar o trabalho do poder público. Os cumprimentos das leis de transparência devem ser realizados pelas esferas públicas de forma que a sociedade tenha cada vez mais acesso a informações governamentais.
+É essencial que todos os dados classificados por regimes de exceção sejam disponibilizados, assim como classificações arbitrárias feitas com o objetivo de esconder a informação da sociedade.
+A abertura de documentos do período histórico da ditadura militar no Brasil é também essencial para a descoberta da nossa história e da nossa formação cultural.
+
+### 2.4. Extensão da lei de acesso à informação a empresas concessionárias de serviços públicos
+
+O princípio norteador deste item é a mudança no tratamento de empresas privadas que possuem qualquer tipo de relação com o poder público. Uma vez que firmam contrato com o poder público e recebem dinheiro proveniente de impostos, não só os gastos, mas os lucros devem ser publicizados, de forma que o serviço evolua de forma sustentável e sem sujeitar serviços públicos a mecanismos regulares de mercado. Qualquer informação deve ser fornecida de modo a permitir o controle e o questionamento pela sociedade dos aspectos que compõem um determinado serviço prestado. A sujeição a esse mecanismo é condição fundamental da transparência no oferecimento de serviços públicos.
+
+### 2.5. Uso de meios livres, abertos e auditáveis para divulgação e debate sobre dados governamentais
+
+O fornecimento de dados governamentais é crucial para uma transparência efetiva. Contudo, esses dados precisam ser fornecidos não só passivamente, mas também ativamente através de meios livres e abertos, APIs (Interface de Programação de Aplicativos), softwares livres e demais mecanismos para ampla divulgação dos dados livres.
+
+### 2.6. Lei da Anistia e memória
+
+A reconstituição dos fatos ocorridos no passado relativos a abusos de poder por parte de representantes do Estado é essencial para o desenvolvimento desta sociedade. Além disso, a punição e a menção dos nomes das pessoas responsáveis por esses atos – mesmo que não sejam mais passíveis de punição, é fundamental para que não se homenageie em atos públicos oficiais pessoas que trouxeram revezes à sociedade.
+
+### 2.7. Incentivo e fortalecimento das Controladorias Gerais no âmbito de todos os entes federados.
+
+### 2.8. Cargos do TCU e dos TCEs constituindo carreira de estado de funcionalismo público.
+
+### 2.9. Incentivo e colaboração com organizações não-governamentais que façam auditorias e análises de dados fora do âmbito do Estado.
+
+## 3. Privacidade
+
+Em um mundo que avança incansavelmente no âmbito tecnológico, novas possibilidades na comunicação e no uso da informação emergem e são incorporadas em diversos aspectos da vida humana, trazendo consigo outras possibilidades: observamos novas formas de vigilância e de coleta e intercepção de dados sendo empregadas por governos, corporações e indivíduos. Lutamos contra a violação sistemática e desproporcional do direito à privacidade feita em nome de uma falsa segurança, contra a vigilância em massa que enxerga a sociedade como composta de pessoas criminosas em potencial no lugar da presunção de inocência, e defendemos o direito individual à privacidade e à inviolabilidade de todas as suas comunicações dentro e fora das redes.
+Consequentemente, nosso posicionamento é contrário ao determinado por itens legislativos como o artigo 15 de nosso Marco Civil da Internet (tal como disposto na Lei N°12.965 à data de sua promulgação em 23 de Abril de 2014) e outras leis de retenção de dados pelo mundo; dados apenas podem ser retidos no curso de uma investigação direcionada a um crime específico já ocorrido e através de suspeita bem fundamentada (com embasamento legal), somente após a pessoa suspeita ser identificada e mediante autorização judicial. Defendemos o fim da retenção em massa e indiscriminada de dados com intuito de prevenir crimes e estabelecer pessoas suspeitas. Deve ser respeitado e fortalecido o direito individual ao controle do uso de dados pessoais. Ninguém além de nós mesmos deve decidir como nossos dados serão usados.
+
+Em tempos de vigilância e restrição de liberdades civis, defendemos o direito ao anonimato e o uso de criptografia como meios de resistência e proteção contra governos e outras entidades que busquem monitorar, perseguir, silenciar e exercer outros tipos de violência contra pessoas.
+Reafirmamos assim nosso compromisso com a proteção da privacidade como fundamental para a existência de um sistema verdadeiramente democrático e para o exercício pleno da liberdade de expressão.
+
+## 4. Internet como bem universal acessível a todas as pessoas
+
+Nós Piratas acreditamos que a internet deve ser livre, universal e acessível a todas as pessoas, um direito fundamental de todas elas. Defendemos que a Internet e outras redes de comunicação devam ser neutras, ou seja, que todas as informações que trafegam nas redes sejam tratadas da mesma forma, sem quaisquer interferências por parte de operadoras de telefonia e infraestrutura de comunicações ou de governos, sem brechas legais que permitam a inspeção de pacotes de dados que violem nossa privacidade e liberdade sob pretexto de manutenção de qualidade de serviço.
+
+Uma internet verdadeiramente livre não permite que provedoras de conteúdo sejam criminalizadas pelo que as pessoas que usam seus serviços compartilham; ela assegura imunidade de elementos intermediários. Se um carteiro não pode ser criminalizado pelo conteúdo de uma carta que carrega, igualmente provedoras de conteúdo não podem ser criminalizadas pelo que pessoas trafegam de conteúdo entre si. Entendemos que mecanismos como ‘notice and takedown’, que obrigam provedoras a derrubar conteúdo mediante notificação, sem o devido processo judicial, sob pretexto de proteger direitos autorais, devem ser proibidos, visto que dão abertura para censura e derrubada sistemática de conteúdos de natureza política e ideológica, e para a violação de liberdades civis fundamentais.
+
+Nós Piratas defendemos que a administração da Internet não pode ficar à mercê de uma organização privada dentro da jurisdição de um país, nem submetida à governança de Estados nacionais. Da mesma forma que as águas internacionais de nosso globo são tratadas como um bem universal não submetido ao domínio de nenhum ente em particular, a Internet deve ser assim entendida e Estado nenhum, nem empresa alguma devem deter domínio sobre a Internet. Defendemos que a infraestrutura da Internet seja o máximo possível descentralizada e que todos os esforços necessários para permitir que isso aconteça devam ser empreendidos. A Internet deve ser gerenciada de forma distribuída por organizações sem fins lucrativos no mundo todo, deve ser pensada de forma tal que comunidades e coletivos da sociedade civil pelo mundo possam tomar parte na sua organização sem intimidação ou cerceamento por parte de entes governamentais ou corporações privadas.
+
+Entendemos que os princípios que defendemos para a Internet são mais importantes que a Internet em si, ou seja, para proteger liberdades civis, devemos estimular a comunicação via redes alternativas também, redes autônomas que empoderem as pessoas ponto a ponto, peer-to-peer. Assim sendo, nós Piratas defendemos o uso e difusão de comunicação por redes MESH e por quaisquer outros protocolos de comunicação em rede já existentes e que estão por vir, que permitam o livre compartilhamento nos termos defendidos neste programa partidário. Assim como existem pessoas que defendem o uso da Internet, existem aquelas que, considerando os riscos de rastreamento e controle, defendem a formação de comunidades desplugadas. Igualmente defenderemos todo o direito dessas comunidades desplugadas da Internet de se comunicar pelos meios virtuais ou presenciais que mais acharem interessantes, pautados pelos mesmos princípios de liberdade e privacidade que pautamos para tratar da Internet.
+
+Respeitados princípios de neutralidade, privacidade, imunidade de provedores e descentralização, entendemos que acesso a Internet gratuita e de qualidade para todas as pessoas deve ser política de Estado, que governos devem buscar os meios de assegurar esse acesso como direito fundamental. Governos devem legalmente assegurar que operadoras de telefonia e provedoras de infraestrutura de comunicação garantam qualidade de serviço mínima enquanto legalmente se restrinjam de forma a não permitir que vigilantismo seja possível ou viável como política de Estado ou de organizações privadas.
+
+## 5. Direitos Autorais e Reprodução não-comercial
+
+O sonho que tinham as gerações passadas de compilar o conhecimento e a cultura da humanidade, armazená-los e torná-los acessíveis hoje e pelo futuro, é algo que se tem tornado a cada dia mais palpável, graças ao acelerado desenvolvimento tecnológico das últimas décadas. Como qualquer inovação pioneira, isso abrange vários âmbitos da vida em sociedade e acarreta profundas transformações. É nosso objetivo aproveitar as oportunidades e alertar sobre os possíveis perigos gerados por esse processo. Porém, o atual contexto legislativo, no que se refere aos direitos autorais, limita o potencial desse desenvolvimento, uma vez que se baseia na noção obsoleta de uma suposta “propriedade intelectual”, que se opõe diametralmente à concepção de sociedade do conhecimento e da informação que almejamos.
+
+### 5.1. Sem restrições ao que pode ser reproduzido
+
+Sistemas tecnológicos que dificultam ou impedem a reprodução de obras criativas (proteção anticópia, DRM etc.) criam uma escassez artificial no intuito de transformar um bem público em uma mercadoria privada. Consideramos imoral a geração da escassez artificial, movida unicamente por interesses econômicos, e, por isso, denunciamos veementemente e combatemos esses procedimentos e mecanismos. Mecanismos esses que dificultam de diversas formas o uso legítimo das obras, possibilitam um controle totalmente inaceitável, frequentemente viabilizam o monitoramento de quem usa esses serviços e colocam em risco a utilização das obras pelas gerações futuras, essas que podem deixar de ter acesso aos atuais mecanismos que permitiriam a reprodução dessas obras.
+Como se isso não bastasse, os custos econômicos globais para estabelecer uma infraestrutura de proteção anticópia que seja ao mesmo tempo universal, sem lacunas e segura no longo prazo seriam extremamente desproporcionais em relação à sua utilidade econômica global. Os custos indiretos decorrentes dos obstáculos interpostos à interoperatividade entre os diferentes sistemas de reprodução e os respectivos softwares elevariam ainda mais esses déficits.
+
+### 5.2. Cópia e uso livres
+
+Considerando que não existe tecnologia razoável capaz de limitar a reprodutibilidade de obras digitais e que é preciso reconhecer o fracasso das tentativas de assegurar efetividade abrangente às proibições introduzidas no âmbito da vida privada, devem ser reconhecidas e aproveitadas as oportunidades criadas pela disponibilidade universal de obras criativas. Estamos convencidos de que a reprodução e o uso não-comerciais de obras criativas devem ser vistos como algo natural e também, ao contrário das afirmações alarmistas de grupos lobistas bastante específicos, de que os interesses da maior parte das pessoas que criam não sofrem influência negativa.
+No passado, não era possível comprovar cabalmente essas implicações. Na realidade, passou a existir uma imensa variedade de modelos inovadores de negócios que deliberadamente fazem uso proveitoso da livre disponibilidade de obras e que podem ajudar a tornar as pessoas que criam mais autônomas em relação às atuais estruturas de mercado.
+Por isso, com o objetivo de aperfeiçoar o acesso universal à informação, ao conhecimento e à cultura, defendemos que os atos de reproduzir, tornar acessível, armazenar e utilizar obras criativas em caráter não-comercial sejam não apenas legalizados, mas ativa e explicitamente fomentados, pois isso representa uma condição essencial para ampliar o desenvolvimento social, tecnológico e econômico da nossa sociedade.
+
+### 5.3. Fomento à cultura
+
+Vemos como nossa responsabilidade fomentar a criação de obras, tendo em vista sobretudo a diversidade cultural. Os efeitos positivos das transformações que buscamos promover devem ser aproveitados em sua máxima amplitude e em seu máximo alcance. Efeitos colaterais negativos – possíveis, mas improváveis – devem ser mitigados tão logo sejam detectados.
+
+### 5.4. Reconciliando interesses entre as pessoas que criam e o público
+
+Nós reconhecemos os direitos particulares das pessoas que criam às suas obras. A atual gestão de exploração dos direitos autorais, entretanto, não é adequada ao ponto de criar um balanço justo entre interesses econômicos justos e o interesse público ao acesso à cultura e ao conhecimento. O processo por trás de um produto criativo geralmente faz um uso extensivo da riqueza criativa do povo. A reintrodução de produtos criativos ao domínio público é não apenas justificada, mas também essencial para assegurar a sustentabilidade da criatividade humana. Dessa forma, um panorama justo para a reintrodução de produtos criativos através do domínio público precisa ser criada. Isso significa, em particular, uma redução drástica de prazos de direitos autorais, bem menores que os estabelecidos atualmente na TRIPS (Trade Related Intellectual Property Rights Agreement) ou no ADPIC (Acordo sobre os Aspectos dos Direitos de Propriedade Intelectual Relacionados com o Comércio).
+
+## 6. Patentes
+
+Pessoas que criam objetos ou métodos capazes de propiciar novos resultados industriais têm assegurado o direito (alienável através de licença ou cessão) de obter patente da propriedade de invento e a exclusividade de utilização do bem patenteado mediante deferimento por órgão específico. A titulação que comprova esse direito é o certificado de patente de invenção, que é expedido pelo Estado mediante o cumprimento de uma série de exigências legais. As patentes de invenção, principal forma de proteção no escopo das patentes, visam assegurar que uma inovação tecnológica tenha uma pessoa titular reconhecida, de modo que a pessoa inventora ou licenciada possa usufruir de exclusividade de exploração por um determinado tempo. Terminado o prazo de proteção (20 anos no mínimo, de acordo com tratados internacionais), o bem cai em domínio público.
+
+O PIRATAS acredita que, na medida em que ocorre o deslocamento do paradigma de “sociedade industrial” para “sociedade do conhecimento”, as leis globais de patentes estão se tornando obstáculos à inovação ao invés de incentivadoras. As regras internacionais de “propriedade intelectual” e patentes de invenção, além de se colocarem como obstáculos, representam uma ameaça a uma nova ordem social e econômica mais justa. Estamos conscientes de que uma mudança nos paradigmas sobre a “propriedade intelectual” deva ocorrer em escala global e que o Brasil não pode alterar sua legislação sobre o assunto em suas premissas básicas sem ferir os acordos e tratados multilaterais dos quais é signatário, e, por essa razão, esses acordos e tratados devem ser revistos para que haja alguma mudança significativa.
+
+Enquanto o sistema atual de patentes não for abolido e substituído por um sistema alternativo mais adequado em termos de estímulo da inovação e do empreendedorismo, não descartamos medidas emergenciais com o intuito de garantir a continuidade da pesquisa e da inovação após as eliminações de patentes que consideramos urgente serem quebradas. Defendemos, por exemplo, que patentes da área da saúde devem cair imediatamente. É preciso, no entanto, criarmos o incentivo necessário para garantir que remédios e equipamentos continuem sendo desenvolvidos, e que sejam melhor direcionados às necessidades mais prementes da sociedade.
+
+É necessário desvincular o mercado de produção da pesquisa de fármacos – conhecido como “delinkagem”. Da mesma forma, financiar toda a pesquisa farmacêutica com dinheiro público mediante prêmios e outros mecanismos e ainda disponibilizar o resultado da pesquisa para qualquer pessoa que o queira usar. Dessa maneira, estimular um mercado competitivo entre produtoras de genéricos, desvinculados da pesquisa. Esse é um exemplo de abordagem que reduz o custo de consumo, aumenta o acesso a medicamentos e o investimento em pesquisa e acelera a inovação. Também nos posicionamos contrariamente ao estabelecimento de patentes sobre informações que façam parte de organismos vivos ou vírus, assim como rejeitamos patentes sobre produtos de pesquisa financiada publicamente.
+
+## 7. Padrões abertos e Software Livre
+
+### 7.1. Padrões Abertos
+
+Em um mundo globalizado o uso de toda e qualquer tecnologia deve ser universal e essa universalidade depende da adoção de padrões abertos para essas tecnologias. Em termos de comunicação e informação, é de suma importância que as pessoas tenham o controle completo sobre o processamento de suas informações e da comunicação destas a qualquer momento, se assim desejarem fazê-lo. Esse maior controle se destina a evitar a concentração de poder em relação aos sistemas e dados através da democratização e do empoderamento. Com a globalização, os padrões abertos se tornaram mecanismos essenciais para a convergência tecnológica e para a maior liberdade individual. O emprego de padrões abertos em tecnologias de informação e comunicação potencializa a interoperabilidade entre todos os sistemas envolvidos no processo de comunicação, facilitando o acesso a essas tecnologias independentemente do tipo de software e hardware utilizados. Interoperabilidade é a habilidade de dois ou mais sistemas (computadores, meios de comunicação, redes, software e outros componentes da tecnologia da informação) de interagir e de intercambiar dados de acordo com um método definido, de forma a obter os resultados esperados. Defendemos que o poder sobre as infraestruturas seja descentralizado para uma maior liberdade, de tal forma que uma pessoa possa ter controle completo sobre seus dados, o que apenas será possível através do desenvolvimento e do uso de padrões abertos, interoperáveis, globais e orientados a demandas. Não importam as tecnologias subjacentes, o acesso deve ser garantido universalmente, os formatos sob os quais dados são apresentados devem respeitar a diversidade no uso de tecnologias. Defendemos, por exemplo, que editais lançados por órgãos públicos respeitem a liberdade individual quanto ao sistema operacional e à plataforma para leitura, mantendo a integridade e a acessibilidade plena dos dados.
+
+### 7.1. Software Livre
+
+O software livre dá liberdade às pessoas que o usam para executar, copiar, distribuir, estudar, mudar e melhorar o software. Essas liberdades são explicitamente concedidas e não suprimidas, como é no caso do software proprietário. Piratas incentivam o uso e a criação de softwares livres e também auditáveis quando são de interessse público e empregados por governos, promovendo a cultura livre e libertando a sociedade de formatos proprietários. Acreditamos que o uso de software livre torna o acesso à informação mais democrático, uma vez que não há a necessidade de depender da compra de licenças, que acabam por segregar e excluir o acesso à pesquisa e à troca de experiência acadêmica e cultural entre as pessoas. Piratas acreditam que o software livre surge como uma alternativa para incluir camadas da sociedade – que antes se viam carentes – de uma possibilidade de inclusão na chamada “era da tecnologia”, podendo assim ter acesso a diversas informações e conhecimentos, além de compartilhar com grupos sociais e incentivar o uso como uma ferramenta de educação e criação de pesquisas acadêmicas em órgãos governamentais. Essas alternativas podem reduzir as amarras a grandes corporações que dominam a propriedade de formatos fechados.
+
+## 8. Políticas de Cultura
+
+### 8.1. Incentivo à cultura local em contraposição ao monopólio dos nomes populares com financiamento público.
+
+Ocupação de espaços públicos e participação popular na construção e consolidação de eventos locais com artistas e pessoas que trabalham com produção cultural, com maior atuação da sociedade com a finalidade de promover maior acesso à cultura para as pessoas menos privilegiadas. Piratas incentivam a produção de eventos culturais consolidados em bairros afastados dos grandes centros, desmarginalizando zonas antes consideradas perigosas ou inviáveis para a realização de eventos. Acreditamos que isso auxilie na inclusão de classes sociais desprovidas de acesso à cultura e ao lazer. Também incentivamos a cota de acesso aos recursos dos fundos de cultura às iniciativas e organizações voltadas à proteção e representação das minorias. Pautados pelo princípio da difusão de cultura a todas as pessoas, sobretudo de culturas locais, defendemos também a promoção da cultura oral. Entendendo que o espaço virtual torna mais democrático o acesso à cultura, defendemos a promoção de cultura digital.
+
+### 8.2. Incentivo e pressão pelo aumento do investimento do PIB para cultura.
+
+A atual estimativa de incentivo à cultura é de 1,5%. Acreditamos que é possível que sejam destinados 3% do PIB para tais fins, que, se bem distribuídos, podem estimular a criação de projetos culturais que tragam benefícios sociais e mais acesso à cultura para a população.
+
+### 8.3. Incentivo à desburocratização de iniciativas culturais da sociedade civil e independentes.
+
+Piratas apoiam a ideia de que projetos culturais e ocupações públicas para manifestações e intervenções artísticas podem ser facilitadas e consultadas por pessoas que trabalham com curadoria e/ou responsáveis por liberações documentais do governo.
+
+### 8.4. Estímulo ao financiamento coletivo e solidário
+
+Grandes corporações e coletivos culturais que podem se sustentar ainda são os mais contemplados através de editais de incentivo à cultura. Isso gera certo tipo de “monopólio dos editais”, tornando algo que poderia enriquecer a cultura local em um grande negócio. Piratas defendem a criação de uma forma de “rodízio”, onde as pessoas contempladas pelas leis de incentivo à cultura devam, durante um período, ceder o mesmo incentivo a outras manifestações e/ou projetos culturais periodicamente. Isso também fomenta a possibilidade desses projetos buscarem uma alternativa, como crowdfunding ou patrocínios, possibilitando que o acesso ao benefício seja democratizado. Portanto, pensamos que deve haver um incentivo à rotatividade periódica a editais para que as mesmas pessoas não sejam contempadas com os mesmos editais no ano seguinte.
+
+Em caso de grandes eventos com financiamento público, deve existir equivalência de valor entre as atrações populares municipais e regionais e as atrações nacionais e de grande expressão, de tal forma que os recursos sejam divididos de forma igualitária.
+
+## 9. Liberdade nas Comunicações
+
+Algumas poucas famílias dominam os principais meios de comunicação privados no Brasil, formando um oligopólio midiático extremamente nocivo para a sociedade brasileira, não só pela concentração de poder decorrente e todos os perigos associados a isso, mas pela postura editorial desses grupos. Criminalização de movimentos sociais, apoio a toda sorte de medidas autoritárias, defesa incondicional de governos antidemocráticos, legitimação da opressão sofrida por minorias, manipulação e falsificação da realidade disfarçadas de jornalismo; são incontáveis as barbaridades cometidas pela “grande mídia” brasileira.
+
+Enquanto isso, surgem cada vez mais mídias preocupadas em informar realmente, e cada vez mais coletivos estão presentes nas ruas e nas periferias para divulgar a repressão exercida pelo braço militar do Estado sobre as pessoas, cada vez mais injustiças e violências são trazidas ao público por meios alternativos. Ainda assim, é preciso avançar muito. Entendemos que a liberdade nas comunicações é condicionada à urgente democratização dos meios de comunicação.
+
+### 9.1. Democracia nos meios de comunicação
+
+Para começarmos avançar em direção a uma democracia real, é essencial a quebra de todo e qualquer monopólio ou oligopólio econômico vertical e horizontal sobre os meios de comunicação tradicionais. Piratas defendem as redes digitais, a descentralização e o midiativismo como alavancas para a democratização das comunicações. Acreditamos na necessidade de uma legislação construída coletivamente com todas as partes interessadas e que atenda as demandas da população, facilitando a criação e manutenção de TVs e rádios comunitárias e livres, sem clientelismo e sem delimitação de cobertura.
+
+Além disso, é preciso regulamentar dispositivos já existentes na Constituição Federal, como o direito de resposta, a coibição de monopólios ou oligopólios nos meios de comunicação, proibição da propriedade cruzada, entre outras coisas. Os governos também devem promover a criação de canais públicos de televisão e rádios cuja programação seja aberta à participação da população de forma democrática. Ainda no sentido de contribuir no aprofundamento da democratização das comunicações, temos compromisso com o fortalecimento de mídias livres e independentes, priorizando as mesmas em detrimento dos oligopólios de mídia na divulgação de ações do partido.
+
+Piratas defendem todo tipo de iniciativa na direção da construção de meios de comunicação livres, incluindo o incentivo a modelos alternativos de difusão e compartilhamento de Internet, pois acreditamos que a informação deve estar sempre acompanhada de liberdade. Também somos favoráveis a uma regulamentação seguindo padrões estritamente técnicos para o uso do espectro eletromagnético, que garanta um uso democrático e harmonioso do mesmo, pondo um fim ao coronelismo eletrônico. Por último, gostaríamos de nos colocar veementemente contra a perseguição às rádios comunitárias e às rádios livres em geral.
+
+## 10. Economia
+
+A fim de nortear o Programa Econômico Pirata, compreendido como o conjunto de objetivos e metas a serem promotoras das ações do Partido Pirata em âmbito econômico regional ou nacional, propomos preliminarmente e sem exaustão, as diretrizes iniciais para debate partidário tocante ao tema.
+
+### 10.1. Das premissas fundamentais
+
+Sendo a economia brasileira atualmente uma economia de mercado regulada, inserida em ambiente global e detentora de moeda própria, assumem-se algumas premissas-base a serem a fundação das diretrizes aqui propostas: i) o Estado deve buscar estabilidade do ambiente econômico; ii) as políticas do Estado devem fomentar condições de desenvolvimento econômico; iii) o Estado deve desenvolver e aperfeiçoar o sistema econômico de maneira que promova um ambiente econômico eficiente e compatível com os ideais estatutários e programáticos Piratas; iv) o Estado deve participar da economia, não só regulando, a fim de agir pelo interesse comum e suprir lacunas onde a economia do mercado não cabe, como por exemplo, nos casos clássicos de monopólios naturais.
+
+### 10.2. Diretrizes Propostas
+
+#### I. Estabilidade para o ambiente econômico
+
+A. Garantir a estabilidade monetária;
+B. Ao promover as mudanças político-econômicas necessárias ao cumprimento dos princípios defendidos pelo PIRATAS, buscar um ambiente de confiança jurídica e econômica;
+C. Garantir uma relação responsável e protetora da população em relação a entidades financeiras.
+
+#### II. Fomento às condições de desenvolvimento econômico
+
+A. Estabelecer as diretrizes para a redução ampla de barreiras à entrada – simplificar processos, exigências e custos para novas pessoas empresárias;
+B. Promover a desburocratização e o aumento de eficiência do sistema governamental, nos poderes executivo, legislativo e judiciário;
+C. Promover políticas para a redução de ineficiências na produção (custo de capital).
+
+#### III. Aperfeiçoamento do sistema econômico visando eficiência e os ideais estatutários Piratas
+
+A. Promover uma reforma tributária com tributação direta gradual sobre a renda, também observando outras possíveis políticas tributárias de taxação de grandes fortunas no intuito de reduzir a desigualdade;
+B. Promover reforma da matriz de responsabilidades dos entes federados;
+C. Estabelecer e implementar as diretrizes para a substituição do sistema de patentes e direitos autorais;
+D. Auditar as dívidas públicas estaduais e nacional, internas e externas, e estabelecer práticas de transparência quanto ao endividamento governamental.
+
+#### IV. Responsabilidades Diretas do Estado
+
+A. Promover saúde gratuita universal;
+B. Promover educação gratuita universal;
+C. Promover o transporte gratuito universal;
+D. Promover gestão eficiente do sistema de previdência;
+E. Promover e fomentar programas de Estado eficientes para assistência social;
+F. Responsabilizar-se e gerenciar eficientemente os monopólios econômicos naturais;
+G. Responsabilizar-se e gerenciar eficientemente a Infraestrutura regional;
+H. Regulação do Sistema Financeiro visando segurança e competitividade;
+I. Elaborar políticas que favoreçam Pesquisa e Desenvolvimento no país – e investir para autoaperfeiçoar os sistemas de gestão pública e práticas educacionais e científicas.
+
+#### V. Alternativas econômicas solidárias e criptomoedas
+
+A. O Partido Pirata apóia e incentiva a experimentação de alternativas econômicas solidárias e independentes de governo, regulação ou fiscalização;
+B. O Partido Pirata apóia e incentiva experimentação de criptomoedas, independentes de governo, regulação ou fiscalização.
+
+## 11. Educação
+
+Piratas entendem que a educação é direito fundamental de toda e qualquer pessoa. Acreditamos que é papel do governo assegurar uma educação pública, gratuita e que siga padrões indispensáveis de qualidade. A prática educacional deve assegurar a autonomia individual frente ao ensino formal. O investimento na produção de materiais educacionais abertos deve ser uma diretriz das políticas educacionais e deve considerar as diferenças regionais. Experiências como a não-serialização do ensino, o uso de alternativas a sistemas de avaliação e a livre construção de grades e horários de aula para assegurar a pontencialidade individual, são defendidas por Piratas, incluindo a participação de estudantes no processo.
+
+Defendemos o investimento em tecnologias educacionais e de ensino à distância como estratégias de inovação da educação tradicional e propulsores de iniciativas de Educação Aberta.
+O uso e difusão de ferramentas e ambientes virtuais de aprendizado livres e abertos devem ser instituídos como política pública. Nós Piratas reforçamos a equivalência entre as modalidades de ensino presencial e à distância, tanto no mercado de trabalho quanto nos espaços de decisão e deliberação das universidades e das entidades representativas de estudantes. Da mesma forma, defendemos a difusão do ensino técnico em centros de excelência em ciência e tecnologia, ao passo que se assegure a efetiva integração entre ensino, pesquisa e extensão nas universidades. Independentemente da opção por uma formação mais técnica ou acadêmica, defendemos o fortalecimento das instituições de ensino às necessidades sociais.
+Defendemos a valorização da carreira docente em todos os níveis de ensino, público ou privado, carga horária de trabalho compatível com a função e a garantia de cumprimento de pisos salariais.
+Defendemos também que a assistência estudantil deve ser tratada como um direito e não como benefício. As ações inclusivas ou afirmativas no campo educacional devem ser defendidas como políticas sociais.
+
+Tendo a convicção de que educação vai para muito além dos limites das instituições educacionais, defendemos a experimentação de processos de ensino-aprendizagem descentralizados e livres. Nós Piratas apoiamos a difusão de Hacklabs e Hackerspaces e outras iniciativas similares enquanto meios colaborativos e experimentais de aprendizagem e promoção de conhecimento.
+No ensino formal, acreditamos que as instituições de ensino básico, técnico e superior devem incorporar inovações na forma como se constituem e operam. Defendemos a democratização das instituições de ensino, com participação plena dos corpos docente, discente e técnico-administrativo em seus planejamentos. Nas universidades e respectivos órgãos de fomento, defendemos eleição de dirigentes e composição dos órgãos colegiados a partir do voto paritário de docentes, estudantes e pessoas que trabalham no setor técnico-administrativo.
+Por fim, afirmamos a necessidade de debater projetos que objetivam federalizar a educação.
+
+## 12. Saúde
+
+Nós piratas entendemos que saúde extrapola os limites dos hospitais e clínicas e envolve cultura e educação da sociedade. Defendemos políticas de saúde que valorizem a prevenção, a saúde na família, a assistência psicossocial, a redução de danos e a conscientização e capacitação de cada pessoa acerca de hábitos saudáveis, respeitada a liberdade individual de cada uma sobre seu corpo. Acreditamos que saúde deve ser encarada de forma multidisciplinar, valorizando as diversas categorias que a compõe, sem hieraquização da categoria médica sobre as demais e sem corporativismo profissional. Entendemos que a humanização da Medicina deva ser meta permanente dos sistemas de saúde.
+
+Defendemos saúde pública gratuita e de qualidade como direito fundamental de todas as pessoas. Acreditamos que um sistema de saúde público digno é aquele que supre igualmente e com dignidade da pessoa que mora na periferia à que ocupa a reitoria de uma universidade; que não relega o sistema público ao atendimento precarizado de pobres e coloca o atendimento privado como parâmetro de qualidade para pessoas ricas. Entendemos que saúde da população não deve ser tratada como negócio, que todo atendimento médico-cirúrgico-hospitalar essencial deve ser público e gratuito; que tratamento médico privado seja exceção, para tratamentos opcionais e/ou intervenções de finalidade estritamente estética. Acreditamos que fronteiras nacionais não devem limitar a saúde pública e que, mediante convênios com outros países, as pessoas de nacionalidade brasileira tenham pleno acesso a sistemas públicos de saúde para tratamento de enfermidades que não puderem ser tratadas em solo nacional.
+
+Acreditamos que a saúde mental e social são tão importantes quanto a saúde física das pessoas, e que as cidades devem ser pensadas nas suas políticas públicas e planejamento como espaços de promoção de saúde e bem-estar. Defendemos a luta antimanicomial e a reforma psiquiátrica e a integração social como método preferencial para apoio e tratamento a pessoas com transtornos e distúrbios mentais. Defendemos o papel de profissionais das áreas de psicologia, terapia ocupacional, assistentência social e outros tipos de profissionais de saúde na saúde mental frente a práticas psiquiátricas meramente medicamentosas.
+
+Defendemos que todo e qualquer fármaco autorizado no Brasil seja disponibilizado na rede pública de saúde, mediante a prescrição de profissional de saúde, e que nenhum tratamento médico com algum fármaco seja negado na rede pública por critérios que não estritamente técnicos e científicos; que tratamentos com drogas consideradas ilegais não sejam negados a pacientes senão por razões estritamente científicas, ou seja, que nenhuma droga seja considerada ilegal a priori para tratamentos de saúde. Defendemos a quebra de patentes de remédios e a desvinculação da pesquisa de fármacos do mercado da produção e venda, com a pesquisa de drogas ocorrendo através de fundos públicos e com divulgação necessariamente aberta dos resultados e das fórmulas das substâncias. Dessa forma, a prioridade da pesquisa ocorreria em função do interesse social e não de margens de lucro, beneficiando mais pessoas a custos mais baixos, de tal forma que as doenças ditas “de terceiro mundo” não seriam relegadas e as populações mais pobres não seriam prejudicadas. As empresas interessadas em produzir fármacos concorreriam entre si no mercado de genéricos, e não no de remédios protegidos por patentes.
+
+Acreditamos que conselhos de pessoas que usam o sistema público de saúde devem ser fortalecidos e sua participação deve ser assegurada no planejamento e na gestão da saúde em caráter deliberativo, sobretudo na esfera municipal. O envolvimento voluntário da sociedade civil organizada na saúde pública deve ser valorizado.
+Acreditamos que tanto o aborto como o consumo de drogas devem ser encarados como questões de saúde pública e todo o amparo deve ser assegurado a tais casos no sistema público de saúde, tanto em medidas preventivas quanto hospitalares.
+
+## 13. Trabalho, renda e emprego
+
+Entendemos que é importante oferecer conhecimentos técnicos e sociais que possibilitem que as pessoas tornem-se economicamente ativas, interagindo com o seu meio social e gerando formas de trabalho e obtenção de renda.
+
+A qualificação profissional diz respeito tanto à elevação da escolaridade como também à disseminação de tecnologias sociais, da autogestão e à qualificação tecnológica e social. É nesse sentido que tal qualificação tem como ponto de partida a valorização do local, o reconhecimento de que as comunidades possuem um capital social, econômico e cultural que deve ser desenvolvido para melhorar as condições de vida das pessoas.
+
+### 13.1. Microcrédito, Cooperativismo e Economia Solidária
+
+Defendemos o incentivo e o fomento de políticas de microcrédito, bem como a criação de cooperativas locais na busca de melhor desenvolvimento, conforme particularidades regionais, visando desenvolver e fortalecer peculiaridades econômicas locais.
+
+O microcrédito pode ser entendido como crédito para pessoas de baixa renda ou microempreendedoras sem acesso ao crédito formal, dado sem garantias reais, propiciando mecanismo auto-sustentável de combate à pobreza e à exclusão social. Três pontos importantes merecem ser destacados na definição: a) o foco nas pessoas de baixa renda ou microempreendedoras sem acesso ao crédito formal; b) a forma peculiar e adequada ao público-alvo de entrega do crédito; c) o mecanismo auto-sustentável de combate à pobreza e à exclusão social.
+
+A economia solidária se apresenta como alternativa de geração de trabalho e renda e como uma resposta a favor da inclusão social. Compreende uma diversidade de práticas econômicas e sociais organizadas sob a forma de cooperativas populares, associações, clubes de troca, empresas autogestionadas, redes de cooperação, organizações de comércio justo, moeda social, entre outras, que realizam atividades de produção de bens, prestação de serviços, finanças solidárias, trocas, comércio justo e consumo solidário. Nesse sentido, compreende-se por economia solidária o conjunto de atividades econômicas de produção, distribuição, consumo, poupança e crédito organizadas sob a forma de autogestão. Considerando essa concepção, a economia solidária possui as seguintes características: cooperação, autogestão, solidariedade, colaboratividade e preocupação com o meio ambiente.
+
+A economia solidária permite o empoderamento da pessoa que trabalha, no sentido dela ter acesso a todo o processo produtivo, desde a origem do produto até a comercialização. Essa forma de organização econômica não enfatiza o lucro, o acúmulo e a exploração dos recursos, mas sim a relação entre as pessoas e com o mundo, de forma colaborativa e horizontal. Para isso, ela se utiliza de tecnologia social e open source, tornando as pessoas envolvidas em disseminadoras de conhecimento, promovendo a troca entre saberes técnicos e saberes populares.
+
+### 13.2. Democratização do ambiente de trabalho
+
+Acreditamos na democratização do ambiente de trabalho, com o incentivo à formação de ambientes mais horizontais nos quais a voz das pessoas empregadas sejam levadas em consideração no momento do estabelecimento de objetivos, metas e demais atribuições do trabalho. Somos a favor da diminuição da coerção nas relações verticais e até horizontais nas organizações.
+
+### 13.3. Direito de greve das pessoas trabalhadoras civis
+
+É fundamental em um sistema democrático que as pessoas que trabalham possuam, seguramente, o direito garantido à greve e a manifestações trabalhistas em geral, desde que mantidos 30% dos serviços essenciais, conforme presentes na atual Lei de Greve (Lei 7.783/1989) nos termos do artigo 10, no estado presente da lei no dia 25/05/2014.
+É importante que o direito à greve não seja entendido como forma política de criminalizar as pessoas que trabalham e entidades da sociedade civil e que a justiça não faça uso político das exceções dos serviços essenciais contra o direito de grevistas.
+
+### 13.4. Contra o corporativismo danoso à todo o corpo de sociedades de categorias profissionais.
+
+Os grupos de pessoas trabalhadoras têm importância na sociedade, dessa forma é fundamental para além de garantir o direito desses grupos, que medidas estritamente corporativas que prejudiquem a população não sejam incentivadas e que as pessoas que trabalhem em qualquer profissão tenham garantidas a livre-associação e uma possibilidade real de sair do ciclo corporativista sem sofrer rechaços das instituições.
+
+Lutamos pela transformação do sindicalismo partidário-estatal brasileiro em associativismo laboral autogestionado e livre da tutela do Estado. Os sindicatos precisam ser livres da tutela do Estado e da ligação político-fisiológica com qualquer instituição. É preciso permitir a livre associação sindical à pessoa que trabalha e conferir aos sindicatos mecanismos horizontais de participação em todos os níveis.
+
+### 13.5. Renda mínima incondicional
+
+Piratas defendem que se busquem meios viáveis de se assegurar renda mínima e incondicional a todas as pessoas, independente de sua condição de vida.
+
+### 13.6. Prostituição
+
+O Partido Pirata se propõe a discutir a questão da prostituição das pessoas trabalhadoras do sexo levando em consideração a opressão sexual e a violência sofrida por essas pessoas, visando sua proteção, necessariamente ouvindo os movimentos sociais e quem trabalha nessa área.
+
+## 14. Ciência e pesquisa
+
+### 14.1. A ciência como uma das principais bases do progresso social
+
+A ciência é uma parte substancial da nossa cultura. Ela serve não só como base do progresso tecnológico, como também do desenvolvimento intelectual. Descobertas científicas e suas aplicações, bem como uso dos métodos científicos contribuem para esse desenvolvimento. A valorização e promoção das ciências, portanto, são tarefas importantes para a sociedade como um todo e não podem ser controladas por interesses comerciais míopes. Particularmente, a pesquisa básica, frequentemente negligenciada por não perseguir benefícios práticos ou monetários diretos, deve ser promovida. Entendemos a ciência como um dos métodos desenvolvidos pela humanidade para pensar e analisar o mundo real; uma forma de conhecimento. Não desconsideramos outras formas de conhecimento como a arte e a filosofia, e entendemos que também devem ser utilizadas, em conjunto com a ciência, para um entendimento mais abrangente de nosso mundo.
+
+### 14.2. Ética na Ciência
+
+A ciência como prática humana está sujeita a avaliações relacionadas à ética de seus procedimentos; entretanto, o objeto da ciência, que é a descoberta em si, é livre disso. Entendemos que devem fazer parte da ética do desenvolvimento científico: a integridade, a reprodutibilidade e a transparência da investigação. Qualquer manipulação do desenvolvimento científico, especialmente na forma de restrições e proibições por razões ideológicas, políticas, religiosas, entre outras, deve ser questionada.
+
+Os resultados científicos declarados e conclusões devem sempre ser publicados em formato que facilite a revisão independente dos mesmos. Da mesma forma, o financiamento de projetos e instituições de pesquisa deve ser documentado de forma transparente, a fim de permitir o reconhecimento dos potenciais conflitos de interesse e tentativas de manipulação. Entendemos que estudos científicos que servem de base para decisões políticas precisam ser cobrados com maior rigor ainda quanto ao aspecto ético, tendo em vista as instituições e os campos de investigação que não cumprem os padrões de transparência e reprodutibilidade.
+
+### 14.3. Autonomia de Pesquisa
+
+Cientistas devem ter o direito de fazer seus trabalhos sem vínculos com institutos de pesquisa, desburocratizando a prática da ciência e favorecendo espaços de pesquisa independentes, como hackerspaces ou outros ambientes que favoreçam a pesquisa sem necessidade de uma formalidade institucional.
+
+### 14.4. A ciência como bem público
+
+Toda pesquisa científica ao ser publicada deve seguir preceitos baseados em livre compartilhamento de informações e colaboratividade, atualmente pautados por licenças como “creative commons”.
+
+## 15. Meio Ambiente, biodiversidade, segurança alimentar, direitos rurais e segurança alimentar
+
+### 15.1. Ciência e Meio Ambiente
+
+Defendemos que a pesquisa científica, a inovação tecnológica e a ergonomia devem ser os vetores do progresso ambiental. As avaliações de viabilidade ambiental de obras e outros empreendimentos devem sempre considerar o princípio da precaução e ser realizadas com imparcialidade. Propomos a criação de um Comitê Técnico Nacional de Segurança Ambiental, formado por pessoas com atuação acadêmica nas áreas afins à conservação e ao monitoramento ambiental, responsável por avaliar e divulgar um relatório técnico sobre projetos de engenharia e projetos de lei de possam provocar grande impacto ao meio ambiente.
+
+### 15.2. Direito aos Recursos Genéticos e Biológicos
+
+Acreditamos que o conhecimento e a posse dos recursos genéticos e biológicos devem ser bens comuns da humanidade, sendo inconcebível qualquer forma de propriedade sobre os recursos genéticos naturais.
+
+Dessa maneira, defendemos que qualquer molécula biológica, gene ou seqüência de DNA identificados na natureza devem ser registrados em sistema de copyleft forte que garanta a liberdade de utilização de qualquer produto ou tecnologia desenvolvidos a partir de tais recursos. Para garantir esse princípio, propomos a criação de programas de transposição contínua do conhecimento biológico para as pessoas envolvidas na produção em pequena escala e para comunidades locais, com o estabelecimento de bancos de dados regionais sobre os recursos genéticos.
+
+Piratas defendem a criação de órgãos de transferência democratizada de novidades tecnológicas oriundas dos Institutos de Pesquisas através de profissionais especialistas na transposição dos resultados de pesquisas científicas, de modo acessível a pessoas envolvidas na produção rural, independentemente de renda ou formação educacional.
+
+### 15.3. Conservação do Meio Ambiente e da Biodiversidade
+
+Piratas defendem a proteção do meio ambiente e da biodiversidade brasileira. É preciso buscar condições para alcançar o desmatamento zero em todas as formações ecológicas em território Brasileiro e frear a perda da biodiversidade nacional. Além disso, é importante investir na restauração dos ambientes naturais já degradados, destinando recursos públicos e incentivos fiscais para alcançar esse objetivo.
+
+Defendemos maiores investimentos em ciência ambiental, inventários de biodiversidade e bioprospecção, sempre com o enfoque na conservação de nossa riqueza biológica. Os resultados desses trabalhos devem ser livres e acessíveis pelo público em geral pois o conhecimento sobre a biodiversidade de nosso planeta é um direito inato de todas as pessoas que nele vivem.
+
+O Estado brasileiro deve se empenhar insistentemente na implantação de saneamento básico em 100% dos municípios brasileiros, garantindo o tratamento da totalidade dos efluentes urbanos, evitando a contaminação de nossos recursos hídricos.
+
+### 15.4. Rede de regiões livres de OGM
+
+Queremos que o Brasil se torne uma região livre de Organismos Geneticamente Modificados (OGMs). O impacto no meio ambiente causado por OGMs, uma vez que tenham se espalhado ao ar livre, é irreversível e inevitável.
+
+Está provado e é regularmente confirmado pela IAASTD (International Assessment of Agricultural Knowledge, Science and Technology for Development) que os métodos convencionais de melhoramento têm contribuído mais para aumentar a produtividade do que a engenharia genética. Não haveria fome se os recursos, o conhecimento e as oportunidades para a produção de alimentos fossem distribuídos de forma justa e igualitária.
+
+O Estado deve promover a intensificação de pesquisas sobre os efeitos a longo prazo do consumo de alimentos transgênicos. Defendemos ainda a adoção de moratória imediata da produção e distribuição de transgênicos enquanto não forem realizados estudos mais rigorosos sobre sua segurança alimentar e ecológica.
+
+Sempre que houver coexistência de transgênicos e não-transgênicos, deve haver real opção de alimentos livres de transgênicos disponíveis para as pessoas que os consomem. Os estabelecimentos comerciais do ramo alimentício devem também ofertar opções de igual qualidade de versões livres de transgênicos de todos os alimentos vendidos.
+
+### 15.5. Direitos Rurais e Agricultura Familiar
+
+Considerando o processo de desagregacão rural, êxodo e exploração das pessoas que trabalham no setor agrícola, o Partido Pirata defende a Agricultura Familiar como via e contraponto à agricultura baseada na monocultura com uso indiscriminado de agrotóxicos (adubos e defensivos químicos) e organismos geneticamente modificados, comumente conhecidos como “transgênicos”.
+
+É fundamental garantir ações nos âmbitos público e privado, que permitam às pessoas que moram no campo acesso ao conhecimento e à tecnologia necessária ao sustento da comunidade em que estão inseridas.
+
+Tais garantias advém da prestação de serviços essenciais, derivados do direito à água e à produção necessárias à segurança alimentar e nutricional da população. Vencida essa etapa, a médio prazo, entende-se ser crucial a organização em associações e cooperativas.
+
+### 15.6. Segurança Alimentar
+
+Segundo a Lei Orgânica de Segurança Alimentar e Nutricional – LOSAN (Lei nº 11.346, de 15 de setembro de 2006), por Segurança Alimentar e Nutricional – SAN entende-se a realização do direito de todas as pessoas ao acesso regular e permanente a alimentos de qualidade, em quantidade suficiente, sem comprometer o acesso a outras necessidades essenciais, tendo como base práticas alimentares promotoras de saúde que respeitem a diversidade cultural e que sejam ambiental, cultural, econômica e socialmente sustentáveis. Esse direito é defendido pelo PIRATAS.
+
+### 15.7. Sustentabilidade e permacultura
+
+O Partido Pirata acredita na promoção da produção sustentável de alimentos como alternativa independente ao agronegócio de monoculturas realizado em latifúndios.
+
+As sementes utilizadas na agricultura devem ser livres de patentes ou monopólios comerciais. Defendemos o fortalecimento das redes de trocas de sementes livres, crioulas, caboclas, nativas e não-transgênicas e a valorização das pessoas autônomas responsáveis pela guarda de sementes e seus coletivos e associações, reconhecendo seu direito de produzir e comercializar sementes livremente. As trocas de sementes devem ser incentivadas através da realização de eventos destinados a esse propósito.
+
+Incentivamos a produção agrícola local e a implantação de hortas urbanas e comunitárias. Quanto menor a distância entre o local de produção e o de consumo dos alimentos, menores são os custos de transporte e armazenamento, reduzindo os preços e a pressão inflacionária. Além disso, transporte por distâncias menores significa menor consumo de combustíveis e consequentemente menor poluição atmosférica, colaborando para a melhoria das condições de saúde ambiental e humana.
+
+Defendemos o controle mais rígido do uso de pesticidas e agrotóxicos, buscando a redução gradual e extinção do uso dessas substâncias em prol de uma agricultura orgânica e agroecológica que não cause a poluição de nossos solos e recursos hídricos.
+
+### 15.8. Sustentabilidade rural
+
+Deve ser garantida a sustentabilidade da vida no campo, nas diversas regiões do país. Por sustentabilidade entendemos não apenas a viabilidade a longo prazo dos meios de produção, com o fomento às atividades produtoras, e do equilíbrio ambiental, como também o constante aprimoramento e expansão dos padrões de educação, cultura e bem-estar.
+
+Apoiamos a concessão de incentivos e suporte técnico à estruturação da produção rural familiar e cooperativas de pessoas envolvidas na produção em pequena escala, pois acreditamos que é o melhor modelo produtivo para garantir a segurança alimentar da população e a estabilidade financeira dessas pessoas com reduzido impacto ambiental. Nesse aspecto, acreditamos sobretudo no incentivo à produção agroecológica. Programas governamentais de aquisição de alimentos devem ser ampliados garantindo a inclusão social e econômica no campo através da compra da produção das pessoas trabalhando na agricultura familiar.
+
+Defendemos também o uso dos alimentos obtidos por programas de aquisição de alimentos em ações de distribuição de alimentos para famílias em situação de vulnerabilidade, assim como a ampliação da rede de equipamentos públicos de segurança alimentar como os Restaurantes Populares, Cozinhas Comunitárias e Bancos de Alimentos.
+
+Nas regiões afetadas por secas sazonais ou semidesérticas, é preciso investimento em medidas de convivência, como a implantação de cisternas de produção e consumo para armazenamento de água, garantindo assim o abastecimento humano, a dessedentação animal e o uso agrícola durante a estiagem. É importante que se privilegiem os equipamentos construídos com placas de concreto, com o envolvimento das famílias e da sociedade civil, em detrimento de equipamentos préfabricados em plástico. Nas regiões afetadas por enchentes, é essencial a realização de medidas de contenção de encostas, especialmente através da restauração da vegetação nativa que garanta a manutenção da estrutura do solo.
+
+Piratas propõem a liberação da produção artesanal de produtos alimentícios, inclusive de queijos e cerveja, em todo o território nacional, sem restrição de comercialização regional, como funciona atualmente. Entendemos que a regulamentação e o controle devem ocorrer somente no âmbito de normas sanitárias e de saúde, com critérios que protejam quem consome. Queijos e cervejas artesanais já são comercializados no Brasil, todos oriundos de importação; é um contrassenso não haver a possibilidade de comercialização pelas pessoas que produzem em âmbito nacional.
+
+### 15.9. Sustentabilidade Urbana
+
+Piratas propõem a inserção e valorização do trabalho das pessoas que catam lixo e suas cooperativas, valorizando o importante trabalho que realizam e retirando ativamente a prática da marginalidade, garantindo os direitos trabalhistas e a qualidade de vida dessas pessoas.
+
+Propomos o combate ativo à prática de formação de lixões e o progressivo abandono do modelo de aterros sanitários em direção a uma prática de total aproveitamento de resíduos, buscando eliminar a necessidade de acúmulo de material ainda classificado como não-reciclável.
+
+Entendemos que o não-reciclável é determinado nos dias de hoje pela lógica do lucro e não como uma necessidade humana de inserir novamente seus processos produtivos com maior harmonia nos ciclos naturais. Propomos uma mudança de mentalidade frente aos resíduos que produzimos, tendo como consequências um aumento na qualidade de vida e a sustentabilidade da sociedade humana dependente dos recursos naturais. Para que isso seja alcançado, deve-se incentivar ativamente a busca e a pesquisa sobre a ciclagem de resíduos na escala de tempo humano.
+
+### 15.10. Diversidade alimentar
+
+Alternativas alimentares devem ser promovidas não apenas como respeito à diversidade e ao multiculturalismo, mas também para ajudar a reduzir as monoculturas e os impactos da produção animal. Propomos a redução dos impostos sobre a produção e comercialização de alimentos orgânicos e/ou vegetarianos, a fim de promover a melhoria da saúde e a redução da pressão pela expansão da fronteira agrícola e pelo desmatamento de florestas nativas. As escolas públicas e privadas devem investir mais tempo na educação alimentar e nutricional de jovens e crianças, visando orientá-las para a adoção de uma dieta que evite ao mesmo tempo a desnutrição e a obesidade. Essa educação deve promover a conscientização sobre a existência e viabilidade de dietas alternativas, em especial o vegetarianismo e veganismo. Nesse contexto, propomos a implantação de um dia por semana sem carne nos cardápios de escolas públicas.
+
+Defendemos a adoção de exigências legais mais rígidas para que haja o máximo de transparência nas informações presentes nas embalagens sobre insumos, ingredientes e processos de fabricação utilizados na produção dos itens de consumo.
+
+### 15.11. Matrizes energéticas limpas e renováveis
+
+Piratas propõem o aumento massivo do financiamento a pesquisas científicas e tecnológicas sobre fontes limpas de energia, especialmente as que utilizam energia fotovoltaica, eólica, geotérmica e de biomassa, a fim de substituir progressivamente a presença dos combustíveis fósseis na matriz energética brasileira, assim como o uso de energia hidrelétrica e de fissão nuclear.
+Defendemos a popularização de sistemas individuais e descentralizados de geração de energia limpa e renovável e de captação de água, com a criação de linhas de financiamento para a geração de energia limpa e captação de água por iniciativas municipais e linhas de microcrédito para a instalação de sistemas de energia fotovoltaica e eólica e de sistemas de captação de água residenciais.
+
+### 15.12. Recurso hídricos
+
+A água é um bem público e um recurso vital para a população. Sua gestão deve ser feita de forma descentralizada, integrada, participativa e democrática, priorizando o consumo humano, a conservação da biodiversidade e a dessedentação animal. Nós Piratas defendemos a universalização do acesso à água de qualidade e a garantia do abastecimento sustentável através da gestão da demanda, manutenção do volume dos aquíferos e prevenção e mitigação da poluição hídrica.
+
+Defendemos a proteção e a recuperação dos mananciais, com a proibição de projetos imobiliários em seu entorno e preservação e restauração das matas ciliares. A delimitação desse entorno deve se dar a partir da margem maior, no período de cheia. Além disso, é preciso lutar pela implantação de saneamento básico em todos os municípios do país e pela destinação adequada de 100% do esgoto doméstico e industrial, assim como pela descontaminação dos corpos hídricos urbanos.
+
+É preciso combater a formação de ilhas de calor através da manutenção de reservas legais de floresta distribuídas pela área rural e pela arborização e criação de áreas verdes em regiões urbanas; minimizando os impactos antropogênicos sobre os regimes de chuva.
+
+A prática de reuso de água deve ser incentivada por iniciativas educacionais, publicitárias e financeiras; e tecnologias para esse fim devem ser estimuladas e democratizadas.
+A água não pode ser tratada como uma mercadoria, já que é um recurso fundamental de manutenção da vida cujo uso deve ser voltado à sustentabilidade ambiental. Entendemos que usar um recurso fundamental à preservação da vida para fins mercadológicos é agir contra a dignidade e os direitos humanos. A democratização de sua gestão é essencial para garantir o cumprimento da legislação que regula o setor e evitar decisões temerárias, voltadas unicamente ao ganho econômico e político de curto prazo, que resultam na escassez de água, na redução da qualidade de vida e no sofrimento para toda a população, especialmente para as partes mais pobres. Neste sentido, piratas se colocam contra qualquer iniciativa de privatização da água por entender que o recurso é um bem público.
+
+## 16. Direitos animais
+
+Nós Piratas entendemos que a espécie humana é apenas uma entre muitas das espécies de seres vivos em nosso planeta, não sendo nem superior nem inferior às outras, e que todas estas espécies devem gozar do direito à vida digna, livre e vivida em segurança e bem-estar. Em tudo o que diga respeito a relação com a vida animal, a interpretação de nossas propostas e princípios deve sempre levar em conta a primazia do combate ao especismo.
+
+Defendemos a abolição do uso de animais em circos, apresentações e atividades recreativas em todo o território nacional e o fim progressivo dos zoológicos, aquários e viveiros, visto que existem alternativas melhores ou mais pedagógicas ao conhecimento e contato com animais silvestres, somado à preservação do ambiente original, primando pela destinação de indivíduos com dificuldades ou impossibilidade de reinserção na vida selvagem a santuários fiscalizados e regulados.
+
+Propomos ainda aplicação isonômica das regras que proscrevem a crueldade e o tratamento degradante aos animais também nos contextos em que seu uso e abate procure se justificar por meio de argumentos de fundo tradicional ou cultural, atentando sempre para que não haja qualquer tipo de seletividade ou discriminação na regulação e fiscalização dessas práticas.
+
+Defendemos a promoção e a adoção de alternativas alimentares não apenas por razões de saúde, de respeito a práticas tradicionais e à diversidade cultural, de redução do impacto ambiental, mas também no sentido de preservar a vida e a dignidade animal. Nesse sentido, propomos a redução dos impostos sobre a produção e comercialização de alimentos orgânicos, vegetarianos e veganos, a adoção de programas educacionais que informem sobre o espectro de escolhas nutricionais a disposição das crianças e jovens, a conscientização sobre a existência e viabilidade de dietas alternativas, em especial o vegetarianismo e veganismo e, com o objetivo de divulgar e popularizar essas alternativas, a implantação de um dia por semana sem carne nos cardápios de escolas públicas.
+
+Defendemos a adoção de exigências legais mais rígidas para que haja o máximo de transparência nas informações encontradas em embalagens sobre os insumos, ingredientes e processos de fabricação utilizados na produção dos itens de consumo que façam uso de animais em qualquer uma de suas etapas.
+
+Denunciamos a validade de experimentos com animais na busca de segurança para quem consome no âmbito da industria cosmética e condenamos veementemente o recurso a tais práticas, conclamando a uma moratória imediata e a proscrição perene do uso de animais para esse fim.
+
+Defendemos a abolição do uso de animais como brindes, em sorteios e premiações e a aplicação isonômica de regras que regem o abate e a utilização de animais selvagens e domésticos no que diz respeito a sua exploração para fins de experimentação.
+
+Denunciamos o valor supostamente cientifico de práticas vivisseccionistas e defendemos a substituição progressiva e acelerada de métodos de experimentação animal por métodos substitutivos, adotados e monitorados por órgaos fiscalizadores que atuem orientados pelos princípios da isonomia, da transparência e da plena participação do público interessado.
+Defendemos o fim do abate destinado a extração de peles, marfins, cornes e demais órgaos destinados ao uso como matéria-prima, assim como o fim do uso industrial de animais como fonte de matéria-prima para a produção de vestimentas e acessórios.
+
+Apoiamos a adoção de práticas de controle e fiscalização de atividades de caça, pesca e extrativismo, respeitando restrições sazonais, geográficas, referentes a espécies ameaçadas, etárias (abolição do abate em idade pré-reprodutiva) e outras que se apliquem no sentido de preservar as condições de sobrevivência das espécies.
+Defendemos a promoção de canais educacionais e informativos que permitam ao grande público ter acesso ao conhecimento acumulado pelas pessoas que pesquisam e educam a respeito de padrões de comportamento animal em contexto de vida selvagem.
+
+## 17. Direitos Urbanos
+
+Nós piratas entendemos que cidades são o núcleo da vida em sociedade e que é a partir delas que interações humanas florescem, presencialmente e através das redes. Defendemos que os diversos aspectos que permeiam a vida no espaço urbano – mobilidade, ocupação, participação popular, planejamento e gestão – devem ser analisados conjunta e sistemicamente, para assim permitir que a vida nas cidades seja digna para todas as pessoas, econômica e culturalmente. Acreditamos que qualquer pessoa deve possuir Direitos Urbanos – conjunto de direitos fundamentais sem os quais não é possível assegurar que os Direitos Humanos sejam respeitados em sua plenitude dentro de uma cidade.
+
+### 17.1. Transporte público e gratuito como bem universal e acessível a todas as pessoas.
+
+Nós Piratas entendemos que mobilidade urbana é um direito tão essencial quanto acesso à educação e à saúde. Sem desafios econômicos não poderia haver implantação de um sistema público de transportes urbanos com tarifa zero, mas acreditamos que este é o caminho a seguir e que o maior entrave para a viabilização disso não é econômico, mas sim de vontade política.
+Defendemos a implantação por etapas da tarifa zero nos transportes públicos, modal a modal, universal, sem discriminação de perfis das pessoas que usam esses transportes e priorizando a adoção inicial de tarifa zero para modais sobre trilhos.
+
+Defendemos também como medida de transição possível antes da tarifa zero a substituição do pagamento de tarifas unitárias por pagamento de abono mensal – isentadas as parcelas mais pobres da população – que garanta o livre trânsito das pessoas por todos os modais de transporte de sua cidade, sem restrições.
+
+Acreditamos que, no longo prazo, a tarifa zero nos transportes públicos, ao assegurar a plena circulação das pessoas por todos os cantos da cidade, democratizaria o acesso à cultura e a serviços públicos e aqueceria o comércio bairro a bairro, resultando assim numa cidade mais rica, acessível e plural.
+
+Independentemente da implantação da tarifa zero, existem ações que são imperativas no atual sistema de transporte público: abertura obrigatória e imediata de todas as contas de empresas que fornecem transporte público para pronta identificação dos custos, lucros e desvios; concessões públicas de transporte por ônibus que durem não mais que a vida útil de uma frota de ônibus, de forma tal que novas concessões sejam condicionadas à renovação total das frotas; a proibição do aumento do preço de passagens e desoneração das mesmas mediante diminuição da margem de lucro da classe empresária e desoneração fiscal que comprovadamente não seja absorvida como lucro pelo empresariado.
+
+### 17.2. Deslocamento não-motorizado como prioridade de todo planejamento urbano
+
+Nós piratas entendemos que qualquer planejamento urbano deve colocar pedestres em primeiro lugar. A saúde de uma cidade está diretamente ligada ao nível de pedestrabilidade dela.
+
+As limitações das políticas públicas de transporte coletivo e a retomada do crescimento econômico têm implicado num aumento expressivo da motorização individual, bem como da frota de veículos dedicados ao transporte de cargas. O padrão de mobilidade centrado no transporte motorizado individual mostra-se insustentável, tanto no que se refere à proteção ambiental quanto no atendimento das necessidades de deslocamento que caracterizam a vida urbana. A resposta tradicional aos problemas de congestionamento, por meio do aumento da capacidade viária, estimula o uso do carro e gera novos congestionamentos, alimentando um ciclo vicioso responsável pela degradação da qualidade do ar, pelo aquecimento global e pelo comprometimento da qualidade de vida nas cidades.
+
+Em cidades projetadas prioritariamente para veículos motorizados predominam vias de alta velocidade. Praças e outros espaços públicos de convívio são abandonados, ilhas de consumo e gentrificação em shopping centers são criadas, o comércio de rua é prejudicado, as pessoas se isolam das comunidades em seu entorno. Quanto mais adequado à vida pedestre uma via for e quanto melhor um planejamento urbano levar em consideração a vida pedestre, mais saudáveis serão as cidades. Cidades com alta pedestrabilidade fortalecem os pequenos comerciantes e feirantes de bairro, favorecem as trocas culturais em espaços públicos, permitem mais colaboração e solidariedade entre as pessoas nas suas comunidades e bairros.
+
+A integração ostensiva do modal bicicleta no desenho urbano permite um deslocamento humano que não degrada o meio urbano e fortalece o consumo em comércios locais, diminuindo a pressão no uso de veículos motorizados em benefício da vida pedestre. Piratas defendem a disseminação da cultura do uso de bicicleta, do investimento em ciclofaixas e ciclovias, pela valorização do espaço urbano, conservação das praças públicas e beneficiamento do comércio de bairro.
+
+### 17.3. Priorização de investimento em modais sobre trilhos e aquaviários no desenho urbano
+
+Desde a década de 50 o Brasil adotou um modelo econômico rodoviarista que floresceu com a implantação de monopólios da indústria automotiva no ABC paulista. Após o início da onda automotiva que até hoje resiste e domina os investimentos no país, o transporte sobre trilhos e aquaviário foram abandonados, sucateados. A lógica rodoviarista de transporte já chegou a seu limite e, quanto mais veículos são colocados nas pistas, mais perto chegamos do colapso da infraestrutura de transportes de todo o país.
+
+No meio urbano não é diferente: pouco se investe em veículos sobre trilhos e pouco se aproveita o potencial que o transporte aquaviário representa no Brasil, com uma costa marítima tão extensa e uma malha hidroviária tão ampla. Piratas defendem que, nos espaços urbanos, investimentos em mobilidade urbana ocorram prioritariamente em modais sobre trilhos, municipais e intermunicipais, em vias arteriais e de trânsito rápido. Piratas também defendem que, respeitado o meio-ambiente, todo o potencial mal aproveitado de transporte de passageiros marítimo e fluvial seja explorado nas cidades e regiões metropolitanas.
+
+### 17.4. Ocupação urbana sem gentrificação
+
+Piratas defendem que a ocupação do solo urbano deve colocar o interesse social acima do poder econômico. Somos contra a má ocupação do solo urbano e defendemos uma política de cobrança de Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU) fortemente progressiva no tempo e no espaço, como forma de coibir a especulação imobiliária e a consequente gentrificação de algumas regiões da cidade e a degradação de outras.
+
+Entendemos que áreas degradadas de cidades devem ser reabilitadas, mas levando em consideração o risco da gentrificação. Piratas defendem o estímulo ao aproveitamento do estoque construído em áreas com infra-estrutura, desde que não jogue fora o que interessa das dinâmicas que neles tomam lugar até o momento da intervenção e que as transformações levem ao uso democrático do espaço, tanto nas áreas públicas quanto no destino de imóveis.
+
+Piratas apoiam movimentos sociais de moradia e defendem que a legislação seja reformada de forma a permitir que espaços sucateados e abandonados possam ser ocupados pelos mesmos sem risco iminente à integridade física humana por meio de remoções arbitrárias e violentas por parte da polícia e de outras autoridades.
+
+Defendemos a proteção de fixação de comunidades de baixa renda mediante o desenho de Zonas Especiais de Interesse Social. Acreditamos que o fomento à oferta de habitação de interesse social nos centros das cidades e em áreas de maior dinamização econômica é uma questão de justiça social na medida em que garante a diferentes classes sociais igual acesso às oportunidades nas cidades. Sem essa proteção, a tendência é termos uma cidade cada vez mais segregada entre um centro abastado e uma periferia pobre, quadro que tende naturalmente a se agravar, visto que torna cada vez mais difícil o acesso ao emprego e agrava o problema da mobilidade justamente para as pessoas mais necessitadas.
+
+### 17.5. Canteiros Coletivos
+
+Acreditamos que espaços públicos urbanos têm de ser obrigatoriamente mantidos e revitalizados por governos municipais, no entanto, também acreditamos no poder autônomo de organização popular na recuperação de canteiros e praças abandonados. Defendemos que deve ser direito de qualquer pessoa realizar intervenções urbanas em espaços abandonados pelo poder público, patrimônio de todas as pessoas. Buscaremos incentivar a recuperação de áreas urbanas esquecidas, através de mutirões de limpeza, plantio e intervenção artística, transformando-as em locais de fruição e geração de renda para comunidades locais.
+
+### 17.6. Livre expressão artística e cultural nos espaços públicos
+
+Nós piratas defendemos a livre expressão artística e cultural nos espaços públicos. Somos contra a perseguição a artistas de rua – pessoas envolvidas com poesia, música, dança, artesanato, práticas circenses e outras formas de arte. Entendemos ser papel dos governos assegurar políticas públicas que protejam e defendam artistas de rua nas cidades, valorizando essas pessoas como parte vital do meio urbano.
+
+### 17.7. População em situação de rua
+
+Piratas se contrapõem à invisibilidade social. Defendemos proposição, estímulo, construção e apoio a centros de atenção psicossocial, fundações públicas de ação social, e organizações da sociedade civil que promovam trabalhos e ocupações de cunhos diversos com o intuito de gerar sensação de pertencimento coletivo, inclusão social, renda, alimentação e moradia, alojamento e demais necessidades, subsidiando a vida das pessoas em situação de rua de forma digna, protegidas pelas instituições policiais e estatais, ao contrário da higienização e violência social que acontece na prática.
+
+## 18. Segurança Pública
+
+Nós piratas entendemos que segurança pública é, antes de tudo, uma questão de garantir oportunidades de vida às pessoas, de empoderá-las de tal forma que não necessitem buscar no crime soluções para problemas de suas vidas. Antes de se pensar em políticas de segurança propriamente ditas, devemos pensar em políticas de educação, de acesso à cidade, de saúde e de cultura. Entendemos também que parte fundamental de uma política de segurança que funcione envolve não criminalizar hábitos e práticas que causam um mal maior à sociedade quando criminalizadas – como o consumo de drogas.
+Dito isso, neste tópico abordaremos somente questões específicas da segurança pública propriamente dita, posto que o restante dos tópicos pode ser encontrado em outros lugares deste programa partidário.
+
+### 18.1. Humanização da polícia
+
+Para nós piratas, no mundo ideal, o empoderamento das pessoas na condução de suas vidas aconteceria de forma tal que a polícia não se faria necessária para cumprir qualquer papel repressivo. Sendo necessária a existência de insituições policiais na segurança, nós piratas entendemos que o papel primário destas deve ser auxiliar a população no ordenamento dos meios de convívio, primando antes de tudo pelo diálogo e respeito à dignidade e liberdade de expressão de cada pessoa. Polícias deveriam primar por abordagens não-repressivas e humanizadas no cumprimento de suas atribuições. O recurso à força deveria ser – verdadeiramente – uma exceção, sempre rigorosamente investigada por corregedorias e por organização da sociedade civil, independentemente da natureza da repressão.
+
+Nós piratas não esquecemos que, por de trás da farda de Policiais Militares, existem pessoas que também sofrem. Não nos compadeceremos, no entanto, de categorias da PM que não lutem necessariamente pela desmilitarização de seus quadros como prioridade central da corporação, de quadros de PM que realizem greves com armas em punho e de contingentes que sirvam de braço repressor do Estado irrefletidamente. Entendemos que uma polícia militarizada é uma deformidade dos anos de ditadura e deve necessariamente acabar. Uma polícia militarizada coloca a repressão em primeiro plano e prontamente classifica as pessoas como criminosas em potencial, negando a possibilidade do respeito pleno aos direitos humanos e às liberdades civis de cada uma delas.
+
+Não basta desmilitarizar somente a estrutura das Polícias Militares; é necessário que seja extraído qualquer teor militarista dos treinamentos policiais. Mais do que isso, é necessário também eliminar da legislação qualquer artigo que proteja práticas criminosas cometidas por policiais. Qualquer policial que mate alguém no cumprimento de suas funções deve ser objeto de investigação rigorosa por homicídio, sem margens para forjar as circunstâncias de morte mediante o registro de “autos de resistência”, “resistência seguida de morte” ou “bala perdida” como ocorre atualmente, livrando essas pessoas costumeiramente de investigações de homicídio.
+
+Operações de guerra urbana e ocupação policial realizadas país afora, disfarçadas com nomes que fazem referência a “pacificação” e “vida” – Pacto Pela Vida, Unidade de Polícia Pacificadora, etc – devem ser combatidas, posto que ao invés de mudar a lógica de repressão, retroalimentam esta justamente nas porções mais fragilizadas das cidades, contra as parcelas mais carentes – pessoas sem-teto e faveladas.
+
+Nós piratas entendemos que desmilitarizar a PM não é suficiente, posto que na Polícia Civil o germe da repressão e tortura dos porões da ditadura ainda ecoa nas delegacias, e que só ocorrerá verdadeira humanização da polícia caso, paralelamente à desmilitarização das Polícias Militares, as Polícias Civis revejam profundamente suas práticas históricas, convergindo assim ambas as polícias para uma nova Polícia Civil, humanizada, diferente das anteriormente existentes. A formação básica e a progressão na carreira de policiais deve ser fundamentada em programas de formação continuada em direitos constitucionais e direitos humanos.
+
+### 18.2. Fortalecimento da Defesa Civil
+
+Entendemos que a Defesa Civil deve assumir papel central em políticas de segurança pública. Assim como desmilitarizar polícias é um imperativo, retirar do domínio da polícia muitas das ações de segurança pública deve também ser uma prioridade para que seja permitida a humanização da mesma.
+
+Nós piratas defendemos a completa desvinculação de Corpos de Bombeiros das polícias e sua complementação por corpos de pessoas voluntárias, vinculadas à defesa civil. Bombeiros e bombeiras com maior autonomia financeira e operacional teriam condições de priorizar melhor as demandas internas de seus regimentos em termos de equipamentos, suprimentos, treinamentos e outras coisas, de batalhão a batalhão. A promoção de corpos de pessoas voluntárias, devidamente capacitados e vinculados à Defesa Civil, além de fortalecer o senso de comunidade mediante participação na proteção da vizinhança, asseguraria pronta disponibilidade de pessoal capacitado a lidar com situações de risco, no caso de uma emergência.
+
+Seguindo a mesma linha, a valorização e o fortalecimento de Núcleos da Defesa Civil Comunitários (NUDECS), sobretudo em áreas de risco, mediante investimento na capacitação e estruturação dos mesmos, favoreceria o empoderamento de comunidades via organização popular, não só em situações de emergência, mas na atuação regionalizada de educação preventiva e no fortalecimento de redes comunitárias de apoio. Uma maior autonomia dos NUDECS e maior participação dos mesmos no planejamento de ações e campanhas da Defesa Civil favoreceriam a criação de uma cultura de segurança coletiva e de solidariedade, diminuindo a pressão social sobre intervenções policiais repressivas para redução de situações de conflito, fazendo da segurança pública um compromisso da própria sociedade civil.
+
+O investimento na Defesa Civil e em órgãos voluntários vinculados deve crescer na medida em que o Estado deixe de investir em aparato de guerra urbana nas polícias – na medida em que se diminua o número operações policiais repressivas desnecessárias em comunidades periféricas e pobres que, antes de tudo, necessitam de mais amparo e não de mais tiros de fuzil.
+
+### 18.3. Subordinação do sistema prisional à Rede Pública de Ensino
+
+Nós piratas entendemos que o papel primário de qualquer sistema prisional deve ser o de oferecer oportunidades de aprendizagem, de forma tal, que uma vez cumprida a pena as pessoas estejam aptas a conviver em sociedade com algo novo a contribuir. A realidade vigente dos presídios brasileiros é de absoluta precariedade, o que faz deles escolas de crime; um ladrão de galinhas entra num presídio e não incomum sai dele um assassino qualificado.
+
+Entendemos que o papel de agentes de segurança em presídios deve ser complementar, de tão somente assegurar o cumprimento das penas nos regimes de reclusão previstos. Operacionalmente, presídios deveriam ser dirigidos por profissionais da educação com formação especial e funcionar como internatos, dentro dos quais o aprendizado em diferentes níveis fosse a principal finalidade. Alfabetização, Ensino básico, Ensino superior presencial e à distância, ensino técnico – todos deviam ser viabilizados dentro dos presídios através das redes de ensino público. O sistema prisional deve também assegurar oportunidades verdadeiramente construtivas de trabalho, desde que justificado sob a perspectiva da educação, nunca sob uma perspectiva de trabalho forçado injustificado ou de provimento de mão de obra precária a empresas que visem lucro com isso.
+
+De forma equivalente, os órgãos responsáveis por pessoas menores de idade deveriam se submeter a um regime de funcionamento totalmente voltado para a educação, mais do que hoje pretendem ser, com aporte financeiro suficiente para garantir educação pública de qualidade dentro dessas instituições, bem como formação técnica, de forma a fornecer perspectivas de vida futura às pessoas lá retidas. Nessa perspectiva de recuperação através da educação, nós piratas entendemos que redução de maioridade penal não é aceitável, posto que jovens necessitam de ambiente próprio para os processos de ensino-aprendizagem em idade formativa.
+
+E uma vez cumpridas as penas, nós piratas entendemos que ninguém além da própria justiça e da polícia devam saber se uma pessoa é ex-detenta. Ao ter seus antecedentes criminais expostos, essas pessoas, sobretudo de menor poder aquisitivo, passam por dificuldades para conseguir trabalho e terminam sendo retroalimentadas na criminalidade.
+
+### 18.4. Contra a pena capital
+
+A pena de morte é uma punição extrema, degradante e desumana. Viola o direito à vida. Qualquer que seja o método de execução utilizado – eletrochoque, enforcamento, câmara de gás, decapitação, apedrejamento ou injeção letal – a pena de morte constitui-se como uma forma de punição violenta que não deveria ter lugar em sistemas de justiça modernos. A pena de morte é discriminatória: é frequentemente utilizada de forma desproporcional contra pobres, minorias, certas etnias, raças e membros de grupos religiosos. É imposta e levada a cabo de forma arbitrária. Em alguns países é utilizada como um meio de repressão, uma forma brutal de silenciar a oposição política. A pena de morte é irrevogável e, levando-se em conta que o sistema de justiça está sujeito ao preconceito e ao erro humano, o risco de se executar uma pessoa inocente se faz sempre presente. Nós Piratas pautamos nossas crenças de forma irrevogável pela defesa dos direitos humanos e liberdades civis e não aceitaremos a instituição de qualquer forma de pena de morte como solução para a segurança pública do Brasil e de outros lugares do mundo.
+
+## 19. Mobilização social e direitos civis
+
+Vivemos um período de mobilização social intensa. Enquanto a população brasileira avança aos poucos no seu descrédito quanto à democracia representativa, seguindo um movimento global de questionamento, movimentos autonomistas e horizontais crescem e se multiplicam por todo o território nacional, e a democracia plena aparece como horizonte de diversos coletivos e pessoas. As ruas brasileiras têm recebido cada vez mais pessoas dispostas a exercer seus direitos e lutar por um mundo mais justo e mais digno.
+
+### 19.1. “Mais pirata do que partido”
+
+Entendemos, como muitas outras pessoas, que a via eleitoral é apenas uma alternativa, não sendo solução primária ou exclusiva dos mais variados problemas de nossa sociedade, principalmente dos mais profundos. Como partido político a ser registrado oficialmente, temos a pretensão de provocar alterações na sociedade a partir da atuação institucional, mas compreendemos os limites dessa atuação e buscamos outros meios, assim como dialogamos com movimentos que não possuem interesse na inserção na política institucional. Defendemos os movimentos autonomistas e a autogestão social como forma legítima de organização popular. Queremos o fortalecimento do Poder Popular independente do Estado e de partidos, empresas, instituições religiosas, e ONGs. Empoderamento e democracia plena estão no coração da ideologia pirata, e é nisso que apostamos.
+
+### 19.2. Não mais deveres sem direitos
+
+Assim como cada vez mais pessoas têm descoberto outras formas de fazer política – que não o depósito de voto em urna – também têm descoberto um lado mais sombrio de nossa suposta democracia: a brutalidade policial, o autoritarismo de governantes, as leis antidemocráticas. As redes sociais se tornaram um depósito de registros incontáveis de ações policiais arbitrárias, violentas e cruéis, que mostram um descaso completo com os direitos e liberdades das pessoas que estão nas ruas, nas comunidades periféricas urbanas e no campo.
+
+Dessa forma, colocamo-nos de forma radicalmente contrária à criminalização de movimentos sociais e ao cerceamento ao direito de protesto. O exercício de direitos não deve ser um convite à violência do Estado e muito menos ser coibido por práticas arbitrárias. Defendemos o direito à resistência diante de um governo opressor e a desobediência civil como direito universal. Da mesma forma, entendemos que denunciantes (whistleblowers) que levam à população os crimes de um governo não devem sofrer perseguição por isso, e defendemos a proteção de denunciantes e de jornalistas responsáveis por levar as denúncias ao público.
+
+Por último, compreendemos que alguns dos deveres que hoje se apresentam à população brasileira como obrigatoriedades que interferem na liberdade individual e na autonomia sobre o próprio corpo devem ser transformadas em direitos. Sendo assim, defendemos o fim do alistamento militar obrigatório e do voto obrigatório.
+
+## 20. Internacionalismo
+
+Nós Piratas proclamamos o internacionalismo como um princípio fundante de nossa atuação. Representa uma instância incontornável de resistência à repressão promovida e adotada pelas Nações no tocante à castração dos direitos humanos fundamentais. Defendemos a extensão do pleno gozo da cidadania a imigrantes, com solidariedade irrestrita e respeito integral aos direitos e liberdades, inclusive direito a votar e receber votos.
+
+I. Promovemos a cidadania universal e professamos solidariedade plena a todos aquelas pessoas que lutam, em todos os países do mundo, contra a opressão;
+II. Precisamos promover mecanismos de detecção, denúncia e proscrição de violência política praticada pelo Estado e por agentes estatais imediatos ou mediatos contra grupos oposicionistas ou minoritários, inclusive estrangeiros. Não podemos permitir que a xenofobia institucional seja motriz para políticas públicas por parte do Estado nacional;
+III. Reconhecemos e fomentamos a diversidade linguística, étnica e cultural em todos os âmbitos;
+IV. Prezamos pela transparência e pela fiscalização independente da cooperação internacional e da ajuda humanitária, inclusive denúncia e combate a todas as formas e expressões antidemocráticas do discurso nacionalista;
+V. Queremos o reconhecimento da jurisdição universal para casos de genocídio e violações graves de direitos humanos, combate ao racismo, à xenofobia e a todas as formas correlatas de discriminação social;
+VI. Requeremos uma reforma das instituições internacionais para realçar a representação civil individual na esfera internacional;
+VII. Respeito aos princípios universais que governam a concessão de asilo em todas as situações atentatórias à vida, à liberdade e à dignidade;
+VIII. Denunciamos o estadocentrismo nas relações internacionais;
+IX. Buscamos o reconhecimento, denúncia e catalogação historico-educacional de casos de genocídio, etnocídio, democídio, femicídio e outras instâncias de supressão física de populações minoritárias ou oposicionistas e promoção de políticas e mecanismos restitutivos e reparatórios, inclusive integrando o rechaço ao etnocentrismo em todas as dimensões da vida política.
+
+## 21. Acessibilidade, autodeterminação do corpo e transhumanismo
+
+Nós piratas, movidos por uma busca de integração cada vez mais plena e de todos espectros de capacidades humanas no espaço de construção de uma sociedade sempre mais igualitária, proclamamos o reconhecimento da autonomia individual e a busca de um amplo respeito às diversas configurações físicas, psíquicas e emocionais em todas as esferas politicas e sociais.
+
+O Partido Pirata apóia a neurodiversidade, a diversidade funcional e o cyborgismo como princípios norteadores de identidade, e combate todas as formas de discriminação cognitiva.
+
+Nesse sentido, propomos:
+
+I. Adoção de políticas públicas em defesa das pessoas com necessidades especiais;
+II. A promoção de políticas de ação afirmativa no acesso à educação e ao mercado de trabalho, de modo a viabilizar a normalização, a integração, a autonomia e a promoção social de pessoas com diferentes capacidades;
+III. Uso de tecnologias no combate ao capacitismo;
+IV. Direito à morte planejada e à morte assistida;
+V. Emprego da ciência e de tecnologias emergentes na superação da morte e de limitações biológicas;
+VI. Quebra de patentes de próteses ortopédicas;
+VII. Incentivo ao estudo de tecnologias para produção de próteses em impressoras 3D;
+VIII. Incentivo à produção de próteses de alta tecnologia em território nacional;
+IX. Defesa da clonagem terapêutica e de espécies extintas;
+X. Que o Partido estabeleça uma agenda de debates sobre a clonagem reprodutiva e seus efeitos;
+XI. Que se cobre programaticamente dos governos incentivos prioritários à longevidade e à qualidade de vida, priorizando investimentos tecnológicos maiores nessas áreas;
+XII. Que o partido pirata discuta sobre a Singularidade, e que elaboremos ações políticas que garantam benefícios às gerações futuras.
+
+O Partido defende o ensino de noções de libras e braille no ensino fundamental e médio e a exigência de provas dessas linguagens em concursos para profissionais da educação das redes públicas de ensino básico e superior. Defende também a educação integrada e a capacitação efetiva de tais profissionais para viabilizar uma inserção plena de estudantes com diferentes capacidades. Apoiamos o desenvolvimento descentralizado de técnicas de difusão da informação e do conhecimento por meios acessíveis a todas as configurações de capacidade. Favorecemos o aprendizado e a utilização de libras, braille e outras linguagens por parte de membros dos grupos de comunicação do partido. Buscamos assegurar que dados públicos estejam disponíveis abertamente com garantias de acessibilidade plena. Enquanto organização partidária, buscaremos os recursos necessários para a tradução simultânea em libras e para a narração consecutiva em todos os eventos promovidos ou apoiados pelo partido.
+
+## 22. Política de Drogas
+
+Levando em conta a defesa da liberdade sobre o próprio corpo e o convívio em sociedade, o Partido Pirata entende que a “guerra às drogas” é uma política essencialmente racista e classista, que, na prática, funciona como opressão à população negra, pobre e periférica. Sendo assim, piratas defendem:
+
+I. Drogas como questão prioritariamente de saúde pública, segurança pública e lazer.
+II. Combate à violência do narcotráfico mediante descriminalização e legalização de drogas.
+III. A difusão de políticas públicas de Redução de Danos e o combate à internação compulsória.
+IV. Legalização e regulação de toda a cadeia econômica em torno das drogas.
+V. Legalização e regulação da cadeia econômica da maconha como forma de introduzir uma discussão sobre a legalização e regulação da cadeia econômica envolvendo as demais drogas hoje ilícitas.
+VI. Incentivo à pesquisa na aplicação de drogas para fins medicinais e de obtenção de soberania alimentar.
+
+## 23. Diversidade sócio-étnico-cultural
+
+Proclamamos como diretrizes da atuação pirata na luta pelo reconhecimento e pelo respeito à diversidade sócio-étnico-cultural:
+
+I. Combate ao racismo e à xenofobia;
+II. Respeito às tradições de matriz africana, indígena, de comunidades de imigrantes e comunidades tradicionais que compõem a base de nossa sociedade, respeitando a integridade e inviolabilidade das pessoas que as praticam;
+III. Respeito às tradições de todos os povos;
+IV. Respeito à liberdade de adesão ou de recusa à adesão a práticas tradicionais de povos ou comunidades minoritárias, assegurando sempre e inquestionavelmente o respeito às liberdades individuais;
+V. Atenção às demandas territoriais de comunidades quilombolas, indígenas e comunidades tradicionais bem como o respeito a todo o espectro de seus direitos;
+VI. Apoio às medidas sócio-afirmativas;
+VII. Combate ao extermínio da juventude majoritariamente pobre e negra das periferias;
+VIII. Defesa, ensino e reconhecimento das línguas minoritárias como co-oficiais em suas regiões.
+
+## 24. Pluralidade familiar e liberdade do afeto
+
+### 24.1. Livre autodeterminação de coabitação e união civil
+
+Piratas apóiam a pluralidade nos modos de convivência. As políticas oficiais devem integrar a diversidade de estilos de vida e permitir a livre escolha da forma desejada de coabitação. Rejeitamos qualquer tratamento financeiro preferencial dos modelos selecionados com base em estruturas históricas. Esse pacto de solidariedade civil deve facilitar uma transferência mais flexível dos direitos e fornecer procedimentos de divórcio simplificados e baratos.
+
+Defendemos o direito ao casamento civil igualitário, independente de morfologia biológica, identidade de gênero ou orientação sexual das partes envolvidas. Defendemos a legalização e reconhecimento de casamentos e uniões civis com mais de uma pessoa.
+
+### 24.2. Livre autodeterminação na constituição familiar
+
+O Partido Pirata defende o reconhecimento igualitário de modelos e estilos de vida em que as pessoas assumam a responsabilidade umas para com as outras. Independentemente do modelo escolhido, merecem proteção direcionada as comunidades que destinam cuidados a crianças, pessoas idosas e pessoas com necessidades especiais. Nossa política visa dar status legal igual a essas comunidades.
+
+Piratas entendem que a família é toda relação de afeto entre pessoas adultas ou por uma pessoa adulta e as pessoas menores de idade e/ou incapazes sob sua responsabilidade; unidas pelo laços da liberdade e responsabilidade, independente da orientação sexual ou identidade de gênero de seus membros. Consideramos a família o local ideal para o pleno desenvolvimento humano, coexistindo o respeito entre seus integrantes. Entendemos que também constituem família toda pessoa menor de idade que tenha laços biológicos ou de adoção, reconhecidos voluntariamente ou por decisão judicial, por um ou mais dos membros adultos da família. Na ausência de pessoas adultas, formam família menores de idade que possuam laços biológicos de adoção ou afeto entre si. Reconhecemos para fins jurídicos e sociais que a pessoa que mora sozinha seja reconhecida como família também, ou seja, unifamília.
+
+Defendemos a igualdade de oportunidades para as pessoas que cuidam de crianças. Ser pai ou mãe não deve ser motivo para discriminação ou desvantagem social ou trabalhista. Sexo, identidade de gênero ou orientação sexual não devem ser prerrogativas para participar mais ou menos na educação de crianças muito menos critério para obrigações parentais. Nós Piratas apoiamos o desmantelamento das expectativas sociais existentes que impedem ou dificultam a tomada de decisões individuais verdadeiramente livres.
+
+### 24.3. Adoção
+
+Uma criança deve poder ser adotada por uma família, independentemente do gênero e orientação sexual de seus membros, e sua família deve poder ser composta por uma ou mais pessoas. Defendemos a facilitação da adoção por pessoas solteiras independentemente do gênero e orientação sexual; defendemos que se desconsidere o estado civil na avaliação de condições para a adoção. Consideramos ato de preconceito punível criminalmente o impedimento a qualquer pedido de adoção com base na orientação sexual, identidade de gênero ou estado civil da pessoa que se candidata a adotante.
+
+### 24.4. Direito à maternidade e paternidade plenas
+
+Defendemos o direito de reconhecimento como pessoas genitoras biológicas, no ato de registro do nascimento, para mais de duas pessoas quando houver acordo entre parentes biológicos; a guarda compartilhada ou alternada como modelo padrão, ocorrendo a guarda unilateral em caso de desistência voluntária e/ou abusos dentro de casa de uma das partes responsáveis.
+
+### 24.5. Pessoas idosas
+
+Defendemos maior rigor no cumprimento do Estatuto do Idoso. O Partido Pirata se propõe a discutir a questão das pessoas idosas, tanto no âmbito da família quanto de sua inserção individual na sociedade, considerando problemas históricos como a invisibilidade e os maus tratos e também desafios novos decorrentes do aumento da expectativa de vida, e das novas possibilidades de ocupação e aprendizagem na terceira idade com ou sem apoio de novas mídias e tecnologias.
+
+## 25. Diversidade sexual e de gênero
+
+É função do Estado coletar dados sobre sexo e gênero, critérios a serem analisados distintamente, para a promoção de políticas públicas. Sendo assim, em vez de sexo e gênero serem registrados automaticamente pelo governo, as pessoas devem ter a possibilidade de auto-declaração e criação de categorias, tendo o direito à abstenção.
+
+Que toda criança ao ter seu nascimento registrado não tenha gênero e/ou sexo declarado. A determinação da identidade de gênero não deve ser feita pelas pessoas genitoras ou responsáveis legais de uma criança, e sim declarada pela própria ao atingir o discernimento necessário sobre a questão. A morfologia biológica de uma pessoa não deve ser objeto de divulgação pública por meio dos documentos oficiais, ao invés disso deve ser informada apenas em casos de necessidade médica.
+
+Que cada pessoa tenha direito à livre auto-determinação de identidade sexual e de gênero e que tais identidades auto-determinadas recebam reconhecimento e proteção universais e irrestritas. Piratas defendem que tal reconhecimento implica no direito à mudança do nome nos documentos oficiais (RG, CPF, certidões de nascimento e casamento, etc.), atendendo à necessidade de aceitação social pública da identidade auto-determinada. Apesar de sermos contra a definição de gênero nos documentos oficiais, pragmaticamente, enquanto houver essa definição, a redefinição deve poder ser solicitada pela própria pessoa a qualquer momento e quantas vezes isso for desejado, sem necessidade de avaliação médica ou decisão judicial. A solicitação deve ser atendida com o mínimo de burocracia.
+
+Também pautamos:
+
+I. Reconhecimento do intergênero e do gênero neutro como opções válidas de identidade de gênero, reconhecidas juridicamente;
+II. Compromisso com os movimentos ALGBTI (Assexuais, Lésbicas, Gays, Bissexuais, Trans* e Intersexuais) no diálogo e na cooperação;
+III. O combate e a criminalização de todas formas de opressão direcionadas à sexualidade ou gênero, tanto em suas expressões físicas quanto verbais e morais;
+IV. A adoção de programas permanentes de conscientização da diversidade sexual e de gênero no ensino básico, assim como a adoção de políticas públicas nesse sentido;
+V. Adoção de programas sociais e educativos que favoreçam a permanência de jovens ALGBTI na escola até a conclusão do ensino básico e incentivem sua entrada no ensino superior;
+VI. A adoção de programas de facilitação da inserção e permanência no mercado de trabalho formal para as comunidades ALGBTI, e combate a todas as formas de discriminação no ambiente de trabalho;
+VII. A concessão de asilo político a pessoas perseguidas devido à sua orientação e/ou identidade sexual e de gênero, sem que tal direito seja condicionado à exigência de prova da identidade ou orientação sexual;
+VIII. Que orientação e identidade sexual e/ou de gênero destoantes do normatismo social majoritário não devam nunca ser classificadas como doença, perversão ou crime.
+
+## 26. Direito das mulheres
+
+### 26.1. Aborto
+
+Reconhecemos o aborto como um direito individual e inalienável da mulher. Defendemos a legalização pelo Estado da interrupção de gestação. Reivindicamos a cobertura por parte do Estado de cuidados de saúde físicos e mentais antes, durante e depois do aborto para que seja um procedimento seguro.
+
+### 26.2. Parto
+
+I. Parto humanizado: incentivar o protagonismo da mulher desde o pré-natal com preparação para o parto;
+II. Incentivar a implementação de casas de parto, para que se retire o monopólio do parto do ambiente hospitalar;
+III. Desmistificar e informar a população sobre gestação, parto, puerpério e amamentação;
+IV. Criação de políticas públicas para incentivar a assitencia do parto domiciliar pela saúde pública;
+V. Profissionalização da função de doula, bem como ter doulas disponíveis na saúde pública para todas as mulheres;
+VI. Criminalizar a violência obstétrica, tendo em vista sua invisibilidade, em todas as fases da gestação;
+VII. Incentivar a amamentação até os dois anos ou mais e desmistificar sua prática em público.
+
+### 26.3. Prostituição
+
+O Partido Pirata se propõe a discutir a questão da prostituição, levando em conta a opressão sexual e violência histórica sofrida pelas mulheres cis e trans, visando sua proteção, necessariamente ouvindo os movimentos sociais e as pessoas que trabalham nessa área.
+
+## 27. Neurodiversidade
+
+O movimento pela neurodiversidade defende que a diferença neurológica seja tratada justamente como uma diferença, e que seja desconstruído o paradigma médio que busca uma “cura” para essas diferenças como se fossem doenças, deficiências ou algo nesse sentido; assim como ocorre com uma pessoa homossexual, não há algo que deva ser extraído a qualquer custo em busca da pessoa “normal”, mas apenas uma configuração diferente do que é imposto como padrão. Pessoas com propriedades neurológicas atípicas, como déficit de atenção e hiperatividade, transtorno do espectro do autismo, discalculia, dislexia, dispraxia, síndrome de Tourette, e outras, devem ser compreendidas como constituindo uma minoria que deve ter suas reivindicações atendidas.
+
+Legitimar a neurodiversidade é algo fundamental para essas pessoas: a sua identidade enquanto minoria oferece meios não apenas para identificação de membros de um setor da sociedade, mas também para que possam ser mapeados de forma efetiva os diversos tipos de opressão sofridos, para que dessa forma, sejam construídas pautas que possam ser levadas adiante e influenciem na criação de políticas para amenizar o que essas pessoas sofrem, entre outras coisas.
+
+A ideia da neurodiversidade é que cada pessoa (com ou sem diagnóstico) é um ser neurologicamente único e a sociedade tem como obrigação respeitar a sua visão de mundo, bem como apoiar as suas competências próprias. Precisamos de todos os tipos de mentes em nossa sociedade, sem restrições, discriminação ou qualquer outra forma de violência. Não devemos penalizar determinados tipos neurológicos por não apresentarem o tipo de sociabilidade que a sociedade atual cobra.
+
+Sendo assim, defendemos o respeito em oposição à ideia de “cura” para diferenças neurológicas. Parte do problema com a visão “autismo-é-tragédia”, por exemplo, é carregar a ideia de que a pessoa é separável do autismo, e de que há uma pessoa “normal” presa “dentro do autismo”. Somos favoráveis ao aumento do financiamento e do acesso a serviços de apoio para pessoas contempladas pelo movimento pela neurodiversidade, e defendemos formas éticas de tratamento. Muitas dessas formas podem ser benéficas, como diversos tipos de terapia e aconselhamento. Somos radicalmente contrários a campanhas publicitárias negativas contra as pessoas portadoras de propriedades neurodiversas. A maior parte das campanhas de solidariedade com relação ao autismo, por exemplo, sugerem que o mesmo seja uma tragédia, doença ou epidemia que deve ser eliminada, incentivando sentimentos de pena no lugar da aceitação. Fundos obtidos através dessas campanhas não neutralizam o prejuízo causado.
+
+## 28. Estado Laico e liberdade de crença e descrença
+
+Nós piratas atuamos em defesa de um Estado Laico e Secular que respeite e defenda o direito de crença e descrença. Sendo assim, nossas pautas são:
+
+I. Pela retirada de símbolos religiosos de órgãos públicos e respeito ao uso individual de indumentárias e acessórios religiosos e tradicionais, mesmo onde exista código de vestimenta;
+II. Contra o ensino religioso nas redes de ensino básico público. Admitimos esse tipo de ensino na educação privada desde que a escola defina oficialmente sua orientação religiosa e essas aulas de religião sejam necessariamente extracurriculares;
+III. Pela proibição de repasse de recursos públicos a organizações religiosas;
+IV. Fim de isenção tributária para entidades religiosas que não realizem prestação de contas necessariamente abertas e auditáveis pela sociedade civil organizada e que comprovadamente não estejam de acordo com sua finalidade social nos termos da legislação vigente;
+V. Pela tipificação dos crimes de intolerância de credo e não-credo (agressões físicas ou psíquicas motivadas por preconceito direcionado à crença ou não-crença), assegurado o direito inalienável à liberdade de expressão;
+VI. Pela criação de uma delegacia especial para crimes de intolerância de crença e não-crença além da criação de telefones de denúncia para crimes desse gênero.
+
+---
+
+*Garimpado do [site oficial](http://partidopirata.org/documentos/programa/)*
+
+[[!meta title="Programa"]]
