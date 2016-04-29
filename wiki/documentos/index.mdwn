@@ -1,17 +1,17 @@
-# [[Estatuto]]
+[[Estatuto]]
 
-# [[Programa]]
+[[Programa]]
 
-# [[wiki/documentos/Carta]]
+[[wiki/documentos/Carta]]
 
-# [[Manifesto]]
+[[Manifesto]]
 
-# [[Diretrizes]]
+[[Diretrizes]]
 
-# [[Notas Oficiais]]
+[[Notas Oficiais]]
 
-# [[Vídeos Explicativos]]
+[[Vídeos Explicativos]]
 
-# [[Ficha de Apoiamento|ficha]]
+[[Ficha de Apoiamento|ficha]]
 
 [[!meta title="Documentos"]]
