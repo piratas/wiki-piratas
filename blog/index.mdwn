@@ -12,3 +12,5 @@ actions=yes rootpage="posts"]]
 [[!sidebar content="""
 [[!calendar  type="month" pages="blog/posts/* and !*/discussion"]]
 """]]
+
+[[!meta title="Blog" description="Este seria um espaço pra blog mesmo, ainda não é útil porque o partido pirata tem um blog no próprio site."]]
