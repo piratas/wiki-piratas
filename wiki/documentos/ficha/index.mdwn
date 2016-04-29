@@ -1,17 +1,5 @@
 > **`A ficha ainda não está pronta para sair assinando e divulgando, estamos em fase de apreciação e avaliação`**
 
-A ficha antiga que estava sendo usada está disponível em <http://partidopirata.org/documentos/ficha-de-apoiamento/>
-
-Maximiliano Stefens fez um modelo de formulário online com versao pra impressao, inclusive com modelo de envelope do lado de fora. Disponível provisoriamente em <http://www.cdef.com.br/1111/>
-
-Possivelmente esse modelo mude devido à resolução do TSE de Dezembro/2015. Daniel está verificando.
-
-GTC fez ainda outra com os polegares e de acordo com a nova resolução:
-
-* [versão 2](https://www.dropbox.com/s/23jhri1r79idsz3/assinatura2016_2.pdf?dl=0) `obsoleta`
-
-versão 3
-
 ## Última versão
 
 Esta versão está pronta, será utilizada no [[hotsite|coleta]] e enviada ao [loomio](https://loomio.partidopirata.xyz) para apreciação e deliberação
@@ -19,4 +7,16 @@ Esta versão está pronta, será utilizada no [[hotsite|coleta]] e enviada ao [l
 * [dropbox](https://www.dropbox.com/s/dgubi0vpmdvukac/assinatura2016_3.pdf?dl=0)
 * [biblioteca](https://biblioteca.partidopirata.xyz/u/pirata/m/ficha-de-apoiamento/)
 
-[[!meta title="Ficha de apoio"]]
+A última versão da ficha deve estar disponível em <http://partidopirata.org/documentos/ficha-de-apoiamento/>
+
+## Sistema para geração automática
+
+Maximiliano Stefens fez um modelo de formulário online com versao pra impressao, inclusive com modelo de envelope do lado de fora. Disponível provisoriamente em <http://www.cdef.com.br/1111/>
+
+## Perguntas e respostas
+
+> Por quê "apoiamento", não é melhor "apoio"?
+
+>> Apoiamento é feio mas é o nome jurídico necessário para este fim.
+
+[[!meta title="Ficha de apoiamento"]]
