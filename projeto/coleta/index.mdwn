@@ -1,9 +1,10 @@
 # Coleta de Assinaturas para registro do Partido Pirata no TSE
 
+> `Evitem usar a wiki como pad, especialmente porque o pad está sendo usado para tal função. As informações aqui estão desatualizadas.`
+
 [[!toc levels=6]]
 
 ---
-## Evitem usar a wiki como pad, especialmente porque o pad está sendo usado para tal função. As informações aqui estão desatualizadas.
 
 ## Situação
 
@@ -22,6 +23,10 @@ Tentativa de dia e horario de reuniao => Segunda-feria dia 25 de Abril 2016 as 2
 ### Grupo no telegram
 
 > <https://telegram.me/coletaassinaturaspiratasbr>
+
+### GT Jurídico no telegram
+
+> <https://telegram.me/gtjApoiamentoPirata>
 
 ---
 
@@ -50,25 +55,31 @@ Devemos realizar varias estratégias paralelamente, para garantir máxima efetiv
 
 ### Ficha de apoiamento
 
-(Antes de baixar a ficha leia o subitem 2.3)
+> **`A ficha ainda não está pronta para sair assinando e divulgando, estamos em fase de apreciação e avaliação`**
 
-A ficha que estava sendo usada está disponível em http://partidopirata.org/documentos/ficha-de-apoiamento/
+A ficha antiga que estava sendo usada está disponível em <http://partidopirata.org/documentos/ficha-de-apoiamento/>
 
-Maximiliano Stefens fez um modelo de formulário online com versao pra impressao, inclusive com modelo de envelope do lado de fora. Disponível provisoriamente em http://www.cdef.com.br/1111/
+Maximiliano Stefens fez um modelo de formulário online com versao pra impressao, inclusive com modelo de envelope do lado de fora. Disponível provisoriamente em <http://www.cdef.com.br/1111/>
 
 Possivelmente esse modelo mude devido à resolução do TSE de Dezembro/2015. Daniel está verificando.
 
-GTC fez ainda outra com os polegares e de acordo com a nova resolução: https://www.dropbox.com/s/23jhri1r79idsz3/assinatura2016_2.pdf?dl=0
+GTC fez ainda outra com os polegares e de acordo com a nova resolução:
+
+* [dropbox](https://www.dropbox.com/s/23jhri1r79idsz3/assinatura2016_2.pdf?dl=0)
+
+### Hotsite
+
+Existe um [[esforço em andamento|/tarefa/Hotsite_para_coleta_de_assinatura]] para fazer um site.
 
 ### Elegibilidade e protocolagem
 
 * Protocolar as assinaturas à medida que forem coletadas; não deixar tudo para ultima hora!
 
-* Cada coletivo insere no sistema suas assinaturas e envia para os demais as respectivas (pois quando coletamos, vem assisaturas de outros estados tb)
+* Cada coletivo insere no sistema suas assinaturas e envia para os demais as respectivas (pois quando coletamos, vem assinaturas de outros estados tb)
 
 * Precisamos de um mínimo de 9 estados, é isso? Precisaremos constituir diretórios provisórios nesses estados, confere?
 
-* Plenário do TSE aceitou registro do NOVO, valendo regras antigas à nova lei da criação de partidos. Porem o registro do NOVO se deu antes da resolução de Dez/2015. http://www.tse.jus.br/imprensa/noticias-tse/2015/Setembro/plenario-do-tse-aprova-pedido-de-registro-do-partido-novo
+* Plenário do TSE aceitou registro do NOVO, valendo regras antigas à nova lei da criação de partidos. Porem o registro do NOVO se deu antes da resolução de Dez/2015. <http://www.tse.jus.br/imprensa/noticias-tse/2015/Setembro/plenario-do-tse-aprova-pedido-de-registro-do-partido-novo>
 
 * Pode recolher assinatura de quem eh de outro partido?
 
@@ -92,7 +103,7 @@ A coleta poderá ser realizada individualmente. Em coletivos que encontram-se em
 
 ### CNPJ
 
-Pra quem não sabe, nosso CNPJ é 21.941.628/0001-61
+Pra quem não sabe, nosso CNPJ é **21.941.628/0001-61**
 
 https://loomio-attachments.s3.amazonaws.com/uploads/ffc0226d9547b97b830bf6deffd3f512/Cart%C3%A3o%20CNPJ%20Pirata.pdf
 
@@ -101,12 +112,15 @@ http://partidopirata.org/partido-pirata-obtem-decisao-judicial-inedita-contra-ca
 ### Legislação
 
 * Lei nº 13.165/2015, publicada em 29.9.2015
-* Lei nº 13.165/2015
+* http://www.planalto.gov.br/ccivil_03/LEIS/L9096.htm
+* http://chimera.tse.jus.br/legislacao-tse/res/2015/RES234652015.htm
 
 ---
 
 ## Tarefas
 
+Tarefas com `\[[!tag coleta]]`:
+
 [[!inline pages="tarefa/* and !tagged(encerrada) and !tarefa/discussao and !tarefa/*/* and tagged(coleta)" archive=yes]]
 
-[[!meta title="Coleta de Assinaturas"]]
+[[!meta title="Coleta de Assinaturas" description="Coleta de Assinaturas para registro do Partido Pirata no TSE"]]
