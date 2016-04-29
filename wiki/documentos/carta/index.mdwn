@@ -1,6 +1,6 @@
 # Carta de princípios v1.0
 
-*Nota: este documento foi elaborado pelo Movimento Partido Pirata do Brasil (MPPBr),  mobilização coletiva que culminou na fundação do Partido Pirata do Brasil. Dada sua relevância histórica para o Partido, disponibilizamos aqui a Carta, para leitura de todos. Atualmente, os documentos oficialmente reconhecidos pelo Partido Pirata do Brasil, para efeito de deliberação, são o [[Estatuto]], o [[Programa]] e as [[Diretrizes]].*
+*__Nota__: este documento foi elaborado pelo Movimento Partido Pirata do Brasil (MPPBr),  mobilização coletiva que culminou na fundação do Partido Pirata do Brasil. Dada sua relevância histórica para o Partido, disponibilizamos aqui a Carta, para leitura de todos. Atualmente, os documentos oficialmente reconhecidos pelo Partido Pirata do Brasil, para efeito de deliberação, são o [[Estatuto]], o [[Programa]] e as [[Diretrizes]].*
 
 [[!toc levels=5 startlevel=2]]
 
