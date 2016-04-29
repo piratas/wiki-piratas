@@ -20,3 +20,5 @@ Maximiliano Stefens fez um modelo de formulário online com versao pra impressao
 >> Apoiamento é feio mas é o nome jurídico necessário para este fim.
 
 [[!meta title="Ficha de apoiamento"]]
+
+[[!tag coleta]]
