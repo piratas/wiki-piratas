@@ -53,7 +53,7 @@ Devemos realizar varias estratégias paralelamente, para garantir máxima efetiv
 
 ### Cartaz para pontos de coleta
 
-### [[Ficha de apoiamento|ficha]]
+### [[Ficha de apoiamento|wiki/documentos/ficha]]
 
 ### Hotsite
 
