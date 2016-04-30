@@ -53,3 +53,5 @@ www.PartidoPirata.org
 ---
 
 *Garimpado do [site oficial](http://partidopirata.org/documentos/carta-de-principios-v1-0/)*
+
+[[!meta title=~"Carta de princípios v1.0"]]
