@@ -92,3 +92,5 @@ Os grupos públicos estão atualmente em uso.
 [[!map pages="wiki or wiki/* and !*/discussao"]]
 
 [0]: http://partidopirata.org
+
+[[!meta title="Wiki"]]
