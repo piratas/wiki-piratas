@@ -18,7 +18,7 @@ Este site está disponível em:
 
 # Ferramentas
 
-[[!map pages="blog or forum or tarefas or projetos or (wiki or wiki/documentos or wiki/documentos/estatuto or wiki/contato) and !*/discussion" show=title]]
+[[!map pages="blog or forum or tarefas or projetos or (wiki or wiki/*) and !*/discussion" show=title]]
 
 [0]: http://partidopirata.org
 
