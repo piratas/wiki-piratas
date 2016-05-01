@@ -24,17 +24,17 @@
 
 <https://tree.taiga.io/project/tipirata>
 
-#### Hospedagem GIT
+### Hospedagem GIT
 
-##### Notabug
+#### Notabug
 
 <https://notabug.org/piratas>
 
-##### Gitlab
+#### Gitlab
 
 <https://gitlab.com/piratas>
 
-##### Github
+#### Github
 
 <https://github.com/piratas>
 
