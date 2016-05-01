@@ -1,0 +1,15 @@
+Em decorrência de [um domínio que expirou](https://iikb.xyz/blog/post/Dom%C3%ADnio_iikb.org_expirou/), aconteceram algumas mudanças temporárias por tempo indeterminado nos serviços normalmente acessados através de **biblioteca.partidopirata.org** e **mumble.partidopirata.org**.
+
+Basicamente tudo o que é necessário fazer do lado da(o) usuária(o) é mudar o [TLD](https://pt.wikipedia.org/wiki/Dom%C3%ADnio_de_topo) de **.org** para **.xyz**.
+
+Então ao invés de acessar mumble.partidopirata.**org**, utiliza-se mumble.partidopirata.**xyz**.
+
+O mesmo vale para a biblioteca, que continua normalmente acessível através de biblioteca.partidopirata.**xyz**.
+
+Isto foi consertado no [site do mumble](https://mumble.partidopirata.xyz), resta ser consertado no site do partido [aqui](http://partidopirata.org/) e [aqui](http://partidopirata.org/mumble-pirata/)
+
+O ideal seria que [[os domínios voltassem a funcionar|tarefa/Redirecionar_domínios]]. Como forma paliativa enquanto isto não acontece, é necessário fazer os ajustes e avisar as pessoas que aconteceu esta mudança.
+
+Os tópicos no loomio do [mumble](https://www.loomio.org/d/JUQyhnXZ/mumble), da [biblioteca](https://www.loomio.org/d/n0s5rJIm/biblioteca-pirata) já foram consertados e os [grupos no telegram](wiki/#index6h2) também já foram alertados.
+
+Outra coisa que está inacessível é a [social pirata](https://www.loomio.org/d/0h5lCQNe/social-pirata), isto em decorrência de [outro domínio que expirou](). Em relação a isto, a única coisa a fazer é esperar o domínio ser renovado.
