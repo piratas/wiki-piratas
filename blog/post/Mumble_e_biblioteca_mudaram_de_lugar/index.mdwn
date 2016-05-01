@@ -13,3 +13,5 @@ O ideal seria que [[os domínios voltassem a funcionar|tarefa/Redirecionar_domí
 Os tópicos no loomio do [mumble](https://www.loomio.org/d/JUQyhnXZ/mumble), da [biblioteca](https://www.loomio.org/d/n0s5rJIm/biblioteca-pirata) já foram consertados e os [grupos no telegram](wiki/#index6h2) também já foram alertados.
 
 Outra coisa que está inacessível é a [social pirata](https://www.loomio.org/d/0h5lCQNe/social-pirata), isto em decorrência de [outro domínio que expirou](). Em relação a isto, a única coisa a fazer é esperar o domínio ser renovado.
+
+[[!tag gti gtc mumble biblioteca domínio]]
