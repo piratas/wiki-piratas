@@ -36,32 +36,32 @@ Ou ainda, podem ser convertidas para texto e o GTI, caso um dia exista, pode usa
 
 #### 2
 
-Desobediente Civil, [16.12.15 15:14]
-se tu tiver tempo assiste as reuniões antigas do GTI e vê se é mais ou menos o "banco de ideias" que eles preconizaram que tu ta tentando propor de novo
+    Desobediente Civil, [16.12.15 15:14]
+    se tu tiver tempo assiste as reuniões antigas do GTI e vê se é mais ou menos o "banco de ideias" que eles preconizaram que tu ta tentando propor de novo
 
-Wilson Lira, [16.12.15 15:16]
-um "banco de ideias" é simplesmente uma listagem de idéias que parecem boas
+    Wilson Lira, [16.12.15 15:16]
+    um "banco de ideias" é simplesmente uma listagem de idéias que parecem boas
 
-Wilson Lira, [16.12.15 15:17]
-Esse formulário que eu to propondo é diferente porque quem propoe a idéia fica responsavel por implementa-la
+    Wilson Lira, [16.12.15 15:17]
+    Esse formulário que eu to propondo é diferente porque quem propoe a idéia fica responsavel por implementa-la
 
-Wilson Lira, [16.12.15 15:17]
-vira o "gerente de projeto" da ideia
+    Wilson Lira, [16.12.15 15:17]
+    vira o "gerente de projeto" da ideia
 
-Wilson Lira, [16.12.15 15:17]
-e que precisa ser respondida em um prazo e tem um prazo previsto de execução
+    Wilson Lira, [16.12.15 15:17]
+    e que precisa ser respondida em um prazo e tem um prazo previsto de execução
 
-Desobediente Civil, [16.12.15 15:20]
-ta, é esse o tipo de informação que eu preciso
+    Desobediente Civil, [16.12.15 15:20]
+    ta, é esse o tipo de informação que eu preciso
 
-Desobediente Civil, [16.12.15 15:20]
-isto define quais são os campos que vãos ser público e quais eu vou ter que "esconder"
+    Desobediente Civil, [16.12.15 15:20]
+    isto define quais são os campos que vãos ser público e quais eu vou ter que "esconder"
 
-Wilson Lira, [16.12.15 15:22]
-quem define o prazo de execução é o GTI, que da a palavra final no aspecto tecnico
+    Wilson Lira, [16.12.15 15:22]
+    quem define o prazo de execução é o GTI, que da a palavra final no aspecto tecnico
 
-Wilson Lira, [16.12.15 15:22]
-e precisa definir, entre as diferentes demandas, quais são as prioritarias
+    Wilson Lira, [16.12.15 15:22]
+    e precisa definir, entre as diferentes demandas, quais são as prioritarias
 
 ### Sr. Wilson
 
