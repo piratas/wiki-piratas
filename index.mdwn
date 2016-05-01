@@ -23,15 +23,15 @@ Este site está disponível em:
 [0]: http://partidopirata.org
 
 [[!sidebar content="""
-**Projetos importantes**
-
-[[Coleta de assinaturas|projeto/coleta]]
-
----
-
 [[Reuniões]]
 
 [[Notícias|blog]]
 
 [[Tarefas]]
+
+---
+
+**Projetos importantes**
+
+[[Coleta de assinaturas|projeto/coleta]]
 """]]
