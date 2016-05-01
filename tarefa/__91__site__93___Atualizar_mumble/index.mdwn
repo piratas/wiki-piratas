@@ -54,3 +54,5 @@ E-mail enviado em 22 de Abril de 2016 para **comunicacao@partidopirata.org**:
     pE+atDZKNsgIblMyD3Ck
     =Y1JH
     -----END PGP SIGNATURE-----
+
+[[!tag gtc]]
