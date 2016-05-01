@@ -8,61 +8,63 @@
 
 ## Ferramentas
 
-### Etherpad
+#### Etherpad
 
 <https://pad.riseup.net/p/gti2016>
 
-### Loomio
+#### Loomio
 
 <https://www.loomio.org/g/JDmI4ZKv/>
 
-### Github
+#### Github
 
 <https://github.com/piratas/gti>
 
-### Taiga
+#### Taiga
 
 <https://tree.taiga.io/project/tipirata>
 
-### Hospedagem GIT
+#### Hospedagem GIT
 
-#### Notabug
+##### Notabug
 
 <https://notabug.org/piratas>
 
-#### Gitlab
+##### Gitlab
 
 <https://gitlab.com/piratas>
 
-#### Github
+##### Github
 
 <https://github.com/piratas>
 
 ---
 
-# Comunicação
+## Comunicação
 
-## Telegram
+### Telegram
 
-### Canal aberto (notícias, próxima reunião):
+#### Canal aberto (notícias, próxima reunião):
 
-> <https://telegram.me/joinchat/ApLxJjzfzV5YTnTHO10GCQ>
+<https://telegram.me/joinchat/ApLxJjzfzV5YTnTHO10GCQ>
 
-### Grupo aberto:
+#### Grupo aberto:
 
-> <https://telegram.me/joinchat/ApLxJgYl7nmk1LrPSnJqBg>
+<https://telegram.me/joinchat/ApLxJgYl7nmk1LrPSnJqBg>
 
 ---
 
-# História do GTI
+## Links
 
-> <https://tree.taiga.io/project/tipirata/wiki/historia-do-gti>
+#### História do GTI
 
-## GTI Gaúcho
+<https://tree.taiga.io/project/tipirata/wiki/historia-do-gti>
 
-> <https://www.loomio.org/g/FQ7kVSu3/piratas-ga-chos-gti-ga-cho>
+#### GTI Gaúcho
 
-## Tópicos no Loomio
+<https://www.loomio.org/g/FQ7kVSu3/piratas-ga-chos-gti-ga-cho>
+
+### Tópicos no Loomio
 
 * https://www.loomio.org/d/W7KPjYAo/precisa-se-de-gente-no-gti
 * https://www.loomio.org/d/w1oi4xBG/gti-mudan-as
@@ -74,3 +76,11 @@
 * https://www.loomio.org/d/dDxBY7Vq/relatoria-reuni-o-gti-1-de-mar-o-de-2016
 * https://www.loomio.org/d/YMOuB5pe/gti-a-constru-o-descontrutiva
 * https://www.loomio.org/d/BQrtRu62/-resolvido-administrador
+
+---
+
+## Tarefas
+
+[[!inline pages="tarefa/* and !tagged(encerrada) and !tarefa/discussao and !tarefa/*/* and tagged(gti)" archive=yes]]
+
+[[!meta title="GTI" description="Grupo de Trabalho Tecnologia da Informação"]]
