@@ -1,0 +1,129 @@
+Como desdobramento da reunião do dia 15 de dezembro de 2015 no [mumble](https://mumble.partidopirata.xyz):
+
+---
+
+## Links
+
+#### Tópicos pertinentes do Loomio:
+
+* <https://www.loomio.org/d/svmYCHka/>
+* <https://www.loomio.org/d/dZFh089M/>
+
+#### Issues e User Stories no Taiga:
+
+* <https://tree.taiga.io/project/tipirata/issue/50>
+* <https://tree.taiga.io/project/tipirata/us/51>
+
+#### Repositórios GIT:
+
+* <https://notabug.org/piratas/gti2py>
+* <https://gitlab.com/piratas/gti2py>
+* <https://github.com/piratas/gti2py>
+
+---
+
+## Contribuições
+
+### [[desci]]
+
+#### 1
+
+Como desdobramento da reunião de ontem dia 15 de dezembro de 2015 cujo áudio e texto encontram-se na página de reuniões do mumble, sugeriu-se que existisse um formulário para demandas do GTI. Eu me comprometi a fazê-lo.
+
+Eu estou pensando em fazer um formulário simples em [web2py](https://web2py.com) que envie o resultado para o [projeto no taiga](https://tree.taiga.io/project/tipirata/), e desta forma, organize as informações de uma forma que possam ser usadas diretamente no taiga, exportadas para outras ferramentas como por exemplo o trello, redmine ou outras.
+
+Ou ainda, podem ser convertidas para texto e o GTI, caso um dia exista, pode usar. Além disto, qualquer pessoa que queira ser um GTI insurgente também poderia pegar a informação.
+
+#### 2
+
+Desobediente Civil, [16.12.15 15:14]
+se tu tiver tempo assiste as reuniões antigas do GTI e vê se é mais ou menos o "banco de ideias" que eles preconizaram que tu ta tentando propor de novo
+
+Wilson Lira, [16.12.15 15:16]
+um "banco de ideias" é simplesmente uma listagem de idéias que parecem boas
+
+Wilson Lira, [16.12.15 15:17]
+Esse formulário que eu to propondo é diferente porque quem propoe a idéia fica responsavel por implementa-la
+
+Wilson Lira, [16.12.15 15:17]
+vira o "gerente de projeto" da ideia
+
+Wilson Lira, [16.12.15 15:17]
+e que precisa ser respondida em um prazo e tem um prazo previsto de execução
+
+Desobediente Civil, [16.12.15 15:20]
+ta, é esse o tipo de informação que eu preciso
+
+Desobediente Civil, [16.12.15 15:20]
+isto define quais são os campos que vãos ser público e quais eu vou ter que "esconder"
+
+Wilson Lira, [16.12.15 15:22]
+quem define o prazo de execução é o GTI, que da a palavra final no aspecto tecnico
+
+Wilson Lira, [16.12.15 15:22]
+e precisa definir, entre as diferentes demandas, quais são as prioritarias
+
+### Sr. Wilson
+
+#### 1
+
+Oi pessoal. Nós tivemos uma reunião pelo Mumble no dia 15/12/15 e a maior dificuldade relatada foi a dificuldade de comunicação entre os diferentes grupos de trabalho do Partido, ou seja, o GTC, GTJ e GTI. 
+
+O principal problema é o fato do GTI ser um grupo de caráter mais técnico, que precisa de demandas dos outros pra fazer alguma coisa, mas que precisa ser acionado pelos outros, pois não consegue identificar quais são as demandas do Partido
+
+Por esse motivo eu queria propor algo seguindo o espírito de harmonia entre os três poderes de Montesquieu (Judiciário, Legislativo e Executivo), no sentido de oficializar um fluxo de acionamento, petição e comunicação entre os três principais grupos de Trabalho do Partido. Eu fiz um esboço no Paint pra ficar mais clara a idéia e vou anexar abaixo
+
+Sob um aspecto mais prático, o [[desci]] se comprometeu a fazer um protótipo de formulário para petições para o GTI, A principio, eu sugeri os seguintes campos abaixo:
+
+- Título da Demanda
+- Nome do Responsável pela petição (Que também será o responsável por opinar no desenvolvimento e dar aceite final para o produto desenvolvido)
+- Objetivo e/ou função da demanda (Ex: Se for uma loja online "viabilizar a venda de produtos pro partido"
+- Previsão dos Componentes Ténicos e Processuais envolvidos (Ex: precisa de um servidor, base daddos, aplicação web, etc
+- Grupos de Trabalho e/ou outros componentes envolvidos nessa demanda (Ex: Tesouraria, GTC, GTJ, etc)
+- Essa demanda está relacionada a algum projeto de escopo maior? Se sim, qual? (Ex: IUF, Campus Party, etc)
+- Detalhamento mais Completo da demanda (Aqui você da o blocão onde o cara explica a demanda em um texto mais extenso).
+
+Uma vez que haja esse formulário, as demandas para GTI podem ser catalogadas (e talvez ate colocadas de forma publica) e o próprio GTI pode definir o que é prioridade. O que pode até servir como estímulo e foco para o desenvolvimento do GTI 2016.
+
+Mais tarde esse modelo de formulário pode ser extendido aos demais grupos (GTC e GTJ) seguindo aquele modelo da Lei do Acesso à Informação, no sentido que qualquer tipo de petição deva ser respondida (respondida, não atendida) em um prazo máximo de x dias
+
+#### 2
+
+O principal problema é o fato do GTI ser um grupo de caráter mais técnico, que precisa de demandas dos outros pra fazer alguma coisa, mas que precisa ser acionado pelos outros, pois não consegue identificar quais são as demandas do Partido
+
+Por esse motivo eu queria propor algo seguindo o espírito de harmonia entre os três poderes de Montesquieu (Judiciário, Legislativo e Executivo), no sentido de oficializar um fluxo de acionamento, petição e comunicação entre os três principais grupos de Trabalho do Partido. Eu fiz um esboço no Paint pra ficar mais clara a idéia e vou anexar abaixo
+
+Sob um aspecto mais prático, o [[desci]] se comprometeu a fazer um protótipo de formulário para petições para o GTI, A principio, eu sugeri os seguintes campos abaixo:
+
+Título da Demanda
+Nome do Responsável pela petição (Que também será o responsável por opinar no desenvolvimento e dar aceite final para o produto desenvolvido)
+Objetivo e/ou função da demanda (Ex: Se for uma loja online “viabilizar a venda de produtos pro partido”
+Previsão dos Componentes Ténicos e Processuais envolvidos (Ex: precisa de um servidor, base daddos, aplicação web, etc
+Grupos de Trabalho e/ou outros componentes envolvidos nessa demanda (Ex: Tesouraria, GTC, GTJ, etc)
+Essa demanda está relacionada a algum projeto de escopo maior? Se sim, qual? (Ex: IUF, Campus Party, etc)
+Detalhamento mais Completo da demanda (Aqui você da o blocão onde o cara explica a demanda em um texto mais extenso).
+Uma vez que haja esse formulário, as demandas para GTI podem ser catalogadas (e talvez ate colocadas de forma publica) e o próprio GTI pode definir o que é prioridade. O que pode até servir como estímulo e foco para o desenvolvimento do GTI 2016.
+
+Mais tarde esse modelo de formulário pode ser extendido aos demais grupos (GTC e GTJ) seguindo aquele modelo da Lei do Acesso à Informação, no sentido que qualquer tipo de petição deva ser respondida (respondida, não atendida) em um prazo máximo de x dias.
+
+Segue a imagem com o esboço da minha proposta, acho que partindo dai pra melhorar a idéia e, gradualmente, ir formalizando os fluxos
+
+Acho que o foco por enquanto tem que ser o GTI, até pra que ele tenha uma idéia do que ele precisa se concentrar
+
+![][1]
+
+#### 3
+
+Kristian, eu não acho que to inventando a roda aqui, sei que qualquer pessoa poderia pensar em um formulário e sei que provavelmente vocês ja criaram formularios antes. Eu simplesmente to resumindo aqui um diagnóstico e uma conclusão geral que a gente conseguiu chegar na última reunião, a de que o GTI precisa de ajuda dos outros membros pra identificar quais são as demandas e de que é preciso maior integração entre os grupos de trabalho do partido.
+
+Outra coisa é o que a propria Lu comentou: a gente precisa listar em algum lugar quem são os membros de cada grupo de trabalho. Não precisa incluir todo mundo, mas pelo precisa ter um canal ou um responsável geral pras pessoas saberem quem elas podem pocurar caso precisem ou queiram fazer alguma ação.
+
+Essa é uma questão de natureza prática, tanto que eu não pretendo fazer nenhuma proposta formal aqui nessa thread, nem quero formalIzar esse fluxo no estatuto nem nada, nem quero inserir mais um mecanismo burocrático. Acho que a gente nem tem massa crítica de pessoas pra isso.
+
+Agora, se existe alguma diferença entre essa proposta e outras é exatamente que eu estou tentando incluir mais accountabilities nas ações do Partido, pois à partir do momento que ele fizesse uma proposta por meio desse formulário ele consequentemente se tornaria responsável por ele.
+
+Se a gente consguisse implementar essa prática, mesmo que de forma limitada e restrita no começo, ajudaria a orientar outras praticas consequentes.
+
+
+
+[1]: https://loomio-attachments.s3.amazonaws.com/uploads/e89ab14d959fc3db128c970c8cd333f3/Untitled%20presentation.png
