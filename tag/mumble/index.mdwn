@@ -1,0 +1,4 @@
+[[!meta title="pages tagged mumble"]]
+
+[[!inline pages="tagged(mumble)" actions="no" archive="yes"
+feedshow=10]]
