@@ -1,0 +1,4 @@
+[[!meta title="pages tagged gtc"]]
+
+[[!inline pages="tagged(gtc)" actions="no" archive="yes"
+feedshow=10]]
