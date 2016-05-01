@@ -84,3 +84,5 @@
 [[!inline pages="tarefa/* and !tagged(encerrada) and !tarefa/discussao and !tarefa/*/* and tagged(gti)" archive=yes]]
 
 [[!meta title="GTI" description="Grupo de Trabalho Tecnologia da Informação"]]
+
+[[!tag gti]]
