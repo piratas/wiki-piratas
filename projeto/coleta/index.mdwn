@@ -18,8 +18,6 @@ A proposta é regularizar um GT no Partido Pirata que seja responsável pela coo
 
 ### Reuniões
 
-Tentativa de dia e horario de reuniao => Segunda-feria dia 25 de Abril 2016 as 21h (horario de Brasilia)
-
 ### Grupo no telegram
 
 > <https://telegram.me/coletaassinaturaspiratasbr>
@@ -33,6 +31,7 @@ Tentativa de dia e horario de reuniao => Segunda-feria dia 25 de Abril 2016 as 2
 ## Pendências
 
 ### Precisamos das seguintes informações:
+### Acho que podemos tirar essa seção daqui; não é informação relevante para quem vai apoiar ou coletar, mas sim questões que a organização da coleta deve dar respostas nos respectivos espaços.
 
 * O normativo do TSE vale para o Partido Pirata? Como podemos garantir? Através de consulta ao TSE?
 * Como funciona o sistema online do TSE? Quem pode cadastrar as assinaturas? Precisaremos da assinatura do secretário geral para nos cadastrarmos? Neste caso, seria preciso oficializar Daniel Prazeres e Paulo Crossara como secretários do Partido Pirata.
@@ -59,17 +58,20 @@ Devemos realizar varias estratégias paralelamente, para garantir máxima efetiv
 
 Existe um [[esforço em andamento|/tarefa/Hotsite_para_coleta_de_assinatura]] para fazer um site.
 
-### Elegibilidade e protocolagem
+---
 
+### Elegibilidade e protocolo
+
+* As assinaturas devem ser protocoladas nos TRE's e não no TSE. O coletivo/diretório estadual deve ser responsável por validar as fichas de seu estado no sistema do TSE e protocolar no seu respectivo TRE.
+* Precisaremos constituir diretórios provisórios nesses estados?
+     Para isso é preciso fazer uma assembleia estadual, com estatuto de diretório, ata e lista de presença reconhecidos em cartório.
+     Paulo Rená (GTJ) se disponibilizou a preparar um modelo de estatuto genérico que servira para todos os estados. Para isso ele pediu um estatuto de qualquer estado, para usar como base.
+    Talvez não seja preciso. Talvez baste o responsável geral informar a cada respectivo TRE quem será a comissão  provisória ou pessoas responsáveis para obtenção  do apoiamento nos cartórios eleitorais em cada Estado.
 * Protocolar as assinaturas à medida que forem coletadas; não deixar tudo para ultima hora!
-
-* Cada coletivo insere no sistema suas assinaturas e envia para os demais as respectivas (pois quando coletamos, vem assinaturas de outros estados tb)
-
-* Precisamos de um mínimo de 9 estados, é isso? Precisaremos constituir diretórios provisórios nesses estados, confere?
-
-* Plenário do TSE aceitou registro do NOVO, valendo regras antigas à nova lei da criação de partidos. Porem o registro do NOVO se deu antes da resolução de Dez/2015. <http://www.tse.jus.br/imprensa/noticias-tse/2015/Setembro/plenario-do-tse-aprova-pedido-de-registro-do-partido-novo>
-
-* Pode recolher assinatura de quem eh de outro partido?
+* Conforme as assinaturas forem sendo coletadas em um determinado estado, pessoas de outros estados também apoiam. Nesse caso, é preciso enviar as assinaturas pelos correios para o respectivo estado. Cada coletivo insere no sistema suas fichas e envia para os demais as respectivas.
+* Precisamos de um mínimo de 9 estados protocolando fichas de apoiamento. 
+* Não serão aceitos apoiamentos assinados por filiados a outros partidos, segundo a resolução 23.465.
+* Sistema de validaçao do TSE: http://www.tse.jus.br/partidos/partidos-politicos/sistema-de-apoiamento-a-partidos-em-formacao-sapf
 
 ---
 
