@@ -1,0 +1,33 @@
+Para que tornemos a encontrar o servidor do mumble em **mumble.partidopirata.org**, entre outros serviços abaixo listados, é necessário alterar os registros CNAME de subdomínios do arquivo de zona DNS do domínio **partidopirata.org**:
+
+#### biblioteca
+
+De:
+
+    biblioteca 10800 IN CNAME biblioteca.piratas.iikb.org.
+
+Para:
+
+    biblioteca 10800 IN CNAME biblioteca.piratas.iikb.xyz.
+
+#### iuf
+
+De:
+
+    iuf 10800 IN CNAME iuf.piratas.iikb.org.
+
+Para:
+
+    iuf 10800 IN CNAME iuf.piratas.iikb.xyz.
+
+#### mumble
+
+De:
+
+    mumble 10800 IN CNAME mumble.piratas.iikb.org.
+
+Para:
+
+    mumble 10800 IN CNAME mumble.piratas.iikb.xyz.
+
+**Status:** Já pedi pro pertinente.
