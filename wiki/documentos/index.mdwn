@@ -1,17 +1,19 @@
-[[Estatuto]]
+[[!toc levels=6]]
 
-[[Programa]]
+#### [[Estatuto]]
 
-[[wiki/documentos/Carta]]
+#### [[Programa]]
 
-[[Manifesto]]
+#### [[wiki/documentos/Carta]]
 
-[[Diretrizes]]
+#### [[Manifesto]]
 
-[[Notas Oficiais]]
+#### [[Diretrizes]]
 
-[[Vídeos Explicativos]]
+#### [[Notas Oficiais]]
 
-[[Ficha de Apoiamento|ficha]]
+#### [[Vídeos Explicativos]]
+
+#### [[Ficha de Apoiamento|ficha]]
 
 [[!meta title="Documentos"]]
