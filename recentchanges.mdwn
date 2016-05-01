@@ -1,0 +1,8 @@
+[[!if test="enabled(meta)" then="""
+[[!meta title="Mudanças Recentes"]]
+"""]]
+
+Mudanças recentes neste site:
+
+[[!inline pages="internal(recentchanges/change_*) and !*/discussao" 
+template=recentchanges show=0]]
