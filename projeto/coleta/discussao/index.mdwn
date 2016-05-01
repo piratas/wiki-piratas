@@ -1,1 +1,6 @@
 Usa a página de discussão e segue o teu conselho, paranaense
+
+## Pendências
+
+> Acho que podemos tirar essa seção daqui; não é informação relevante para quem vai apoiar ou coletar, mas sim questões que a organização da coleta deve dar respostas nos respectivos espaços. --[[leonardo]]
+>> Sim, a ideia é formatar a página só com informação útil e mover para `wiki/coleta`. Enquanto estiver como **projeto**, a edição é livre e caótica mesmo.
