@@ -18,12 +18,20 @@ Este site está disponível em:
 
 # Ferramentas
 
-[[!map pages="blog or forum or tarefas or projetos or (wiki or wiki/*) and !*/discussao" show=title]]
+[[!map pages="blog or forum or tarefas or projetos or reuniões or (wiki or wiki/*) and !*/discussao" show=title]]
 
 [0]: http://partidopirata.org
 
 [[!sidebar content="""
-**Importante**
+**Projetos importantes**
 
 [[Coleta de assinaturas|projeto/coleta]]
+
+---
+
+[[Reuniões]]
+
+[[Notícias|blog]]
+
+[[Tarefas]]
 """]]
