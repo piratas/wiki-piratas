@@ -1,1 +1,1 @@
-[[!map pages="reuniao/* and ! reuniao/*/*"]]
+[[!meta redir=reuniões]]
