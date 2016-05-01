@@ -31,3 +31,5 @@ Para:
     mumble 10800 IN CNAME mumble.piratas.iikb.xyz.
 
 **Status:** Já pedi pro pertinente.
+
+[[!tag gti]]
