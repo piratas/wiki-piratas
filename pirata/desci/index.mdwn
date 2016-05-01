@@ -14,7 +14,3 @@
 
 * <https://duckduckgo.com/?q=desci+site%3Apartidopirata.org>
 * <https://duckduckgo.com/?q=desobediente+civil+site%3Apartidopirata.org>
-
-## Contribuições neste site
-
-[[!inline pages="(* or user(desci))"]]
