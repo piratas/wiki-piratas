@@ -6,11 +6,11 @@ Para criticar ou problematizar publicações, use o recurso de discussão
 
 ---
 
-[[!inline pages="page(./blog/posts/*) and !*/discussion" show="15"
-actions=yes rootpage="blog/posts"]]
+[[!inline pages="page(./blog/post/*) and !*/discussao" show="15"
+actions=yes rootpage="blog/post"]]
 
 [[!sidebar content="""
-[[!calendar  type="month" pages="blog/posts/* and !*/discussion"]]
+[[!calendar  type="month" pages="blog/post/* and !*/discussao"]]
 """]]
 
-[[!meta title="Blog" description="Este seria um espaço pra blog mesmo, ainda não é útil porque o partido pirata tem um blog no próprio site."]]
+[[!meta title="Blog"]]
