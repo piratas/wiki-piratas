@@ -1,40 +1,42 @@
-# Próxima reunião
+# Grupo de Trabalho Tecnologia da Informação
+
+## Próxima reunião
 
 **Domingo, 1º de maio de 2016 no [mumble](https://mumble.partidopirata.xyz)**
 
 ---
 
-# Ferramentas
+## Ferramentas
 
-## Etherpad
+### Etherpad
 
-> <https://pad.riseup.net/p/gti2016>
+<https://pad.riseup.net/p/gti2016>
 
-## Loomio
+### Loomio
 
-> <https://www.loomio.org/g/JDmI4ZKv/>
-
-## Github
-
-> <https://github.com/piratas/gti>
-
-## Taiga
-
-> <https://tree.taiga.io/project/tipirata>
-
-## Hospedagem GIT
-
-### Notabug
-
-> <https://notabug.org/piratas>
-
-### Gitlab
-
-> <https://gitlab.com/piratas>
+<https://www.loomio.org/g/JDmI4ZKv/>
 
 ### Github
 
-> <https://github.com/piratas>
+<https://github.com/piratas/gti>
+
+### Taiga
+
+<https://tree.taiga.io/project/tipirata>
+
+### Hospedagem GIT
+
+#### Notabug
+
+<https://notabug.org/piratas>
+
+#### Gitlab
+
+<https://gitlab.com/piratas>
+
+#### Github
+
+<https://github.com/piratas>
 
 ---
 
