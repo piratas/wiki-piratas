@@ -1,6 +1,6 @@
 # Coleta de Assinaturas para registro do Partido Pirata no TSE
 
-> `Evitem usar a wiki como pad, especialmente porque o pad está sendo usado para tal função. As informações aqui estão desatualizadas.`
+> `Evitem usar a wiki como pad, especialmente porque o pad está sendo usado para tal função. Use a página de [[discussão|discussao]] para este fim. As informações aqui estão desatualizadas.`
 
 [[!toc levels=6]]
 
@@ -18,20 +18,19 @@ A proposta é regularizar um GT no Partido Pirata que seja responsável pela coo
 
 ### Reuniões
 
-### Grupo no telegram
+#### Grupo no telegram
 
-> <https://telegram.me/coletaassinaturaspiratasbr>
+<https://telegram.me/coletaassinaturaspiratasbr>
 
-### GT Jurídico no telegram
+#### GT Jurídico no telegram
 
-> <https://telegram.me/gtjApoiamentoPirata>
+<https://telegram.me/gtjApoiamentoPirata>
 
 ---
 
 ## Pendências
 
 ### Precisamos das seguintes informações:
-### Acho que podemos tirar essa seção daqui; não é informação relevante para quem vai apoiar ou coletar, mas sim questões que a organização da coleta deve dar respostas nos respectivos espaços.
 
 * O normativo do TSE vale para o Partido Pirata? Como podemos garantir? Através de consulta ao TSE?
 * Como funciona o sistema online do TSE? Quem pode cadastrar as assinaturas? Precisaremos da assinatura do secretário geral para nos cadastrarmos? Neste caso, seria preciso oficializar Daniel Prazeres e Paulo Crossara como secretários do Partido Pirata.
@@ -40,7 +39,7 @@ A proposta é regularizar um GT no Partido Pirata que seja responsável pela coo
 
 ---
 
-## [[Estratégias]]
+#### [[Estratégias]]
 
 Devemos realizar varias estratégias paralelamente, para garantir máxima efetividade. 
 
@@ -48,11 +47,11 @@ Devemos realizar varias estratégias paralelamente, para garantir máxima efetiv
 
 ## Materiais de Apoio
 
-### [[projeto/coleta/Cartilha_do_Apoiamento]]
+#### [[Cartilha_do_Apoiamento]]
 
 ### Cartaz para pontos de coleta
 
-### [[Ficha de apoiamento|wiki/documentos/ficha]]
+#### [[Ficha de apoiamento|wiki/documentos/ficha]]
 
 ### Hotsite
 
@@ -63,10 +62,12 @@ Existe um [[esforço em andamento|/tarefa/Hotsite_para_coleta_de_assinatura]] pa
 ### Elegibilidade e protocolo
 
 * As assinaturas devem ser protocoladas nos TRE's e não no TSE. O coletivo/diretório estadual deve ser responsável por validar as fichas de seu estado no sistema do TSE e protocolar no seu respectivo TRE.
-* Precisaremos constituir diretórios provisórios nesses estados?
-     Para isso é preciso fazer uma assembleia estadual, com estatuto de diretório, ata e lista de presença reconhecidos em cartório.
-     Paulo Rená (GTJ) se disponibilizou a preparar um modelo de estatuto genérico que servira para todos os estados. Para isso ele pediu um estatuto de qualquer estado, para usar como base.
-    Talvez não seja preciso. Talvez baste o responsável geral informar a cada respectivo TRE quem será a comissão  provisória ou pessoas responsáveis para obtenção  do apoiamento nos cartórios eleitorais em cada Estado.
+
+> Precisaremos constituir diretórios provisórios nesses estados?
+>> Para isso é preciso fazer uma assembleia estadual, com estatuto de diretório, ata e lista de presença reconhecidos em cartório.
+>> Paulo Rená (GTJ) se disponibilizou a preparar um modelo de estatuto genérico que servira para todos os estados. Para isso ele pediu um estatuto de qualquer estado, para usar como base.
+>> Talvez não seja preciso. Talvez baste o responsável geral informar a cada respectivo TRE quem será a comissão  provisória ou pessoas responsáveis para obtenção  do apoiamento nos cartórios eleitorais em cada Estado.
+
 * Protocolar as assinaturas à medida que forem coletadas; não deixar tudo para ultima hora!
 * Conforme as assinaturas forem sendo coletadas em um determinado estado, pessoas de outros estados também apoiam. Nesse caso, é preciso enviar as assinaturas pelos correios para o respectivo estado. Cada coletivo insere no sistema suas fichas e envia para os demais as respectivas.
 * Precisamos de um mínimo de 9 estados protocolando fichas de apoiamento. 
@@ -77,13 +78,13 @@ Existe um [[esforço em andamento|/tarefa/Hotsite_para_coleta_de_assinatura]] pa
 
 ## Acompanhamento do andamento das assinaturas
 
-### Sistema (ou planilha) para acompanhamento, 
+### Sistema (ou planilha) para acompanhamento
 
 * Uma aba para cada estado
-
 * Cada estado informar quantas assinaturas tem de outros estados também (pois acaba-se coletando assinaturas de gente de outros estados junto, ja que as pessoas viajam)
 
-Como seria feita a coleta de assinatura? Apenas assinaturas? Nome completo, numero do titulo de elitor mais a assinatura? Isso seria numa folha com várias linhas iguais para serem assinadas? Veja o ponto (Ficha de Apoiamento) acima
+> Como seria feita a coleta de assinatura? Apenas assinaturas? Nome completo, numero do titulo de elitor mais a assinatura? Isso seria numa folha com várias linhas iguais para serem assinadas?
+>> Veja o ponto (Ficha de Apoiamento) acima
 
 A coleta poderá ser realizada individualmente. Em coletivos que encontram-se em formação, como o de SC, Piratas devem coletar assinaturas através de seus contatos e comunidades em que estejam inseridos. Talvez organizar um micro evento em algum espaço de coworking com o tema Democracia Líquida - o caso do Partido Pirata.
 
@@ -95,15 +96,15 @@ A coleta poderá ser realizada individualmente. Em coletivos que encontram-se em
 
 Pra quem não sabe, nosso CNPJ é **21.941.628/0001-61**
 
-https://loomio-attachments.s3.amazonaws.com/uploads/ffc0226d9547b97b830bf6deffd3f512/Cart%C3%A3o%20CNPJ%20Pirata.pdf
+<https://loomio-attachments.s3.amazonaws.com/uploads/ffc0226d9547b97b830bf6deffd3f512/Cart%C3%A3o%20CNPJ%20Pirata.pdf>
 
-http://partidopirata.org/partido-pirata-obtem-decisao-judicial-inedita-contra-caixa-2/
+<http://partidopirata.org/partido-pirata-obtem-decisao-judicial-inedita-contra-caixa-2/>
 
 ### Legislação
 
 * Lei nº 13.165/2015, publicada em 29.9.2015
-* http://www.planalto.gov.br/ccivil_03/LEIS/L9096.htm
-* http://chimera.tse.jus.br/legislacao-tse/res/2015/RES234652015.htm
+* <http://www.planalto.gov.br/ccivil_03/LEIS/L9096.htm>
+* <http://chimera.tse.jus.br/legislacao-tse/res/2015/RES234652015.htm>
 
 ---
 
