@@ -1,0 +1,56 @@
+Como o [[conserto das zonas dns|tarefa/Redirecionar_domínios]] provavelmente vai demorar, é necessário alterar no [site do partido pirata](http://partidopirata.org) a página inicial e a [página do mumble](http://partidopirata.org/mumble-pirata/) para refletir o [[domínio atual sendo utilizado|blog/post/Mumble_e_biblioteca_mudaram_de_lugar]].
+
+E-mail enviado em 22 de Abril de 2016 para **comunicacao@partidopirata.org**:
+
+    Date: Fri, 22 Apr 2016 08:49:57 -0300
+    From: Iuri Guilherme <iuri@***>
+    To: comunicacao@partidopirata.org
+
+---
+
+    -----BEGIN PGP SIGNED MESSAGE-----
+    Hash: SHA256
+    
+    Em decorrência de um [domínio
+    expirado](https://dev.iikb.xyz/blog/posts/Dom%C3%ADnio_iikb.org_expirou/),
+    
+    e somando ao fato de que já foi solicitado que sejam feitas alterações
+    na zona dns de partidopirata.org conforme
+    https://dev.iikb.xyz/tarefa/Redirecionar_todos_dom%C3%ADnios/#index2h3
+    
+    É improvável que em um curto prazo o mumble.partidopirata.org aponte
+    para o lugar certo.
+    
+    Neste caso, faz-se necessário atualizar a publicação
+    http://partidopirata.org/mumble-pirata/
+    
+    Para refletir o aviso que eu tenho enviado no loomio e no telegram: que
+    usem
+    
+    mumble.partidopirata.xyz
+    
+    ao invés de
+    
+    mumble.partidopirata.org
+    
+    de forma paliativa, temporária e alternativa.
+    
+    - -- 
+    iuri.neocities.org
+    -----BEGIN PGP SIGNATURE-----
+    Version: GnuPG v2
+    
+    iQIcBAEBCAAGBQJXGg/mAAoJEEqo1cNj5uMHj+YQAMc153gAmRAqL8KG0FvjRJ7X
+    zQLE0mmPKUV1WE2RSb4uTFjOFQgdt/ursIv5h86o8Db0ko/7jO2HmVRTF65uGBHf
+    AXY+DrWokIkHDhqDq3YkMKG+Sh3N1kzFsP9KYpTupxHyep0UHP+bYJeYliq5dyDa
+    XoKZFZtStiKAomZljy9hLics1aGDRxVMIWKpp3e6at7IjyoQj1ZA3PDxVXa42gzP
+    +BZJGncDyGJRCQNmiPAaC+xH8k3lcAvhA6Sp6kqpJCZcs0QCH3K4kT7x6zS1rw7G
+    v9fgn5uIrpBtadEVmu1yud/CVbHbHkrR6V4736YIXRgv5jKJT+9m74UJEua38Ypr
+    pQ4RkOTs+S8fnGfN+nQQWvuqvBZo3B6uBQFa5DlrzXA11zxN68SzSv+m65x1hSWF
+    xxTEHGtd/0Kbd+GkBS6Ro1DqIwLBw1TjiHW48tqIMxBXaO5tY//yZ1LbZeiyfGna
+    H+/QdQzhkTNiUkRm24TdjbnLc+GTppe665qUOGqUQzYy+ydLG0kV3o6gan1Wf64M
+    ls/TWthiXE6IPzWQx2TGlEiCajRdJGdMvCV+piDrRrxNK3jjhie0uCPtsYrVhyKM
+    qlbxW0spaLhqKE+Se1A83l/QZUkZGQzfamb+FkWUwZIqqXc06WvEnbyPO/XyOHx1
+    pE+atDZKNsgIblMyD3Ck
+    =Y1JH
+    -----END PGP SIGNATURE-----
