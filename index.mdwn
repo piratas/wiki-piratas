@@ -14,6 +14,12 @@ Este site está disponível em:
 * <https://piratas.xyz>
 * <https://pirata.xyz> `mentira, domínio expirou`
 
+O código fonte deste site está disponível em:
+
+* <https://notabug.org/piratas/partidopirata.xyz>
+* <https://gitlab.com/piratas/partidopirata.xyz>
+* <https://github.com/piratas/partidopirata.xyz>
+
 ---
 
 # Ferramentas
