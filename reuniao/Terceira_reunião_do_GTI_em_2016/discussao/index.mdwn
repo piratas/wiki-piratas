@@ -1,12 +1,89 @@
-## Pauta
+## Pauta proposta
 
 * Escolha do articulador
 * Situação do regimento interno
 * Acesso aos recursos do partido
 * Situação da infraestrutura
 * Grupo do loomio
-* Doce de coco
+
+---
 
 ## Relatoria
 
+### Regimento interno
+
+#### Art 5
+
+Corvolino quer remover
+
+Não é uma metodologia de trabalho eficaz o articulador ficar delegando funçoes para pessoas que não cumprirão
+
+#### Art 7, §3º
+
+Corvolino problematizou a necessidade de três pessoas e 50% dos membros efetivos para deliberações
+
+É necessário regulamentar o uso de métodos de deliberação assíncrono
+
+#### Encaminhamento
+
+Pontos do regimento serão reescritos, e apresentados no Loomio (grupo geral e aberto do partido pirata) com prazo de 15 dias para ser consolidado e aprovado.
+
+### Sistematização do trabalho do GTI
+
+É necessário melhorar a comunicaçao interna do GTI com os outros órgãos do partido. E dos outros órgãos do partido com o GTI. A informação tem de ser compartilhada.
+
+### Escolha do articulador
+
+#### candidatos para articulador:
+
+* desci
+
+corvolino começou a contabilizar os votos
+
+* corvolino - abstenção
+* bin - vota no desci
+* desci - por Satanás, abstenção
+* lfamorim - vota no desci
+* Lucianadrs - vota no desci
+* Renata - vota no desci
+
+desci aceitou o cargo, agradeceu o reconhecimento e confiança depositados e afirma que fará o melhor possível em nome de Beelzebub
+
+### Foco do GTI
+
+Houve uma discussão sobre qual deveria ser o foco do GTI daqui pra frente.
+
+Há teses convergentes e divergentes, nada que mereça ser documentado para não gerar animosidades.
+
+### Demandas
+
+#### E-mail do GTI
+
+`suporte@partidopirata.org` - quem tem acesso?
+
+É necessário ter um e-mail do GTI para que as pessoas poderem ter acesso ao GTI.
+
+#### Lista de e-mails
+
+desci citou a experiência da coordenação sudeste e a lista de e-mails para recebimento e resposta dos e-mails, diz que não funcionou na coordenação sudeste, mas a ideia é implementar isto no gti.
+
+### Infraestrutura de TI do Partido Pirata:
+
+#### Lista preliminar e suja
+
+* 2 servidores virtuais que o GTI conseguiu por volta de 2009-2012 (suecia 1 e 2)
+* wiki.partidopirata.org
+* Servidor de e-mail do Google Mail
+* Servidor doado pelo Felipe Bombardelli, administrado por ele e pelo desci, onde estão os projetos em desevolvimento
+* Site do coletivo mineiro não está em servidor do partido
+* PiratasGaúchos está em servidor e domínio pago e mantido por um pirata gaúcho
+* PartidoPirata.org está no servidor do Marcelo, que não quer mais manter o servidor - ele também tem acesso ao domínio
+* Tem vários sites que são organizados de forma autônoma e sem muita conversa e transparência
+
+Corvolino: com a infraestrutura que temos, é possível fazer subdomínios para cada coletivo?
+
+---
+
 ## Próxima reunião
+
+**25 de maio de 2016, 22:00**
