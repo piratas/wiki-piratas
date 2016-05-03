@@ -10,29 +10,29 @@ Caso não concorde com alguma coisa, problematize na [[discussão|discussao]] da
 
 # Organização
 
-## [[Secretaria Geral]]
+#### [[Secretaria Geral]]
 
-### [[Tesouraria Nacional]]
+#### [[Tesouraria Nacional]]
 
-### [[Gestão de Crises]]
+#### [[Gestão de Crises]]
 
 ## Grupos de trabalho
 
-### [[GTC]] - Grupo de Trabalho de Comunicação
+#### [[GTC]] - Grupo de Trabalho de Comunicação
 
-### [[GTI]] - Grupo de Trabalho de Tecnologia da Informação
+#### [[GTI]] - Grupo de Trabalho de Tecnologia da Informação
 
-### [[GTJ]] - Grupo de Trabalho Jurídico
+#### [[GTJ]] - Grupo de Trabalho Jurídico
 
 ## Grupos Setoriais
 
-### Bucaneiras
+#### Bucaneiras
 
 ---
 
 # Material
 
-## [[Documentos]]
+#### [[Documentos]]
 
 ---
 
