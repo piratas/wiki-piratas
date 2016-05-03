@@ -1,6 +1,6 @@
 Telegram é inseguro, não privativo e é código fechado.
 
-Utiliza-se no âmbito do [partido pirata][0] como alternativa ao feissebuqui.
+Utiliza-se no âmbito do [partido pirata](http://partidopirata.org) como alternativa ao feissebuqui.
 
 ### Canais públicos
 
