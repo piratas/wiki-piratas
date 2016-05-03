@@ -54,36 +54,7 @@ Pare de ler sobre mumble e venha experimentar pra saber do que se trata. Use com
 
 Para downloads, passo-a-passo e mais informações acesse os sites supracitados.
 
-## Telegram
-
-Telegram é inseguro, não privativo e é código fechado.
-
-Utiliza-se no âmbito do [partido pirata][0] como alternativa ao feissebuqui.
-
-### Canais públicos
-
-Os canais públicos estão em desuso por desinteresse.
-
-* [PiratasBr](https://telegram.me/partidopiratabr)
-* [Piratas Centro-Oeste](https://telegram.me/piratas_centrooeste)
-* [Piratas Nordeste](https://telegram.me/piratas_nordeste)
-* [Piratas Norte](https://telegram.me/piratas_norte)
-* [Piratas Sudeste](https://telegram.me/piratas_sudeste)
-* [Piratas Sul](https://telegram.me/piratas_sul)
-
-### Grupos públicos
-
-Os grupos públicos estão atualmente em uso.
-
-* [Lounge Pirata](https://telegram.me/loungepirata)
-* [Super Grupo Pirata](https://telegram.me/piratasbr)
-
-### Pacotes de Stickers Públicos
-
-* [Pirata](https://telegram.me/addstickers/Pirata)
-* [PartidoPirata](https://telegram.me/addstickers/PartidoPirata)
-* [PartidoPirataBR](https://telegram.me/addstickers/PartidoPirataBR)
-* [Kopimi](https://telegram.me/addstickers/Kopimi)
+#### [[Telegram]]
 
 ---
 
