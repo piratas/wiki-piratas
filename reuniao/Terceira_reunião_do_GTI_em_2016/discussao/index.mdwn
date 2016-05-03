@@ -69,21 +69,20 @@ desci citou a experiência da coordenação sudeste e a lista de e-mails para re
 
 ### Infraestrutura de TI do Partido Pirata:
 
-#### Lista preliminar e suja
+corvolino questionou o então eleito articulador desci acerca da situação da infraestrutura do GTI. desci argumentou livremente acerca do mapeamento mental da infraestrutura e Renata elaborou uma lista dos pontos principais:
 
-* 2 servidores virtuais que o GTI conseguiu por volta de 2009-2012 (suecia 1 e 2)
-* wiki.partidopirata.org
-* Servidor de e-mail do Google Mail
-* Servidor doado pelo Felipe Bombardelli, administrado por ele e pelo desci, onde estão os projetos em desevolvimento
-* Site do coletivo mineiro não está em servidor do partido
-* PiratasGaúchos está em servidor e domínio pago e mantido por um pirata gaúcho
-* PartidoPirata.org está no servidor do Marcelo, que não quer mais manter o servidor - ele também tem acesso ao domínio
-* Tem vários sites que são organizados de forma autônoma e sem muita conversa e transparência
+* 2 servidores virtuais que o GTI conseguiu por volta de 2009-2012 (suecia 1 e 2), do partido pirata sueco, atualmente somente servindo **wiki.partidopirata.org** que está quebrada e expondo os arquivos em texto plano;
+* Servidor de e-mail do Google Mail (registros MX da zona de domínio);
+* Servidor doado pelo Felipe Bombardelli, administrado por este e pelo desci, onde estão os projetos em desevolvimento (mumble, biblioteca, piratas.xyz, etc.);
+* Site do coletivo mineiro (**partidopiratamg.org**) não está em servidor do partido, sendo mantido de forma autônoma e independente pelo coletivo. Site **mg.movimentopirata.xyz** no servidor do Felipe supracitado;
+* PiratasGaúchos está em servidor e domínio pagos e mantido por um pirata gaúcho;
+* PartidoPirata.org foi movido do servidor sueco e está em servidor do Marcelo HK, que não quer mais manter o servidor - ele também tem acesso ao domínio **partidopirata.org**;
+* Tem vários sites que são organizados de forma autônoma, independente e sem muita transparência pública junto ao partido, como por exemplo o **saopaulo.partidopirata.org**;
 
-Corvolino: com a infraestrutura que temos, é possível fazer subdomínios para cada coletivo?
+Corvolino questionou se com a infraestrutura que temos, é possível fazer subdomínios para cada coletivo. desci argumento que é possível, vide exemplo de **pr.partidopirata.org**, e que pode ser aplicado, contudo, que coletivos não deveriam ser forçados a aderir a esta padronização.
 
 ---
 
 ## Próxima reunião
 
-**25 de maio de 2016, 22:00**
+**Quarta feira, 25 de maio de 2016, 22:00**
