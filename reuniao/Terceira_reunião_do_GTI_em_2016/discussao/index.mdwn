@@ -81,6 +81,12 @@ corvolino questionou o então eleito articulador desci acerca da situação da i
 
 Corvolino questionou se com a infraestrutura que temos, é possível fazer subdomínios para cada coletivo. desci argumento que é possível, vide exemplo de **pr.partidopirata.org**, e que pode ser aplicado, contudo, que coletivos não deveriam ser forçados a aderir a esta padronização.
 
+### Grupo do Loomio
+
+Foi esclarecido que um [subgrupo no loomio](https://gti.partidopirata.xyz/loomio) foi criado para o GTI, que o então articulador do GTC foi adicionado naquele grupo para manualmente convidar por e-mail as pessoas que se cadastraram para formarem o GTI no [formulário](http://partidopirata.org/chamada-aberta-para-os-grupos-de-trabalho/). Como consequência disto, o então articulador do GTC enviou por e-mail pessoal ao desci a relação dos e-mails em questão. desci se comprometeu a repassar os e-mails em questão ao articulador desci, assim que decidir qual é a melhor forma de fazer isto.
+
+Para além disto, foi retomada a discussão que havia sido começada [no github e telegram](https://github.com/piratas/gti/issues/16) acerca dos critérios para incluir pessoas no subgrupo do loomio e de forma geral no GTI. corvolino argumentou que era desejável que as pessoas fossem inseridas diretamente no grupo de telegram e posteriormente, após se familiarizarem e serem conhecidas e reconhecidas pelas demais pessoas, fossem adicionadas no loomio. desci discordou mas não se pronunciou na ocasião, deixou pra escrever aqui na ata agora.
+
 ---
 
 ## Próxima reunião
