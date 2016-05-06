@@ -1,3 +1,7 @@
+Publicado em <https://www.loomio.org/d/tCudFTOJ/relatoria-reuni-o-gti-1-de-maio-de-2016>
+
+---
+
 ## Pauta proposta
 
 * Escolha do articulador
@@ -92,3 +96,79 @@ Para além disto, foi retomada a discussão que havia sido começada [no github 
 ## Próxima reunião
 
 **Quarta feira, 25 de maio de 2016, 22:00**
+
+---
+
+## E-mail para Secretaria Geral
+
+    From: Iuri Guilherme <iuri@***>
+    To: secretariageral@partidopirata.org
+    Cc: suporte@partidopirata.org, contato@partidopirata.org
+    Subject: Reformulação do GTI
+    Date: Thu, 5 May 2016 22:14:50 -0300
+    Organization: igreja insurgente Kopimista Brasileira
+
+--
+
+    -----BEGIN PGP SIGNED MESSAGE-----
+    Hash: SHA256
+    
+    Informo que em reunião dia 1º de Maio de 2016, convocada com 60 dias de
+    antecedência, esteve reunido o Grupo de Trabalho Tecnologia da
+    Informação - GTI em reformulação do Partido Pirata - PIRATAS.
+    
+    A relatoria da reunião supracitada está disponível em
+    https://partidopirata.xyz/reuniao/Terceira_reuni%C3%A3o_do_GTI_em_2016/discussao/
+    e em
+    https://www.loomio.org/d/tCudFTOJ/relatoria-reuni-o-gti-1-de-maio-de-2016
+    
+    Entre outros encaminhamentos, foi acordado, conforme orientação das
+    outras duas reuniões do novo GTI no ano de 2016, que eu, Iuri
+    Guilherme, associado pleno, identificado nesta reunião como "desci",
+    sou o articulador do GTI.
+    
+    *OBS: Um beijinho pros recalcados.*
+    
+    Além disto, foi acordado que o regimento interno do GTI vai ser
+    alterado conforme as orientações da reunião e colaborações e sugestões
+    feitas por interessadas(os), e disponibilizado na ferramenta de
+    deliberação do PIRATAS (Loomio) para apreciação e aceitação, com um
+    prazo de 15 dias para contestação.
+    
+    Na qualidade de articulador, reitero que membros do GTI e de forma
+    geral, pessoas envolvidas em torno do GTI estão demandando acesso aos
+    recursos computacionais, em especial os relacionados à administração do
+    nome de domínio oficial do partido e aos servidores virtuais do partido
+    sueco (sic) para este novo GTI. Endosso esta reivindicação
+    pessoalmente, conforme já relatei em outra oportunidade.
+    
+    Estou certo que é consenso entre vossas excelências de que o GTI é uma
+    ferramenta de suma importância para o bom funcionamento desta
+    instituição, e para além de legitimar mais uma instituição partidária
+    (todas elas umas merdas), é também de suma importância para o movimento
+    pirata, que está acima de uma instituição partidária (de merda).
+    
+    Portanto, confio que esta situação será resolvida de foma tranquila
+    para as(os) envolvidas(os) e favorável para o Partido.
+    
+    Sois vós.
+    
+    - -- 
+    iuri.neocities.org
+    -----BEGIN PGP SIGNATURE-----
+    Version: GnuPG v2
+    
+    iQIcBAEBCAAGBQJXK/ALAAoJEEqo1cNj5uMHlF0QAM8cfPtbb79dY8MNQMk04qT7
+    sENBwykSCTMHvebNz/gXxJl9V/uZy9ZuygX9qBHeDD1Kn27K8rbxbE1y3itKhXL9
+    rA29QvKK39nBzCAsQVjw37f94eAOU1JqSzhOGrbEBaif6fp6a940K9EwlC/CJzF7
+    FV8aLnaLx0orUWfK8vCEfQCfO/8qGn2PI2c5DhOxycsGU6nOgBuPg+pFsSenUnCQ
+    UZ2+VI28249+jBYrO51UY96N+yT1eYi88WwRDVQVFgAhyUbc61tGRHhyQqTV2pXZ
+    JxCdiCXG7uXSO/trnZuvya7TsuJ9OpJ046HMWmxSY0LcIRmtm7GwXA5sr41T6Faq
+    k3lAT0GyM+bMINF4xKPFbxMRbTpFJqS4VUhBoEIu+MBHW5zSdGb8KjQhcvG/n8Tm
+    mbQyIIjukKUBzKKjKE4yDXWg1MCxWruEprgKztEvY9wEM3CKNzs3fmytQwa5rN/2
+    owPJ53levNWnvgApXz9ycfn1igt5hMcxAKafUrY3dlh9ZEptgIa+58D3CTJJNJJT
+    ocl1b/FOd4KsIbVHDZGaztxI+tpnI1RnRfbmQNs8dfymlGez86reHKqhltmvxqAL
+    CxgbvxL51M9tq45dhudgwUURXXs8hg2NLzNwmFEz2/bMfeLK8A7QPyzVPneGH/4R
+    xeLEHJ52s5lnYaqYp7A9
+    =gLKK
+    -----END PGP SIGNATURE-----
