@@ -1,0 +1,10 @@
+Os domínios **iikb.org** e **pirata.xyz** [foram renovados](https://iikb.org/blog/post/Dom%C3%ADnios_renovados/), portanto, os seguintes serviços estão no ar normalmente e com SSL da [let's encrypt](https://letsencrypt.org):
+
+* **[mumble.partidopirata.org](https://mumble.partidopirata.org)**
+* **[biblioteca.partidopirata.org](https://biblioteca.partidopirata.org)**
+* **[iuf.partidopirata.org](https://iuf.partidopirata.org)**
+* **[social.pirata.xyz](https://social.pirata.xyz)**
+
+Todos estes serviços continuarão disponíveis sob o domínio **partidopirata.xyz**. Os domínios geralmente são renovados alternadamente, para que quando um saia do ar por falta de pagamento, tenha pelo menos outros dois disponíveis.
+
+Recentemente passamos a contar com o domínio **pirat.as**, então temos mais um na conta. Existia uma [lista antiga de domínios e recursos](https://we.riseup.net/partidopiratadobrasil/retomada-gti-2015) que deveria ser retomada e transposta para [[esta wiki|wiki]]. Quem quiser tomar a inciativa, sinta-se livre. Não se preocupe com formatação e etc. - algum(a) editor(a) vem e formata depois.
