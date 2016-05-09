@@ -1,0 +1,16 @@
+# Tarefas `encerradas`
+
+---
+
+[[!inline pages="tarefa/* and tagged(encerrada) and !tarefa/discussao and !tarefa/*/*" actions=yes archive=yes limit=15]]
+
+[[!sidebar content="""
+**[[[[!pagecount pages="tarefa/* and !tarefa/discussao and 
+!tagged(encerrada) and !tarefa/*/*"]] tarefas abertas|/tarefas]]**
+
+
+**[[!pagecount pages="/tarefa/* and !tarefa/discussao and 
+tagged(encerrada) and !tarefa/*/*"]] tarefas encerradas**
+"""]]
+
+[[!meta title="Tarefas encerradas"]]
