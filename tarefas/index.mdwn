@@ -2,9 +2,9 @@ Nesta página é possível sugerir ou registrar uma tarefa.
 
 É possível acompanhar as já cadastradas e propor sugestões, cobranças, e ideias.
 
----
+**Tarefas `abertas`**
 
-### Tarefas abertas
+---
 
 [[!inline pages="tarefa/* and !tagged(encerrada) and !tarefa/discussao and !tarefa/*/*"
 actions=yes archive=yes rootpage="tarefa" postformtext="Adicione uma nova tarefa:" limit=15]]
