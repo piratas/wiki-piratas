@@ -172,3 +172,5 @@ Para além disto, foi retomada a discussão que havia sido começada [no github 
     xeLEHJ52s5lnYaqYp7A9
     =gLKK
     -----END PGP SIGNATURE-----
+
+[[!tag gti]]
