@@ -12,7 +12,7 @@ Este site está disponível em:
 
 * <https://partidopirata.xyz>
 * <https://piratas.xyz>
-* <https://pirata.xyz> `mentira, domínio expirou`
+* <https://pirata.xyz>
 
 O código fonte deste site está disponível em:
 
