@@ -1,0 +1,4 @@
+[[!meta title="pages tagged social pirata"]]
+
+[[!inline pages="tagged(social_pirata)" actions="no" archive="yes"
+feedshow=10]]
