@@ -4,35 +4,39 @@ Mantenha opiniões pessoais na página de [[discussão|discussao]].
 
 Caso não concorde com alguma coisa, problematize na [[discussão|discussao]] da respectiva página.
 
+**Índice**
+
 [[!toc levels=6]]
+
+**Toda a wiki**
+
+[[!map pages="wiki or wiki/* and !*/discussao"]]
 
 ---
 
 # Organização
 
-#### [[Secretaria Geral]]
-
-#### [[Tesouraria Nacional]]
-
-#### [[Gestão de Crises]]
+* [[Secretaria Geral]]
+* [[Tesouraria Nacional]]
+* [[Gestão de Crises]]
 
 ## Grupos de trabalho
 
-#### [[GTC]] - Grupo de Trabalho de Comunicação
+* [[GTC]] - Grupo de Trabalho de Comunicação
 
-#### [[GTI]] - Grupo de Trabalho de Tecnologia da Informação
+* [[GTI]] - Grupo de Trabalho de Tecnologia da Informação
 
-#### [[GTJ]] - Grupo de Trabalho Jurídico
+* [[GTJ]] - Grupo de Trabalho Jurídico
 
 ## Grupos Setoriais
 
-#### Bucaneiras
+* [[Bucaneiras]]
 
 ---
 
 # Material
 
-#### [[Documentos]]
+[[Documentos]]
 
 ---
 
@@ -42,25 +46,9 @@ Estes meios de comunicação são tidos como extra oficiais pelo [partido pirata
 
 Não existe meio oficial de comunicação não unilateral no [partido pirata][0].
 
-## Mumble
+[[Mumble]]
 
-* <https://mumble.partidopirata.org> `fora do ar`
-* <https://mumble.partidopirata.xyz>
-* <https://mumble.pirata.xyz>
-
-Mumble é um software que serve para chat (texto), audioconferência e comunicação direta de pessoas. Além disto, ele serve para organização, interação e entretenimento.
-
-Pare de ler sobre mumble e venha experimentar pra saber do que se trata. Use com moderação. O Partido Pirata não é responsável pelas consequências do uso e do abuso deste serviço.
-
-Para downloads, passo-a-passo e mais informações acesse os sites supracitados.
-
-#### [[Telegram]]
-
----
-
-# Toda a wiki
-
-[[!map pages="wiki or wiki/* and !*/discussao"]]
+[[Telegram]]
 
 [0]: http://partidopirata.org
 
