@@ -1,0 +1,10 @@
+Mumble é um software que serve para chat (texto), audioconferência e comunicação direta de pessoas. Além disto, ele serve para organização, interação e entretenimento.
+
+Pare de ler sobre mumble e venha experimentar pra saber do que se trata. Use com moderação. O Partido Pirata não é responsável pelas consequências do uso e do abuso deste serviço.
+
+Para downloads, passo-a-passo e mais informações acesse os sites abaixo:
+
+* **[mumble.partidopirata.org](https://mumble.partidopirata.org)**
+* [mumble.partidopirata.xyz](https://mumble.partidopirata.xyz)
+* [mumble.pirata.xyz](https://mumble.pirata.xyz)
+* Zeronet: [17q6cP24qcfQUb8EH4jbyvZeZ68P7AEVUj](http://127.0.0.1:43100/17q6cP24qcfQUb8EH4jbyvZeZ68P7AEVUj) - *[gateway](https://zeronet.iikb.org/17q6cP24qcfQUb8EH4jbyvZeZ68P7AEVUj/)*
