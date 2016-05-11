@@ -65,9 +65,9 @@ Reuniões do GTI cadastradas nesta wiki em [[reuniões]] e marcadas com a `\[[!t
 
 ### Notícias
 
-Informes, [[notícias|/wiki/gti/noticias]], blogs, opiniões, relatos, *merda* no ventilador, tentativa de ganhar visibilidade, e liberdade de expressão de forma geral.
+Informes, [[notícias|/wiki/gti/notícias]], blogs, opiniões, relatos, *merda* no ventilador, tentativa de ganhar visibilidade, e liberdade de expressão de forma geral.
 
-> [[/wiki/gti/noticias]]
+> [[/wiki/gti/notícias]]
 
 ---
 
