@@ -1,36 +1,79 @@
 # Grupo de Trabalho Tecnologia da Informação
 
+Esta página se propõe a centralizar as informações relacionadas ao GTI. Informações que estiverem em outros lugares podem ser consideradas desatualizadas, sendo esta página a informação mais precisa possível.
+
+Esta página deve estar acessível através dos seguintes endereços:
+
+* **piratas.xyz/wiki/gti**
+* **partidopirata.xyz/wiki/gti**
+
+[[!toc levels=5 startlevel=2]]
+
+---
+
 ## Comunicação
+
+O GTI utiliza principalmente telegram e github para comunicação interna. Isto não é deliberação nem definição, é simplesmente o que naturalmente e organicamente acabou acontecendo. Quem quiser sugerir o uso de mais meios, sinta-se à vontade.
 
 ### Telegram
 
-#### Canal aberto (notícias, próxima reunião):
+#### Canal aberto:
+
+Este canal tem por finalidade servir como lembrete e meio de divulgação unilateral de notícias, informes e chamadas.
 
 <https://telegram.me/joinchat/ApLxJjzfzV5YTnTHO10GCQ>
 
 #### Grupo aberto:
 
+Este grupo tem por finalidade servir como bate papo e exposição de ideias, sendo uma ferramenta multilateral de comunicação.
+
 <https://telegram.me/joinchat/ApLxJgYl7nmk1LrPSnJqBg>
 
-## Reuniões
+### Github
 
-[[!inline pages="reuniao/* and !*/discussao and !reuniao/*/* and tagged(gti)" archive=yes]]
+Este espaço tem por finalidade servir como "rede social", "blog", organização de tarefas, registros e documentação, e nas horas vagas, como repositórios de projetos **git**.
 
-## Forum
+Este espaço está situado em um serviço comercial fora do controle do GTI ou do Partido Pirata e pode ter seu conteúdo apagado a qualquer momento por qualquer motivo alheio aos nossos interesses. Para usar, é necessário fazer conta em serviço comercial gratuito. O GTI não recomenda o uso destes serviços, sendo o ideal para repositórios GIT serviços menos comprometidos listados abaixo.
 
-[[!inline pages="forum/* and !*/discussao and !forum/*/* and tagged(gti)" archive=yes]]
+<https://github.com/piratas/gti>
 
-## Tarefas
+### Loomio
 
-[[!inline pages="tarefa/* and !tagged(encerrada) and !*/discussao and !tarefa/*/* and tagged(gti)" archive=yes]]
+Este ambiente tem como objetivo legitimar o uso do Partido do [loomio](https://loomio.org), ferramenta de deliberação que foi [adotada pelo Partido Pirata para construção da primeira Assembleia Nacional](http://partidopirata.org/partido-pirata-do-brasil-traduz-loomio-e-adota-a-ferramenta-em-carater-experimental-como-meio-de-deliberacao/).
 
-## Blogs
+Este sub grupo do loomio é acessível através do pseudo link: **`gti.pirata.xyz/loomio`**
 
-[[!inline pages="blog/post/* and !*/discussao and !blog/post/*/* and tagged(gti)" archive=yes]]
+<https://www.loomio.org/g/JDmI4ZKv>
+
+---
+
+## Feeds RSS
+
+Estes feeds foram movidos para sub páginas para facilitar a assinatura RSS.
+
+### Reuniões
+
+Reuniões do GTI cadastradas nesta wiki em [[reuniões]] e marcadas com a `\[[!tag gti]]`.
+
+> [[wiki/gti/reuniões]]
+
+### Tarefas
+
+[[Tarefas|/wiki/gti/tarefas]] cadastradas nesta wiki, no taiga, no github, no notabug, enfim, em todo issue tracker disponível, e centralizadas aqui.
+
+> [[/wiki/gti/tarefas]]
+
+### Notícias
+
+Informes, [[notícias|/wiki/gti/noticias]], blogs, opiniões, relatos, *merda* no ventilador, tentativa de ganhar visibilidade, e liberdade de expressão de forma geral.
+
+> [[/wiki/gti/noticias]]
 
 ---
 
 ## Links
+
+Falta tempo pra migrar todas estas coisas para esta wiki, e tem coisas que são links mesmo e não têm que ser migradas.
 
 ### Ferramentas
 
@@ -91,3 +134,5 @@
 * <https://www.loomio.org/d/tCudFTOJ/relatoria-reuni-o-gti-1-de-maio-de-2016>
 
 [[!meta title="GTI" description="Grupo de Trabalho Tecnologia da Informação"]]
+
+[[!tag gti]]
