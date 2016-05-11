@@ -1,0 +1,36 @@
+# Notícias do [[GTI]]
+
+Todas as páginas do [[blog]] marcadas com a tag `gti`
+
+Para adicionar um blog aqui, crie um novo blog na [[página de blog|/blog]] e adicione no corpo da página: `\[[!tag gti]]`
+
+Outros blogs do GTI devem estar listados ao lado.
+
+Quem tiver blogs e qualquer site ou ferramenta de apoio ao GTI que tiver cunho jornalístico, informativo ou de liberdade de expressão, edite esta página diretamente (respeitando a sintaxe de formatação) ou adicione na página de [[discussão]].
+
+Quem tiver material publicitário, de propaganda, comercial ou revolucionário pra mudar o mundo, vá procurar outro palanque. *Cabe esclarecer que quem estiver insatisfeita(o) com as propagandas neste site para a igreja insurgente pode simplesmente editar as páginas e removê-las. Ninguém vai reclamar. De preferência escreva na descrição do commit que está fazendo isto só pra fins de registro e esclarecimento.*
+
+---
+
+[[!inline pages="blog/* and !*/discussao and !blog/*/* and tagged(gti)" actions=yes]]
+
+[[!sidebar content="""
+**Outros blogs**
+
+Liberdade de expressão e democracia direta.
+
+---
+
+[[Ikiwiki|blog]]
+
+[Github Pages](http://piratas.github.io/gti) `fora do ar`
+
+[Site do Partido](http://partidopirata.org/?s=gti)
+
+[LogPirataSul (Zeronet)](http://127.0.0.1:43110/1J7a1C765UzSkYWnbqgwjX86BnrJL5nxeE/) *[gateway](https://zeronet.iikb.org/1J7a1C765UzSkYWnbqgwjX86BnrJL5nxeE/)*
+
+"""]]
+
+[[!meta title="Notícias do GTI"]]
+
+[[!tag gti]]
