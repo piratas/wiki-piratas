@@ -6,19 +6,19 @@ Este espaço está aqui provisoriamente (assim esperamos) como apoio em decorrê
 
 Reclamações e sugestões técnicas, mudanças de design, alterações na estrutura e infra estrutura, e demais questões relacionadas à manutenção e administração do site são feitos no [espaço de desenvolvimento da igreja insurgente](https://iikb.org), mas a discussão também pode ser feita aqui mesmo no [[forum]].
 
+---
+
 Este site está disponível em:
 
 * <https://partidopirata.xyz>
 * <https://piratas.xyz>
 * <https://pirata.xyz>
 
-O código fonte deste site está disponível em:
+O código fonte deste site é atualizado automaticamente a cada *commit* e está disponível em:
 
 * <https://notabug.org/piratas/partidopirata.xyz>
 * <https://gitlab.com/piratas/partidopirata.xyz>
 * <https://github.com/piratas/partidopirata.xyz>
-
----
 
 [0]: http://partidopirata.org
 
