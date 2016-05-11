@@ -1,0 +1,40 @@
+# Tarefas do [[GTI]]
+
+Todas as [[tarefas]] marcadas com a tag `gti`
+
+Para adicionar uma tarefa aqui, crie uma nova tarefa na [[página de tarefas|/tarefas]] e adicione no corpo da página: `\[[!tag gti]]`
+
+Alguém por favor também ajude a listar as tarefas disponíveis nos issue trackers listados ao lado.
+
+O taiga, o github e o notabug também são utilizados para cadastrar, resolver e organizar tarefas.
+
+O ideal seria integrar o máximo possível estas ferramentas e permitir que cada pessoa utilize a que tem mais facilidade.
+
+Esta página centraliza por enquanto pelo menos os links para todas as tarefas, desejavelmente e idealmente deveríamos ter um sistema integrado que gerenciasse todas as tarefas de todos os issue trackers. Abra uma tarefa para isto e comece a fazer ;)
+
+---
+
+[[!inline pages="tarefa/* and !tagged(encerrada) and !*/discussao and !tarefa/*/* and tagged(gti)" actions=yes]]
+
+[[!sidebar content="""
+**Issue trackers**
+
+Use a ferramenta que facilita mais pra ti.
+
+---
+
+[[Ikiwiki|tarefas]]
+
+[Github](https://github.com/piratas/gti/issues)
+
+[Taiga](https://tree.taiga.io/project/tipirata)
+
+[Notabug](https://notabug.org/piratas/organizacao/issues)
+
+"""]]
+
+[[!meta title="Tarefas do GTI"]]
+
+[[!tag gti]]
+
+
