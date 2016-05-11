@@ -22,9 +22,9 @@ Para adicionar um blog aqui, crie um novo blog na [[página de blog|/blog]] e ad
 
 ## Github
 
-[[!inline pages="internal(wiki/gti/notícias/github/*)"]]
+[[!inline pages="internal(github/*)"]]
 
-[[!aggregate name="PIRATAS no Github" dir="wiki/gti/notícias/github" feedurl="https://github.com/organizations/piratas/desci.private.atom?token=AB7vt91VpTrKpEtukw4aBm75ExM92h7kks61P44HwA==" url="https://github.com/organizations/piratas" tag="gti github" updateinterval="15"]]
+[[!aggregate name="PIRATAS no Github" dir="github" feedurl="https://github.com/organizations/piratas/desci.private.atom?token=AB7vt91VpTrKpEtukw4aBm75ExM92h7kks61P44HwA==" url="https://github.com/organizations/piratas" tag="gti github" updateinterval="15"]]
 
 [[!sidebar content="""
 **Outros blogs**
