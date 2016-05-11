@@ -1,4 +1,4 @@
-Como o [[conserto das zonas dns|tarefa/Redirecionar_domínios]] provavelmente vai demorar, é necessário alterar no [site do partido pirata](http://partidopirata.org) a página inicial e a [página do mumble](http://partidopirata.org/mumble-pirata/) para refletir o [[domínio atual sendo utilizado|blog/post/Mumble_e_biblioteca_mudaram_de_lugar]].
+Como o [[conserto das zonas dns|tarefa/Redirecionar_domínios]] provavelmente vai demorar, é necessário alterar no [site do partido pirata](http://partidopirata.org) a página inicial e a [página do mumble](http://partidopirata.org/mumble-pirata/) para refletir o [[domínio atual sendo utilizado|blog/Mumble_e_biblioteca_mudaram_de_lugar]].
 
 E-mail enviado em 22 de Abril de 2016 para **comunicacao@partidopirata.org**:
 
