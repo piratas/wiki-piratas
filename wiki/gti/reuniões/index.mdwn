@@ -4,13 +4,17 @@ Todas as [[reuniões]] marcadas com a tag `gti`
 
 Para adicionar uma reunião aqui, crie uma nova reunião na [[página de reuniões|/reuniões]] e adicione no corpo da página: `\[[!tag gti]]`
 
+Acompanhe também informes de novas reuniões pelo [[canal do telegram|/wiki/gti/telegram]].
+
 ---
 
-[[!inline pages="reuniao/* and !*/discussao and !reuniao/*/* and tagged(gti)"]]
+[[!inline pages="reuniao/* and !*/discussao and !reuniao/*/* and tagged(gti)" actions=yes]]
 
 [[!sidebar content="""
 **Todas reuniões**
 [[!calendar  type="month" pages="reuniao/* and !*/discussao and !reuniao/*/* and tagged(gti)"]]
 """]]
+
+[[!meta title="Reuniões do GTI"]]
 
 [[!tag gti]]
