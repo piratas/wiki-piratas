@@ -24,6 +24,7 @@ O código fonte deste site é atualizado automaticamente a cada *commit* e está
 
 [[!sidebar content="""
 **Links**
+
 * [[Fórum|forum]]
 * [[Notícias|blog]]
 * [[Reuniões]]
