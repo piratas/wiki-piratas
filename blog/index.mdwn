@@ -6,11 +6,11 @@ Para criticar ou problematizar publicações, use o recurso de discussão
 
 ---
 
-[[!inline pages="page(./blog/post/*) and !*/discussao" show="15"
-actions=yes rootpage="blog/post"]]
+[[!inline pages="page(./blog/*) and !*/discussao" show="15"
+actions=yes rootpage="blog"]]
 
 [[!sidebar content="""
-[[!calendar  type="month" pages="blog/post/* and !*/discussao"]]
+[[!calendar  type="month" pages="blog/* and !*/discussao"]]
 """]]
 
 [[!meta title="Blog"]]
