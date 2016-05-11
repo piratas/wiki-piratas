@@ -24,7 +24,15 @@ Para adicionar um blog aqui, crie um novo blog na [[página de blog|/blog]] e ad
 
 [[!inline pages="internal(github/*)"]]
 
-[[!aggregate name="PIRATAS no Github" dir="github" feedurl="https://github.com/organizations/piratas/desci.private.atom?token=AB7vt91VpTrKpEtukw4aBm75ExM92h7kks61P44HwA==" url="https://github.com/organizations/piratas" tag="gti github" updateinterval="15"]]
+[[!aggregate name="github.com/piratas" dir="github" feedurl="https://github.com/organizations/piratas/desci.private.atom?token=AB7vt91VpTrKpEtukw4aBm75ExM92h7kks61P44HwA==" url="https://github.com/organizations/piratas" tag="gti github" updateinterval="15"]]
+
+---
+
+## Wordpress
+
+[[!inline pages="internal(wordpress/*)"]]
+
+[[!aggregate name="partidopirata.org" dir="wordpress" feedurl="http://partidopirata.org/feed?s=gti" url="http://partidopirata.org" tag="gti wordpress" updateinterval="15"]]
 
 [[!sidebar content="""
 **Outros blogs**
