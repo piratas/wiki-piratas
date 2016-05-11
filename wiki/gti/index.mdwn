@@ -133,6 +133,23 @@ Falta tempo pra migrar todas estas coisas para esta wiki, e tem coisas que são 
 * <https://www.loomio.org/d/BQrtRu62/-resolvido-administrador>
 * <https://www.loomio.org/d/tCudFTOJ/relatoria-reuni-o-gti-1-de-maio-de-2016>
 
+[[!sidebar content="""
+**Links do GTI**
+
+[[Tarefas]]
+
+[[Notícias]]
+
+[[Reuniões]]
+
+---
+
+[Loomio](https://gti.pirata.xyz/loomio)
+
+[Github](https://github.com/piratas/gti)
+
+"""]]
+
 [[!meta title="GTI" description="Grupo de Trabalho Tecnologia da Informação"]]
 
 [[!tag gti]]
