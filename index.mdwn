@@ -1,12 +1,10 @@
-Este espaço serve de apoio ao [PIRATAS - partido pirata no brasil][0]
+Este espaço serve de apoio ao [PIRATAS - partido pirata no brasil][0].
 
-Não é um espaço oficial do [Partido Pirata do Brasil][0]
+Não é um espaço oficial do [Partido Pirata][0].
 
-A motivação e intenção preliminar é organizar a informação de forma monocrática e sem espaço para disputas políticas, sob a premissa de que atualmente é a única forma de garantir as condições necessárias para organizar e reunir as informações.
+Este espaço está aqui provisoriamente (assim esperamos) como apoio em decorrência da inexistência de uma [[wiki]], um [[forum]], uma [rede social](https://social.pirata.xyz), um [[issue tracker|tarefas]], entre outras ferramentas que o [Partido Pirata][0] atualmente não dispõe.
 
-Reclamações, sugestões, mudanças de design, alterações na estrutura e infra estrutura e correlatos são feitos no [espaço de desenvolvimento da igreja insurgente](https://dev.iikb.xyz), mas sugestões podem ser adicionadas aqui mesmo no [[forum]].
-
-Este espaço está em **construção** e pode não ter a informação mais precisa possível. Mão de obra voluntária é bem vinda. Leia a página de [[formatação|/ikiwiki/formatting/]] (em inglês, traduza se puder).
+Reclamações e sugestões técnicas, mudanças de design, alterações na estrutura e infra estrutura, e demais questões relacionadas à manutenção e administração do site são feitos no [espaço de desenvolvimento da igreja insurgente](https://iikb.org), mas a discussão também pode ser feita aqui mesmo no [[forum]].
 
 Este site está disponível em:
 
@@ -22,18 +20,16 @@ O código fonte deste site está disponível em:
 
 ---
 
-# Ferramentas
-
-[[!map pages="blog or forum or tarefas or projetos or reuniões or (wiki or wiki/*) and !*/discussao" show=title]]
-
 [0]: http://partidopirata.org
 
 [[!sidebar content="""
-[[Reuniões]]
-
-[[Notícias|blog]]
-
-[[Tarefas]]
+**Links**
+* [[Fórum|forum]]
+* [[Notícias|blog]]
+* [[Reuniões]]
+* [[Tarefas]]
+* [[Projetos]]
+* [[Wiki]]
 
 ---
 
@@ -41,3 +37,5 @@ O código fonte deste site está disponível em:
 
 [[Coleta de assinaturas|projeto/coleta]]
 """]]
+
+[[!meta title="Piratas XYZ"]]
