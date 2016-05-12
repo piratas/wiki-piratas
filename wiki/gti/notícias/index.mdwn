@@ -6,8 +6,6 @@ Quem tiver blogs e qualquer site ou ferramenta de apoio ao GTI que tiver cunho j
 
 Quem tiver material publicitário, de propaganda, comercial ou revolucionário pra mudar o mundo, vá procurar outro palanque. *Cabe esclarecer que quem estiver insatisfeita(o) com as propagandas neste site para a igreja insurgente pode simplesmente editar as páginas e removê-las. Ninguém vai reclamar. De preferência escreva na descrição do commit que está fazendo isto só pra fins de registro e esclarecimento.*
 
-[[!toc levels=5 startlevel=2]]
-
 ---
 
 ## Ikiwiki
@@ -20,19 +18,19 @@ Para adicionar um blog aqui, crie um novo blog na [[página de blog|/blog]] e ad
 
 ---
 
-## Github
-
-[[!inline pages="internal(github/*)"]]
-
-[[!aggregate name="github.com/piratas" dir="github" feedurl="https://github.com/organizations/piratas/desci.private.atom?token=AB7vt91VpTrKpEtukw4aBm75ExM92h7kks61P44HwA==" url="https://github.com/organizations/piratas" tag="gti github" updateinterval="15"]]
-
----
-
 ## Wordpress
 
 [[!inline pages="internal(wordpress/*)"]]
 
 [[!aggregate name="partidopirata.org" dir="wordpress" feedurl="http://partidopirata.org/feed?s=gti" url="http://partidopirata.org" tag="gti wordpress" updateinterval="15"]]
+
+---
+
+## Github
+
+[[!inline pages="internal(github/*)"]]
+
+[[!aggregate name="github.com/piratas" dir="github" feedurl="https://github.com/organizations/piratas/desci.private.atom?token=AB7vt91VpTrKpEtukw4aBm75ExM92h7kks61P44HwA==" url="https://github.com/organizations/piratas" tag="gti github" updateinterval="15"]]
 
 [[!sidebar content="""
 **Outros blogs**
