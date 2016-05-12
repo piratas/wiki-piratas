@@ -11,6 +11,8 @@
 
 **[[!pagecount pages="/tarefa/* and !tarefa/discussao and 
 tagged(encerrada) and !tarefa/*/*"]] tarefas encerradas**
+
+**[[[[!pagecount pages="* and (tagged(todo) or tagged(pendente))"]] páginas com pendências|/tarefas/pendentes]]**
 """]]
 
 [[!meta title="Tarefas encerradas"]]
