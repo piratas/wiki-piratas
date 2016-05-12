@@ -1,0 +1,21 @@
+**Páginas com as tags `todo` e/ou `pendente`**
+
+As páginas aqui listadas têm algum tipo de problema, pendência, ou tarefa a fazer, ou alguma coisa a melhorar. Se o que precisa ser feito não estiver escrito na própria página ou não for óbvio, verifique a página de [[discussão]] da página em questão, ou mesmo crie uma página de discussão para perguntar e esclarecer.
+
+Após resolver as pendências nestas páginas, favor remover as tags `\[[!tag todo pendente]]` para que elas sumam desta lista.
+
+Se houver outras tags em `\[[!tag ]]`, mantê-las.
+
+---
+
+[[!inline pages="* and (tagged(todo) or tagged(pendente))" actions=yes archive=yes limit=15]]
+
+[[!sidebar content="""
+**[[[[!pagecount pages="tarefa/* and !tarefa/discussao and 
+!tagged(encerrada) and !tarefa/*/*"]] tarefas abertas|/tarefas]]**
+
+**[[[[!pagecount pages="tarefa/* and !tarefa/discussao and 
+tagged(encerrada) and !tarefa/*/*"]] tarefas encerradas|/tarefas/encerradas]]**
+
+**[[!pagecount pages="* and (tagged(todo) or tagged(pendente))"]] páginas com pendências**
+"""]]
