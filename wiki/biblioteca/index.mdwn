@@ -1,0 +1,7 @@
+# Biblioteca Pirata
+
+**biblioteca.partidopirata.org**
+
+`TODO`: Criar esta página e remover tag *pendente*
+
+[[!tag todo pendente biblioteca gti]]
