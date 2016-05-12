@@ -8,7 +8,6 @@
 **[[[[!pagecount pages="tarefa/* and !tarefa/discussao and 
 !tagged(encerrada) and !tarefa/*/*"]] tarefas abertas|/tarefas]]**
 
-
 **[[!pagecount pages="/tarefa/* and !tarefa/discussao and 
 tagged(encerrada) and !tarefa/*/*"]] tarefas encerradas**
 
