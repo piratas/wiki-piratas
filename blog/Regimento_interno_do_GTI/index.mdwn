@@ -1,0 +1,15 @@
+Conforme [§6º do Art. 54 do Estatuto do Partido](https://partidopirata.xyz/wiki/documentos/estatuto/#index97h4), é necessário criar um [regimento interno](https://partidopirata.xyz/wiki/gti/regimento) para o GTI, e qualquer outro grupo de trabalho,
+
+este deve passar por aprovação interna **(não é agora, vai ser no Loomio)**,
+
+e finalmente ratificado na ANAPIRATA.
+
+---
+
+Esta mensagem está sendo enviada no [Github](https://github.com/piratas/gti), no [Telegram](https://telegram.me/joinchat/ApLxJjzfzV5YTnTHO10GCQ) e posteriormente será enviado para o [subgrupo do GTI no Loomio](https://gti.pirata.xyz/loomio).
+
+O regimento interno propriamente dito está disponível para apreciação e inclusive edição no seguinte URL: <https://github.com/piratas/gti/blob/master/content/statute/regimento.md>
+
+Pra quem não quiser ou não puder editar no Github, contribuições podem ser feitas no [etherpad](https://pad.riseup.net/p/gti2016).
+
+[[!tag gti regimento]]
