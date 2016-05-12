@@ -146,3 +146,5 @@ Qualquer pessoa envolvida com o GTI que for comprovadamente envolvida com o fasc
 ---
 
 *A versão mais atualizada deste documento deveria estar no [github](https://github.com/piratas/gti/blob/master/content/statute/regimento.md)*.
+
+[[!tag gti regimento]]
