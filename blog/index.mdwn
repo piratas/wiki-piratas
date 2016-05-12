@@ -15,7 +15,7 @@ Para criticar ou problematizar publicações, use o recurso de [[discussão]]
 
 ---
 
-[[wiki/gti/notícias]]
+[[Notícias do GTI|/wiki/gti/notícias]]
 """]]
 
 [[!meta title="Blog"]]
