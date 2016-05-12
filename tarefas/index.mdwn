@@ -16,6 +16,9 @@ actions=yes archive=yes rootpage="tarefa" postformtext="Adicione uma nova tarefa
 
 **[[[[!pagecount pages="tarefa/* and !tarefa/discussao and 
 tagged(encerrada) and !tarefa/*/*"]] tarefas encerradas|/tarefas/encerradas]]**
+
+**[[[[!pagecount pages="* and (tagged(todo) or tagged(pendente))"]] páginas com pendências|/tarefas/pendentes]]**
+
 """]]
 
 [[!meta title="Tarefas" description="Este é um sistema parecido com o de [issues do github](https://github.com/piratas/gti/issues), mais voltado pra prática e tarefas do mundo real que só de software."]]
