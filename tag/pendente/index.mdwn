@@ -1,0 +1,4 @@
+[[!meta title="pages tagged pendente"]]
+
+[[!inline pages="tagged(pendente)" actions="no" archive="yes"
+feedshow=10]]
