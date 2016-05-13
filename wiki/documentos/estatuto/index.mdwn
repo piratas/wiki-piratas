@@ -26,24 +26,24 @@ O **PIRATAS** é uma associação voluntária de pessoas que exercem sua cidadan
 
 São cláusulas pétreas do **PIRATAS**:
 
-I – a defesa dos direitos humanos e das liberdades civis;
-II – a defesa do direito à privacidade;
-III – a defesa ao acesso livre à informação;
-IV – a defesa do acesso e compartilhamento livres de cultura e conhecimento;
-V – a transparência pública;
-VI – a democracia plena;
-VII – o Estado Laico;
-VIII – a liberdade de expressão;
-IX – a colaboratividade;
-X – a igualdade de gênero, em todas as suas expressões;
-XI – o combate a todas as formas de discriminação;
-XII – o combate a todas as formas de autoritarismo;
-XIII – a defesa do direito inalienável de resistir à opressão;
-XIV – o internacionalismo;
-XV – a defesa do ativismo hacker;
-XVI – o gozo pleno dos direitos inerentes à cidadania, inclusive políticos, ativos e passivos, independente da nacionalidade;
-XVII – a plena autodeterminação individual;
-XVIII – a neutralidade da rede;
+I – a defesa dos direitos humanos e das liberdades civis;  
+II – a defesa do direito à privacidade;  
+III – a defesa ao acesso livre à informação;  
+IV – a defesa do acesso e compartilhamento livres de cultura e conhecimento;  
+V – a transparência pública;  
+VI – a democracia plena;  
+VII – o Estado Laico;  
+VIII – a liberdade de expressão;  
+IX – a colaboratividade;  
+X – a igualdade de gênero, em todas as suas expressões;  
+XI – o combate a todas as formas de discriminação;  
+XII – o combate a todas as formas de autoritarismo;  
+XIII – a defesa do direito inalienável de resistir à opressão;  
+XIV – o internacionalismo;  
+XV – a defesa do ativismo hacker;  
+XVI – o gozo pleno dos direitos inerentes à cidadania, inclusive políticos, ativos e passivos, independente da nacionalidade;  
+XVII – a plena autodeterminação individual;  
+XVIII – a neutralidade da rede;  
 
 #### § 1º
 
@@ -61,8 +61,8 @@ Os direitos e garantias expressos neste Estatuto não excluem outros decorrentes
 
 Os símbolos do **PIRATAS** são:
 
-I – seu logotipo, formado por um “P” estilizado, constituído pelas formas que remetem a um mastro e uma vela, ambos pretos, inscritos em um círculo preto;
-II – a bandeira, formada por um fundo branco, o logotipo ao centro e os dizeres Partido Pirata abaixo do logotipo.
+I – seu logotipo, formado por um “P” estilizado, constituído pelas formas que remetem a um mastro e uma vela, ambos pretos, inscritos em um círculo preto;  
+II – a bandeira, formada por um fundo branco, o logotipo ao centro e os dizeres Partido Pirata abaixo do logotipo.  
 
 #### §1º
 
@@ -76,15 +76,15 @@ Os símbolos do Partido, seus documentos oficiais e resultado de pesquisas e dis
 
 O Partido Pirata atuará em âmbito nacional com estrita observância de seus documentos oficiais, dentre os quais:
 
-I – Este Estatuto;
-II – A Declaração de Princípios;
-III – O Programa do Partido;
-IV – O Manifesto Pirata;
-V – Resoluções das Assembleias Piratas;
-VI – Pareceres de Grupos de Trabalho ou Grupos Setoriais;
-VII – Regimentos Internos;
-VIII – Documentos Técnicos e Disciplinares do Partido;
-IX – Outros documentos elaborados pelos órgãos administrativos em consonância com o estabelecido por este Estatuto.
+I – Este Estatuto;  
+II – A Declaração de Princípios;  
+III – O Programa do Partido;  
+IV – O Manifesto Pirata;  
+V – Resoluções das Assembleias Piratas;  
+VI – Pareceres de Grupos de Trabalho ou Grupos Setoriais;  
+VII – Regimentos Internos;  
+VIII – Documentos Técnicos e Disciplinares do Partido;  
+IX – Outros documentos elaborados pelos órgãos administrativos em consonância com o estabelecido por este Estatuto.  
 
 # CAPÍTULO II – DAS FORMAS DE PARTICIPAÇÃO
 
@@ -94,10 +94,10 @@ IX – Outros documentos elaborados pelos órgãos administrativos em consonânc
 
 Filiada ao Partido Pirata é toda pessoa em pleno gozo dos seus direitos políticos, que se admita como tal pelo Partido e que se comprometa a respeitar e cumprir:
 
-I – a Declaração dos Princípios Piratas;
-II – o Estatuto do Partido Pirata;
-III – o Programa do Partido;
-IV – demais documentos oficiais elaborados pelo Partido.
+I – a Declaração dos Princípios Piratas;  
+II – o Estatuto do Partido Pirata;  
+III – o Programa do Partido;  
+IV – demais documentos oficiais elaborados pelo Partido.  
 
 ### Art. 7º
 
@@ -177,8 +177,8 @@ As candidaturas **PIRATAS** serão escolhidas pela Assembleia do nível do cargo
 
 São deveres de quem se candidata:
 
-I – Divulgar e defender em suas campanhas de forma clara e objetiva sua adesão incondicional à Declaração de Princípios do **PIRATAS**;
-II – Realizar a prestação de contas de campanha ao Partido Pirata, à Justiça Eleitoral e à sociedade.
+I – Divulgar e defender em suas campanhas de forma clara e objetiva sua adesão incondicional à Declaração de Princípios do **PIRATAS**;  
+II – Realizar a prestação de contas de campanha ao Partido Pirata, à Justiça Eleitoral e à sociedade.  
 
 #### §1º
 
@@ -210,10 +210,10 @@ Parlamentares **PIRATAS** poderão formar bancadas em Casa Legislativa para a di
 
 São deveres de todas as pessoas filiadas ao **PIRATAS**:
 
-I – Zelar pelo cumprimento deste Estatuto, da Declaração de Princípios, das decisões das Assembleias e de demais documentos oficiais do Partido;
-II – Pagar a contribuição financeira para manutenção do **PIRATAS**, conforme for estabelecido em assembleia e quando a pessoa filiada estiver exercendo cargo eletivo ou de confiança;
-III – Divulgar as ideias e ideais piratas e colaborar, dentro de suas possibilidades, para sua consecução;
-IV – Acatar e cumprir as decisões democraticamente adotadas pelo **PIRATAS**.
+I – Zelar pelo cumprimento deste Estatuto, da Declaração de Princípios, das decisões das Assembleias e de demais documentos oficiais do Partido;  
+II – Pagar a contribuição financeira para manutenção do **PIRATAS**, conforme for estabelecido em assembleia e quando a pessoa filiada estiver exercendo cargo eletivo ou de confiança;  
+III – Divulgar as ideias e ideais piratas e colaborar, dentro de suas possibilidades, para sua consecução;  
+IV – Acatar e cumprir as decisões democraticamente adotadas pelo **PIRATAS**.  
 
 #### Parágrafo único
 
@@ -223,14 +223,14 @@ As pessoas filiadas não respondem subsidiariamente às obrigações contraídas
 
 São direitos de todas as pessoas filiadas ao **PIRATAS**:
 
-I – Participar, nos termos deste Estatuto e demais documentos oficiais do Partido, de reuniões e eventos do Partido em âmbito presencial e virtual, com direito a voto nas deliberações;
-II – Ter sua opinião expressa sem nenhum tipo de coibição ou censura, respeitados os limites da Declaração de Princípios e deste Estatuto;
-III – Participar da elaboração de diretrizes, das decisões políticas e de sua aplicação nas instâncias nacional, estaduais, municipais e distrital;
-IV – Participar de órgão da estrutura administrativa do Partido, nos termos deste Estatuto;
+I – Participar, nos termos deste Estatuto e demais documentos oficiais do Partido, de reuniões e eventos do Partido em âmbito presencial e virtual, com direito a voto nas deliberações;  
+II – Ter sua opinião expressa sem nenhum tipo de coibição ou censura, respeitados os limites da Declaração de Princípios e deste Estatuto;  
+III – Participar da elaboração de diretrizes, das decisões políticas e de sua aplicação nas instâncias nacional, estaduais, municipais e distrital;  
+IV – Participar de órgão da estrutura administrativa do Partido, nos termos deste Estatuto;  
 V – Pedir reunião da Assembleia Pirata Nacional, do Estado, Distrito Federal ou Município no qual estejam filiadas, que deverá ser realizada nos termos deste Estatuto;
-VI – Ter informações de todas as decisões partidárias;
-VII – Pleitear a indicação partidária para cargos eletivos nos processos eleitorais;
-VIII – Cobrar dos órgãos da estrutura administrativa do Partido informações quando entender que resoluções e/ou manifestações públicas contrariam este estatuto, programa ou outros documentos oficiais do Partido.
+VI – Ter informações de todas as decisões partidárias;  
+VII – Pleitear a indicação partidária para cargos eletivos nos processos eleitorais;  
+VIII – Cobrar dos órgãos da estrutura administrativa do Partido informações quando entender que resoluções e/ou manifestações públicas contrariam este estatuto, programa ou outros documentos oficiais do Partido.  
 
 ## SEÇÃO IV – DA DESFILIAÇÃO
 
@@ -253,7 +253,10 @@ Seja qual for a causa que motive a desfiliação, esta implicará a remoção do
 ### Art. 19
 
 Haverá desfiliação automática nos casos expressos em lei e desfiliação compulsória e sumária, nos termos deste Estatuto, nos casos de violação das cláusulas pétreas arroladas no artigo 3o.
-Parágrafo único. A filiação ao Partido será automaticamente cancelada quando da associação ou filiação a outro partido ou associação política com caráter partidário ou eleitoral.
+
+#### Parágrafo único
+
+A filiação ao Partido será automaticamente cancelada quando da associação ou filiação a outro partido ou associação política com caráter partidário ou eleitoral.
 
 # CAPÍTULO III – DISCIPLINA E FIDELIDADE PARTIDÁRIAS
 
@@ -263,30 +266,30 @@ Parágrafo único. A filiação ao Partido será automaticamente cancelada quand
 
 Constitui infração ética e disciplinar passível de punição, nos termos deste Estatuto:
 
-I – A violação a disposição expressa de qualquer documento oficial do Partido;
-II – A violação a interpretação autêntica firmada por Secretaria-Geral quanto aos termos e normas de qualquer documento oficial do Partido;
-III – A condenação por improbidade administrativa, vinculada ou não a cargo de direção do Partido, ou por ilícito penal;
-IV – A atuação administrativa ou atividade política contrária a qualquer documento oficial do Partido, às diretrizes de Programa de Governo, a qualquer deliberação da Assembleia Pirata ou a decisão de Secretaria do nível em que atuar;
-V – A propaganda eleitoral ou recomendação de candidatura, partido ou coligação não aprovada por Assembleia Pirata Nacional ou contrária às orientações eleitorais da Assembleia;
-VI – A denúncia de má-fé contra outra pessoa filiada;
-VII – A ausência de pagamento de contribuição obrigatória, nos termos deste Estatuto;
-VIII – A aceitação ou recebimento de verbas de fontes ilegais, estrangeiras ou obtidas de forma contrária aos princípios do Partido;
-IX – A desídia por parte de integrante de órgão da estrutura administrativa do Partido em todos os níveis;
-X – Infidelidade partidária.
+I – A violação a disposição expressa de qualquer documento oficial do Partido;  
+II – A violação a interpretação autêntica firmada por Secretaria-Geral quanto aos termos e normas de qualquer documento oficial do Partido;  
+III – A condenação por improbidade administrativa, vinculada ou não a cargo de direção do Partido, ou por ilícito penal;  
+IV – A atuação administrativa ou atividade política contrária a qualquer documento oficial do Partido, às diretrizes de Programa de Governo, a qualquer deliberação da Assembleia Pirata ou a decisão de Secretaria do nível em que atuar;  
+V – A propaganda eleitoral ou recomendação de candidatura, partido ou coligação não aprovada por Assembleia Pirata Nacional ou contrária às orientações eleitorais da Assembleia;  
+VI – A denúncia de má-fé contra outra pessoa filiada;  
+VII – A ausência de pagamento de contribuição obrigatória, nos termos deste Estatuto;  
+VIII – A aceitação ou recebimento de verbas de fontes ilegais, estrangeiras ou obtidas de forma contrária aos princípios do Partido;  
+IX – A desídia por parte de integrante de órgão da estrutura administrativa do Partido em todos os níveis;  
+X – Infidelidade partidária.  
 
 ### Art. 21
 
 A disciplina e fidelidade partidárias serão garantidas por meio das seguintes medidas, nos termos deste Estatuto:
 
-I – Intervenção de instância nacional em estadual, distrital ou municipal;
-II – advertência verbal ou escrita, de forma reservada ou pública;
-III – multa;
-IV – suspensão temporária da atuação em órgão da estrutura administrativa do Partido;
-V – suspensão do direito de voto por tempo determinado;
-VI– exoneração de cargo comissionado ou função de confiança;
-VII – perda de cargo em órgão da estrutura administrativa do Partido;
-VIII – perda de mandato;
-IX – desfiliação compulsória.
+I – Intervenção de instância nacional em estadual, distrital ou municipal;  
+II – advertência verbal ou escrita, de forma reservada ou pública;  
+III – multa;  
+IV – suspensão temporária da atuação em órgão da estrutura administrativa do Partido;  
+V – suspensão do direito de voto por tempo determinado;  
+VI– exoneração de cargo comissionado ou função de confiança;  
+VII – perda de cargo em órgão da estrutura administrativa do Partido;  
+VIII – perda de mandato;  
+IX – desfiliação compulsória.  
 
 ### Art. 22
 
@@ -459,10 +462,10 @@ O órgão julgador solicitará parecer ao Grupo Nacional de Trabalho Jurídico e
 
 O parecer de que trata o caput será apresentado pelo representante do GTJ na Comissão Julgadora e indicará, no mínimo:
 
-I – A opinião do órgão quanto à sanção cabível, nos termos deste Estatuto;
-II – As consequências jurídicas do ato infrator perante a sociedade;
-III – O resultado da investigação que tornar claro o ato infrator, inclusive mencionando e detalhando o significado de peculiaridades técnico-jurídicas do procedimento de investigação;
-IV – Sua orientação de ação, de forma justificada.
+I – A opinião do órgão quanto à sanção cabível, nos termos deste Estatuto;  
+II – As consequências jurídicas do ato infrator perante a sociedade;  
+III – O resultado da investigação que tornar claro o ato infrator, inclusive mencionando e detalhando o significado de peculiaridades técnico-jurídicas do procedimento de investigação;  
+IV – Sua orientação de ação, de forma justificada.  
 
 #### §2º
 
@@ -492,9 +495,9 @@ A decisão em sede de recurso de revista será tomada pela maioria simples dos v
 
 A Comissão Julgadora será formada por:
 
-I – Primeira Tesouraria-Geral;
-II – Representante de Grupo Nacional de Trabalho Jurídico, mediante convocação específica para esse fim pela Gestão de Crises;
-III – Primeira Secretaria-Geral, ou, se qualquer integrante da Secretaria-Geral estiver sob acusação no processo, integrante da Coordenadoria Nacional, mediante escolha interna;
+I – Primeira Tesouraria-Geral;  
+II – Representante de Grupo Nacional de Trabalho Jurídico, mediante convocação específica para esse fim pela Gestão de Crises;  
+III – Primeira Secretaria-Geral, ou, se qualquer integrante da Secretaria-Geral estiver sob acusação no processo, integrante da Coordenadoria Nacional, mediante escolha interna;  
 
 #### §1º
 
@@ -524,10 +527,10 @@ O **PIRATAS** se estrutura internamente por seus órgão da estrutura administra
 
 Os diversos órgãos da estrutura administrativa, permanente ou não, obedecerão aos seguintes preceitos, além de outros exigidos por este Estatuto ou por lei:
 
-I – A publicação de todos os seus atos, inclusive em Portal na rede mundial de computadores, de forma a garantir a transparência, detalhando sempre que possível o motivo, o alcance e a consequências do ato, ressalvadas inviabilidades técnicas ou dever de sigilo, nos termos legais e desse Estatuto;
-II – A consulta pública, realizando preferencialmente reunião presencial e virtual com todas as pessoas interessadas, em especial filiadas ao **PIRATAS**, ressalvadas urgência e inviabilidades técnicas;
-III – A consulta ao conjunto integral do **PIRATAS** antes da tomada de decisões, salvo em caso de urgência ou de atuação administrativa ordinária e costumeira;
-IV – A atuação colaborativa com integrantes do mesmo órgão, com os outros órgãos, com integrantes do **PIRATAS** e com a sociedade na consecução de suas tarefas, respeitadas as competências privativas nos termos deste Estatuto.
+I – A publicação de todos os seus atos, inclusive em Portal na rede mundial de computadores, de forma a garantir a transparência, detalhando sempre que possível o motivo, o alcance e a consequências do ato, ressalvadas inviabilidades técnicas ou dever de sigilo, nos termos legais e desse Estatuto;  
+II – A consulta pública, realizando preferencialmente reunião presencial e virtual com todas as pessoas interessadas, em especial filiadas ao **PIRATAS**, ressalvadas urgência e inviabilidades técnicas;  
+III – A consulta ao conjunto integral do **PIRATAS** antes da tomada de decisões, salvo em caso de urgência ou de atuação administrativa ordinária e costumeira;  
+IV – A atuação colaborativa com integrantes do mesmo órgão, com os outros órgãos, com integrantes do **PIRATAS** e com a sociedade na consecução de suas tarefas, respeitadas as competências privativas nos termos deste Estatuto.  
 
 #### §1º
 
@@ -553,9 +556,9 @@ Os ocupantes dos cargos da estrutura administrativa serão eleitos para um manda
 
 Os territórios onde atuam os diferentes Diretórios definem os diferentes níveis de atuação do Partido, que são, do maior grau de abrangência para o menor:
 
-I – Nacional;
-II – Estaduais, um para cada Estado do Brasil, e Distrital, para o Distrito Federal;
-III – Municipais, um para cada município do Brasil.
+I – Nacional;  
+II – Estaduais, um para cada Estado do Brasil, e Distrital, para o Distrito Federal;  
+III – Municipais, um para cada município do Brasil.  
 
 #### Parágrafo único
 
@@ -637,34 +640,38 @@ Em caso de omissão, os diversos órgãos da estrutura administrativa do Municí
 
 A estrutura administrativa permanente nacional do **PIRATAS**, ou Diretório Nacional, será formada por:
 
-I – Secretaria-Geral;
-II – Tesouraria-Geral;
-III – Coordenadoria Nacional;
-IV – Gestão de Crises;
-V – Assembleia Pirata Nacional.
-Parágrafo único. Além da estrutura permanente, os seguintes órgãos funcionarão, conforme a necessidade, para a execução de tarefas específicas:
-I – Grupos de Trabalho Nacionais.
-II – Grupos Setoriais Nacionais;
-III – Comissão Julgadora;
-IV – Comitê Financeiro Nacional.
+I – Secretaria-Geral;  
+II – Tesouraria-Geral;  
+III – Coordenadoria Nacional;  
+IV – Gestão de Crises;  
+V – Assembleia Pirata Nacional.  
+
+#### Parágrafo único
+
+Além da estrutura permanente, os seguintes órgãos funcionarão, conforme a necessidade, para a execução de tarefas específicas:
+
+I – Grupos de Trabalho Nacionais.  
+II – Grupos Setoriais Nacionais;  
+III – Comissão Julgadora;  
+IV – Comitê Financeiro Nacional.  
 
 ### Art. 48
 
 A Secretaria-Geral é o órgão responsável por:
 
-I – Representar legalmente o Partido em nível nacional;
-II – Guardar e monitorar imparcialmente os regimentos, procedimentos e normas, de forma a zelar pelo cumprimento deste Estatuto e do Programa do Partido;
-III – Assinar documentos e atuar administrativamente em nível nacional, na forma deste Estatuto;
-IV – Credenciar pessoas para a atuação delegada frente ao Tribunal Superior Eleitoral;
-V – Notificar formalmente e por escrito qualquer órgão da estrutura administrativa ou filiado em âmbito nacional, nos termos deste Estatuto;
-VI – Publicar todos os atos do Partido em nível nacional;
-VII – Decidir em processo disciplinar, como parte da Comissão Julgadora, quando não for réu do processo em curso;
-VIII – Monitorar e fiscalizar a atuação dos Grupos de Trabalho ou Setoriais Nacionais em conformidade com este Estatuto e com o Programa do Partido, zelando pela implementação do Planejamento Estratégico e do Regimento Interno de cada GT ou GS.
-IX – Zelar pelo uso adequado dos símbolos do Partido, de seus documentos nacionais e dos resultados de consultas, pesquisas e discussões promovidas por Grupo de Trabalho ou Setorial Nacional ou outras instâncias deliberativas partidárias;
-X – Zelar pela conformidade com este estatuto das diretrizes de atuação de parlamentar eleito pelo Partido em Casa Legislativa Federal, inclusive em Senado Federal;
-XI – Auxiliar a Tesouraria Nacional na sistematização de propostas de plano de gestão orçamentária e financeira a cada dois anos.
-XII – Ratificar, em até 48 horas, após aprovação em consulta nacional pelos meios oficiais do Partido, o Regimento Interno e o Planejamento Estratégico propostos pelos Grupos de Trabalho e Grupos Setoriais.
-XII – Representar o Partido, ativamente ou passivamente, em juízo ou fora dele.
+I – Representar legalmente o Partido em nível nacional;  
+II – Guardar e monitorar imparcialmente os regimentos, procedimentos e normas, de forma a zelar pelo cumprimento deste Estatuto e do Programa do Partido;  
+III – Assinar documentos e atuar administrativamente em nível nacional, na forma deste Estatuto;  
+IV – Credenciar pessoas para a atuação delegada frente ao Tribunal Superior Eleitoral;  
+V – Notificar formalmente e por escrito qualquer órgão da estrutura administrativa ou filiado em âmbito nacional, nos termos deste Estatuto;  
+VI – Publicar todos os atos do Partido em nível nacional;  
+VII – Decidir em processo disciplinar, como parte da Comissão Julgadora, quando não for réu do processo em curso;  
+VIII – Monitorar e fiscalizar a atuação dos Grupos de Trabalho ou Setoriais Nacionais em conformidade com este Estatuto e com o Programa do Partido, zelando pela implementação do Planejamento Estratégico e do Regimento Interno de cada GT ou GS.  
+IX – Zelar pelo uso adequado dos símbolos do Partido, de seus documentos nacionais e dos resultados de consultas, pesquisas e discussões promovidas por Grupo de Trabalho ou Setorial Nacional ou outras instâncias deliberativas partidárias;  
+X – Zelar pela conformidade com este estatuto das diretrizes de atuação de parlamentar eleito pelo Partido em Casa Legislativa Federal, inclusive em Senado Federal;  
+XI – Auxiliar a Tesouraria Nacional na sistematização de propostas de plano de gestão orçamentária e financeira a cada dois anos.  
+XII – Ratificar, em até 48 horas, após aprovação em consulta nacional pelos meios oficiais do Partido, o Regimento Interno e o Planejamento Estratégico propostos pelos Grupos de Trabalho e Grupos Setoriais.  
+XII – Representar o Partido, ativamente ou passivamente, em juízo ou fora dele.  
 
 #### § 1º
 
@@ -686,22 +693,22 @@ A Secretaria-Geral poderá delegar quaisquer funções que não estejam incluíd
 
 A Coordenadoria Nacional é o órgão responsável por:
 
-I – Representar as diversas regiões do País e suas particularidades;
-II – Sistematizar propostas de reformas nesse Estatuto e no Programa do Partido;
-III – Atuação administrativa em nível regional, representando o Partido em cada região do País, onde não existir Diretório Estadual constituído;
-IV – Monitorar a atuação da Secretaria-Geral e da Tesouraria-Geral em conformidade com este Estatuto e o Programa do Partido;
-V – Auxiliar a Gestão de Crises na instauração e instrução de processo disciplinar em que for réu membro da estrutura administrativa permanente do Partido;
-VI – Definir diretrizes gerais de atuação política do Partido Pirata em todos os âmbitos;
-VII – Sistematizar proposições, discuti-las e conduzir a elaboração de Programa de Governo do Partido Pirata em nível nacional;
-VIII – Decidir sobre ingresso de ex-dirigente de outro partido, parlamentar ou suplente como filiado;
-IX – Aprovar balanço patrimonial e demais demonstrações contábeis elaboradas pela Tesouraria Nacional;
-X – Decidir casos omissos nos documentos do Partido;
-XI – Indicar para provimento temporário de cargo vago em qualquer órgão da estrutura administrativa permanente nacional;
-XII – Aprovar criação de Diretório Estadual e Distrital do Partido;
-XIII – Aprovar criação de Diretório Municipal em Estado sem Diretório Estadual;
-XIV – Aprovar convênios comerciais firmados pelo Partido em nível nacional;
-XV – Auxiliar a Tesouraria Nacional na sistematização de propostas de plano de gestão orçamentária e financeira a cada dois anos;
-XVI – Exercer todas as demais funções em nível nacional que não tenham sido atribuídas por este Estatuto a outro órgão.
+I – Representar as diversas regiões do País e suas particularidades;  
+II – Sistematizar propostas de reformas nesse Estatuto e no Programa do Partido;  
+III – Atuação administrativa em nível regional, representando o Partido em cada região do País, onde não existir Diretório Estadual constituído;  
+IV – Monitorar a atuação da Secretaria-Geral e da Tesouraria-Geral em conformidade com este Estatuto e o Programa do Partido;  
+V – Auxiliar a Gestão de Crises na instauração e instrução de processo disciplinar em que for réu membro da estrutura administrativa permanente do Partido;  
+VI – Definir diretrizes gerais de atuação política do Partido Pirata em todos os âmbitos;  
+VII – Sistematizar proposições, discuti-las e conduzir a elaboração de Programa de Governo do Partido Pirata em nível nacional;  
+VIII – Decidir sobre ingresso de ex-dirigente de outro partido, parlamentar ou suplente como filiado;  
+IX – Aprovar balanço patrimonial e demais demonstrações contábeis elaboradas pela Tesouraria Nacional;  
+X – Decidir casos omissos nos documentos do Partido;  
+XI – Indicar para provimento temporário de cargo vago em qualquer órgão da estrutura administrativa permanente nacional;  
+XII – Aprovar criação de Diretório Estadual e Distrital do Partido;  
+XIII – Aprovar criação de Diretório Municipal em Estado sem Diretório Estadual;  
+XIV – Aprovar convênios comerciais firmados pelo Partido em nível nacional;  
+XV – Auxiliar a Tesouraria Nacional na sistematização de propostas de plano de gestão orçamentária e financeira a cada dois anos;  
+XVI – Exercer todas as demais funções em nível nacional que não tenham sido atribuídas por este Estatuto a outro órgão.  
 
 #### § 1º
 
@@ -715,11 +722,11 @@ A Assembleia Pirata Nacional poderá aumentar ou reduzir o número de Coordenado
 
 A Tesouraria Nacional é o órgão responsável por:
 
-I – Gestão financeira e orçamentária do Partido em nível nacional;
-II – Elaborar balanço patrimonial e demais demonstrações contábeis exigidas por lei;
-III – Divulgação transparente, contínua e completa do fluxo de caixa e comprovação de origem e aplicação de recursos pelos diversos órgãos do Partido em nível nacional;
-IV – Aprovar despesas maiores que a disponibilidade de Caixa atual do Partido em nível nacional, com anuência da Coordenadoria Nacional e após consulta nacional por meio oficial.
-V – Sistematizar plano de gestão orçamentária e financeira a cada dois anos, em conjunto com a Secretaria-Geral e a Coordenadoria.
+I – Gestão financeira e orçamentária do Partido em nível nacional;  
+II – Elaborar balanço patrimonial e demais demonstrações contábeis exigidas por lei;  
+III – Divulgação transparente, contínua e completa do fluxo de caixa e comprovação de origem e aplicação de recursos pelos diversos órgãos do Partido em nível nacional;  
+IV – Aprovar despesas maiores que a disponibilidade de Caixa atual do Partido em nível nacional, com anuência da Coordenadoria Nacional e após consulta nacional por meio oficial.  
+V – Sistematizar plano de gestão orçamentária e financeira a cada dois anos, em conjunto com a Secretaria-Geral e a Coordenadoria.  
 
 #### § 1º
 
@@ -733,30 +740,33 @@ A Segunda Tesouraria Nacional atuará como suplente da Primeira Tesouraria Nacio
 
 A Gestão de Crises e sua suplência, também conhecidos como Ombudsman/Ombudskvinna ou órgão julgador, serão eleitas na mesma Assembleia Nacional que eleger a Secretaria-Geral, tendo as seguintes funções:
 
-I – Instaurar, monitorar e fiscalizar a condução de procedimentos disciplinares, nos termos deste Estatuto;
-II – Estipular, cumprir e fazer cumprir os prazos para a abertura e conclusão de procedimentos disciplinares;
-III – Instaurar e conduzir procedimentos de mediação e arbitragem de conflitos internos em todas as instâncias e níveis da estrutura partidária, de acordo com princípios e regras legais e estatutárias aplicáveis.
-IV – Apresentar, nos meios oficiais de consulta do Partido, relatórios periódicos sobre sua atuação na mediação e gestão de conflitos e sobre o andamento das soluções adotadas;
-V – Buscar junto aos Grupos de Trabalho do Partido e outras instâncias consultivas a assessoria técnica que julgar necessária para realizar suas incumbências;
-VI – Arbitrar soluções para situações de crise que não envolvam ilícitos, ilegalidades ou violações estatutárias, desde que a mesma não viole princípios estatutários;
-VII – Atuar como custos legis em Comissão Julgadora, oferecendo denúncia contra infratores das normas estatutárias e elaborando pareceres detalhados referentes à conduta das pessoas denunciadas.
-VIII – Decidir sobre a instauração de novo procedimento a partir da consideração de fatos novos desconhecidos no curso de procedimento disciplinar já transitado em julgado;
-IX – Auxiliar a Coordenação Nacional no exercício de sua atribuição deliberativa sobre os casos omissos deste Estatuto.
-Parágrafo Único. A Segunda Gestão de Crises atuará como suplente da Primeira Gestão de Crises, em caso de sua impossibilidade de atuar ou vacância do cargo, e poderá haver alternância entre os incumbentes a partir da metade do mandato.
+I – Instaurar, monitorar e fiscalizar a condução de procedimentos disciplinares, nos termos deste Estatuto;  
+II – Estipular, cumprir e fazer cumprir os prazos para a abertura e conclusão de procedimentos disciplinares;  
+III – Instaurar e conduzir procedimentos de mediação e arbitragem de conflitos internos em todas as instâncias e níveis da estrutura partidária, de acordo com princípios e regras legais e estatutárias aplicáveis.  
+IV – Apresentar, nos meios oficiais de consulta do Partido, relatórios periódicos sobre sua atuação na mediação e gestão de conflitos e sobre o andamento das soluções adotadas;  
+V – Buscar junto aos Grupos de Trabalho do Partido e outras instâncias consultivas a assessoria técnica que julgar necessária para realizar suas incumbências;  
+VI – Arbitrar soluções para situações de crise que não envolvam ilícitos, ilegalidades ou violações estatutárias, desde que a mesma não viole princípios estatutários;  
+VII – Atuar como custos legis em Comissão Julgadora, oferecendo denúncia contra infratores das normas estatutárias e elaborando pareceres detalhados referentes à conduta das pessoas denunciadas.  
+VIII – Decidir sobre a instauração de novo procedimento a partir da consideração de fatos novos desconhecidos no curso de procedimento disciplinar já transitado em julgado;  
+IX – Auxiliar a Coordenação Nacional no exercício de sua atribuição deliberativa sobre os casos omissos deste Estatuto.  
+
+#### Parágrafo Único
+
+A Segunda Gestão de Crises atuará como suplente da Primeira Gestão de Crises, em caso de sua impossibilidade de atuar ou vacância do cargo, e poderá haver alternância entre os incumbentes a partir da metade do mandato.
 
 ### Art. 52
 
 A Assembleia Pirata Nacional é o órgão deliberativo máximo do Partido Pirata e são suas funções:
 
-I – Definir a interpretação autêntica de termos e normas deste Estatuto, do Programa do Partido ou de qualquer outro documento oficial, respeitados os limites legais e jurisprudenciais;
-II – Modificar este Estatuto e o Programa do Partido;
-III – Eleger os membros dos demais órgãos permanentes do Partido Pirata em nível nacional;
-IV – Decidir sobre alianças, coligações e outras orientações gerais eleitorais para o Partido;
-V – Fiscalizar permanentemente as atividades da Secretaria-Geral, da Tesouraria-Geral, da Coordenadoria-Geral, da Gestão de Crises e dos Grupos de Trabalho ou Setoriais, coordenando a sua atuação;
-VI – Aprovar o plano de gestão orçamentária e financeira a cada dois anos, a ser observado pelos demais órgãos do Partido Pirata em nível nacional, em especial a Tesouraria-Geral;
-VII – Aumentar ou reduzir o número de Coordenadores Regionais, nos termos deste Estatuto;
-VIII – Chancelar a escolha de candidatos a Deputado Federal e a Senador da República em cada Estado;
-IX – Decidir sobre a candidatura à Presidência da República.
+I – Definir a interpretação autêntica de termos e normas deste Estatuto, do Programa do Partido ou de qualquer outro documento oficial, respeitados os limites legais e jurisprudenciais;  
+II – Modificar este Estatuto e o Programa do Partido;  
+III – Eleger os membros dos demais órgãos permanentes do Partido Pirata em nível nacional;  
+IV – Decidir sobre alianças, coligações e outras orientações gerais eleitorais para o Partido;  
+V – Fiscalizar permanentemente as atividades da Secretaria-Geral, da Tesouraria-Geral, da Coordenadoria-Geral, da Gestão de Crises e dos Grupos de Trabalho ou Setoriais, coordenando a sua atuação;  
+VI – Aprovar o plano de gestão orçamentária e financeira a cada dois anos, a ser observado pelos demais órgãos do Partido Pirata em nível nacional, em especial a Tesouraria-Geral;  
+VII – Aumentar ou reduzir o número de Coordenadores Regionais, nos termos deste Estatuto;  
+VIII – Chancelar a escolha de candidatos a Deputado Federal e a Senador da República em cada Estado;  
+IX – Decidir sobre a candidatura à Presidência da República.  
 
 #### § 1º
 
@@ -770,8 +780,8 @@ A Assembleia Pirata Nacional é constituída por todas as pessoas filiadas ao Pa
 
 A Assembleia Pirata Nacional se reunirá:
 
-I – Ordinariamente, em Encontros Nacionais, a cada dois anos;
-II – Extraordinariamente, quando convocada por qualquer órgão da Executiva Nacional, ou por, no mínimo, 10% dos membros filiados ao Partido.
+I – Ordinariamente, em Encontros Nacionais, a cada dois anos;  
+II – Extraordinariamente, quando convocada por qualquer órgão da Executiva Nacional, ou por, no mínimo, 10% dos membros filiados ao Partido.  
 
 #### Parágrafo único
 
@@ -781,21 +791,21 @@ O quórum para a realização da Assembleia Pirata Nacional será de 50 pessoas 
 
 Os Grupos de Trabalho Nacionais, nas suas respectivas áreas de atuação, são responsáveis por:
 
-I – Assessorar e oferecer consultoria técnica ao Partido em nível nacional e, mediante solicitação, também às instâncias estaduais e municipais;
-II – Manter e desenvolver ferramentas necessárias para a operação do Partido;
-III – Elaborar propostas de organização interna do Partido;
-IV – Viabilizar e executar as tarefas específicas de suas respectivas áreas de atuação;
-V – Elaborar e apresentar Planejamento Estratégico e Regimento Interno para ratificação da Coordenação Nacional, após consulta pelos meios oficiais do Partido.
+I – Assessorar e oferecer consultoria técnica ao Partido em nível nacional e, mediante solicitação, também às instâncias estaduais e municipais;  
+II – Manter e desenvolver ferramentas necessárias para a operação do Partido;  
+III – Elaborar propostas de organização interna do Partido;  
+IV – Viabilizar e executar as tarefas específicas de suas respectivas áreas de atuação;  
+V – Elaborar e apresentar Planejamento Estratégico e Regimento Interno para ratificação da Coordenação Nacional, após consulta pelos meios oficiais do Partido.  
 
 #### §1º
 
 Os Grupos de Trabalho Nacionais permanentes são, além de outros que sejam porventura criados:
 
-I – Grupo de Trabalho de Tecnologia da Informação (GTI);
-II – Grupo de Trabalho de Comunicação (GTC);
-III – Grupo de Trabalho Jurídico (GTJ);
-IV – Grupo de Trabalho de Relações Internacionais (GTRI);
-V – Grupo de Trabalho de Igualdade de Gênero (GTIG).
+I – Grupo de Trabalho de Tecnologia da Informação (GTI);  
+II – Grupo de Trabalho de Comunicação (GTC);  
+III – Grupo de Trabalho Jurídico (GTJ);  
+IV – Grupo de Trabalho de Relações Internacionais (GTRI);  
+V – Grupo de Trabalho de Igualdade de Gênero (GTIG).  
 
 #### §2º
 
@@ -821,9 +831,9 @@ Os Grupos de Trabalhos Nacionais terão autonomia para criar seus regimentos int
 
 Os Grupos Setoriais Nacionais são responsáveis por:
 
-I – Pesquisar e discutir temas em nível nacional, bem como pela direção de pesquisas interestaduais ou internacionais, em sua área específica de atuação;
-II – Publicar catalogar o resultado dessas pesquisas perante os demais órgãos do Partido em todos os níveis;
-III – Fazer contato e interagir com o setor acadêmico e a sociedade civil em nível nacional, na sua área de atuação;
+I – Pesquisar e discutir temas em nível nacional, bem como pela direção de pesquisas interestaduais ou internacionais, em sua área específica de atuação;  
+II – Publicar catalogar o resultado dessas pesquisas perante os demais órgãos do Partido em todos os níveis;  
+III – Fazer contato e interagir com o setor acadêmico e a sociedade civil em nível nacional, na sua área de atuação;  
 
 #### §1º
 
