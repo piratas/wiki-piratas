@@ -1366,4 +1366,8 @@ I – Secretaria Municipal mais próxima dentro do mesmo Estado, caso exista;
 II – Secretaria Estadual, caso exista;  
 III – Secretaria-Geral.  
 
+---
+
+*O Estatuto está divulgado oficialmente no [site oficial do partido pirata](http://partidopirata.org/documentos/estatuto/)*
+
 [[!meta title="Estatuto"]]
