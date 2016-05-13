@@ -853,246 +853,517 @@ Cada Grupo Setorial escolherá, a cada seis meses, uma pessoa responsável pela 
 
 ## SEÇÃO IV – DA ESTRUTURA ADMINISTRATIVA ESTADUAL E DISTRITAL
 
-Art. 56. A estrutura administrativa permanente dos Estados, ou Diretório Estadual, e do Distrito Federal, ou Diretório Distrital, respeitará as disposições da seção anterior no que couber, e será constituída por, no mínimo:
-I – Uma Secretaria Estadual ou Distrital;
-II – Uma Tesouraria Estadual ou Distrital;
-III – Uma Coordenadoria Estadual ou Distrital;
-IV – Uma Assembleia Pirata Estadual ou Distrital.
-§1º Além desses órgãos, o Diretório poderá constituir novos órgãos, de funcionamento permanente ou intermitente, que deverão constar em regulamento estadual, junto com a normatização de seu funcionamento.
-§2º Cada Diretório também constituirá Comitê Financeiro Estadual ou Distrital, nos termos deste Estatuto, em período de campanha eleitoral.
+### Art. 56
 
-Art. 57. Só será autorizada a criação de Diretório Estadual em Estado com, pelo menos, 2 Diretórios Municipais, e 40 ou mais filiados.
+A estrutura administrativa permanente dos Estados, ou Diretório Estadual, e do Distrito Federal, ou Diretório Distrital, respeitará as disposições da seção anterior no que couber, e será constituída por, no mínimo:
 
-Art. 58. A Secretaria Estadual tem como funções:
-I – Representar legalmente o Partido em nível estadual;
-II – Credenciar Delegados frente ao Tribunal Regional Eleitoral de seu Estado;
-III – Assinar documentos e atuação administrativa em nível estadual, conforme as determinações da Coordenadoria Estadual;
-Parágrafo único. A Secretaria Estadual será exercida por, pelo menos, um Secretário Estadual, que assinará documentos e representará o Partido em nível estadual, sendo o número de Secretários, e a forma de sua atuação, fixados por disposição expressa no Regulamento Estadual.
+I – Uma Secretaria Estadual ou Distrital;  
+II – Uma Tesouraria Estadual ou Distrital;  
+III – Uma Coordenadoria Estadual ou Distrital;  
+IV – Uma Assembleia Pirata Estadual ou Distrital.  
 
-Art. 59. A Coordenadoria Estadual tem como funções, pelo menos:
-I – Representar as diversas regiões do Estado e suas particularidades;
-II – Monitorar a atuação da Secretaria Estadual e da Tesouraria Estadual e sua conformidade com este Estatuto, com o Programa do Partido e com o Regulamento Estadual;
-III – Definir diretrizes gerais de atuação do Partido Pirata em nível estadual;
-IV – Aprovar balanço patrimonial e demais demonstrações contábeis elaboradas pela Tesouraria Estadual;
-V – Decidir casos omissos nos documentos exclusivamente estaduais do Partido;
-VI – Indicar pessoas para provimento temporário de cargo vago em qualquer órgão da estrutura administrativa permanente do Estado.
-§1º A Coordenadoria Estadual será formada por um número ímpar e maior que um de Coordenadores Estaduais, escolhidos dentre diferentes regiões internas do Estado, conforme Regulamento Estadual.
-§2º Caso o Estado ainda não esteja dividido em regiões internas, cada Coordenador virá de município distinto em que haja constituído Diretório Municipal.
+#### §1º
 
-Art. 60. A Tesouraria Estadual tem como funções, pelo menos:
-I – Gestão financeira e orçamentária do Partido em nível estadual;
-II – Elaborar balanço patrimonial e demais demonstrações contábeis exigidas por lei em nível estadual;
-III – Divulgação transparente, contínua e completa do fluxo de caixa e comprovação de origem e aplicação de recursos pelos diversos órgãos do Partido em nível estadual;
-IV – A aprovação de despesas maiores que a disponibilidade de Caixa atual do Partido em nível estadual.
-Parágrafo único. A Tesouraria Estadual será exercida por, no mínimo, um Tesoureiro Estadual, que será o responsável legal pelas contas do Partido em nível estadual, sendo o número de Tesoureiros e a forma de sua atuação fixados por Regulamento Estadual.
+Além desses órgãos, o Diretório poderá constituir novos órgãos, de funcionamento permanente ou intermitente, que deverão constar em regulamento estadual, junto com a normatização de seu funcionamento.
 
-Art. 61. A Assembleia Pirata Estadual é o órgão deliberativo máximo do Partido em nível estadual, sendo organizada de forma análoga à Assembleia Pirata Nacional e tendo como funções:
-I – Decidir os membros dos demais órgãos do Partido Pirata em nível estadual;
-II – Fiscalizar e dirigir permanentemente as atividades da Secretaria Estadual, da Tesouraria Estadual e dos demais órgãos da estrutura administrativa do Estado;
-III – Elaborar o plano de gestão orçamentária e financeira a cada dois anos, a ser observado pelos demais órgãos do Partido Pirata em nível estadual, em especial a Tesouraria Estadual;
-IV – Aprovar a criação de estrutura administrativa do Partido em município de seu Estado;
-V – Elaborar e aprovar Regulamento Estadual;
-VI – Escolher candidatos a Deputado Estadual, Deputado Federal e Governador do Estado de sua competência;
-§1º A Assembleia Pirata Estadual poderá avocar competências de qualquer outro órgão da estrutura administrativa do Estado.
-§2º A Assembleia Pirata Estadual é constituída por todos os membros filiados ao Partido Pirata no Estado, que deliberarão presencialmente, mediante comprovação de sua filiação, e suas reuniões serão abertas ao público, que poderá falar e opinar por vias presenciais ou virtuais, salvo se a Secretaria Estadual entender que o público está turbando a reunião, caso em que o público perderá o direito de voz.
+#### §2º
 
-Art. 62. A Assembleia Pirata Estadual se reunirá:
-I – Ordinariamente, em Encontros Estaduais, a cada um ano;
-II – Extraordinariamente, quando convocada por qualquer órgão da estrutura administrativa permanente do Estado, ou por, no mínimo, 10% dos membros filiados ao Partido no Estado.
+Cada Diretório também constituirá Comitê Financeiro Estadual ou Distrital, nos termos deste Estatuto, em período de campanha eleitoral.
 
-Art. 63. O quórum para a deliberação da Assembleia Pirata Estadual será de 1 representante de cada Diretório Municipal ou Diretório Municipal Provisório.
+### Art. 57
 
-Art. 64. A estrutura do Partido no Distrito Federal será em tudo análoga à organização da estrutura do Partido em nível estadual, no que couber, inclusive quanto ao número de filiados para sua criação.
-Parágrafo único. Os diversos órgãos da estrutura administrativa distrital do Partido acumularão atribuições estaduais e municipais de seus órgãos equivalentes.
-SEÇÃO V – DA ESTRUTURA ADMINISTRATIVA MUNICIPAL
+Só será autorizada a criação de Diretório Estadual em Estado com, pelo menos, 2 Diretórios Municipais, e 40 ou mais filiados.
 
-Art. 65. A estrutura administrativa permanente dos municípios, ou Diretório Municipal, respeitará as disposições da seção anterior no que couber, e será constituída por:
-I – Uma Secretaria Municipal;
-II – Uma Tesouraria Municipal;
-III – Uma Coordenadoria Municipal, ressalvada a hipótese do §4º;
-IV – Uma Assembleia Pirata Municipal.
-§1º Além desses órgãos, o Diretório poderá constituir novos órgãos, de funcionamento permanente ou intermitente, que deverão constar em regulamento municipal, junto com a normatização de seu funcionamento;
-§2º Cada Diretório também constituirá Comitê Financeiro Municipal, nos termos deste Estatuto, em período de campanha eleitoral;
-§3º Regulamento Estadual também poderá dispor sobre outros órgãos que comporão a estrutura administrativa mínima dos Municípios no Estado.
-§4º Em Municípios com menos de 200.000 habitantes, a Coordenadoria não será obrigatória.
+### Art. 58
 
-Art. 66. Só será autorizada a criação de Diretório Municipal em municípios com, pelo menos:
-I – 10 filiados, se o município tem menos de 200.000 habitantes;
-II – 30 filiados, se o município tem 200.000 habitantes ou mais.
+A Secretaria Estadual tem como funções:
 
-Art. 67. A Secretaria Municipal tem como funções, pelo menos:
-I – Representação legal do Partido em nível municipal;
-II – Credenciar Delegados frente aos Juízes Eleitorais;
-III – Assinar documentos e atuação administrativa em nível municipal, conforme as determinações da Coordenadoria Municipal;
-Parágrafo único. A Secretaria Municipal será exercida, no mínimo, pela Secretaria Municipal, que assinará documentos e representará o Partido em nível municipal, sendo o número de integrantes e a forma de sua atuação fixados por disposição expressa de Regulamento Municipal.
+I – Representar legalmente o Partido em nível estadual;  
+II – Credenciar Delegados frente ao Tribunal Regional Eleitoral de seu Estado;  
+III – Assinar documentos e atuação administrativa em nível estadual, conforme as determinações da Coordenadoria Estadual;  
 
-Art. 68. A Tesouraria Municipal tem como funções, pelo menos:
-I – Gestão financeira e orçamentária do Partido em nível municipal;
-II – Elaborar balanço patrimonial e demais demonstrações contábeis exigidas por lei em nível municipal;
-III – Divulgação transparente, contínua e completa do fluxo de caixa e comprovação de origem e aplicação de recursos pelos diversos órgãos do Partido em nível municipal;
-IV – Aprovar despesas maiores que a disponibilidade de Caixa atual do Partido em nível municipal.
-Parágrafo único. A Tesouraria Municipal será exercida por, no mínimo, um Tesoureiro Municipal, que será o responsável legal pelas contas do Partido em nível municipal, sendo o número de Tesoureiros e a forma de sua atuação fixados por Regulamento Municipal.
+#### Parágrafo único
 
-Art. 69. A Coordenadoria Municipal tem como funções, pelo menos:
-I – Representar as diversas regiões internas do Município e suas particularidades;
-II – Monitorar a atuação da Secretaria Municipal e da Tesouraria Municipal e sua conformidade com os documentos oficiais do Partido;
-III – Definir diretrizes gerais de atuação do Partido Pirata em nível municipal;
-IV – Aprovar o balanço patrimonial e demais demonstrações contábeis elaboradas pela Tesouraria Municipal;
-V – Decidir casos omissos nos documentos exclusivamente municipais do Partido;
-VI – Indicar pessoas para provimento temporário de cargo vago em qualquer órgão da estrutura administrativa permanente do Município.
-§1º A Coordenadoria Municipal será formada por um número ímpar e maior que um de Coordenadores Municipais, escolhidos dentre diferentes regiões internas do Município, conforme Regulamento Municipal.
-§2º Caso o Município ainda não esteja dividido em regiões internas, cada Coordenador virá de bairro distinto.
+A Secretaria Estadual será exercida por, pelo menos, um Secretário Estadual, que assinará documentos e representará o Partido em nível estadual, sendo o número de Secretários, e a forma de sua atuação, fixados por disposição expressa no Regulamento Estadual.
 
-Art. 70. A Assembleia Pirata Municipal é o órgão deliberativo máximo do Partido em nível municipal, sendo organizada de forma análoga à Assembleia Pirata Estadual e tem como funções:
-I – Decidir os membros dos demais órgãos do Partido Pirata em nível municipal;
-II – Fiscalizar e dirigir permanentemente as atividades da Secretaria Municipal, da Tesouraria Municipal e dos demais órgãos da estrutura administrativa do Município;
-III – Elaborar o plano de gestão orçamentária e financeira a cada dois anos, a ser observado pelos demais órgãos do Partido Pirata em nível municipal, em especial a Tesouraria Municipal;
-IV – Elaborar e aprovar Regulamento Municipal;
-V – Escolher candidatos a Vereador e Prefeito do Município de sua competência;
-§1º A Assembleia Pirata Municipal poderá avocar competências de qualquer outro órgão da estrutura administrativa do município.
-§2º A Assembleia Pirata Municipal é constituída por todos os membros filiados ao Partido Pirata no município, que deliberarão presencialmente, mediante comprovação de sua filiação, e suas reuniões serão abertas ao público, que poderá falar e opinar por vias presenciais ou virtuais, salvo se a Secretaria Municipal entender que o público está turbando a reunião, caso em que o público perderá o direito de voz.
+### Art. 59
 
-Art. 71. A Assembleia Pirata Municipal se reunirá:
-I – Ordinariamente, em Encontros Municipais, a cada semestre;
-II – Extraordinariamente, quando convocada por qualquer órgão da estrutura administrativa permanente do município ou por, no mínimo, 10% dos membros filiados ao Partido no município.
+A Coordenadoria Estadual tem como funções, pelo menos:
 
-Art. 72. O quórum para a deliberação da Assembleia Pirata Municipal será de 10% do total dos membros filiados no município.
-CAPÍTULO V – DAS FINANÇAS E CONTABILIDADE
-SEÇÃO I – DISPOSIÇÕES GERAIS
+I – Representar as diversas regiões do Estado e suas particularidades;  
+II – Monitorar a atuação da Secretaria Estadual e da Tesouraria Estadual e sua conformidade com este Estatuto, com o Programa do Partido e com o Regulamento Estadual;  
+III – Definir diretrizes gerais de atuação do Partido Pirata em nível estadual;  
+IV – Aprovar balanço patrimonial e demais demonstrações contábeis elaboradas pela Tesouraria Estadual;  
+V – Decidir casos omissos nos documentos exclusivamente estaduais do Partido;  
+VI – Indicar pessoas para provimento temporário de cargo vago em qualquer órgão da estrutura administrativa permanente do Estado.  
 
-Art. 73. Ao final de cada exercício financeiro, que terá duração de um semestre, ou quando for exigido pela lei, pela autoridade competente ou pela Coordenadoria, a Tesouraria correspondente deverá apresentar o balanço patrimonial e demais demonstrações contábeis do período, nos termos da lei.
-§1º Quando a apresentação for exigida pela Coordenadoria, o seu prazo será de 2 meses a contar da notificação por escrito da Tesouraria correspondente.
-§2º O prazo para a apresentação ordinária das demonstrações contábeis será de 2 meses a partir do término do exercício em questão.
-§3º A falta de apresentação das demonstrações contábeis é infração grave e ensejará a responsabilização de todos os Tesoureiros faltosos, nos termos deste Estatuto.
+#### §1º
 
-Art. 74. Após aprovadas pela Coordenadoria correspondente, as demonstrações contábeis serão registradas perante junta comercial e publicadas em sistema informático oficial do Partido e na rede mundial de computadores, em até 30 dias.
+A Coordenadoria Estadual será formada por um número ímpar e maior que um de Coordenadores Estaduais, escolhidos dentre diferentes regiões internas do Estado, conforme Regulamento Estadual.
 
-Art. 75. As diversas Tesourarias devem manter escrituração contábil atualizada, efetuada pelo regime de competência e segundo as determinações da lei, do Conselho Federal de Contabilidade e deste Estatuto.
-§1º Os registros contábeis serão divulgados semanalmente na rede mundial de computadores com todos os documentos probantes, para acesso e auditoria de todos os interessados, e lá permanecerão por, no mínimo, cinco anos.
-§2º A Tesouraria deve guardar os registros e documentos probantes por cinco anos ou como disposto na lei.
-§3º É dever da Tesouraria investigar qualquer denúncia de irregularidades nas contas do Partido no nível em que for competente e negligenciar este dever é infração grave.
+#### §2º
 
-Art. 76. Cada Assembleia Pirata é competente para fixar diretrizes orçamentárias e financeiras para a aplicação dos recursos de que dispõe a Tesouraria correspondente, respeitadas as normas deste Estatuto e legais;
-Parágrafo único. Nenhuma determinação de órgão da estrutura administrativa vedará acesso à Tesouraria a qualquer conta administrada por ela, salvo em caso de intervenção, nos termos deste Estatuto.
-SEÇÃO II – DOS COMITÊS FINANCEIROS
+Caso o Estado ainda não esteja dividido em regiões internas, cada Coordenador virá de município distinto em que haja constituído Diretório Municipal.
 
-Art. 77. O Partido constituirá Comitê Financeiro em até 10 dias úteis após a escolha dos candidatos por Coordenadoria.
-§1º Haverá um Comitê Financeiro para cada nível de atuação do Partido e sua criação e registro perante a Justiça Eleitoral é responsabilidade da Secretaria correspondente, que deverá proceder nos termos da lei.
-§2º O Comitê Financeiro Nacional será formado por um membro da Tesouraria-Geral, um membro da Secretaria-Geral e por um membro do Grupo de Trabalho Jurídico Nacional formado para o acompanhamento legal das eleições em nível nacional.
-§3º O Comitê Financeiro Estadual será formado por um membro da Tesouraria Estadual, um membro da Secretaria Estadual e por um membro do Grupo de Trabalho Jurídico Estadual formado para o acompanhamento legal das eleições em nível estadual.
-§4º O Comitê Financeiro Municipal será formado pelo Tesoureiro Municipal, pelo Secretário Municipal e por um membro do Grupo de Trabalho Jurídico Municipal formado para o acompanhamento legal das eleições em nível municipal.
-§5º Os membros da Tesouraria e da Secretaria que fizerem parte do Comitê se afastarão de suas atribuições e deverão indicar substitutos para seus cargos pelo tempo em que estiverem afastados, substitutos estes sujeitos à aprovação da Coordenadoria correspondente.
+### Art. 60
 
-Art. 78. É responsabilidade do Comitê Financeiro:
-I – Arrecadar e aplicar recursos de campanha;
-II – Distribuir aos candidatos os recibos eleitorais;
-III – Orientar os candidatos sobre os procedimentos de arrecadação e de aplicação de recursos e sobre as respectivas prestações de contas;
-IV – Elaborar e encaminhar ao Juízo Eleitoral a sua prestação de contas;
-V – Encaminhar à Justiça Eleitoral a prestação de contas dos candidatos, quando exigido em lei;
-VI – Realizar outras tarefas exigidas por lei quanto à prestação de contas e controle e monitoramento dos recursos de campanha eleitoral;
-VII – Orientar a sociedade civil sobre os recursos da campanha eleitoral, a fim de se garantir máxima transparência do pleito eleitoral;
-VIII – Gerenciar recibos e outros documentos probatórios de campanha, de forma sempre aberta ao público.
-SEÇÃO III – DAS FONTES DE RECURSOS E DO FUNDO PARTIDÁRIO
+A Tesouraria Estadual tem como funções, pelo menos:
 
-Art. 79. As diversas fontes de recursos do **PIRATAS** são:
-I – Doações;
-II – O Fundo Partidário, nos termos da lei e deste Estatuto;
-III – Contribuição obrigatória de membros filiados ocupantes de cargos eletivos, comissionados ou de função de confiança, nos termos deste Estatuto;
-IV – Convênios comerciais, aprovados por Coordenadoria;
-V – Investimentos e aplicações financeiras;
-VI – Outros auxílios não vedados em lei;
-VII – Outras atividades civis ou comerciais não vedadas em lei.
+I – Gestão financeira e orçamentária do Partido em nível estadual;  
+II – Elaborar balanço patrimonial e demais demonstrações contábeis exigidas por lei em nível estadual;  
+III – Divulgação transparente, contínua e completa do fluxo de caixa e comprovação de origem e aplicação de recursos pelos diversos órgãos do Partido em nível estadual;  
+IV – A aprovação de despesas maiores que a disponibilidade de Caixa atual do Partido em nível estadual.  
 
-Art. 80. O Partido não receberá doações, auxílio pecuniário ou estimável em dinheiro ou contribuição de qualquer tipo de:
-I – Entidade ou governo estrangeiro;
-II – Autoridade ou órgãos públicos, ressalvadas as de Fundo Partidário;
-III – Autarquias, empresas públicas ou concessionárias de serviços públicos, sociedades de economia mista e fundações instituídas em virtude de lei e para cujos recursos concorram órgãos ou entidades governamentais;
-IV – Entidade de classe ou sindical;
-V – Pessoas naturais ou jurídicas condenadas por crime contra a ordem econômica ou improbidade administrativa, se não puderem comprovar a origem lícita dos recursos, mediante documentação com força legal.
-Parágrafo único. A doação recebida pelo **PIRATAS** não vincula sua atuação eleitoral ou política e só pode ser realizada a título oneroso se não contrariar os princípios do Partido.
+#### Parágrafo único
 
-Art. 81. A contribuição de membro filiado ocupante de cargo eletivo, comissionado ou de função de confiança será fixada, em todos os níveis, em 10% de sua remuneração bruta, incluídas todas as gratificações, auxílios e verbas de qualquer natureza, com exceção das indenizatórias, nos termos da lei.
-Parágrafo único. A contribuição poderá, em caráter de urgência e provisório, ser aumentada para até 20% da remuneração pela Tesouraria responsável pela gerência da contribuição, que elaborará parecer esclarecendo e justificando a razão do aumento, que cessará junto com aquilo que lhe deu causa.
+A Tesouraria Estadual será exercida por, no mínimo, um Tesoureiro Estadual, que será o responsável legal pelas contas do Partido em nível estadual, sendo o número de Tesoureiros e a forma de sua atuação fixados por Regulamento Estadual.
 
-Art. 82. Todos os recursos do Partido serão depositados em conta bancária da seguinte forma:
-I – Aqueles advindos de doações serão depositadas em qualquer das contas administradas por qualquer das Tesourarias do Partido;
-II – Os recursos do Fundo Partidário serão depositados em conta administrada pela Tesouraria-Geral;
-III – Os recursos da contribuição obrigatória serão depositados em conta administrada pela Tesouraria do nível em que o filiado ocupe cargo eletivo, comissionado ou função de confiança;
-IV – Os recursos de convênios comerciais, investimentos, aplicações financeiras, outros auxílios ou de outras atividades civis ou comerciais serão depositados em conta administrada pela Tesouraria do nível da Secretaria contratante, investidora, aplicadora ou que se relacione mais diretamente com o auxílio ou atividade civil ou comercial.
-§1º Cada Tesouraria administrará pelo menos uma conta bancária para os recursos no nível em que atuar, tendo acesso a essa conta todos os membros da estrutura administrativa permanente do nível.
-§2º Incorre em infração grave o membro da Tesouraria que não avisar à Coordenadoria do nível em que atuar ao verificar irregularidades.
-§3º A Tesouraria responsável divulgará em sítio na rede mundial de computadores, semanalmente, extrato das contas que administrar, para análise e auditoria de qualquer interessado.
+### Art. 61
 
-Art. 83. Os recursos do Fundo Partidário serão distribuídos pela Tesouraria-Geral entre as diversas Tesourarias no segundo dia de cada mês obedecida à seguinte proporção:
-I – 10% dos recursos serão igualmente distribuídos entre as diversas Tesourarias Estaduais e a Tesouraria Distrital;
-II – 30% dos recursos serão igualmente distribuídos entre as diversas Tesourarias Municipais;
-III – 30% dos recursos serão distribuídos entre as diversas Tesourarias Municipais na proporção do número de filiados no Município;
-IV – 10% dos recursos serão distribuídos entre as diversas Tesourarias Estaduais e a Tesouraria Distrital na proporção do número de filiados no Estado ou no Distrito Federal;
-V – 20% dos recursos permanecerão com a Tesouraria Nacional;
-§1º 50% dos recursos do Fundo Partidário serão utilizados para despesas com pessoal.
-§2º 20% dos recursos do Fundo Partidário serão utilizados na manutenção de Instituto de Educação e Pesquisa Pirata, a ser criado oportunamente pela Coordenadoria Nacional, e que funcionará segundo normatização complementar.
+A Assembleia Pirata Estadual é o órgão deliberativo máximo do Partido em nível estadual, sendo organizada de forma análoga à Assembleia Pirata Nacional e tendo como funções:
 
-Art. 84. A remuneração dos membros dos órgãos da estrutura permanente do Partido será paga da seguinte forma:
-I – Os Secretários Gerais, Coordenadores Regionais e Tesoureiros Gerais terão remuneração mensal de, no mínimo, um salário-mínimo nacional. Este valor será composto por:
-a) Valor fixado pela Assembleia Pirata ordinária na qual houver a escolha dos Secretários Gerais;
-b) 5% da verba destinada a pessoal pelo Diretório Nacional;
-II – Os Secretários Estaduais e Distritais, Coordenadores Municipais e Tesoureiros Estaduais e Distritais terão remuneração de 80% da remuneração dos Secretários Gerais, mais uma porcentagem fixada pela Assembleia Pirata Estadual, em plano de gestão financeira e orçamentária, da verba destinada a pessoal pelo Diretório de seu Estado ou Distrito Federal, nos termos deste Estatuto;
-III – Os Secretários Municipais, Coordenadores Zonais e Tesoureiros Municipais terão remuneração de 40% da remuneração dos Secretários Gerais, mais uma porcentagem fixada pela Assembleia Pirata Municipal, em plano de gestão financeira e orçamentária, da verba destinada a pessoal pelo Diretório de seu Município, nos termos deste Estatuto;
-IV – Os membros dos Grupos de Trabalho ou Setoriais receberão conforme remuneração acertada previamente com o Diretório de seu nível pelo trabalho que realizarão;
-V – Os membros de Comissão Julgadora e Comitê Financeiro receberão conforme remuneração a ser fixada pela Assembleia Pirata de seu nível em plano de gestão financeira e orçamentária, se já não receberem em virtude de outro cargo de Diretório;
-VI – Os valores recebidos a título remuneratório por qualquer membro nunca será inferior a um salário-mínimo.
+I – Decidir os membros dos demais órgãos do Partido Pirata em nível estadual;  
+II – Fiscalizar e dirigir permanentemente as atividades da Secretaria Estadual, da Tesouraria Estadual e dos demais órgãos da estrutura administrativa do Estado;  
+III – Elaborar o plano de gestão orçamentária e financeira a cada dois anos, a ser observado pelos demais órgãos do Partido Pirata em nível estadual, em especial a Tesouraria Estadual;  
+IV – Aprovar a criação de estrutura administrativa do Partido em município de seu Estado;  
+V – Elaborar e aprovar Regulamento Estadual;  
+VI – Escolher candidatos a Deputado Estadual, Deputado Federal e Governador do Estado de sua competência;  
 
-Art. 85. Quem se candidatar pelo Partido pode utilizar qualquer quantia de recurso próprio no financiamento de sua campanha se antes depositar a quantia em conta permanentemente monitorada pelo Comitê Financeiro do nível em que disputar.
-§1º Quem se candidatar pelo partido também deve prestar contas da origem e aplicação de todos os recursos de que dispor para o financiamento de sua campanha ao Comitê Financeiro do nível em que disputar o cargo eletivo, para divulgação e publicação na rede mundial de computadores.
-§2º O controle e monitoramento do Comitê Financeiro não exclui o controle concomitante da Tesouraria competente.
+#### §1º
 
-Art. 86. Uma vez vencida a eleição, qualquer parlamentar com filiação ao Partido terá o valor de sua remuneração pelos trabalhos em Casa Legislativa estipulado por Assembleia Pirata do nível em que atuar, obedecido a um critério de justiça social e levando-se em conta as realidades locais e individuais de cada caso.
-§1º Qualquer parlamentar elaborará documento semestral submetido ao Partido, justificando a necessidade do valor da remuneração recebida, bem como o destino de verbas de gabinete, auxílios e outras verbas indenizatórias.
-§2º Em caráter emergencial, qualquer parlamentar pode requerer por escrito uma remuneração maior, mediante justificativa adequada e pelo tempo em que durar a condição de urgência.
-§3º A remuneração de qualquer parlamentar do Partido nunca será menor que o salário-mínimo do DIEESE.
-§4º A Secretaria do nível em que atuar qualquer parlamentar publicará sua remuneração, acrescida de todas as verbas e auxílios, e o destino dessas últimas, bem como os documentos parlamentar de justificativa, inclusive o elaborado por ocasião de aumento emergencial.
-CAPÍTULO VI – DO PATRIMÔNIO DO PIRATAS
+A Assembleia Pirata Estadual poderá avocar competências de qualquer outro órgão da estrutura administrativa do Estado.
 
-Art. 87. O patrimônio do Partido será constituído por: a) renda patrimonial; b) doações e legados de pessoas físicas ou jurídicas; c) bens móveis e imóveis de sua propriedade ou que venha a adquirir; d) recursos recebidos na forma deste Estatuto.
+#### §2º
 
-Art. 88. No caso de dissolução do **PIRATAS**, seu patrimônio será destinado a entidades que tenham como objetivo o fortalecimento da democracia no Brasil e/ou o fomento ao uso de Software Livre.
-Parágrafo único. A dissolução a que se refere esse artigo só poderá ocorrer por decisão de 2/3 (dois terços) das pessoas filiadas presentes em Assembleia Pirata Nacional, convocada para esse fim com 6 (seis) meses de antecedência e mediante consulta prévia nos termos deste Estatuto.
-CAPÍTULO VII – DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+A Assembleia Pirata Estadual é constituída por todos os membros filiados ao Partido Pirata no Estado, que deliberarão presencialmente, mediante comprovação de sua filiação, e suas reuniões serão abertas ao público, que poderá falar e opinar por vias presenciais ou virtuais, salvo se a Secretaria Estadual entender que o público está turbando a reunião, caso em que o público perderá o direito de voz.
 
-Art. 89. O Diretório Nacional Provisório será composto por:
-I – Secretaria-Geral Provisória, composta por 2 pessoas filiadas que exercerão as funções da Secretaria-Geral, nos termos deste Estatuto;
-II – Tesouraria-Geral Provisória, composta por 2 pessoas filiadas que exercerão as funções da Tesouraria-Geral, nos termos deste Estatuto;
-III – uma Coordenadoria Regional Provisória para cada região do país em que houver pessoas filiadas ao Partido, composta por pelo menos uma pessoa filiada que exercerá as funções da Coordenadoria Nacional, nos termos deste Estatuto;
-IV – A Assembleia Pirata Nacional.
+### Art. 62
 
-Art. 90. A Secretaria-Geral Provisória nomeará o Diretório Distrital Provisório e os Diretórios Estaduais Provisórios, que terão:
-I – no mínimo, 1 Secretaria Estadual ou Distrital Provisória, que acumulará as funções da Secretaria Estadual ou Distrital;
-II – no mínimo, 1 Tesouraria Estadual ou Distrital Provisória, que acumulará as funções da Tesouraria Estadual ou Distrital;
-III – no mínimo, 3 Coordenadorias Estaduais Provisórias, que acumularão as funções da Coordenadoria Estadual;
-IV – A Assembleia Pirata Estadual ou Distrital.
-Parágrafo único. O número de Coordenadorias Estaduais Provisórias será sempre ímpar.
+A Assembleia Pirata Estadual se reunirá:
 
-Art. 91. A Secretaria Estadual Provisória nomeará os Diretórios Municipais Provisórios, que terão:
-I – no mínimo, 1 Secretaria Municipal Provisória, que exercerá as funções da Secretaria Municipal, nos termos deste Estatuto;
-II – no mínimo, 1 Tesouraria Municipal Provisória, que exercerá as funções da Tesouraria Municipal, nos termos deste Estatuto;
-III – no mínimo, 3 Coordenadorias Municipais Provisórias, que exercerão as funções da Coordenadoria Municipal, nos termos deste Estatuto;
-IV – A Assembleia Pirata Municipal.
-Parágrafo único. O número de Coordenadorias Municipais Provisórias será sempre ímpar.
+I – Ordinariamente, em Encontros Estaduais, a cada um ano;  
+II – Extraordinariamente, quando convocada por qualquer órgão da estrutura administrativa permanente do Estado, ou por, no mínimo, 10% dos membros filiados ao Partido no Estado.  
 
-Art. 92. Os Diretórios Provisórios submetem-se a todas as regras que vinculam os Diretórios, salvo exceções previstas neste Estatuto.
-§1º Ocupantes de Diretório Provisório não recebe remuneração.
-§2º Ocupantes de Diretório Provisório podem ser substituídos por Assembleia Pirata do nível em que atuar o Diretório.
+### Art. 63
 
-Art. 93. Os Diretórios Provisórios serão extintos com a eleição de membros de Diretório, nos termos deste Estatuto e, quando for o caso, de Regulamento Estadual, Distrital ou Municipal.
-Parágrafo único. A eleição de que trata o caput só ocorrerá após a obtenção do apoiamento mínimo nacional de eleitores de que trata a lei eleitoral, salvo se o apoiamento deixar de ser requisito para o registro do Partido no TSE.
+O quórum para a deliberação da Assembleia Pirata Estadual será de 1 representante de cada Diretório Municipal ou Diretório Municipal Provisório.
 
-Art. 94. A associação ao Partido enquanto ainda não estiver definitivamente formado obedecerá às mesmas regras da filiação e, durante esse período, o membro associado será tido por filiado para as obrigações e direitos que couberem, nos termos deste Estatuto e salvo exceções expressas.
-§1º Mediante autorização expressa da Coordenadoria Nacional Provisória, a Secretaria-Geral Provisória pode instituir mecanismo facilitado de associação ao Partido, que não poderá deixar de permitir oposição por qualquer membro filiado em tempo hábil.
-§2º Considera-se o Partido definitivamente formado quanto não houver mais Diretórios Provisórios.
+### Art. 64
 
-Art. 95. Quando não existir Diretório Municipal constituído no local de residência da pessoa interessada, em qualquer caso, a atribuição estatutária deverá ser desempenhada sucessivamente pelos seguintes órgãos, nesta ordem:
-I – Secretaria Municipal mais próxima dentro do mesmo Estado, caso exista;
-II – Secretaria Estadual, caso exista;
-III – Secretaria-Geral.
+A estrutura do Partido no Distrito Federal será em tudo análoga à organização da estrutura do Partido em nível estadual, no que couber, inclusive quanto ao número de filiados para sua criação.
+
+#### Parágrafo único
+
+Os diversos órgãos da estrutura administrativa distrital do Partido acumularão atribuições estaduais e municipais de seus órgãos equivalentes.
+
+## SEÇÃO V – DA ESTRUTURA ADMINISTRATIVA MUNICIPAL
+
+### Art. 65
+
+A estrutura administrativa permanente dos municípios, ou Diretório Municipal, respeitará as disposições da seção anterior no que couber, e será constituída por:
+
+I – Uma Secretaria Municipal;  
+II – Uma Tesouraria Municipal;  
+III – Uma Coordenadoria Municipal, ressalvada a hipótese do §4º;  
+IV – Uma Assembleia Pirata Municipal.  
+
+#### §1º
+
+Além desses órgãos, o Diretório poderá constituir novos órgãos, de funcionamento permanente ou intermitente, que deverão constar em regulamento municipal, junto com a normatização de seu funcionamento;
+
+#### §2º
+
+Cada Diretório também constituirá Comitê Financeiro Municipal, nos termos deste Estatuto, em período de campanha eleitoral;
+
+#### §3º
+
+Regulamento Estadual também poderá dispor sobre outros órgãos que comporão a estrutura administrativa mínima dos Municípios no Estado.
+
+#### §4º
+
+Em Municípios com menos de 200.000 habitantes, a Coordenadoria não será obrigatória.
+
+### Art. 66
+
+Só será autorizada a criação de Diretório Municipal em municípios com, pelo menos:
+
+I – 10 filiados, se o município tem menos de 200.000 habitantes;  
+II – 30 filiados, se o município tem 200.000 habitantes ou mais.  
+
+### Art. 67
+
+A Secretaria Municipal tem como funções, pelo menos:
+
+I – Representação legal do Partido em nível municipal;  
+II – Credenciar Delegados frente aos Juízes Eleitorais;  
+III – Assinar documentos e atuação administrativa em nível municipal, conforme as determinações da Coordenadoria Municipal;  
+
+#### Parágrafo único
+
+A Secretaria Municipal será exercida, no mínimo, pela Secretaria Municipal, que assinará documentos e representará o Partido em nível municipal, sendo o número de integrantes e a forma de sua atuação fixados por disposição expressa de Regulamento Municipal.
+
+### Art. 68
+
+A Tesouraria Municipal tem como funções, pelo menos:
+
+I – Gestão financeira e orçamentária do Partido em nível municipal;  
+II – Elaborar balanço patrimonial e demais demonstrações contábeis exigidas por lei em nível municipal;  
+III – Divulgação transparente, contínua e completa do fluxo de caixa e comprovação de origem e aplicação de recursos pelos diversos órgãos do Partido em nível municipal;  
+IV – Aprovar despesas maiores que a disponibilidade de Caixa atual do Partido em nível municipal.  
+
+#### Parágrafo único
+
+A Tesouraria Municipal será exercida por, no mínimo, um Tesoureiro Municipal, que será o responsável legal pelas contas do Partido em nível municipal, sendo o número de Tesoureiros e a forma de sua atuação fixados por Regulamento Municipal.
+
+### Art. 69
+
+A Coordenadoria Municipal tem como funções, pelo menos:
+
+I – Representar as diversas regiões internas do Município e suas particularidades;  
+II – Monitorar a atuação da Secretaria Municipal e da Tesouraria Municipal e sua conformidade com os documentos oficiais do Partido;  
+III – Definir diretrizes gerais de atuação do Partido Pirata em nível municipal;  
+IV – Aprovar o balanço patrimonial e demais demonstrações contábeis elaboradas pela Tesouraria Municipal;  
+V – Decidir casos omissos nos documentos exclusivamente municipais do Partido;  
+VI – Indicar pessoas para provimento temporário de cargo vago em qualquer órgão da estrutura administrativa permanente do Município.  
+
+#### §1º
+
+A Coordenadoria Municipal será formada por um número ímpar e maior que um de Coordenadores Municipais, escolhidos dentre diferentes regiões internas do Município, conforme Regulamento Municipal.
+
+#### §2º
+
+Caso o Município ainda não esteja dividido em regiões internas, cada Coordenador virá de bairro distinto.
+
+### Art. 70
+
+A Assembleia Pirata Municipal é o órgão deliberativo máximo do Partido em nível municipal, sendo organizada de forma análoga à Assembleia Pirata Estadual e tem como funções:
+
+I – Decidir os membros dos demais órgãos do Partido Pirata em nível municipal;  
+II – Fiscalizar e dirigir permanentemente as atividades da Secretaria Municipal, da Tesouraria Municipal e dos demais órgãos da estrutura administrativa do Município;  
+III – Elaborar o plano de gestão orçamentária e financeira a cada dois anos, a ser observado pelos demais órgãos do Partido Pirata em nível municipal, em especial a Tesouraria Municipal;  
+IV – Elaborar e aprovar Regulamento Municipal;  
+V – Escolher candidatos a Vereador e Prefeito do Município de sua competência;  
+
+#### §1º
+
+A Assembleia Pirata Municipal poderá avocar competências de qualquer outro órgão da estrutura administrativa do município.
+
+#### §2º
+
+A Assembleia Pirata Municipal é constituída por todos os membros filiados ao Partido Pirata no município, que deliberarão presencialmente, mediante comprovação de sua filiação, e suas reuniões serão abertas ao público, que poderá falar e opinar por vias presenciais ou virtuais, salvo se a Secretaria Municipal entender que o público está turbando a reunião, caso em que o público perderá o direito de voz.
+
+### Art. 71
+
+A Assembleia Pirata Municipal se reunirá:
+
+I – Ordinariamente, em Encontros Municipais, a cada semestre;  
+II – Extraordinariamente, quando convocada por qualquer órgão da estrutura administrativa permanente do município ou por, no mínimo, 10% dos membros filiados ao Partido no município.  
+
+### Art. 72
+
+O quórum para a deliberação da Assembleia Pirata Municipal será de 10% do total dos membros filiados no município.
+
+# CAPÍTULO V – DAS FINANÇAS E CONTABILIDADE
+
+## SEÇÃO I – DISPOSIÇÕES GERAIS
+
+### Art. 73
+
+Ao final de cada exercício financeiro, que terá duração de um semestre, ou quando for exigido pela lei, pela autoridade competente ou pela Coordenadoria, a Tesouraria correspondente deverá apresentar o balanço patrimonial e demais demonstrações contábeis do período, nos termos da lei.
+
+#### §1º
+
+Quando a apresentação for exigida pela Coordenadoria, o seu prazo será de 2 meses a contar da notificação por escrito da Tesouraria correspondente.
+
+#### §2º
+
+O prazo para a apresentação ordinária das demonstrações contábeis será de 2 meses a partir do término do exercício em questão.
+
+#### §3º
+
+A falta de apresentação das demonstrações contábeis é infração grave e ensejará a responsabilização de todos os Tesoureiros faltosos, nos termos deste Estatuto.
+
+### Art. 74
+
+Após aprovadas pela Coordenadoria correspondente, as demonstrações contábeis serão registradas perante junta comercial e publicadas em sistema informático oficial do Partido e na rede mundial de computadores, em até 30 dias.
+
+### Art. 75
+
+As diversas Tesourarias devem manter escrituração contábil atualizada, efetuada pelo regime de competência e segundo as determinações da lei, do Conselho Federal de Contabilidade e deste Estatuto.
+
+#### §1º
+
+Os registros contábeis serão divulgados semanalmente na rede mundial de computadores com todos os documentos probantes, para acesso e auditoria de todos os interessados, e lá permanecerão por, no mínimo, cinco anos.
+
+#### §2º
+
+A Tesouraria deve guardar os registros e documentos probantes por cinco anos ou como disposto na lei.
+
+#### §3º
+
+É dever da Tesouraria investigar qualquer denúncia de irregularidades nas contas do Partido no nível em que for competente e negligenciar este dever é infração grave.
+
+### Art. 76
+
+Cada Assembleia Pirata é competente para fixar diretrizes orçamentárias e financeiras para a aplicação dos recursos de que dispõe a Tesouraria correspondente, respeitadas as normas deste Estatuto e legais;
+
+#### Parágrafo único
+
+Nenhuma determinação de órgão da estrutura administrativa vedará acesso à Tesouraria a qualquer conta administrada por ela, salvo em caso de intervenção, nos termos deste Estatuto.
+
+## SEÇÃO II – DOS COMITÊS FINANCEIROS
+
+### Art. 77
+
+O Partido constituirá Comitê Financeiro em até 10 dias úteis após a escolha dos candidatos por Coordenadoria.
+
+#### §1º
+
+Haverá um Comitê Financeiro para cada nível de atuação do Partido e sua criação e registro perante a Justiça Eleitoral é responsabilidade da Secretaria correspondente, que deverá proceder nos termos da lei.
+
+#### §2º
+
+O Comitê Financeiro Nacional será formado por um membro da Tesouraria-Geral, um membro da Secretaria-Geral e por um membro do Grupo de Trabalho Jurídico Nacional formado para o acompanhamento legal das eleições em nível nacional.
+
+#### §3º
+
+O Comitê Financeiro Estadual será formado por um membro da Tesouraria Estadual, um membro da Secretaria Estadual e por um membro do Grupo de Trabalho Jurídico Estadual formado para o acompanhamento legal das eleições em nível estadual.
+
+#### §4º
+
+O Comitê Financeiro Municipal será formado pelo Tesoureiro Municipal, pelo Secretário Municipal e por um membro do Grupo de Trabalho Jurídico Municipal formado para o acompanhamento legal das eleições em nível municipal.
+
+#### §5º
+
+Os membros da Tesouraria e da Secretaria que fizerem parte do Comitê se afastarão de suas atribuições e deverão indicar substitutos para seus cargos pelo tempo em que estiverem afastados, substitutos estes sujeitos à aprovação da Coordenadoria correspondente.
+
+### Art. 78
+
+É responsabilidade do Comitê Financeiro:
+
+I – Arrecadar e aplicar recursos de campanha;  
+II – Distribuir aos candidatos os recibos eleitorais;  
+III – Orientar os candidatos sobre os procedimentos de arrecadação e de aplicação de recursos e sobre as respectivas prestações de contas;  
+IV – Elaborar e encaminhar ao Juízo Eleitoral a sua prestação de contas;  
+V – Encaminhar à Justiça Eleitoral a prestação de contas dos candidatos, quando exigido em lei;  
+VI – Realizar outras tarefas exigidas por lei quanto à prestação de contas e controle e monitoramento dos recursos de campanha eleitoral;  
+VII – Orientar a sociedade civil sobre os recursos da campanha eleitoral, a fim de se garantir máxima transparência do pleito eleitoral;  
+VIII – Gerenciar recibos e outros documentos probatórios de campanha, de forma sempre aberta ao público.  
+
+## SEÇÃO III – DAS FONTES DE RECURSOS E DO FUNDO PARTIDÁRIO
+
+### Art. 79
+
+As diversas fontes de recursos do **PIRATAS** são:
+
+I – Doações;  
+II – O Fundo Partidário, nos termos da lei e deste Estatuto;  
+III – Contribuição obrigatória de membros filiados ocupantes de cargos eletivos, comissionados ou de função de confiança, nos termos deste Estatuto;  
+IV – Convênios comerciais, aprovados por Coordenadoria;  
+V – Investimentos e aplicações financeiras;  
+VI – Outros auxílios não vedados em lei;  
+VII – Outras atividades civis ou comerciais não vedadas em lei.  
+
+### Art. 80
+
+O Partido não receberá doações, auxílio pecuniário ou estimável em dinheiro ou contribuição de qualquer tipo de:
+
+I – Entidade ou governo estrangeiro;  
+II – Autoridade ou órgãos públicos, ressalvadas as de Fundo Partidário;  
+III – Autarquias, empresas públicas ou concessionárias de serviços públicos, sociedades de economia mista e fundações instituídas em virtude de lei e para cujos recursos concorram órgãos ou entidades governamentais;  
+IV – Entidade de classe ou sindical;  
+V – Pessoas naturais ou jurídicas condenadas por crime contra a ordem econômica ou improbidade administrativa, se não puderem comprovar a origem lícita dos recursos, mediante documentação com força legal.  
+
+#### Parágrafo único
+
+A doação recebida pelo **PIRATAS** não vincula sua atuação eleitoral ou política e só pode ser realizada a título oneroso se não contrariar os princípios do Partido.
+
+### Art. 81
+
+A contribuição de membro filiado ocupante de cargo eletivo, comissionado ou de função de confiança será fixada, em todos os níveis, em 10% de sua remuneração bruta, incluídas todas as gratificações, auxílios e verbas de qualquer natureza, com exceção das indenizatórias, nos termos da lei.
+
+#### Parágrafo único
+
+A contribuição poderá, em caráter de urgência e provisório, ser aumentada para até 20% da remuneração pela Tesouraria responsável pela gerência da contribuição, que elaborará parecer esclarecendo e justificando a razão do aumento, que cessará junto com aquilo que lhe deu causa.
+
+### Art. 82
+
+Todos os recursos do Partido serão depositados em conta bancária da seguinte forma:
+
+I – Aqueles advindos de doações serão depositadas em qualquer das contas administradas por qualquer das Tesourarias do Partido;  
+II – Os recursos do Fundo Partidário serão depositados em conta administrada pela Tesouraria-Geral;  
+III – Os recursos da contribuição obrigatória serão depositados em conta administrada pela Tesouraria do nível em que o filiado ocupe cargo eletivo, comissionado ou função de confiança;  
+IV – Os recursos de convênios comerciais, investimentos, aplicações financeiras, outros auxílios ou de outras atividades civis ou comerciais serão depositados em conta administrada pela Tesouraria do nível da Secretaria contratante, investidora, aplicadora ou que se relacione mais diretamente com o auxílio ou atividade civil ou comercial.  
+
+#### §1º
+
+Cada Tesouraria administrará pelo menos uma conta bancária para os recursos no nível em que atuar, tendo acesso a essa conta todos os membros da estrutura administrativa permanente do nível.
+
+#### §2º
+
+Incorre em infração grave o membro da Tesouraria que não avisar à Coordenadoria do nível em que atuar ao verificar irregularidades.
+
+#### §3º
+
+A Tesouraria responsável divulgará em sítio na rede mundial de computadores, semanalmente, extrato das contas que administrar, para análise e auditoria de qualquer interessado.
+
+### Art. 83
+
+Os recursos do Fundo Partidário serão distribuídos pela Tesouraria-Geral entre as diversas Tesourarias no segundo dia de cada mês obedecida à seguinte proporção:
+
+I – 10% dos recursos serão igualmente distribuídos entre as diversas Tesourarias Estaduais e a Tesouraria Distrital;  
+II – 30% dos recursos serão igualmente distribuídos entre as diversas Tesourarias Municipais;  
+III – 30% dos recursos serão distribuídos entre as diversas Tesourarias Municipais na proporção do número de filiados no Município;  
+IV – 10% dos recursos serão distribuídos entre as diversas Tesourarias Estaduais e a Tesouraria Distrital na proporção do número de filiados no Estado ou no Distrito Federal;  
+V – 20% dos recursos permanecerão com a Tesouraria Nacional;  
+
+#### §1º
+
+50% dos recursos do Fundo Partidário serão utilizados para despesas com pessoal.
+
+#### §2º
+
+20% dos recursos do Fundo Partidário serão utilizados na manutenção de Instituto de Educação e Pesquisa Pirata, a ser criado oportunamente pela Coordenadoria Nacional, e que funcionará segundo normatização complementar.
+
+### Art. 84
+
+A remuneração dos membros dos órgãos da estrutura permanente do Partido será paga da seguinte forma:
+
+I – Os Secretários Gerais, Coordenadores Regionais e Tesoureiros Gerais terão remuneração mensal de, no mínimo, um salário-mínimo nacional. Este valor será composto por:  
+a) Valor fixado pela Assembleia Pirata ordinária na qual houver a escolha dos Secretários Gerais;  
+b) 5% da verba destinada a pessoal pelo Diretório Nacional;  
+II – Os Secretários Estaduais e Distritais, Coordenadores Municipais e Tesoureiros Estaduais e Distritais terão remuneração de 80% da remuneração dos Secretários Gerais, mais uma porcentagem fixada pela Assembleia Pirata Estadual, em plano de gestão financeira e orçamentária, da verba destinada a pessoal pelo Diretório de seu Estado ou Distrito Federal, nos termos deste Estatuto;  
+III – Os Secretários Municipais, Coordenadores Zonais e Tesoureiros Municipais terão remuneração de 40% da remuneração dos Secretários Gerais, mais uma porcentagem fixada pela Assembleia Pirata Municipal, em plano de gestão financeira e orçamentária, da verba destinada a pessoal pelo Diretório de seu Município, nos termos deste Estatuto;  
+IV – Os membros dos Grupos de Trabalho ou Setoriais receberão conforme remuneração acertada previamente com o Diretório de seu nível pelo trabalho que realizarão;  
+V – Os membros de Comissão Julgadora e Comitê Financeiro receberão conforme remuneração a ser fixada pela Assembleia Pirata de seu nível em plano de gestão financeira e orçamentária, se já não receberem em virtude de outro cargo de Diretório;  
+VI – Os valores recebidos a título remuneratório por qualquer membro nunca será inferior a um salário-mínimo.  
+
+### Art. 85
+
+Quem se candidatar pelo Partido pode utilizar qualquer quantia de recurso próprio no financiamento de sua campanha se antes depositar a quantia em conta permanentemente monitorada pelo Comitê Financeiro do nível em que disputar.
+
+#### §1º
+
+Quem se candidatar pelo partido também deve prestar contas da origem e aplicação de todos os recursos de que dispor para o financiamento de sua campanha ao Comitê Financeiro do nível em que disputar o cargo eletivo, para divulgação e publicação na rede mundial de computadores.
+
+#### §2º
+
+O controle e monitoramento do Comitê Financeiro não exclui o controle concomitante da Tesouraria competente.
+
+### Art. 86
+
+Uma vez vencida a eleição, qualquer parlamentar com filiação ao Partido terá o valor de sua remuneração pelos trabalhos em Casa Legislativa estipulado por Assembleia Pirata do nível em que atuar, obedecido a um critério de justiça social e levando-se em conta as realidades locais e individuais de cada caso.
+
+#### §1º
+
+Qualquer parlamentar elaborará documento semestral submetido ao Partido, justificando a necessidade do valor da remuneração recebida, bem como o destino de verbas de gabinete, auxílios e outras verbas indenizatórias.
+
+#### §2º
+
+Em caráter emergencial, qualquer parlamentar pode requerer por escrito uma remuneração maior, mediante justificativa adequada e pelo tempo em que durar a condição de urgência.
+
+#### §3º
+
+A remuneração de qualquer parlamentar do Partido nunca será menor que o salário-mínimo do DIEESE.
+
+#### §4º
+
+A Secretaria do nível em que atuar qualquer parlamentar publicará sua remuneração, acrescida de todas as verbas e auxílios, e o destino dessas últimas, bem como os documentos parlamentar de justificativa, inclusive o elaborado por ocasião de aumento emergencial.
+
+# CAPÍTULO VI – DO PATRIMÔNIO DO PIRATAS
+
+### Art. 87
+
+O patrimônio do Partido será constituído por:
+
+a) renda patrimonial;  
+b) doações e legados de pessoas físicas ou jurídicas;  
+c) bens móveis e imóveis de sua propriedade ou que venha a adquirir;  
+d) recursos recebidos na forma deste Estatuto.  
+
+### Art. 88
+
+No caso de dissolução do **PIRATAS**, seu patrimônio será destinado a entidades que tenham como objetivo o fortalecimento da democracia no Brasil e/ou o fomento ao uso de Software Livre.
+
+#### Parágrafo único
+
+A dissolução a que se refere esse artigo só poderá ocorrer por decisão de 2/3 (dois terços) das pessoas filiadas presentes em Assembleia Pirata Nacional, convocada para esse fim com 6 (seis) meses de antecedência e mediante consulta prévia nos termos deste Estatuto.
+
+# CAPÍTULO VII – DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+### Art. 89
+
+O Diretório Nacional Provisório será composto por:
+
+I – Secretaria-Geral Provisória, composta por 2 pessoas filiadas que exercerão as funções da Secretaria-Geral, nos termos deste Estatuto;  
+II – Tesouraria-Geral Provisória, composta por 2 pessoas filiadas que exercerão as funções da Tesouraria-Geral, nos termos deste Estatuto;  
+III – uma Coordenadoria Regional Provisória para cada região do país em que houver pessoas filiadas ao Partido, composta por pelo menos uma pessoa filiada que exercerá as funções da Coordenadoria Nacional, nos termos deste Estatuto;  
+IV – A Assembleia Pirata Nacional.  
+
+### Art. 90
+
+A Secretaria-Geral Provisória nomeará o Diretório Distrital Provisório e os Diretórios Estaduais Provisórios, que terão:
+
+I – no mínimo, 1 Secretaria Estadual ou Distrital Provisória, que acumulará as funções da Secretaria Estadual ou Distrital;  
+II – no mínimo, 1 Tesouraria Estadual ou Distrital Provisória, que acumulará as funções da Tesouraria Estadual ou Distrital;  
+III – no mínimo, 3 Coordenadorias Estaduais Provisórias, que acumularão as funções da Coordenadoria Estadual;  
+IV – A Assembleia Pirata Estadual ou Distrital.  
+
+#### Parágrafo único
+
+O número de Coordenadorias Estaduais Provisórias será sempre ímpar.
+
+### Art. 91
+
+A Secretaria Estadual Provisória nomeará os Diretórios Municipais Provisórios, que terão:
+
+I – no mínimo, 1 Secretaria Municipal Provisória, que exercerá as funções da Secretaria Municipal, nos termos deste Estatuto;  
+II – no mínimo, 1 Tesouraria Municipal Provisória, que exercerá as funções da Tesouraria Municipal, nos termos deste Estatuto;  
+III – no mínimo, 3 Coordenadorias Municipais Provisórias, que exercerão as funções da Coordenadoria Municipal, nos termos deste Estatuto;  
+IV – A Assembleia Pirata Municipal.  
+
+#### Parágrafo único
+
+O número de Coordenadorias Municipais Provisórias será sempre ímpar.
+
+### Art. 92
+
+Os Diretórios Provisórios submetem-se a todas as regras que vinculam os Diretórios, salvo exceções previstas neste Estatuto.
+
+#### §1º
+
+Ocupantes de Diretório Provisório não recebe remuneração.
+
+#### §2º
+
+Ocupantes de Diretório Provisório podem ser substituídos por Assembleia Pirata do nível em que atuar o Diretório.
+
+### Art. 93
+
+Os Diretórios Provisórios serão extintos com a eleição de membros de Diretório, nos termos deste Estatuto e, quando for o caso, de Regulamento Estadual, Distrital ou Municipal.
+
+#### Parágrafo único
+
+A eleição de que trata o caput só ocorrerá após a obtenção do apoiamento mínimo nacional de eleitores de que trata a lei eleitoral, salvo se o apoiamento deixar de ser requisito para o registro do Partido no TSE.
+
+### Art. 94
+
+A associação ao Partido enquanto ainda não estiver definitivamente formado obedecerá às mesmas regras da filiação e, durante esse período, o membro associado será tido por filiado para as obrigações e direitos que couberem, nos termos deste Estatuto e salvo exceções expressas.
+
+#### §1º
+
+Mediante autorização expressa da Coordenadoria Nacional Provisória, a Secretaria-Geral Provisória pode instituir mecanismo facilitado de associação ao Partido, que não poderá deixar de permitir oposição por qualquer membro filiado em tempo hábil.
+
+#### §2º
+
+Considera-se o Partido definitivamente formado quanto não houver mais Diretórios Provisórios.
+
+### Art. 95
+
+Quando não existir Diretório Municipal constituído no local de residência da pessoa interessada, em qualquer caso, a atribuição estatutária deverá ser desempenhada sucessivamente pelos seguintes órgãos, nesta ordem:
+
+I – Secretaria Municipal mais próxima dentro do mesmo Estado, caso exista;  
+II – Secretaria Estadual, caso exista;  
+III – Secretaria-Geral.  
 
 [[!meta title="Estatuto"]]
