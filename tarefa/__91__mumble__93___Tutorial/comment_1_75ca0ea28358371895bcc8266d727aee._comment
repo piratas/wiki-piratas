@@ -1,0 +1,48 @@
+[[!comment format=mdwn
+ username="desci"
+ avatar="https://seccdn.libravatar.org/avatar/b66328b2d4aa4bac0dc3e64de4662719"
+ subject="Não épra"
+ date="2016-05-14T21:24:00Z"
+ content="""
+#### Como se fez
+
+Normalmente as pessoas enviavam por rsync ou sftp diretamente para o servidor **lx28.hi.ato.br** que era utilizado para o mumble. Aí eu copiava manualmente para o diretório do servidor web que servia **mumble.partidopirata.org**.
+
+Algumas pessoas usavam o **archive.org**, outras o **soundcloud**, outras ainda me mandavam tomar no cu.
+
+Aquilo é uma página estática, pra permitir envio, tem que ter um mecanismo que permita isto.
+
+#### Como poderia ter sido feito
+
+O [[dseeker]] criou a [midiateca pirata](https://github.com/piratas/midiateca) pra enviar essas coisas, mas tem que saber usar git e ter permissão de escrita.
+
+A [biblioteca pirata](https://biblioteca.partidopirata.org) deveria permitir envio de áudio e vídeo, mas eu não testei pra ver se está funcionando, e acho que não está porque da última vez que eu vi, tinha erro no gstreamer. Quem tiver conhecimento ou vontade de aprender mediagoblin, gstreamer, python, e não tiver medo da linha de comando pode tentar. Erros poderiam tirar a biblioteca do ar temporariamente.
+
+#### Como deveria ser
+
+Um botão \"simples\" (na cabeça de um leigo) daqueles **enviar arquivo...** que atualizasse a página. Isto significa **desenvolver e criar** um sistema web em alguma linguagem de programação (perl, python, ruby, php, etc.), configurar o servidor, administrar o site, etc.
+
+Todo mundo que espernear e não entender como é que não se consegue fazer um \"botão simples\" de uma forma fácil, rápida e simples, tem que baixar a bola e aprender a ter humildade.
+
+#### Como pode ser
+
+##### Telegram
+
+Bot no telegram rodando lá no servidor e atualizando arquivos enviados para o telegram. Tem que escrever scripts em lua ou outra linguagem pra acontecer isto, outra coisa que não é rápida, nem fácil, nem simples.
+
+##### Mediagoblin
+
+Veja história da biblioteca acima.
+
+##### Diretamente no site
+
+Veja história do \"botão simples\" acima.
+
+##### Ikiwiki
+
+É possível enviar arquivos para a ikiwiki se eu habilitar o \"attachments\".
+
+##### Deixar do jeito que está
+
+Cada um \"upa\" o arquivo de som pra qualquer serviço de hospedagem e atualiza-se manualmente com o **URL** para o arquivo pelo [repositório git](https://notabug.org/piratas/mumble-site) do site.
+"""]]
