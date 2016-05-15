@@ -25,12 +25,18 @@ O código fonte deste site é atualizado automaticamente a cada *commit* e está
 [[!sidebar content="""
 **Links**
 
-* [[Notícias|blog]]
-* [[Fórum|forum]]
-* [[Reuniões]]
-* [[Tarefas]]
-* [[Projetos]]
-* [[Wiki]]
+[[Notícias / blog|blog]]  
+[[Fórum|forum]]  
+[[Reuniões]]  
+[[Tarefas]]  
+[[Projetos]]  
+[[Wiki]]  
+
+---
+
+**Atalhos**
+
+[[GTI|wiki/gti]]
 
 ---
 
