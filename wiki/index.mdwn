@@ -10,7 +10,7 @@ Caso não concorde com alguma coisa, problematize na [[discussão|discussao]] da
 
 **Toda a wiki**
 
-[[!map pages="wiki or wiki/* and !*/discussao"]]
+[[!map pages="wiki or wiki/* and !*/discussão" show=title]]
 
 ---
 
