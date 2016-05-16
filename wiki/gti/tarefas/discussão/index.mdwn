@@ -1,3 +1,5 @@
 RSS está dando URL inválida para essa página específica. Atom também.
 
 ~ *Renata*
+
+> A do github? Se sim, é porque não tem feed público, eu uso o meu privado. --[[desci]]
