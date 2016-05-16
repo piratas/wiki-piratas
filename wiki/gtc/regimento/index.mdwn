@@ -111,3 +111,6 @@ IV - Expulsão do GTC.
 ---
 
 *Extraído do [loomio](https://www.loomio.org/d/OMDZPGal)*
+
+[[!meta title="Regimento Interno do Grupo de Trabalho de Comunicação do Partido Pirata"]
+[[!tag gtc regimento "regimento interno"]]
