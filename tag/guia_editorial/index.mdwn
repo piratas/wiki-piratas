@@ -1,0 +1,4 @@
+[[!meta title="pages tagged guia editorial"]]
+
+[[!inline pages="tagged(guia_editorial)" actions="no" archive="yes"
+feedshow=10]]
