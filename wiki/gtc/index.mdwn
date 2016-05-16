@@ -1,23 +1,49 @@
 # Grupo de Trabalho de Comunicação (GTC)
 
-## Qual objetivo?
+## Links
+
+* [Loomio](https://www.loomio.org/g/vaUzbhSi)
+* [Trello](https://trello.com/b/szHgILvY/gtc)
+* E-mails:
+  * `comunicacao@partidopirata.org`
+  * `contato@partidopirata.org`
+
+## Como participar
+
+Tentar descobrir a data da próxima reunião no [mumble][4], que normalmente é divulgada no tópico de relatoria da última reunião no [loomio][1].
+
+Paralelamente se pode enviar [e-mail][3] pedindo entrada no grupo do [trello][2] para começar a colaborar.
+
+O ideal seria fazer as duas coisas.
+
+---
+
+## Organização interna
+
+Extraído [daqui](https://www.loomio.org/d/fBaXJ2lU):
+
+### Qual objetivo?
 
 Promover integração e comunicação entre piratas
 
 Noticiar ações dos piratas
 
-## O que está fazendo?
+### O que está fazendo?
 
 Administra as redes sociais e o site do Partido Pirata www.partidopirata.org
 
-## Como se organiza?
+### Como se organiza?
 
 No aplicativo Trello, artigos de opinião, memes, notícias e ações dos Piratas são listados e encaminhados para publicação https://trello.com/b/szHgILvY/gtc
 
-## Como participar?
+### Como participar?
 
-Se reúne no Mumble quinzenalmente, geralmente aos sábados às 16:20 abertos a todos e responde pelos emails  comunicacao@partidopirata.org e contato@partidopirata.org
+Se reúne no Mumble quinzenalmente, geralmente aos sábados às 16:20 abertos a todos e responde pelos emails comunicacao@partidopirata.org e contato@partidopirata.org
 
----
+[[!meta title="Grupo de Trabalho Comunicação"]]
+[[!tag gtc]]
 
-*Atualizar página de acordo com [esta iniciativa](https://www.loomio.org/d/fBaXJ2lU/venha-para-o-partido-pirata-)*
+[1]: https://www.loomio.org/g/vaUzbhSi
+[2]: https://trello.com/b/szHgILvY/gtc
+[3]: mailto:comunicacao@partidopirata.org
+[4]: https://mumble.partidopirata.org
