@@ -1,6 +1,10 @@
 Regimento Interno do Grupo de Trabalho de Tecnologia da Informação do Partido Pirata
 ==
 
+[[!toc levels=5 startlevel=2]]
+
+---
+
 Capítulo I - Do Grupo de Trabalho e suas atribuições
 --
 
