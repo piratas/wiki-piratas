@@ -53,9 +53,11 @@ Se reúne no Mumble quinzenalmente, geralmente aos sábados às 16:20 abertos a 
 [[!sidebar content="""
 **Links do GTC**
 
-[Loomio][1]
+[Loomio][1]  
+[Trello][2]  
 
-[Trello][2]
+[1]: https://www.loomio.org/g/vaUzbhSi
+[2]: https://trello.com/b/szHgILvY/gtc
 """]]
 
 [[!meta title="Grupo de Trabalho de Comunicação"]]
