@@ -1,0 +1,4 @@
+[[!meta title="pages tagged regimento interno"]]
+
+[[!inline pages="tagged(regimento_interno)" actions="no" archive="yes"
+feedshow=10]]
