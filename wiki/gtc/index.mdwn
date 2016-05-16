@@ -1,4 +1,4 @@
-# Grupo de Trabalho de Comunicação (GTC)
+# GTC - Grupo de Trabalho de Comunicação
 
 Tese, antítese e síntese;
 
@@ -50,7 +50,7 @@ No aplicativo Trello, artigos de opinião, memes, notícias e ações dos Pirata
 
 Se reúne no Mumble quinzenalmente, geralmente aos sábados às 16:20 abertos a todos e responde pelos emails comunicacao@partidopirata.org e contato@partidopirata.org
 
-[[!meta title="Grupo de Trabalho Comunicação"]]
+[[!meta title="Grupo de Trabalho de Comunicação"]]
 [[!tag gtc]]
 
 [1]: https://www.loomio.org/g/vaUzbhSi
