@@ -1,5 +1,9 @@
 # Grupo de Trabalho de Comunicação (GTC)
 
+Tese, antítese e síntese;
+
+arrrrr!
+
 ## Links
 
 * [Loomio](https://www.loomio.org/g/vaUzbhSi)
@@ -15,6 +19,12 @@ Tentar descobrir a data da próxima reunião no [mumble][4], que normalmente é 
 Paralelamente se pode enviar [e-mail][3] pedindo entrada no grupo do [trello][2] para começar a colaborar.
 
 O ideal seria fazer as duas coisas.
+
+## Material
+
+* [[Regimento Interno|regimento]]
+* [[Guia Editorial|guia]]
+* [[Manual de Identidade de Visual|manual]]
 
 ---
 
