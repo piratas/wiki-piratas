@@ -1,0 +1,8 @@
+# Manual de Identidade
+
+## Cores
+
+O roxo utilizado nos símbolos e artes do partido é a cor de código hexadecimal `#522E91`.
+
+[[!meta title="Manual de Identidade"]]
+[[!tag gtc manual pendente todo]]
