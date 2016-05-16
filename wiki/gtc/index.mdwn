@@ -50,6 +50,14 @@ No aplicativo Trello, artigos de opinião, memes, notícias e ações dos Pirata
 
 Se reúne no Mumble quinzenalmente, geralmente aos sábados às 16:20 abertos a todos e responde pelos emails comunicacao@partidopirata.org e contato@partidopirata.org
 
+[[!sidebar content="""
+**Links do GTC**
+
+[Loomio][1]
+
+[Trello][2]
+"""]]
+
 [[!meta title="Grupo de Trabalho de Comunicação"]]
 [[!tag gtc]]
 
