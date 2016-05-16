@@ -1,0 +1,4 @@
+[[!meta title="pages tagged manual"]]
+
+[[!inline pages="tagged(manual)" actions="no" archive="yes"
+feedshow=10]]
