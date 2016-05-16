@@ -1,0 +1,4 @@
+[[!meta title="pages tagged gc"]]
+
+[[!inline pages="tagged(gc)" actions="no" archive="yes"
+feedshow=10]]
