@@ -11,9 +11,29 @@ Esta página deve estar acessível através dos seguintes endereços:
 
 ---
 
+## Organização
+
+### Articulação
+
+O atual articulador do GTI é o [[desci]]. Contatos deve(ria)m estar na respectiva [[página de usuário|desci]].
+
+### Documentos
+
+#### Regimento interno
+
+O [[regimento interno|regimento]] está aqui [[nesta wiki|regimento]] e a versão mais atualizada está no [github](https://github.com/piratas/gti/blob/master/content/statute/regimento.md).
+
+**[[regimento]]**
+
 ## Comunicação
 
 O GTI utiliza principalmente telegram e github para comunicação interna. Isto não é deliberação nem definição, é simplesmente o que naturalmente e organicamente acabou acontecendo. Quem quiser sugerir o uso de mais meios, sinta-se à vontade.
+
+Para comunicação institucional ou formal, ou ainda com garantia de registro, use o e-mail.
+
+### E-mail
+
+    gti@partidopirata.org
 
 ### Telegram
 
@@ -41,7 +61,7 @@ Este espaço está situado em um serviço comercial fora do controle do GTI ou d
 
 Este ambiente tem como objetivo legitimar o uso do Partido do [loomio](https://loomio.org), ferramenta de deliberação que foi [adotada pelo Partido Pirata para construção da primeira Assembleia Nacional](http://partidopirata.org/partido-pirata-do-brasil-traduz-loomio-e-adota-a-ferramenta-em-carater-experimental-como-meio-de-deliberacao/).
 
-Este sub grupo do loomio é acessível através do pseudo link: **`gti.pirata.xyz/loomio`**
+Este sub grupo do loomio é acessível através do pseudo link: **`gti.partidopirata.org/loomio`**
 
 <https://www.loomio.org/g/JDmI4ZKv>
 
