@@ -14,3 +14,58 @@
 
 * <https://duckduckgo.com/?q=desci+site%3Apartidopirata.org>
 * <https://duckduckgo.com/?q=desobediente+civil+site%3Apartidopirata.org>
+
+#### GPG
+
+##### suporte@partidopirata.org
+
+Nome: Desobediente Civil &lt;suporte@partidopirata.org&gt;  
+ID: 580255AA  
+Fingerprint: 20DA 773F 8F2B 3A2D D348  EDC7 924F C8DB 5802 55AA  
+
+###### Armor
+
+    -----BEGIN PGP SIGNED MESSAGE-----
+    Hash: SHA256
+    
+    - -----BEGIN PGP PUBLIC KEY BLOCK-----
+    Version: GnuPG v2
+    
+    mQENBFc840IBCADr92pbSW/+OVA3Jl7OLiZKW2OFaUQZKdpQkXOUUOa4VsyDogSp
+    PHOur8Te0+mWg6sswrymzuYBthLOBIb1BhuNAiA923EZ1rfZ6QN/a7GwVu3n6k0o
+    jje6clZQq4Pkto4leuYiMudNyEQCDcCdyoo2Vv1LFOYeX+GvfM9fJopZEOWrUPVO
+    HH4Kolu6wCc9w4Bb28geS06kDFAty8jrNiOHHGmxbtBVKHU56k4nrlUIPni7HVJa
+    /IEh4IQMcFgBJhhGeeEzpR/lHvqo7shd1L+XNocIrGj7T9Ho3MSPs/HhT0+u9p1b
+    FaX1kG/UyY6UC/sXTp90NnWfxXmHoEfnpi17ABEBAAG0LkRlc29iZWRpZW50ZSBD
+    aXZpbCA8c3Vwb3J0ZUBwYXJ0aWRvcGlyYXRhLm9yZz6JATkEEwEIACMFAlc840IC
+    GwMHCwkIBwMCAQYVCAIJCgsEFgIDAQIeAQIXgAAKCRCST8jbWAJVqraGB/9KLW/j
+    xcMIhln+kT9GEdwp8REOoYR9qPsaxiv1UEHT2xPwpSY6/nfTrGYE+3VyTs0/LLSq
+    03CZ7UOgVl3PhBe+J3pAxU1vqp5/eDXDtsPx2x3ENpz8xWaSFb0UMC5AGZ80syPH
+    OX2oKEm7QeShz9WsKmilbewMbF9c7Za8u2STNVPb0CtoV+DScJwTs69Zop5SJhDV
+    tCraLsQLab/dKJirCAEnuQseOH5WbwgnT31xIq5t4r9f6bwGt0iF5B1d3URj6DO+
+    tw6LHb/lom2fY1kOo5gdDyWgpK+4jecKHviBw7T/xXsz+S4tPZY/gzFgX/OkJ23B
+    slYbVOtnVRp3DQ2quQENBFc840IBCADAWRgkGWzCsOoKbM4c3qYk2UMr79915IA9
+    WlUJShFMZWOA8iQRegWfvZ83p+dbyhXCLpGYxEV3nXyQpSKMQCTPvXwOMeaNc7p4
+    w5OZ/uEYwLdR7ZMq5/uAJcdeu430RULfjF3N4cfg6HudIYTxirnAZvLDNC8wnFwB
+    giZcqzL/B2Oz8HIsW9W2YjNEvwujjJvNt0xGqd9qMnXHZNDR9LKGa/SA6nbbqI0l
+    d/CDnde3tiaNDmSuE9DSi8j7GOQQkk36r4Cp05qsnY89MF+wbsmQWhlioRmaC4cz
+    tCf8AX2tWZoOfb3K2a32E9Yk6u4+bMIY7p7YaqgMgteT/JuZ9VuLABEBAAGJAR8E
+    GAEIAAkFAlc840ICGwwACgkQkk/I21gCVarHxwf+P3WF57XbtpUic1GcuBOu8R5c
+    nrs7V+5MilPDpWOIvjpWwvKAlBcnqsW6eNvsLgjN2Ud9a5tZdRFtgMHu353wF1LC
+    CVB43Umdm254BIp3/C0sX8mIPKbtk7wLR0kS7qOIbulZBYGse8An8w/05pfkgHnT
+    +447G/FKHLKv2STFS/cwjCpR2XQFkh2S29QQuScPRCDzUGGUG1vxEPXDk5QY/2Sa
+    w1m5sROsilaIir1BEKVn2bBcZ5YULagygp8XPudr+afu4i7AnaOAxb4RQOKLmDuq
+    ReBh6dDGleBkIDdjfpkZMxseYVou9JJ7E6IyqQUoNpuVsPAc4cTdgAPaoZmUVA==
+    =Zkma
+    - -----END PGP PUBLIC KEY BLOCK-----
+    -----BEGIN PGP SIGNATURE-----
+    Version: GnuPG v2
+    
+    iQEcBAEBCAAGBQJXPOOQAAoJEJJPyNtYAlWqkNwH/0Kqmoi+W4HVWTeR6HhNd9Wn
+    4EqgMsm/wHHJsX5X7Yi5Ci5N3dtNr6t01Tns3i4AB//JMvtSRLdNTIZEcC8nwdKf
+    EQeYknReZdxYuLlibbJmV0YQ82PiQBzNZPFQjNjH4QW+QuMuR90qG2uxjtn5GnPQ
+    XiaRimq4h8tFxCZxra5R55tyJ03VmCibUKVTapsXCt+f+qyNVDPJ3AltrzSDgY+n
+    QjTHwR21rvchS9K1/WBZXOHb5m2j2ZSxqIcapzAgQNJDja+01CvGggvmU8koR34j
+    5FjnpC7QTT8IoQU3vxoqWeAiByYP4Vs24nvoNN9dhCY0GjGCmmEqscOelYgpqpc=
+    =5Plg
+    -----END PGP SIGNATURE-----
