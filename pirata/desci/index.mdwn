@@ -17,7 +17,7 @@
 
 #### GPG
 
-##### suporte@partidopirata.org
+Esta chave é para uso exclusivo para assinar o e-mail `suporte@partidopirata.org` e não deve ser utilizada para comunicação pessoal ou privada.
 
 Nome: Desobediente Civil &lt;suporte@partidopirata.org&gt;  
 ID: 580255AA  
@@ -69,3 +69,5 @@ Fingerprint: 20DA 773F 8F2B 3A2D D348  EDC7 924F C8DB 5802 55AA
     5FjnpC7QTT8IoQU3vxoqWeAiByYP4Vs24nvoNN9dhCY0GjGCmmEqscOelYgpqpc=
     =5Plg
     -----END PGP SIGNATURE-----
+
+Disponível também em <https://www.loomio.org/d/2apcO9k5>
