@@ -67,6 +67,12 @@ Este sub grupo do loomio é acessível através do pseudo link: **`gti.partidopi
 
 ---
 
+## Infraestrutura
+
+Veja a página [[infra]].
+
+---
+
 ## Feeds RSS
 
 Estes feeds foram movidos para sub páginas para facilitar a assinatura RSS.
