@@ -27,3 +27,5 @@ Notícias posteriores podem ser acompanhadas na página [agregadora de notícias
 ---
 
 Publicado no [loomio](https://www.loomio.org/d/aVXvDu0f).
+
+[[!tag gti]]
