@@ -1,0 +1,62 @@
+**Infraestrutura de Tecnologia da Informação**
+
+Esta página visa organizar e identificar os recursos computacionais do Partido Pirata, com a dupla finalidade de publicizar a informação e organização interna do [[GTI]].
+
+[[!toc levels=6]]
+
+---
+
+# Servidores
+
+Servidores são [sistemas de computação que fornecem serviços a uma rede de computadores](https://pt.wikipedia.org/wiki/Servidor).
+
+## [entwickler](https://we.riseup.net/iikb/iti#entwickler-iikb-org)
+
+Servidor dedicado (KS-2) providenciado até outubro de 2016 através [deste processo](https://www.loomio.org/d/F1eIYbtL/)
+
+Basicamente tudo o que estiver redirecionando para **piratas.iikb.org** está neste servidor.
+
+### Financiamento
+
+Este servidor foi financiado individualmente pelo [[felipe]] ao Partido até outubro de 2016.
+
+### Endereços IPs públicos
+
+#### IPv4
+
+5.135.182.223
+
+#### IPv6
+
+2001:41d0:8:bddf::1
+
+### Serviços
+
+#### Nginx
+
+##### Proxy
+
+* Pseudo domínio biblioteca.piratas.iikb.org situado no servidor entwickler.iikb.org
+* Site gti.pirata.xyz/entre-no-gti situado no servidor entwickler.iikb.org
+* Site gti.pirata.xyz situado no servidor entwickler.iikb.org
+* Redirecionamento de gti.pirata.xyz/github para o site piratas.github.io/gti
+* Redirecionamento de loomio.pirata.xyz para o site https://www.loomio.org/g/Hmpbu4Tr/
+* Redirecionamento de http://*.piratas.xyz para http://*.pirata.xyz
+
+#### Hospedagem
+
+* Site iuf.partidopirata.org
+* Sites lapirata
+  * lapirata.org
+  * lapirata.xyz
+* Sites naofo.de
+  * nao.usem.xyz
+  * naofode.xyz
+  * nfde.xyz
+
+---
+
+*`TODO`: atualizar informação*
+
+[[!meta title="Infraestrutura de Tecnologia da Informação"]]
+[[!tag gti todo pendente]]
