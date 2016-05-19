@@ -1,4 +1,4 @@
-Extraído do [[gti|telegram]]:
+Extraído do [[telegram|wiki/gti]]:
 
 > é possível juntar as funções do welcome bot e do programmable bot num só para uso no grupo de recepção do partido?
 >> sim, é só programar um bot http://yago.me/tg-bot
