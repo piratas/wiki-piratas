@@ -1,5 +1,11 @@
 # Reuniões do [[GTI]]
 
+## Reuniões anteriores
+
+As reuniões anteriores estão na página de [[arquivo]].
+
+## Próximas reuniões
+
 Todas as [[reuniões]] marcadas com a tag `gti`
 
 Para adicionar uma reunião aqui, crie uma nova reunião na [[página de reuniões|/reuniões]] e adicione no corpo da página: `\[[!tag gti]]`
