@@ -133,25 +133,7 @@ Falta tempo pra migrar todas estas coisas para esta wiki, e tem coisas que são 
 
 ### História do GTI
 
-<https://tree.taiga.io/project/tipirata/wiki/historia-do-gti>
-
-#### GTI Gaúcho
-
-<https://www.loomio.org/g/FQ7kVSu3/piratas-ga-chos-gti-ga-cho>
-
-#### Tópicos no Loomio
-
-* <https://www.loomio.org/d/W7KPjYAo/precisa-se-de-gente-no-gti>
-* <https://www.loomio.org/d/w1oi4xBG/gti-mudan-as>
-* <https://www.loomio.org/d/W614YIOx/chamada-aberta-para-o-gtc-e-gti>
-* <https://www.loomio.org/d/uwgk41mK/gti-2016>
-* <https://www.loomio.org/d/dZFh089M/demandas-gti>
-* <https://www.loomio.org/d/X7tgCHcJ/relatoria-reuni-o-gti-22-de-janeiro-de-2016>
-* <https://www.loomio.org/d/ZMC9JYzm/regimento-interno-do-gti>
-* <https://www.loomio.org/d/dDxBY7Vq/relatoria-reuni-o-gti-1-de-mar-o-de-2016>
-* <https://www.loomio.org/d/YMOuB5pe/gti-a-constru-o-descontrutiva>
-* <https://www.loomio.org/d/BQrtRu62/-resolvido-administrador>
-* <https://www.loomio.org/d/tCudFTOJ/relatoria-reuni-o-gti-1-de-maio-de-2016>
+A história do GTI está sendo reunida no [[arquivo]] do GTI.
 
 [[!sidebar content="""
 **Links do GTI**
