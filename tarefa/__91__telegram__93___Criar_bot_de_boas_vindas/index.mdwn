@@ -1,0 +1,17 @@
+Extraído do [[gti|telegram]]:
+
+> é possível juntar as funções do welcome bot e do programmable bot num só para uso no grupo de recepção do partido?
+>> sim, é só programar um bot http://yago.me/tg-bot
+
+> entao, a ideia é pegar as funções desse bot de boas vindas (basicamente as de receber e se despedir de alguém) e juntar com as do programmablebot q sao emitir respostas de acordo com palavras chave digitadas (triggers)  
+> @recepcaopirata_bot  
+> com um username parecido (esse ai eu fiz pra testar coisas) com esse  
+> e a img seria a msm  
+> a descricao seria " Bot recepcionista do Partido Pirata. Recebe pessoas de forma amigável e razoavelmente eficiente".  
+> e o mais importante: os comandos e as msgs todas di bot seriam em português  
+> mas  essa  parte de customizar os textos dos comandos  e msgs eu so sei onde precisa mudar no caso do bot de boas vindas (nao achei o codigo do programmablebot)  
+> na real se alguem achar o código desse outro eu posso traduzir as paradas  e passar pra vcs  
+> ai ces junta numa coisa so e cria o bot  
+> nao tendo o codigo ai nao sei como fazer tem de escrever do zero seila  
+
+Repositório no github do yagobot: <https://github.com/yagop/telegram-bot>
