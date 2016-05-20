@@ -2,25 +2,54 @@ Telegram é inseguro, não privativo e é código fechado.
 
 Utiliza-se no âmbito do [partido pirata](http://partidopirata.org) como alternativa ao feissebuqui.
 
-### Canais públicos
+[[!toc levels=6]]
+
+---
+
+# Canais
+
+## Canais públicos
 
 Os canais públicos estão em desuso por desinteresse.
 
+### Gerais
+
 * [PiratasBr](https://telegram.me/partidopiratabr)
-* [Piratas Centro-Oeste](https://telegram.me/piratas_centrooeste)
+
+### Regionais
+
+* [Piratas Centro-Oeste](https://telegram.me/piratas_centrooeste) `link alterado`
 * [Piratas Nordeste](https://telegram.me/piratas_nordeste)
 * [Piratas Norte](https://telegram.me/piratas_norte)
 * [Piratas Sudeste](https://telegram.me/piratas_sudeste)
 * [Piratas Sul](https://telegram.me/piratas_sul)
 
-### Grupos públicos
+# Grupos
 
-Os grupos públicos estão atualmente em uso.
+## Grupos temáticos
+
+### Super Grupos
+
+Supergrupos são publicamente acessíveis.
 
 * [Lounge Pirata](https://telegram.me/loungepirata)
 * [Super Grupo Pirata](https://telegram.me/piratasbr)
 
-### Pacotes de Stickers Públicos
+## Grupos regionais
+
+### Região Sul
+
+* [Piratas Sul (retomada)](https://telegram.me/joinchat/ApLxJgO07icsR-d8opOtyA)
+
+#### Rio Grande do Sul
+
+* [Piratas gaúchas(os)](https://telegram.me/joinchat/ApLxJgNXUh32wL3mo65x8g)
+
+#### Santa Catarina
+
+* [Piratas SC](https://telegram.me/joinchat/Affl3z9EJpGfi5Du4qjl3g)
+
+# Stickers
 
 * [Pirata](https://telegram.me/addstickers/Pirata)
 * [PartidoPirata](https://telegram.me/addstickers/PartidoPirata)
