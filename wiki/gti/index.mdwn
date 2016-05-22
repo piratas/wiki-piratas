@@ -35,6 +35,8 @@ Para comunicação institucional ou formal, ou ainda com garantia de registro, u
 
     gti@partidopirata.org
 
+[[Chaves PGP|pgp]]
+
 ### Telegram
 
 #### Canal aberto:
