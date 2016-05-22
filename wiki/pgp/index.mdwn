@@ -2,6 +2,8 @@
 
 ## GTI
 
+Disponível também em <https://www.loomio.org/d/2apcO9k5>
+
     pub  2048R/B4C9502D 2016-05-22 Articulação GTI (Grupo de Trabalho Tecnologia da Informação do Partido Pirata) <suporte@partidopirata.org>
     uid                            GTI Pirata (E-mail para membros efetivos do GTI) <gti@partidopirata.org>
     sub  2048R/4A7E1411 2016-05-22 [expires: 2016-11-02]
