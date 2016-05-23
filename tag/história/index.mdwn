@@ -1,0 +1,4 @@
+[[!meta title="pages tagged história"]]
+
+[[!inline pages="tagged(história)" actions="no" archive="yes"
+feedshow=10]]
