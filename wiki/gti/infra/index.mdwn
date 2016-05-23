@@ -24,11 +24,11 @@ Este servidor foi financiado individualmente pelo [[felipe]] ao Partido até out
 
 #### IPv4
 
-5.135.182.223
+    5.135.182.223
 
 #### IPv6
 
-2001:41d0:8:bddf::1
+    2001:41d0:8:bddf::1
 
 ### Serviços
 
@@ -36,27 +36,77 @@ Este servidor foi financiado individualmente pelo [[felipe]] ao Partido até out
 
 ##### Proxy
 
-* Pseudo domínio biblioteca.piratas.iikb.org situado no servidor entwickler.iikb.org
-* Site gti.pirata.xyz/entre-no-gti situado no servidor entwickler.iikb.org
-* Site gti.pirata.xyz situado no servidor entwickler.iikb.org
+###### Redirecionamentos
+
 * Redirecionamento de gti.pirata.xyz/github para o site piratas.github.io/gti
-* Redirecionamento de loomio.pirata.xyz para o site https://www.loomio.org/g/Hmpbu4Tr/
-* Redirecionamento de http://*.piratas.xyz para http://*.pirata.xyz
+* Redirecionamento de loomio.partidopirata.org para o site https://www.loomio.org/g/Hmpbu4Tr/
+
+#### Mediagoblin
+
+##### Biblioteca Pirata
+
+Disponível em:
+
+* <https://biblioteca.partidopirata.org>
+* <https://biblioteca.partidopirata.xyz>
+* <https://biblioteca.pirata.xyz>
+
+#### GNU Social
+
+Disponível em:
+
+* <https://social.pirata.xyz>
+
+#### Python
+
+##### Django
+
+###### Hotsite coleta de assinaturas
+
+Disponível em:
+
+* <https://apoio.partidopirata.org>
+
+##### Web2Py
+
+*`TODO`: Atualizar serviços com web2py*
 
 #### Hospedagem
 
-* Site iuf.partidopirata.org
-* Sites lapirata
-  * lapirata.org
-  * lapirata.xyz
-* Sites naofo.de
-  * nao.usem.xyz
-  * naofode.xyz
-  * nfde.xyz
+##### Sites do Partido Pirata oficiais
+
+* apoio.partidopirata.org
+* biblioteca.partidopirata.org (mediagoblin)
+* gti.partidopirata.org
+* iuf.partidopirata.org
+* mumble.partidopirata.org
+
+##### Sites do Partido Pirata não oficiais
+
+* partidopirata.xyz
+* piratas.xyz
+* social.pirata.xyz (gnu social)
+
+##### Outros sites
+
+###### lapirata
+
+* lapirata.org
+* lapirata.xyz
+
+###### naofo.de
+
+* nao.usem.xyz
+* naofode.xyz
+* nfde.xyz
+
+#### Backup
+
+Atualmente armazenando temporariamente os backups dos servidores suecos para análise e migração.
 
 ---
 
-*`TODO`: atualizar informação*
+*`TODO`: adicionar servidores da suecia*
 
 [[!meta title="Infraestrutura de Tecnologia da Informação"]]
 [[!tag gti todo pendente]]
