@@ -2,15 +2,213 @@ Esta página está em construção.
 
 Quem tiver informações que não estão aqui, por favor, contribua.
 
-# Histórico no Taiga
+# 2012
 
-<https://tree.taiga.io/project/tipirata/wiki/historia-do-gti>
+## Reuniões
 
-# GTI Gaúcho
+### 27 de setembro de 2012
+
+#### Texto
+
+<http://piratepad.net/reuni-C3-A3oGTI-27-09-2012>
+
+---
+
+# 2014
+
+## Reuniões
+
+### 13 de janeiro de 2014
+
+#### Vídeo
+
+<https://www.youtube.com/watch?v=Av-1apl8v28>
+
+#### Texto
+
+<http://piratepad.net/n2uUZS6p4V>
+
+### 20 de janeiro de 2014
+
+#### Vídeo
+
+<https://www.youtube.com/watch?v=1ys88jLXZ9U>
+
+### 10 de fevereiro de 2014
+
+Google Hangouts
+
+#### Vídeo
+
+<https://www.youtube.com/watch?v=5-fy-COnOU0>
+
+#### Texto
+
+<http://piratepad.net/a4l8ThGCxG>
+
+### 17 de fevereiro de 2014
+
+Google Hangouts
+
+#### Vídeo
+
+<https://www.youtube.com/watch?v=FJoFEubPIg4>
+
+## Loomio
+
+### Tópico "Planejamento estratégico GTI 2014" no Loomio
+
+<https://www.loomio.org/d/wvFceZVQ/proposta-de-planejamento-estrategico-do-gti-2014>
+
+Este processo culminou com a seguinte lista de prioridades:
+
+#### Ferramenta de deliberação
+
+(Com suporte a certificado digital)
+
+Uma ferramenta, não necessariamente nova, mas que atenda os anseios dos Piratas.
+
+#### Rede social
+
+(Com analise de usabilidade e nova interface).
+
+Uma rede social, não necessariamente nova, mas que atenda os anseios dos Piratas.
+
+#### Banco de ideias
+
+(Com suporte a alocação de recurso e projeto)
+
+Uma aplicação web que tivesse suporte a receber ideias para que fosse executado pelo GTI, assim como suportar alocação de recurso e organização do projeto.
+
+#### wiki
+
+(wiki.partidopirata.org)
+
+Reformular a Wiki atual, criando nova interface e organização interna.
+
+#### Chat Pirata
+
+(Com Suporte a mobile)
+
+Esse chat tem como objetivo possibilitar um canal de comunicação que não esteja necessariamente e integralmente associado apenas ao Facebook.
+
+### Tópico "PRECISA-SE DE GENTE no GTI" no Loomio
+
+<https://www.loomio.org/d/W7KPjYAo/precisa-se-de-gente-no-gti>
+
+Este tópico chamou pessoas para uma reunião.
+
+Se alguma reunião aconteceu, não foi documentada em lugar algum.
+
+## Pós ANAPIRATA
+
+### Reunião 27 de agosto de 2014
+
+<http://piratepad.net/reuniaogti27082014>
+
+### Reunião 10 de setembro de 2014
+
+<http://piratepad.net/reuniaogti10092014>
+
+### Reunião 17 de setembro de 2014
+
+<http://piratepad.net/reuniaogti17092014>
+
+### Tópico "GTI Mudanças" no Loomio
+
+<https://www.loomio.org/d/w1oi4xBG/gti-mudan-as>
+
+Este tópico foi onde se anunciou que o servidor do Noosfero seria derrubado. Esta era a única coisa que tínhamos no ar até então.
+
+As circunstâncias disto não foram esclarecidas, mas o que ficou subentendido e dito de forma atravessada é que em tese o partido não teria dinheiro para financiar o servidor onde estava o serviço do Noosfero, e em decorrência disto, o serviço saiu do ar.
+
+---
+
+# 2015
+
+## Retomada GTI 2015
+
+<https://we.riseup.net/partidopiratadobrasil/retomada-gti-2015>
+
+Aqui começou o GTI Insurgente, um projeto/movimento ocupado em afrontar a estrutura institucional do Partido Pirata com a intenção de preencher o vazio deixado pelos conflitos internos do partido à época. Eu acho.
+
+Texto do (ir)responsável por isto:
+
+> Inicativa que eu tive de reunir toda a informação, as pessoas que estavam se dispondo a tentar fazer as coisas funcionarem, e as iniciativas apresentadas.
+> Infelizmente o pad onde eu estava escrevendo se apagou e muita informação teria que ser garimpada novamente.
+> De qualquer forma, eu conversei com as pessoas "off-the-record" e me deram um monte de informações que não quiseram escrever no loomio, me explicando porque é que ninguém queria fazer nada, e me falando das "tretas" com a secretaria, tesouraria, gti, etc.. Nada disto me interessava, então eu comecei a fazer um trabalho independente.
+
+## Piratas XYZ
+
+<http://piratas.xyz> (site antigo)
+
+Esta iniciativa usava a estrutura do [hacklab independência](https://we.riseup.net/hiatobr) para providenciar algumas coisas.
+
+Existia um grupo de telegram "GTI Insurgente", que virou "piratas.xyz" e que existe até hoje, um canal de irc #piratas.xyz na rede irc.pirateirc.net e uma wiki em piratas.xyz
+
+Basicamente isto possibilitou ter o [site do IUF2015 Brasil](http://iuf.partidopirata.org), o [servidor de mumble](http://mumble.partidopirata.org) e por um tempo curto, a [biblioteca pirata](http://biblioteca.partidopirata.org), além de que a mesma estrutura compreendeu ainda o não término do serviço [naofo.de](https://we.riseup.net/iikb/naofo-de).
+
+## Secretaria Nacional Tampão 2015
+
+<http://mumble.partidopirata.org/reunioes/>
+
+Algumas reuniões foram feitas por Google Hangouts e Mumble, mas o processo da secretaria colegiada nacional é outra história. No meio destas reuniões, apareceram algumas coisas que geraram os desdobramentos seguintes.
+
+## Tesouraria Emergencial
+
+<https://www.loomio.org/g/EyGCbtYz/espa-o-pirata-tesouraria-emergencial>
+
+Manobra emergencial, originalmente cunhada "Tesouraria Insurgente" mas com nome alterado no sentido de minimizar a possibilidade de conflitos políticos. A igreja insurgente faz parte de disputas políticas ideológicas.
+
+Este grupo foi criado com a intenção de estender a vida do servidor de Luxemburgo do [hacklab independência](https://we.riseup.net/hiatobr), naquele momento "convertido" para [igreja insurgente Kopimista Brasileira](https://we.riseup.net/iikb), através de um esforço coletivo de algumas pessoas que se apresentaram, apoiado pela secretaria geral nacional colegiada e pela tesouraria nacional do partido pirata.
+
+## Taiga
+
+<https://tree.taiga.io/project/tipirata/wiki/home>
+
+Eu passei algumas semanas testando, comparando e pesquisando iniciativas de software livre para substituir o Trello.
+
+O Taiga foi a melhor coisa que eu achei, talvez não seja a melhor feramenta que existe, mas foi útil para a [secretaria geral nacional colegiada](https://tree.taiga.io/project/desci-piratas/wiki/home).
+
+Criaram ainda um projeto para a [secretaria gaúcha](https://tree.taiga.io/project/piratasgauchos/wiki/home), um para  o [GTC](https://tree.taiga.io/project/comunicacaopirata/wiki/home), um para o [GTI](https://tree.taiga.io/project/tipirata/wiki/home) e um para o [IUF2015](https://tree.taiga.io/project/iuf2015/wiki/home).
+
+O Taiga tem potencial ainda para servir de base para o [banco de idéias](https://tree.taiga.io/project/tipirata/wiki/banco-de-ideias).
+
+## Migração dos servidores
+
+<https://www.loomio.org/d/F1eIYbtL/-proposta-migra-o-dos-servi-os-piratas-para-servidores-europeus>
+
+Isto é praticamente o desdobramento do processo inteiro, uma proposta baseada em experiências, decisões, e iniciativas.
+
+Esta parte do processo é onde culminou com o que vem depois de tomada de decisão, e aí todos conflitos escolhem aparecer justamente neste momento, como é o normal das coisas. Quem está escrevendo isto está no epicentro do terremoto, então qualquer coisa que eu escrever aqui é parcial.
+
+---
+
+# 2016
+
+## GTI 2016
+
+<https://www.loomio.org/d/OWq5Xlrk> `censurado`
+
+Que seja feita a vontade da legião pirata.
+
+O tópico foi censurado, tópico recriado em:
+
+<https://www.loomio.org/d/jPVbOfBD> `censurado`
+
+Censuraram de novo, o novo tópico é:
+
+<https://www.loomio.org/d/uwgk41mK>
+
+---
+
+# Outros projetos
+
+## GTI Gaúcho
 
 <https://www.loomio.org/g/FQ7kVSu3/piratas-ga-chos-gti-ga-cho>
 
-# Tópicos no Loomio
+## Tópicos no Loomio
 
 * <https://www.loomio.org/d/W7KPjYAo/precisa-se-de-gente-no-gti>
 * <https://www.loomio.org/d/w1oi4xBG/gti-mudan-as>
@@ -23,3 +221,9 @@ Quem tiver informações que não estão aqui, por favor, contribua.
 * <https://www.loomio.org/d/YMOuB5pe/gti-a-constru-o-descontrutiva>
 * <https://www.loomio.org/d/BQrtRu62/-resolvido-administrador>
 * <https://www.loomio.org/d/tCudFTOJ/relatoria-reuni-o-gti-1-de-maio-de-2016>
+
+## Listas de e-mail
+
+* <https://groups.google.com/forum/#!forum/gti-piratas>
+* <https://groups.google.com/forum/#!forum/gti-ppbr>
+* <https://groups.google.com/forum/#!forum/grupos-piratas-brasil>
