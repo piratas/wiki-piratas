@@ -2,6 +2,10 @@ Esta página está em construção.
 
 Quem tiver informações que não estão aqui, por favor, contribua.
 
+[[!toc levels=6]]
+
+---
+
 # 2012
 
 ## Reuniões
@@ -227,3 +231,6 @@ Censuraram de novo, o novo tópico é:
 * <https://groups.google.com/forum/#!forum/gti-piratas>
 * <https://groups.google.com/forum/#!forum/gti-ppbr>
 * <https://groups.google.com/forum/#!forum/grupos-piratas-brasil>
+
+[[!meta title="História do GTI"]]
+[[!tag gti arquivo história]]
