@@ -1,0 +1,4 @@
+[[!meta title="pages tagged jurídico"]]
+
+[[!inline pages="tagged(jurídico)" actions="no" archive="yes"
+feedshow=10]]
