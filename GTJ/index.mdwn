@@ -1,0 +1,35 @@
+# Grupo de Trabalho Jurídico
+
+[[!toc levels=5 startlevel=2]]
+
+---
+
+## Contato
+
+### E-mail
+
+#### Lista de distribuição GTJ
+
+**gtj@partidopirata.org**
+
+Esta lista distribui e-mail para os atuais membros efetivos do GTJ.
+
+##### Alias
+
+**juridico@partidopirata.org**
+
+Este endereço remete para a mesma lista do endereço acima.
+
+---
+
+## Documentos
+
+[[Todos documentos do partido|/wiki/documentos]]
+
+### Pareceres
+
+Veja a página de [[pareceres|parecer]]
+
+[[!meta title="Grupo de Trabalho Jurídico"]]
+
+[[!tag gtj jurídico juridico gt "grupo de trabalho"]]
