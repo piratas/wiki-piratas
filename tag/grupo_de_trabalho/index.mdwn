@@ -1,0 +1,4 @@
+[[!meta title="pages tagged grupo de trabalho"]]
+
+[[!inline pages="tagged(grupo_de_trabalho)" actions="no" archive="yes"
+feedshow=10]]
