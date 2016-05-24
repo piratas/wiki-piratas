@@ -1,0 +1,4 @@
+[[!meta title="pages tagged gt"]]
+
+[[!inline pages="tagged(gt)" actions="no" archive="yes"
+feedshow=10]]
