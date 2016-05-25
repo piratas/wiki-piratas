@@ -37,7 +37,7 @@ O código fonte deste site é atualizado automaticamente a cada *commit* e está
 **Atalhos**
 
 [[wiki/GTI]]  
-[[wiki/documentos]]  
+[[wiki/Documentos]]  
 
 ---
 
