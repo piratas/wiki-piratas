@@ -1,0 +1,4 @@
+[[!meta title="pages tagged assinatura digital"]]
+
+[[!inline pages="tagged(assinatura_digital)" actions="no" archive="yes"
+feedshow=10]]
