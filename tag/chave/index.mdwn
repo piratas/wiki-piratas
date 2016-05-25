@@ -1,0 +1,4 @@
+[[!meta title="pages tagged chave"]]
+
+[[!inline pages="tagged(chave)" actions="no" archive="yes"
+feedshow=10]]
