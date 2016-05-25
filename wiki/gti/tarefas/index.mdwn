@@ -1,12 +1,12 @@
 # Tarefas do [[GTI]]
 
+Esta página serve para agregar as tarefas do GTI distribuídas em outros lugares. Tem a finalidade de monitorar a atividade do GTI, e não de agregar atividade. A atividade deve acontecer nas ferramentas onde as tarefas estão sendo colocadas, e não aqui.
+
 Todas as [[tarefas]] marcadas com a tag `gti`
 
 Para adicionar uma tarefa aqui, crie uma nova tarefa na [[página de tarefas|/tarefas]] e adicione no corpo da página: `\[[!tag gti]]`
 
-Alguém por favor também ajude a listar as tarefas disponíveis nos issue trackers listados ao lado.
-
-O taiga, o github e o notabug também são utilizados para cadastrar, resolver e organizar tarefas.
+O taiga, o github e o notabug são utilizados principalmente para cadastrar, resolver e organizar tarefas.
 
 O ideal seria integrar o máximo possível estas ferramentas e permitir que cada pessoa utilize a que tem mais facilidade.
 
