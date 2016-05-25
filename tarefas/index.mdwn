@@ -2,6 +2,10 @@ Nesta página é possível sugerir ou registrar uma tarefa.
 
 É possível acompanhar as já cadastradas e propor sugestões, cobranças, e ideias.
 
+Se estiver procurando as tarefas do GTI, veja o [site do GTI](https://gti.partidopirata.org).
+
+Se estiver procurando as tarefas do GTC, procure na [[página do GTC|/wiki/gtc/]].
+
 **Tarefas `abertas`**
 
 ---
