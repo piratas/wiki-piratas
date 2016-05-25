@@ -1,15 +1,25 @@
 # Chaves PGP / GPG para o Partido Pirata
 
+Chaves para e-mails criptografados e assinados do Partido Pirata
+
 ## GTI
 
+Chave GPG para e-mails do [[Grupo de Trabalho de Tecnologia da Informação|gti]]
+
 Disponível também em <https://www.loomio.org/d/2apcO9k5>
+
+### Chave atual
+
+#### Metadados
 
     pub  2048R/B4C9502D 2016-05-22 Articulação GTI (Grupo de Trabalho Tecnologia da Informação do Partido Pirata) <suporte@partidopirata.org>
     uid                            GTI Pirata (E-mail para membros efetivos do GTI) <gti@partidopirata.org>
     sub  2048R/4A7E1411 2016-05-22 [expires: 2016-11-02]
     
     Fingerprint E1A2 3EE3 0BF4 94B5 53C5 A06A ED5B 7D6E B4C9 502D
-    
+
+#### Armor
+
     -----BEGIN PGP PUBLIC KEY BLOCK-----
     Version: GnuPG v1
     
@@ -73,3 +83,60 @@ Disponível também em <https://www.loomio.org/d/2apcO9k5>
     +jA36rMQwvE/gmhku/wQtRgAQw==
     =Q1C8
     -----END PGP PUBLIC KEY BLOCK-----
+
+### Chaves antigas
+
+A chave a seguir deve ser considerada para e-mails enviados de 18 de maio de 2016 até 25 de maio de 2016
+
+#### Metadados
+
+    Nome: Articulação GTI (chave antiga) <suporte@partidopirata.org>
+    Chave: 2,048-bit RSA
+    ID: 580255AA
+    Fingerprint: 20DA773F8F2B3A2DD348EDC7924FC8DB580255AA
+    Criada em 18 de maio de 2016, expira em 01 de novembro de 2016
+
+#### Armor
+
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+    Version: GnuPG v2
+    
+    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
+    =kucV
+    -----END PGP PUBLIC KEY BLOCK-----
+
+
+[[!meta title="Chaves PGP / GPG"]]
+[[!tag gpg pgp chave criptografia "assinatura digital"]]
