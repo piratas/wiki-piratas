@@ -71,7 +71,7 @@ Este sub grupo do loomio é acessível através do pseudo link: **`gti.partidopi
 
 ## Infraestrutura
 
-Veja a página [[infra]].
+Veja a página [[wiki/infra]].
 
 ---
 
