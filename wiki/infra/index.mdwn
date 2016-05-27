@@ -1,6 +1,6 @@
 **Infraestrutura de Tecnologia da Informação**
 
-Esta página visa organizar e identificar os recursos computacionais do Partido Pirata, com a dupla finalidade de publicizar a informação e organização interna do [[GTI]].
+Esta página visa organizar e identificar os recursos computacionais do Partido Pirata, com a dupla finalidade de publicizar a informação e para organização interna do [[GTI]].
 
 [[!toc levels=6]]
 
@@ -12,7 +12,7 @@ Servidores são [sistemas de computação que fornecem serviços a uma rede de c
 
 ## [entwickler](https://we.riseup.net/iikb/iti#entwickler-iikb-org)
 
-Servidor dedicado (KS-2) providenciado até outubro de 2016 através [deste processo](https://www.loomio.org/d/F1eIYbtL/)
+Servidor dedicado [KS-2A](http://www.kimsufi.com/pt/servidores.xml) providenciado até outubro de 2016 através [deste processo](https://www.loomio.org/d/F1eIYbtL/)
 
 Basicamente tudo o que estiver redirecionando para **piratas.iikb.org** está neste servidor.
 
@@ -103,6 +103,39 @@ Disponível em:
 #### Backup
 
 Atualmente armazenando temporariamente os backups dos servidores suecos para análise e migração.
+
+
+---
+
+## bastidores.org
+
+Dois servidores na europa (islandia.bastidores.org e suecia.bastidores.org) disponibilizados pelo [[mtoledo]].
+
+### Financiamento
+
+`TODO`: adicionar informações de financiamento
+
+### Endereços IPs públicos
+
+`TODO`: adicionar informações de rede
+
+### Serviços
+
+#### Hospedagem
+
+##### Site do GTC
+
+* <http://gtc.partidopirata.org>
+
+##### Site da Assembleia Nacional 2016
+
+II ANAPIRATA
+
+* <http://anapirata.partidopirata.org>
+
+#### Backup
+
+Backup do site do Partido - **partidopirata.org**
 
 ---
 
