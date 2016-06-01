@@ -55,7 +55,7 @@ Devemos realizar varias estratégias paralelamente, para garantir máxima efetiv
 
 ### Hotsite
 
-Existe um [[esforço em andamento|/tarefa/Hotsite_para_coleta_de_assinatura]] para fazer um site.
+Existe um [[esforço em andamento|/forum/Hotsite_para_coleta_de_assinatura]] para fazer um site.
 
 ---
 
