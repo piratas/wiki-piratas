@@ -38,4 +38,4 @@ Desejável em `coleta.partidopirata.org`, factível em `coleta.partidopirata.xyz
 
 >> Está em `apoio.partidopirata.xyz` e `apoiar.partidopirata.xyz`.
 
-[[!tag coleta]]
+[[!tag coleta tarefa]]
