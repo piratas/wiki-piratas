@@ -1,0 +1,4 @@
+[[!meta title="pages tagged tarefa"]]
+
+[[!inline pages="tagged(tarefa)" actions="no" archive="yes"
+feedshow=10]]
