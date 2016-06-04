@@ -16,7 +16,7 @@ Caso não concorde com alguma coisa, problematize na [[discussão|discussao]] da
 
 # Organização
 
-* [[Secretaria Geral]]
+* [[wiki/Secretaria]]
 * [[Tesouraria Nacional]]
 * [[Gestão de Crises]]
 
