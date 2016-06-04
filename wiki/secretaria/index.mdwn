@@ -34,7 +34,7 @@ O e-mail oficial do Partido Pirata é:
 
     secretariageral@partidopirata.org
 
-### Endereço físico
+### Endereço
 
 Para comunicação oficial e envio de fichas de associação
 
@@ -42,7 +42,9 @@ _**Aviso**: Cartas bomba devem ser enviadas para a estrutura que justifica a exi
 
 O endereço atual do Partido Pirata é:
 
-    AGUARDANDO CORREÇÃO
+    Caixa postal 10809
+    CEP 70306970
+    Brasília DF
 
 ---
 
