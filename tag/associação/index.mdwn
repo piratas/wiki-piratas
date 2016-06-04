@@ -1,0 +1,4 @@
+[[!meta title="pages tagged associação"]]
+
+[[!inline pages="tagged(associação)" actions="no" archive="yes"
+feedshow=10]]
