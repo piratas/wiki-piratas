@@ -1,3 +1,83 @@
 # Secretaria Geral
 
-<https://www.loomio.org/g/ZYyjEBCg/partido-pirata-no-brasil-pirate-party-in-brazil-secretaria-colegiada>
+A Secretaria Geral do Partido Pirata atualmente opera em regime colegiado.
+
+Foi eleita pelo Loomio de forma emergencial como secretaria tampão até a II ANAPIRATA pela Coordenação Nacional e o processo está registrado no [Loomio](https://loomio.partidopirata.org).
+
+A atuação da Secretaria Geral está definida pelo [[art. 48|documentos/estatuto/#index48h3]] do [[estatuto|documentos/estatuto]].
+
+Atualmente a atividade principal é receber os pedidos de [[associação]].
+
+[[!toc levels=5 startlevel=2]]
+
+---
+
+## Secretaria Colegiada
+
+### Loomio
+
+Grupo no Loomio da Secretaria Colegiada: <https://www.loomio.org/g/ZYyjEBCg/partido-pirata-no-brasil-pirate-party-in-brazil-secretaria-colegiada>
+
+### Telegram
+
+Existe um grupo no Telegram da Secretaria Colegiada onde as pessoas são adicionadas por meio de convite direto.
+
+### Taiga
+
+Ferramenta utilizada atualmente para organização das associações e desassociações no Partido Pirata.
+
+<https://tree.taiga.io/project/desci-piratas/kanban>
+
+### Contato
+
+O e-mail oficial do Partido Pirata é:
+
+    secretariageral@partidopirata.org
+
+### Endereço físico
+
+Para comunicação oficial e envio de fichas de associação
+
+_**Aviso**: Cartas bomba devem ser enviadas para a estrutura que justifica a existência de partidos políticos em primeiro lugar, a culpa não é nossa._
+
+O endereço atual do Partido Pirata é o cadastrado no [[cnpj|documentos/cnpj]]:
+
+    LOGRADOURO Q 701 CONJ. L LT
+    NÚMERO 38
+    COMPLEMENTO: SALA 706 PARTE 104 EDIF ASSIS CHATEAUBRIAND
+    CEP: 70.340-906
+    BAIRRO/DISTRITO: ASA SUL
+    MUNICÍPIO: BRASILIA
+    UF: DF
+
+---
+
+## Secretarias Estaduais
+
+### Paraná
+
+Secretário Estadual: Thomaz Jefferson Ferreira dos Santos
+
+#### Contato
+
+    embarque@pr.partidopirata.org
+
+#### Endereço
+
+Para envio de comunicação oficial e fichas de associação
+
+    Rua irmãs Paulinas 5281 bl d apto 12
+    A/c Thomaz Jefferson Ferreira dos Santos
+    Bairro Novo mundo
+    CEP 81020-230
+
+---
+
+## Secretarias Municipais
+
+---
+
+*`TODO`: Completar esta lista com secretarias que estejam formalizadas. Quem tiver informações, entre em contato com a secretaria colegiada e providencie os dados, por favor.*
+
+[[!meta title="Secretaria Geral"]]
+[[!tag secretaria associação embarque]]
