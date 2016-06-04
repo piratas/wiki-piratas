@@ -40,15 +40,9 @@ Para comunicação oficial e envio de fichas de associação
 
 _**Aviso**: Cartas bomba devem ser enviadas para a estrutura que justifica a existência de partidos políticos em primeiro lugar, a culpa não é nossa._
 
-O endereço atual do Partido Pirata é o cadastrado no [[cnpj|documentos/cnpj]]:
+O endereço atual do Partido Pirata é:
 
-    LOGRADOURO Q 701 CONJ. L LT
-    NÚMERO 38
-    COMPLEMENTO: SALA 706 PARTE 104 EDIF ASSIS CHATEAUBRIAND
-    CEP: 70.340-906
-    BAIRRO/DISTRITO: ASA SUL
-    MUNICÍPIO: BRASILIA
-    UF: DF
+    AGUARDANDO CORREÇÃO
 
 ---
 
