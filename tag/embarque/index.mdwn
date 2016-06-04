@@ -1,0 +1,4 @@
+[[!meta title="pages tagged embarque"]]
+
+[[!inline pages="tagged(embarque)" actions="no" archive="yes"
+feedshow=10]]
