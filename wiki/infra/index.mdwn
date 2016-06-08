@@ -10,11 +10,11 @@ Esta página visa organizar e identificar os recursos computacionais do Partido 
 
 Servidores são [sistemas de computação que fornecem serviços a uma rede de computadores](https://pt.wikipedia.org/wiki/Servidor).
 
-## [entwickler](https://we.riseup.net/iikb/iti#entwickler-iikb-org)
+## [entwickler](https://we.riseup.net/iikb/iti#entwickler-iikb-org).partidopirata.org
 
 Servidor dedicado [KS-2A](http://www.kimsufi.com/pt/servidores.xml) providenciado até outubro de 2016 através [deste processo](https://www.loomio.org/d/F1eIYbtL/)
 
-Basicamente tudo o que estiver redirecionando para **piratas.iikb.org** está neste servidor.
+Basicamente tudo o que estiver redirecionando para **entwickler.partidopirata.org** e **piratas.iikb.org** está neste servidor.
 
 ### Financiamento
 
@@ -38,8 +38,14 @@ Este servidor foi financiado individualmente pelo [[felipe]] ao Partido até out
 
 ###### Redirecionamentos
 
-* Redirecionamento de gti.pirata.xyz/github para o site piratas.github.io/gti
-* Redirecionamento de loomio.partidopirata.org para o site https://www.loomio.org/g/Hmpbu4Tr/
+[[!table class="table table-bordered table-striped" data="""
+URL|Aponta para
+<https://loomio.partidopirata.org>|<https://www.loomio.org/g/Hmpbu4Tr/>
+<https://gti.partidopirata.org/github>|<http://piratas.github.io/gti>
+<https://gti.partidopirata.org/loomio>|<https://www.loomio.org/g/JDmI4ZKv/>
+<https://gti.partidopirata.org/notabug>|<https://notabug.org/piratas/organizacao/issues>
+<https://gti.partidopirata.org/taiga>|<https://tree.taiga.io/project/tipirata/>
+"""]]
 
 #### Mediagoblin
 
@@ -132,6 +138,10 @@ Dois servidores na europa (islandia.bastidores.org e suecia.bastidores.org) disp
 II ANAPIRATA
 
 * <http://anapirata.partidopirata.org>
+
+##### Campanha Internet Livre
+
+* <http://internetlivre.cc>
 
 #### Backup
 
