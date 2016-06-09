@@ -1,0 +1,47 @@
+# Reunião do GTI dia 8 de junho de 2016
+
+## Pauta
+
+### Situação do regimento interno
+
+#### Regimento atual: https://github.com/piratas/gti/blob/master/content/statute/regimento.md
+
+#### Contribuições do Gomex
+
+https://github.com/piratas/gti/pull/27/files
+
+Rejeitado, outras alterações foram propostas no pad https://pad.riseup.net/p/gti2016 e serão incorporadas no regimento no github em https://github.com/piratas/gti/blob/master/content/statute/regimento.md
+
+#### Planejamento  estratégico
+
+Link de sugestão: https://pt.wikipedia.org/wiki/Planejamento_estrat%C3%A9gico_de_sistemas_de_informa%C3%A7%C3%A3o  
+
+Houve relato de que o GTI já fazia planejamentos estratégicos no passado. É necessário resgatá-los.  
+
+Sistemas computacionais e servidores: Organizar serviços em servidores virtualizados  
+
+Demanda: Criar planejamento estratégico  
+
+Foi adicionado "planejamento estratégico" no artigo 2 do regimento interno.  
+
+#### Encaminhamento
+
+Regimento interno será encaminhado para aprovação no ambiente de deliberação Loomio do Partido Pirata durante 30 dias.
+
+### Situação dos membros efetivos
+
+Após a aprovação do regimento interno, de acordo com o artigo 6, os membros efetivos serão escolhidos pelo grupo do gti do loomio.
+
+### Site do GTI e ferramentas de organização
+
+O GTI tem um site: https://gti.partidopirata.org  
+
+A ferramenta de organização principal do GTI segue sendo o github https://gti.partidopirata.org/github, com perspectiva de um dia ter o próprio serviço em poder do GTI (sugestões: gitlab, gogs, kalithea)  
+
+A ferramenta de deliberação do GTI segue sendo o grupo do loomio https://gti.partidopirata.org/loomio  
+
+### Site do partido
+
+desci e toledo estão cuidando da migração e manutenção do site do partido partidopirata.org  
+
+é necessário estruturar e organizar o GTI e definir as políticas de segurança de dados e outras matérias pertinentes.  
