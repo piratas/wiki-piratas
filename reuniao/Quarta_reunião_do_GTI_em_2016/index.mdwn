@@ -4,7 +4,9 @@
 
 ### Situação do regimento interno
 
-#### Regimento atual: https://github.com/piratas/gti/blob/master/content/statute/regimento.md
+#### Regimento atual
+
+https://github.com/piratas/gti/blob/master/content/statute/regimento.md
 
 #### Contribuições do Gomex
 
@@ -28,6 +30,55 @@ Foi adicionado "planejamento estratégico" no artigo 2 do regimento interno.
 
 Regimento interno será encaminhado para aprovação no ambiente de deliberação Loomio do Partido Pirata durante 30 dias.
 
+#### Alterações no regimento durante a reunião
+
+    ### Artigo 2º:
+    
+    São documentos oficiais do GTI e deverão ser fixados em seção específica no site oficial do PIRATAS:
+    
+    I. Regimento Interno;  
+    II. Planejamento Estratégico de TI;  
+    III. Política de acesso e manutenção de sistemas computacionais;  
+    IV. Política de acesso e manutenção de recursos de TI;  
+
+    (...)
+
+    ### Artigo 4º:
+
+    (...)
+
+    #### II - membra(o) efetiva(o):
+    
+    A(o) membra(o) efetiva(o) é aquela(e) que se dedica de forma integral ao GTI, tendo direito a voz e voto dentro de tal órgão, assim como o dever de cumprir uma ou mais das atribuições definidas no Artigo 3º deste Regimento Interno, respeitando sempre as Cláusulas Pétreas do Partido e agindo de acordo com os documentos oficiais. A(o) articulador(a) é considerado um(a) membra(o) efetiv(o). As(os) membras(os) efetivas(os) são responsáveis por identificar e facilitar a contribuição de colaboradoras(es), assim como organizar e sistematizar estas contribuições.
+
+    (...)
+
+    ### Artigo 7º:
+
+    Os seguintes requisitos são condições necessárias para ingresso no GTI como membra(o) efetiva(o):
+
+    I. Associação ou filiação ao Partido Pirata (PIRATAS);  
+    II. Interesse ou familiaridade com administração de sistemas computacionais, desenvolvimento, e/ou ferramentas de trabalho de Tecnologia da Informação;  
+    III. Conhecimento ou disposição para aprendizado de uso de sistemas para a internet para organização interna;  
+    IV. Leitura e aceitação deste Regimento Interno.  
+    
+    #### §1º:
+    
+    A admissão de um(a) membra(o) efetiva(o) dar-se-á em conformidade com os seguintes critérios e obedecendo as seguintes etapas:
+    
+    I. Deliberação em reunião ordinária;  
+    II. Não ter ligação com grupos de hacktivismo ou similares que sejam contrários às Cláusulas Pétreas do Partido.  
+    
+    #### §2º:
+    
+    As(os) membras(os) efetivas(os) que eventualmente assumirem funções de manutenção e/ou administração de recursos computacionais, deverá comprovar competência técnica para desempenho destas.
+    
+    #### §3º:
+    
+    A admissão de um(a) articulador(a) dar-se-á em conformidade com os seguintes critérios e obedecendo as seguintes etapas:
+
+    (...)
+
 ### Situação dos membros efetivos
 
 Após a aprovação do regimento interno, de acordo com o artigo 6, os membros efetivos serão escolhidos pelo grupo do gti do loomio.
@@ -45,3 +96,5 @@ A ferramenta de deliberação do GTI segue sendo o grupo do loomio https://gti.p
 desci e toledo estão cuidando da migração e manutenção do site do partido partidopirata.org  
 
 é necessário estruturar e organizar o GTI e definir as políticas de segurança de dados e outras matérias pertinentes.  
+
+[[!tag gti reunião]]
