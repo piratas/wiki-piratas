@@ -32,6 +32,7 @@ O código fonte deste site é atualizado automaticamente a cada *commit* e está
 
 [[wiki/GTI]]  
 [[Documentos do Partido|wiki/Documentos]]  
+[[Tutoriais]]  
 """]]
 
 [[!meta title="Wiki Pirata"]]
