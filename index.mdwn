@@ -1,15 +1,12 @@
 Este espaço serve de apoio ao [PIRATAS - partido pirata no brasil][0].
 
-Não é um espaço oficial do [Partido Pirata][0].
-
-Este espaço está aqui provisoriamente (assim esperamos) como apoio em decorrência da inexistência de uma [[wiki]], um [[forum]], uma [rede social](https://social.pirata.xyz), um [[issue tracker|tarefas]], entre outras ferramentas que o [Partido Pirata][0] atualmente não dispõe.
-
-Reclamações e sugestões técnicas, mudanças de design, alterações na estrutura e infra estrutura, e demais questões relacionadas à manutenção e administração do site são feitos no [espaço de desenvolvimento da igreja insurgente](https://iikb.org), mas a discussão também pode ser feita aqui mesmo no [[forum]].
+A wiki está em processo de reconstrução. Quem tiver backups, material, vontade de ajudar, por favor encaminhe ao [GTI][1].
 
 ---
 
 Este site está disponível em:
 
+* <https://wiki.partidopirata.org>
 * <https://partidopirata.xyz>
 * <https://piratas.xyz>
 * <https://pirata.xyz>
@@ -21,6 +18,7 @@ O código fonte deste site é atualizado automaticamente a cada *commit* e está
 * <https://github.com/piratas/partidopirata.xyz>
 
 [0]: http://partidopirata.org
+[1]: https://gti.partidopirata.org
 
 [[!sidebar content="""
 **Links**
