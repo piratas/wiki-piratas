@@ -1,0 +1,3 @@
+[[!inline pages="tutorial/*  and !tutorial/discussão and !tutorial/*/*" archive=yes rootpage="tutorial" postformtext="Criar novo tutorial com o título:" show=0]]
+
+[[!meta title="Tutoriais"]]
