@@ -1,0 +1,125 @@
+# Site de coleta
+
+Como botar **apoio.partidopirata.org** no ar
+
+[[!toc levels=5 startlevel=2]]
+
+---
+
+## Git
+
+Repositório oficial: <https://github.com/piratas/apoio-piratas>
+
+### Site de produção
+
+O site que está em <https://apoio.partidopirata.org>
+
+Usa o ramo *oficial*
+
+    git clone -b oficial https://github.com/piratas/apoio-pirata.git
+
+### Site de desenvolvimento
+
+O último commit no ramo *master* está em <https://apoio.partidopirata.xyz> e em outros sub domínios criados para teste.
+
+    git clone https://github.com/piratas/apoio-pirata.git
+
+## Django e CGI
+
+É necessário instalar `python3` e `uswgi`. Favor documentar isto aqui assim que possível.
+
+### Systemd
+
+`uswgi` pode rodar de várias formas, eu prefiro systemd:
+
+Editar o arquivo `/lib/systemd/system/apoio.service`:
+
+    [Unit]
+    Description=Pequeno projeto de apoio ao Partido Pirata
+    After=network.target
+    After=syslog.target
+    
+    [Service]
+    Type=simple
+    User=jango
+    Group=jango
+    ExecStart=/usr/local/bin/uwsgi --socket /tmp/apoio-piratas.sock --chdir /home/django/apoio-piratas/apoio/ --wsgi-file /home/django/apoio-piratas/apoio/wsgi.py --chmod-socket=666
+    RuntimeDirectory=uwsgi
+    Restart=always
+    KillSignal=SIGQUIT
+    Type=notify
+    StandardError=null
+    NotifyAccess=all
+    
+    [Install]
+    WantedBy=multi-user.target
+
+No caso, criei um usuário novo para rodar o uwsgi `django`.
+
+Para iniciar o serviço:
+
+    sudo systemctl start apoio.service
+
+Para adicionar o serviço na inicialização do systemd:
+
+    sudo systemctl enable apoio.service
+    sudo systemctl daemon-reload
+
+Para verificar o estado do serviço, depurar erros, etc.:
+
+    sudo systemctl -l status apoio.service
+
+## Nginx
+
+Criar o arquivo `/etc/nginx/sites-enabled/apoio.conf`:
+
+    upstream apoio {
+        server  unix:/tmp/apoio-piratas.sock;
+    }
+    
+    server {
+        listen          80;
+        listen          [::]:80;
+        server_name     apoio.partidopirata.org;
+        rewrite         ^       https://$server_name$request_uri? permanent;
+    }
+
+    server {
+        listen                          443 ssl;
+        listen                          [::]:443 ssl;
+        ssl_protocols                   TLSv1 TLSv1.1 TLSv1.2;
+        ssl_prefer_server_ciphers       on;
+        ssl_ciphers                     "EECDH+AESGCM:EDH+AESGCM:AES256+EECDH:AES256+EDH";
+        ssl_ecdh_curve                  secp384r1;
+        ssl_session_cache               shared:SSL:10m;
+        ssl_session_tickets             off;
+        ssl_stapling                    on;
+        ssl_stapling_verify             on;
+        resolver                        208.67.220.220 208.67.222.222 valid=300s;
+        resolver_timeout                5s;
+        add_header                      Strict-Transport-Security "max-age=63072000; includeSubdomains; preload";
+        add_header                      X-Frame-Options SAMEORIGIN;
+        add_header                      X-Content-Type-Options nosniff;
+        ssl_certificate                 /etc/letsencrypt/live/entwickler.partidopirata.org-0001/fullchain.pem;
+        ssl_certificate_key             /etc/letsencrypt/live/entwickler.partidopirata.org-0001/privkey.pem;
+        ssl_trusted_certificate         /etc/letsencrypt/live/entwickler.partidopirata.org-0001/chain.pem;
+
+        server_name             apoio.partidopirata.org;
+        charset                 utf-8;
+        client_max_body_size    75M;
+
+        location /media {
+                alias /home/django/apoio-piratas/apoio/inc;
+        }
+
+        location /static {
+                alias   /home/django/apoio-piratas/apoio/inc;
+        }
+
+        location / {
+                uwsgi_pass      apoio;
+                include         /home/django/apoio-piratas/uwsgi_params;
+        }
+    }
+
+No caso o site força o uso de SSL do let's encrypt.
