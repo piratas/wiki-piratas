@@ -21,27 +21,11 @@ O código fonte deste site é atualizado automaticamente a cada *commit* e está
 [1]: https://gti.partidopirata.org
 
 [[!sidebar content="""
-**Links**
-
-[[Notícias / blog|blog]]  
-[[Fórum|forum]]  
-[[Reuniões]]  
-[[Tarefas]]  
-[[Projetos]]  
-[[Wiki]]  
-
----
 
 **Atalhos**
 
 [[wiki/GTI]]  
-[[wiki/Documentos]]  
-
----
-
-**Projetos importantes**
-
-[[Coleta de assinaturas|projeto/coleta]]
+[[Documentos do Partido|wiki/Documentos]]  
 """]]
 
-[[!meta title="Piratas XYZ"]]
+[[!meta title="Wiki Pirata"]]
