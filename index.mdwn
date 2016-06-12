@@ -17,6 +17,12 @@ O código fonte deste site é atualizado automaticamente a cada *commit* e está
 * <https://gitlab.com/piratas/partidopirata.xyz>
 * <https://github.com/piratas/partidopirata.xyz>
 
+---
+
+# Toda a wiki
+
+[[!map pages="wiki/* and !*/discussão" show=title]]
+
 [0]: http://partidopirata.org
 [1]: https://gti.partidopirata.org
 
