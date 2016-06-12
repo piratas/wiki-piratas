@@ -8,10 +8,6 @@ Caso não concorde com alguma coisa, problematize na [[discussão|discussao]] da
 
 [[!toc levels=6]]
 
-**Toda a wiki**
-
-[[!map pages="wiki or wiki/* and !*/discussão" show=title]]
-
 ---
 
 # Organização
