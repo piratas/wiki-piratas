@@ -1,0 +1,4 @@
+[[!meta title="pages tagged gestão de crises"]]
+
+[[!inline pages="tagged(gestão_de_crises)" actions="no" archive="yes"
+feedshow=10]]
