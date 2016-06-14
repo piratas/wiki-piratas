@@ -1,0 +1,4 @@
+[[!meta title="pages tagged crise"]]
+
+[[!inline pages="tagged(crise)" actions="no" archive="yes"
+feedshow=10]]
