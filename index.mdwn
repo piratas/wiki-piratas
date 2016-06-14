@@ -30,9 +30,17 @@ O código fonte deste site é atualizado automaticamente a cada *commit* e está
 
 **Atalhos**
 
-[[wiki/GTI]]  
 [[Documentos do Partido|wiki/Documentos]]  
+
+**Ferramentas**
+
 [[Tutoriais]]  
+[[Reuniões]]  
+
+**Projetos**
+
+[[Coleta de assinaturas|projeto/coleta]]  
+[[Reformulação da gestão de crises|wiki/gestão de crises]]  
 """]]
 
 [[!meta title="Wiki Pirata"]]
