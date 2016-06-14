@@ -19,4 +19,4 @@ A coordenação nacional organizou uma reunião onde os pontos que são pertinen
 O primeiro desdobramento foi um [tópico no loomio](https://www.loomio.org/d/m1QxZfo9/indica-es-para-compor-gest-o-de-crises-tempor-ria-2016) onde as pessoas interessadas em compor a Gestão de Crises Temporária deveriam se manifestar.  
 
 [[!meta title="Gestão de Crises"]]
-[[!tag gc]]
+[[!tag gc "gestão de crises" crise crises]]
