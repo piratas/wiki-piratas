@@ -65,7 +65,7 @@ O código fonte e desenvolvimento é feito no [github](https://github.com/pirata
 
 ### CNPJ
 
-Veja também a página do [[cnpj]].
+Veja também a página do [[cnpj|/wiki/documentos/cnpj]].
 
 Pra quem não sabe, nosso CNPJ é **21.941.628/0001-61**
 
