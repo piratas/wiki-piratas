@@ -31,6 +31,7 @@ O código fonte deste site é atualizado automaticamente a cada *commit* e está
 **Atalhos**
 
 [[Documentos do Partido|wiki/Documentos]]  
+[[Infraestrutura de TI do Partido|wiki/infra]]  
 
 **Ferramentas**
 
