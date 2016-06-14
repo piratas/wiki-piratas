@@ -22,7 +22,7 @@ Caso não concorde com alguma coisa, problematize na [[discussão|discussao]] da
 
 * [[GTI]] - Grupo de Trabalho de Tecnologia da Informação
 
-* [[GTJ]] - Grupo de Trabalho Jurídico
+* [[wiki/Gtj]] - Grupo de Trabalho Jurídico
 
 ## Grupos Setoriais
 
