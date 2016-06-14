@@ -1,0 +1,48 @@
+This is the SandBox, a page anyone can edit to learn how to use the wiki.
+
+----
+
+Here's a paragraph.
+
+Here's another one with *emphasised* text.
+
+# Header
+
+## Subheader
+
+> This is a blockquote.
+>
+> This is the first level of quoting.
+>
+> > This is nested blockquote.
+>
+> Back to the first level.
+
+Numbered list 
+
+1. First item.
+1. Another.
+1. And another..
+
+Bulleted list
+
+* *item*
+* item
+
+[[ikiwiki/WikiLink]]
+
+---
+
+Uma linha horizontal como esta acima é feita com três hífens (`---`)
+
+Para forçar uma quebra de linha, é necessário manter dois espaços em branco no **final** da linha  
+
+    Para fazer um bloco de código, é necessário colocar quatro espaços em branco no **início** da linha
+
+> Citação
+
+> *Citação em itálico*
+
+> **Citação em negrito**
+
+Texto pré  formatado deve ser colocado `entre duas crases` (`)
