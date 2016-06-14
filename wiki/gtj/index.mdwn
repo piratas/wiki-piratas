@@ -28,7 +28,7 @@ Este endereço remete para a mesma lista do endereço acima.
 
 ### Pareceres
 
-Veja a página de [[pareceres|parecer]]
+Veja a página de [[pareceres|wiki/gtj/parecer]]
 
 [[!meta title="Grupo de Trabalho Jurídico"]]
 
