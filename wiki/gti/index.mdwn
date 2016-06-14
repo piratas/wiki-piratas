@@ -4,8 +4,8 @@ Esta página se propõe a centralizar as informações relacionadas ao GTI. Info
 
 Esta página deve estar acessível através dos seguintes endereços:
 
-* **piratas.xyz/wiki/gti**
-* **partidopirata.xyz/wiki/gti**
+* **wiki.partidopirata.org/wiki/gti**
+* **gti.partidopirata.org/wiki**
 
 [[!toc levels=5 startlevel=2]]
 
