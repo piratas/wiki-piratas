@@ -1,14 +1,25 @@
 # Coleta de Assinaturas para registro do Partido Pirata no TSE
 
-> `Evitem usar a wiki como pad, especialmente porque o pad está sendo usado para tal função. Use a página de [[discussão|discussao]] para este fim. As informações aqui estão desatualizadas.`
-
-[[!toc levels=6]]
+[[!toc levels=5 startlevel=2]]
 
 ---
 
 ## Situação
 
-    A resolução 23.465, aprovada no TSE em Dezembro de 2015 ( http://chimera.tse.jus.br/legislacao-tse/res/2015/RES234652015.htm ) feita para regulamentar a lei nº 13.165, de 29 de Setembro de 2015 ( http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Lei/L13165 )diz que o prazo máximo para protocolar o apoiamento à criação de novos partidos é de 2 anos a partir da data de aquisição de personalidade juridica. Como o CNPJ do Partido Pirata foi obtido em 20/02/2015 (isto e, antes da lei entrar em vigor), isso daria o prazo de 19/02/2017 para colhermos pouco menos de 500.000 assinaturas de apoiamento. Juristas piratas dizem que entrando com recurso no TSE conseguimos que o prazo de 2 anos seja contado a partir da data em que a lei ou a resolução entraram em vigor. Ou seja precisariamos de cerca de 1000 assinaturas por dia. Temos várias estrategias de coleta, não há porque julgarmos impossivel a tarefa, mas precisamos nos organizar. Um terceiro cenário, mais improvável, é tentar recurso para que essa nova regra não valha para o Partido Pirata, pois iniciamos a abertura do partido antes da resolulçao de dezembro/2015. E num quarto cenário, a lei pode ser derrubada por ação de inconstitucionalidade, o que deve estar sendo feito por uma coalizão de partidos de esquerda para ajudar a Raiz e outros partidos, mas isso deve demorar anos, e as cláusulas que eles querem anular não sao necessariamente as mesmas que nós queremos. É mais seguro realizarmos a coleta em ritmo acelerado, trabalhando com o cenário de que temos até Fevereiro ou Setembro de 2017 para entregar as assinaturas - o que vier das batalhas jurídicas é lucro.
+### Hotsite
+
+O site de apoio está pronto para divulgação em **[apoio.partidopirata.org](https://apoio.partidopirata.org)**
+
+### Brainstorming
+
+As seguintes informações foram incluídas em um [documento de edição colaborativa](https://pad.riseup.net/p/coleta_assinaturas_piratasbr) pelas pessoas interessadas:
+
+A [Resolução do Tribunal Superior Eleitoral nº 23.465, vigente desde 22 de dezembro de 2015](http://chimera.tse.jus.br/legislacao-tse/res/2015/RES234652015.htm) foi editada para regulamentar a [Lei nº 13.165, publicada em 29 de Setembro de 2015](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13165.htm), e diz, em seu art. 7º, § 3º, que o prazo máximo para protocolar o apoiamento à criação de novos partidos é de 2 anos a partir da data de aquisição de personalidade juridica.  
+A personalidade jurídica do Partido Pirata foi alcançada com a obtenção do [CNPJ](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13165.htm) em 20/02/2015, data anterior ao início da vigência das novas regras, em 29/09/2015. Assim, nosso prazo, caso a lei se aplicasse aos PIRATAS mesmo assim, seria até 19/02/2017 para coletarmos 470.000 assinaturas de apoiamento.  
+Nesse contexto indefinido, há a possibilidade de precisarmos de cerca de 1000 assinaturas por dia até o fim do prazo. Mas há várias estrategias de coleta, de modo que a tarefa se mostra possível, desde que haja organização.  
+Juristas piratas dizem que poderíamos contestar judicialmente e, num primeiro cenário, simplesmente afastar a aplicação do prazo de 2 anos, pois iniciamos a formalização do partido bem antes das novas regras trazidas pela e pela resolução; um segundo cenários seria conseguir que o prazo seja contado a partir da data em que a lei ou a resolução entraram em vigor, respectivamente, repita-se, em 29 de setembro e 17 dezembro de 2015.  
+Ainda, num quarto cenário mais drástico, porém pouco provável e nada rápido, a Lei nº 13.165/15 poderia ser declarada integralmente inválida por meio de uma ação de inconstitucionalidade (ADI). Mas essa ação exigiria uma estratégia mais ampla. A Constituição limita a lista de entidades legitimadas a propor ADI, e partidos em formação não estão listados. Seria necessário uma coalizão de partidos (provavelmente de esquerda) para ajudar. A Raiz e outros partidos assinalaram esse propósito, mas os dispositivos que eles querem anular não são necessariamente os mesmos que nós queremos.  
+Portanto, aparenta ser mais seguro: a) realizarmos a coleta em ritmo acelerado; b) trabalhar com o cenário de que temos até fevereiro ou setembro de 2017 para entregar ao TSE todas as assinaturas; e c) o que vier das batalhas jurídicas é lucro.  
 
 ---
 
@@ -20,22 +31,11 @@ A proposta é regularizar um GT no Partido Pirata que seja responsável pela coo
 
 #### Grupo no telegram
 
-<https://telegram.me/coletaassinaturaspiratasbr>
+<https://telegram.me/apoiopirata>
 
 #### GT Jurídico no telegram
 
 <https://telegram.me/gtjApoiamentoPirata>
-
----
-
-## Pendências
-
-### Precisamos das seguintes informações:
-
-* O normativo do TSE vale para o Partido Pirata? Como podemos garantir? Através de consulta ao TSE?
-* Como funciona o sistema online do TSE? Quem pode cadastrar as assinaturas? Precisaremos da assinatura do secretário geral para nos cadastrarmos? Neste caso, seria preciso oficializar Daniel Prazeres e Paulo Crossara como secretários do Partido Pirata.
-  * Apolinario disse que podemos fazer uma consulta impositiva sobre a possibilidade de assinaturas digitais. Existe precedentes no Brasil e existe meios tecnicos para isso.
-* Temos que preencher com os endereços de cada diretório e coletivo estadual
 
 ---
 
@@ -51,48 +51,21 @@ Devemos realizar varias estratégias paralelamente, para garantir máxima efetiv
 
 ### Cartaz para pontos de coleta
 
-#### [[Ficha de apoiamento|wiki/documentos/ficha]]
+#### [[Ficha de apoiamento|/wiki/documentos/ficha]]
 
 ### Hotsite
 
-Existe um [[esforço em andamento|/forum/Hotsite_para_coleta_de_assinatura]] para fazer um site.
+O site <https://apoio.partidopirata.org> foi criado para apoiar a campanha de coleta de assinaturas.
 
----
-
-### Elegibilidade e protocolo
-
-* As assinaturas devem ser protocoladas nos TRE's e não no TSE. O coletivo/diretório estadual deve ser responsável por validar as fichas de seu estado no sistema do TSE e protocolar no seu respectivo TRE.
-
-> Precisaremos constituir diretórios provisórios nesses estados?
->> Para isso é preciso fazer uma assembleia estadual, com estatuto de diretório, ata e lista de presença reconhecidos em cartório.
->> Paulo Rená (GTJ) se disponibilizou a preparar um modelo de estatuto genérico que servira para todos os estados. Para isso ele pediu um estatuto de qualquer estado, para usar como base.
->> Talvez não seja preciso. Talvez baste o responsável geral informar a cada respectivo TRE quem será a comissão  provisória ou pessoas responsáveis para obtenção  do apoiamento nos cartórios eleitorais em cada Estado.
-
-* Protocolar as assinaturas à medida que forem coletadas; não deixar tudo para ultima hora!
-* Conforme as assinaturas forem sendo coletadas em um determinado estado, pessoas de outros estados também apoiam. Nesse caso, é preciso enviar as assinaturas pelos correios para o respectivo estado. Cada coletivo insere no sistema suas fichas e envia para os demais as respectivas.
-* Precisamos de um mínimo de 9 estados protocolando fichas de apoiamento. 
-* Não serão aceitos apoiamentos assinados por filiados a outros partidos, segundo a resolução 23.465.
-* Sistema de validaçao do TSE: http://www.tse.jus.br/partidos/partidos-politicos/sistema-de-apoiamento-a-partidos-em-formacao-sapf
-
----
-
-## Acompanhamento do andamento das assinaturas
-
-### Sistema (ou planilha) para acompanhamento
-
-* Uma aba para cada estado
-* Cada estado informar quantas assinaturas tem de outros estados também (pois acaba-se coletando assinaturas de gente de outros estados junto, ja que as pessoas viajam)
-
-> Como seria feita a coleta de assinatura? Apenas assinaturas? Nome completo, numero do titulo de elitor mais a assinatura? Isso seria numa folha com várias linhas iguais para serem assinadas?
->> Veja o ponto (Ficha de Apoiamento) acima
-
-A coleta poderá ser realizada individualmente. Em coletivos que encontram-se em formação, como o de SC, Piratas devem coletar assinaturas através de seus contatos e comunidades em que estejam inseridos. Talvez organizar um micro evento em algum espaço de coworking com o tema Democracia Líquida - o caso do Partido Pirata.
+O código fonte e desenvolvimento é feito no [github](https://github.com/piratas/apoio-piratas).
 
 ---
 
 ## Legalismo
 
 ### CNPJ
+
+Veja também a página do [[cnpj]].
 
 Pra quem não sabe, nosso CNPJ é **21.941.628/0001-61**
 
@@ -113,15 +86,9 @@ Pra quem não sabe, nosso CNPJ é **21.941.628/0001-61**
 * [Etherpad](https://pad.riseup.net/p/coleta_assinaturas_piratasbr)
 * [Reuniões](https://piratenpad.de/p/atas_reunioes_coleta_apoiamento_pirata)
 * [Taiga](https://tree.taiga.io/project/coleta-de-assinaturas)
-
----
-
-## Tarefas
-
-Tarefas com `\[[!tag coleta]]`:
-
-[[!inline pages="tarefa/* and !tagged(encerrada) and !tarefa/discussao and !tarefa/*/* and tagged(coleta)" archive=yes]]
+* [Hotsite](https://apoio.partidopirata.org)
+* [Telegram](https://telegram.me/apoiopirata)
 
 [[!meta title="Coleta de Assinaturas" description="Coleta de Assinaturas para registro do Partido Pirata no TSE"]]
 
-[[!tag coleta]]
+[[!tag coleta apoio]]
