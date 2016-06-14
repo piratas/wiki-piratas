@@ -1,0 +1,5 @@
+Esta é uma página nova que eu estou criando porque o plugin 404 não está bem configurado.
+
+## Motivo
+
+O [plugin 404](https://ikiwiki.info/plugin/404) da ikiwiki não está bem configurado [[nesta wiki|index]].
