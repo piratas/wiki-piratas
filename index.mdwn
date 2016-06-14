@@ -11,7 +11,7 @@ Este site está disponível em:
 * <https://piratas.xyz>
 * <https://pirata.xyz>
 
-O código fonte deste site é atualizado automaticamente a cada *commit* e está disponível em:
+Este site utiliza [ikiwiki](https://ikiwiki.info), que compila a wiki e o banco de dados é na verdade um repositório GIT. Portanto, o código fonte deste site é atualizado automaticamente a cada *commit* e está disponível em:
 
 * <https://notabug.org/piratas/wiki-piratas>
 * <https://gitlab.com/piratas/wiki-piratas>
