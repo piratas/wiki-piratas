@@ -13,9 +13,9 @@ Este site está disponível em:
 
 O código fonte deste site é atualizado automaticamente a cada *commit* e está disponível em:
 
-* <https://notabug.org/piratas/partidopirata.xyz>
-* <https://gitlab.com/piratas/partidopirata.xyz>
-* <https://github.com/piratas/partidopirata.xyz>
+* <https://notabug.org/piratas/wiki-piratas>
+* <https://gitlab.com/piratas/wiki-piratas>
+* <https://github.com/piratas/wiki-piratas>
 
 ---
 
