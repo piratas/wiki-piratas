@@ -10,7 +10,7 @@ Caso não concorde com alguma coisa, problematize na [[discussão|discussao]] da
 
 ---
 
-# Organização
+# Institucional
 
 * [[wiki/Secretaria]]
 * [[Tesouraria Nacional]]
@@ -22,7 +22,7 @@ Caso não concorde com alguma coisa, problematize na [[discussão|discussao]] da
 
 * [[GTI]] - Grupo de Trabalho de Tecnologia da Informação
 
-* [[wiki/Gtj]] - Grupo de Trabalho Jurídico
+* [[wiki/gtj]] - Grupo de Trabalho Jurídico
 
 ## Grupos Setoriais
 
@@ -33,6 +33,12 @@ Caso não concorde com alguma coisa, problematize na [[discussão|discussao]] da
 # Material
 
 [[Documentos]]
+
+---
+
+# Organização
+
+[[Loomio]]  
 
 ---
 
