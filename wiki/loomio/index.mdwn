@@ -1,0 +1,59 @@
+Loomio é o sistema de deliberação [adotado pelo partido pirata][0].
+
+[[!toc levels=6]]
+
+---
+
+# Links rápidos
+
+**[loomio.partidopirata.org](https://loomio.partidopirata.org)**
+
+Este pseudo link redireciona para o [grupo oficial do partido pirata no loomio][1].
+
+---
+
+# Organização
+
+Atualmente o [grupo oficial][1] permite a entrada de qualquer pessoa interessada.
+
+Existe um [subgrupo restrito para pessoas associadas ao partido][2] onde são feitas as deliberações. Este subgrupo veio a partir de uma [iniciativa](https://www.loomio.org/d/Q5YmIXtv/-projeto-conhecer-consolidar-crescer) e foi [anunciado no espaço pirata][3].
+
+---
+
+# Todos os grupos e subgrupos
+
+`TODO` consertar estes links, adicionando o título do grupo  
+`TODO` adicionar os links que estão faltando
+
+## Nacional
+
+* [Partido Pirata no Brasil / Pirate Party in Brazil][0]
+  * <https://www.loomio.org/g/U4Hl70Xo/partido-pirata-no-brasil-pirate-party-in-brazil-coleta-de-assinaturas>
+  * <https://www.loomio.org/g/qN9Scd7b/partido-pirata-no-brasil-pirate-party-in-brazil-conven-o-estadual-sp>
+
+## Regionais
+
+### Sudeste
+
+* <https://www.loomio.org/g/zwZk7hFA/piratas-sudeste>
+
+### Sul
+
+* <https://www.loomio.org/g/CYzhftgK/partido-pirata-piratas-do-sul>
+* <https://www.loomio.org/g/1LTtjPry/coletivo-piratas-do-paran->
+* <https://www.loomio.org/g/Haog5xMz/piratas-ga-chos>
+
+## Outros
+
+### Espaço Pirata
+
+O Espaço Pirata foi um projeto criado e abandonado que tinha como finalidade atrair pessoas não associadas para o partido. Com a [abertura do loomio][3], o problema de não permissão de entrada foi resolvido.
+
+[Espaço Pirata][4]
+
+[0]: http://partidopirata.org/partido-pirata-do-brasil-traduz-loomio-e-adota-a-ferramenta-em-carater-experimental-como-meio-de-deliberacao/
+[1]: https://www.loomio.org/g/Hmpbu4Tr/partido-pirata-no-brasil-pirate-party-in-brazil
+[2]: https://www.loomio.org/g/GhU7DrLz/partido-pirata-no-brasil-pirate-party-in-brazil-delibera-es-apenas-para-associadas-os-
+[3]: https://www.loomio.org/d/DCeR9Udo/abertura-do-loomio-caiu-o-muro-de-berlim
+[4]: https://www.loomio.org/g/E7ctaKYP/espa-o-pirata
+[[!meta title="Loomio"]]
