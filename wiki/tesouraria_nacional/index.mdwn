@@ -1,11 +1,11 @@
 # Tesouraria Nacional
 
-## Como se organiza?
+#### Transparência financeira
 
 Existe um subgrupo no Loomio: <https://www.loomio.org/g/Tvhxj2Bq/tesouro-pirata>
 
-## Como participar?
+#### Contato
 
-Além do subgrupo do Loomio, há um email de contato `tesouraria@partidopirata.org`
+E-mail: `tesouraria@partidopirata.org`
 
 [[!meta title="Tesouraria Nacional"]]
