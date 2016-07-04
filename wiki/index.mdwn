@@ -13,7 +13,7 @@ Caso não concorde com alguma coisa, problematize na [[discussão|discussao]] da
 # Institucional
 
 * [[wiki/Secretaria]]
-* [[Tesouraria Nacional]]
+* [[wiki/Tesouraria]]
 * [[Gestão de Crises]]
 
 ## Grupos de trabalho
