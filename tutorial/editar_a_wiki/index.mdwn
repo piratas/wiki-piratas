@@ -10,6 +10,8 @@ Deveríamos ter imagens aqui ilustrando tudo, mas tem um problema com a wiki. Es
 
 Esta wiki utiliza [ikiwiki](https://ikiwiki.info), auto declarado "compilador de wiki" que usa [[linguagem markdown simples|/ikiwiki/formatting]], como por exemplo no Loomio, no Taiga ou no Trello, e na grande maioria dos sites hoje em dia, para edição de páginas.
 
+Para saber mais sobre o que é uma wiki, acesse estes links: [1](https://en.wikipedia.org/wiki/Wiki) [2](https://www.mediawiki.org/wiki/Differences_between_Wikipedia,_Wikimedia,_MediaWiki,_and_wiki) [3](https://en.wikipedia.org/wiki/Wiki_software) [4](https://en.wikipedia.org/wiki/Ikiwiki)
+
 ## Não estou conseguindo editar páginas!
 
 Tem que criar conta na wiki. É possível usar OpenID, então quem tem conta OpenID não precisa criar uma conta local.
