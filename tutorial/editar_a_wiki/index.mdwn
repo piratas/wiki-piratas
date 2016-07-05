@@ -1,0 +1,69 @@
+# Como editar esta wiki
+
+Deveríamos ter imagens aqui ilustrando tudo, mas tem um problema com a wiki. Estamos [tentando resolver](https://github.com/piratas/gti/issues/30).
+
+[[!toc startlevel=2 levels=5]]
+
+---
+
+## O que é isto?
+
+Esta wiki utiliza [ikiwiki](https://ikiwiki.info), auto declarado "compilador de wiki" que usa [[linguagem markdown simples|/ikiwiki/formatting]], como por exemplo no Loomio, no Taiga ou no Trello, e na grande maioria dos sites hoje em dia, para edição de páginas.
+
+## Não estou conseguindo editar páginas!
+
+Tem que criar conta na wiki. É possível usar OpenID, então quem tem conta OpenID não precisa criar uma conta local.
+
+A forma mais fácil é criar uma conta local.  
+Para isto, é necessário clicar em "Preferences", ou então tentar editar alguma página, e a tela de login será apresentada.  
+Ao invés de clicar em "login", clique em "register".  
+Defina um nome de usuária(o) e uma senha. E-mail **não** é necessário.  
+Após o registro, forneça o nome de usuária(o) e a senha e clique em "login".  
+
+### Não quero fazer conta!
+
+Engraçado que no feissebuqui tu fez, né?
+
+Use o usuário **pirata** com a senha **pirata**. Se abusarem desse recurso, eu vou bloquear a conta.
+
+## Não estou conseguindo criar páginas!
+
+A wiki está com um problema que o [plugin 404](https://ikiwiki.info/plugin/404) não está funcionando, e consequentemente atualmente não é possível criar páginas de forma convencional (digitando o endereço no URL do navegador).
+
+Quem quiser ajduar a consertar isto se [integre no gti](https://github.com/piratas/gti/issues/29).
+
+Para criar páginas atualmente existem duas formas:
+
+#### Wikilink
+
+Criar um [[ikiwiki/wikilink]]. Edite uma página qualquer e crie um [[ikiwiki/wikilink]] desta forma: `\[[wiki/pagina]]`. Não é necessário salvar a edição. Simplesmente clicando em "preview", o link novo deverá aparecer na tela de visualização com um ponto de interrogação. Clicando neste ponto de interrogação, a tela de criação de página será criada.
+
+#### URL direta
+
+A sintaxe do CGI é a seguinte: `https://wiki.partidopirata.org/ikiwiki.cgi?do=create&page=wiki/pagina`
+
+O importante é o parâmetro `do` ter o argumento `create` e é necessário ter um parâmetro `page` com o caminho da página nova como argumento.
+
+## Como é que eu escrevo?
+
+Para aprender markdown, edite a página [[sandbox]], observe como é o texto em markdown e use o botão "Preview" para observar como ele fica depois de formatado. Veja alguns exemplos:
+
+---
+
+Uma linha horizontal como esta acima é feita com três hífens (`---`)
+
+Para forçar uma quebra de linha, é necessário manter dois espaços em branco no **final** da linha  
+
+    Para fazer um bloco de código, é necessário colocar quatro espaços em branco no **início** da linha
+
+> Citação
+
+> *Citação em itálico*
+
+> **Citação em negrito**
+
+Texto pré  formatado deve ser colocado `entre duas crases` (`)
+
+Veja também a página [[ikiwiki/formatting]] para formatação em markdown e [[ikiwiki/wikilink]] para aprender a criar links internos para outras páginas.
+
+[[!meta title="Como editar esta wiki"]]
