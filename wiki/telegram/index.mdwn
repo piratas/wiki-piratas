@@ -43,31 +43,39 @@ Setorial de questões ambientais: https://telegram.me/PiratasVerdes
 
 ## Grupos regionais
 
-### Desorganizados
+### Região Centro Oeste
 
-`TODO` organizar estes links  
+* [Distrito Federal](https://telegram.me/joinchat/AIIj3gG3MHMGYjQb4g3w2w)
+* [Goiás](https://telegram.me/piratasgo)
 
-Acre: https://telegram.me/piratasacre  
-Alagoas: https://telegram.me/piratasalagoas  
-Bahia: https://telegram.me/joinchat/BkbpuQi7K0DPdAp8w1E5Vg  
-Distrito Federal: https://telegram.me/joinchat/AIIj3gG3MHMGYjQb4g3w2w  
-Espírito Santo: https://telegram.me/PartidoPirataES  
-Goiás: https://telegram.me/piratasgo  
-Minas Gerais: https://telegram.me/piratasmg  
-Norte-Nordeste: https://telegram.me/piratasnortenordeste  
-Pará: https://telegram.me/PiratasdoPara  
-Paraná: https://telegram.me/joinchat/B9dRIz16Nbj7SYVV1vt70g  
-Região Sul: https://telegram.me/joinchat/ApLxJgO07icsR-d8opOtyA  
-Rio de Janeiro: https://telegram.me/PartidoPirataRJ  
-Rio Grande do Norte: http://telegram.me/PiratasPotiguares  
-Rio Grande do Sul: https://telegram.me/joinchat/ApLxJgNXUh32wL3mo65x8g  
-Santa Catarina: https://telegram.me/joinchat/Affl3z9EJpGfi5Du4qjl3g  
-São Paulo: https://telegram.me/PartidoPirataSP  
-Campinas: https://telegram.me/joinchat/CZqc_Ah-D-SuyoR6nnCScA  
+### Região Norte
+
+* [Acre](https://telegram.me/piratasacre)
+* [Pará](https://telegram.me/PiratasdoPara)
+
+### Região Nordeste
+
+* [Norte-Nordeste](https://telegram.me/piratasnortenordeste)  
+
+* [Alagoas](https://telegram.me/piratasalagoas)
+* [Bahia](https://telegram.me/joinchat/BkbpuQi7K0DPdAp8w1E5Vg)
+* [Rio Grande do Norte](http://telegram.me/PiratasPotiguares)
+
+### Região Sudeste
+
+* [Minas Gerais](https://telegram.me/piratasmg)
+* [Rio de Janeiro](https://telegram.me/PartidoPirataRJ)
+* [São Paulo](https://telegram.me/PartidoPirataSP)
+* [Campinas](https://telegram.me/joinchat/CZqc_Ah-D-SuyoR6nnCScA)
+* [Espírito Santo](https://telegram.me/PartidoPirataES)
 
 ### Região Sul
 
 * [Piratas Sul (retomada)](https://telegram.me/joinchat/ApLxJgO07icsR-d8opOtyA)
+
+#### Paraná
+
+* [Paraná](https://telegram.me/joinchat/B9dRIz16Nbj7SYVV1vt70g)
 
 #### Rio Grande do Sul
 
