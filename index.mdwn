@@ -35,8 +35,9 @@ Este site utiliza [ikiwiki](https://ikiwiki.info), que compila a wiki e o banco 
 
 **Ferramentas**
 
-[[Tutoriais]]  
-[[Reuniões]]  
+* [[Tutoriais]]  
+  * [[Como editar esta wiki|tutorial/editar a wiki]]
+* [[Reuniões]]  
 
 **Projetos**
 
