@@ -18,8 +18,14 @@ Tem que criar conta na wiki. É possível usar OpenID, então quem tem conta Ope
 
 A forma mais fácil é criar uma conta local.  
 Para isto, é necessário clicar em "Preferences", ou então tentar editar alguma página, e a tela de login será apresentada.  
+
+![](https://biblioteca.partidopirata.org/mgoblin_media/media_entries/277/tutorial-wiki-7.png)
+
 Clique em **other** para criar uma conta local  - é esta parte que as pessoas esquecem  
 Ao invés de clicar em "login", clique em "register".  
+
+![](https://biblioteca.partidopirata.org/mgoblin_media/media_entries/278/tutorial-wiki-8.png)
+
 Defina um nome de usuária(o) e uma senha. E-mail **não** é necessário.  
 Após o registro, forneça o nome de usuária(o) e a senha e clique em "login".  
 
@@ -27,7 +33,9 @@ Após o registro, forneça o nome de usuária(o) e a senha e clique em "login".
 
 Engraçado que no feissebuqui tu fez, né?
 
-Use o usuário **pirata** com a senha **pirata**. Se abusarem desse recurso, eu vou bloquear a conta.
+Existe uma conta secreta exclusiva para as pessoas que lêem o tutorial, que é: usuário **pirata**, senha **pirata**. Quem não conseguiu encontrar esta informação nesta página não pode usar esta conta.
+
+Contas anônimas e sem rastreamento são uma dádiva sagrada, se fizerem mau uso, a conta será apagada e a humanidade voltará às trevas da vigilância.
 
 ## Não estou conseguindo criar páginas!
 
