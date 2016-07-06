@@ -1,1 +1,3 @@
 Discordo que Telegram seja código-fechado. O cliente tem código-aberto.
+
+> O código do software que roda nos servidores do telegram [é fechado](https://en.wikipedia.org/wiki/Telegram_(software)#Servers), e [não é possível utlizar servidores alternativos](https://telegram.org/faq#q-can-i-run-telegram-using-my-own-server). Logo, o fato dos clientes serem código aberto não constitui condição suficiente para afirmar que "Telegram" - o aplicativo, é código aberto. De fato, não faz absolutamente nenhuma diferença. -- [[desci]]
