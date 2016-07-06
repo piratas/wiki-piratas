@@ -30,14 +30,14 @@ Este site utiliza [ikiwiki](https://ikiwiki.info), que compila a wiki e o banco 
 
 **Atalhos**
 
+[[Como editar esta wiki|tutorial/editar a wiki]]  
 [[Documentos do Partido|wiki/Documentos]]  
 [[Infraestrutura de TI do Partido|wiki/infra]]  
 
 **Ferramentas**
 
-* [[Tutoriais]]  
-  * [[Como editar esta wiki|tutorial/editar a wiki]]
-* [[Reuniões]]  
+[[Tutoriais]]  
+[[Reuniões]]  
 
 **Projetos**
 
