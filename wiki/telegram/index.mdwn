@@ -8,34 +8,62 @@ Utiliza-se no âmbito do [partido pirata](http://partidopirata.org) como alterna
 
 # Canais
 
-## Canais públicos
+## Organizacionais
 
-Os canais públicos estão em desuso por desinteresse.
+* [Notícias do GTC](https://telegram.me/PartidoPirataBrasil)
+* [Informes do GTI](https://telegram.me/CanalGTI)
 
-### Gerais
+## Gerais
 
 * [PiratasBr](https://telegram.me/partidopiratabr)
 
-### Regionais
+## Regionais
 
 * [Piratas Centro-Oeste](https://telegram.me/piratas_centrooeste) `link alterado`
 * [Piratas Nordeste](https://telegram.me/piratas_nordeste)
-* [Piratas Norte](https://telegram.me/piratas_norte)
-* [Piratas Sudeste](https://telegram.me/piratas_sudeste)
+* [Piratas Norte](https://telegram.me/piratas_norte) `link alterado`
+* [Piratas Sudeste](https://telegram.me/piratas_sudeste) `link alterado`
 * [Piratas Sul](https://telegram.me/piratas_sul)
 
 # Grupos
 
-## Grupos temáticos
+## Desorganizados
 
-### Super Grupos
+`TODO` organizar estes links  
 
-Supergrupos são publicamente acessíveis.
+Coleta de assinaturas: https://telegram.me/apoiopirata  
+Setorial de Direitos Animais: https://telegram.me/joinchat/B9dRIwgNnBBxQRTGrEfwDQ  
+Setorial de diversidade de gênero e sexualidade: https://telegram.me/piratasdoarcoiris  
+Setorial de Economia: https://telegram.me/economiapirata  
+Setorial de questões ambientais: https://telegram.me/PiratasVerdes  
 
-* [Lounge Pirata](https://telegram.me/loungepirata)
-* [Super Grupo Pirata](https://telegram.me/piratasbr)
+## Oficiais
+
+* [Recepção](https://telegram.me/recepcaopirata)
 
 ## Grupos regionais
+
+### Desorganizados
+
+`TODO` organizar estes links  
+
+Acre: https://telegram.me/piratasacre  
+Alagoas: https://telegram.me/piratasalagoas  
+Bahia: https://telegram.me/joinchat/BkbpuQi7K0DPdAp8w1E5Vg  
+Distrito Federal: https://telegram.me/joinchat/AIIj3gG3MHMGYjQb4g3w2w  
+Espírito Santo: https://telegram.me/PartidoPirataES  
+Goiás: https://telegram.me/piratasgo  
+Minas Gerais: https://telegram.me/piratasmg  
+Norte-Nordeste: https://telegram.me/piratasnortenordeste  
+Pará: https://telegram.me/PiratasdoPara  
+Paraná: https://telegram.me/joinchat/B9dRIz16Nbj7SYVV1vt70g  
+Região Sul: https://telegram.me/joinchat/ApLxJgO07icsR-d8opOtyA  
+Rio de Janeiro: https://telegram.me/PartidoPirataRJ  
+Rio Grande do Norte: http://telegram.me/PiratasPotiguares  
+Rio Grande do Sul: https://telegram.me/joinchat/ApLxJgNXUh32wL3mo65x8g  
+Santa Catarina: https://telegram.me/joinchat/Affl3z9EJpGfi5Du4qjl3g  
+São Paulo: https://telegram.me/PartidoPirataSP  
+Campinas: https://telegram.me/joinchat/CZqc_Ah-D-SuyoR6nnCScA  
 
 ### Região Sul
 
@@ -48,6 +76,11 @@ Supergrupos são publicamente acessíveis.
 #### Santa Catarina
 
 * [Piratas SC](https://telegram.me/joinchat/Affl3z9EJpGfi5Du4qjl3g)
+
+## Não oficiais
+
+* [Lounge Pirata](https://telegram.me/loungepirata)
+* [Super Grupo Pirata](https://telegram.me/piratasbr)
 
 # Stickers
 
