@@ -2,4 +2,14 @@
 
 Como seguir contas remotas com GNU Social
 
+---
+
+#### Encontrar uma conta para seguir
+
+Neste exemplo vou seguir Iuri Guilherme (conta **quitter.se/iuri**):
+
+![](https://biblioteca.partidopirata.org/mgoblin_media/media_entries/279/social-remoto-1.medium.png)
+![](https://biblioteca.partidopirata.org/mgoblin_media/media_entries/280/social-remoto-2.medium.png)  
+![](https://biblioteca.partidopirata.org/mgoblin_media/media_entries/281/social-remoto-3.medium.png)  
+
 [[!meta title="Seguir remotamente na Social Pirata"]]
