@@ -1,0 +1,5 @@
+# Seguir remotamente na Social Pirata
+
+Como seguir contas remotas com GNU Social
+
+[[!meta title="Seguir remotamente na Social Pirata"]]
