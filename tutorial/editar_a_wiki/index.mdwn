@@ -55,6 +55,29 @@ A sintaxe do CGI é a seguinte: `https://wiki.partidopirata.org/ikiwiki.cgi?do=c
 
 O importante é o parâmetro `do` ter o argumento `create` e é necessário ter um parâmetro `page` com o caminho da página nova como argumento.
 
+
+## Não estou conseguindo enviar imagens e arquivos!
+
+Eu também não.
+
+Por enquanto o jeito de resolver isto é enviar pra outro site, por exemplo a [biblioteca pirata](https://biblioteca.partidopirata.org), e usar a sintaxe de imagem que é a seguinte:
+
+`![](https://biblioteca.partidopirata.org/mgoblin_media/media_entries/282/wiki-tutorial-8.medium.png)`
+
+Neste exemplo, o resultado seria este:
+
+![](https://biblioteca.partidopirata.org/mgoblin_media/media_entries/282/wiki-tutorial-8.medium.png)
+
+### Dica para imagens da biblioteca
+
+O mediagoblin salva a imagem pelo menos em dois formatos, o original e o reduzido para visualização. Então no exemplo acima a imagem original seria:
+
+`https://biblioteca.partidopirata.org/mgoblin_media/media_entries/282/wiki-tutorial-8.png`
+
+E a reduzida:
+
+`https://biblioteca.partidopirata.org/mgoblin_media/media_entries/282/wiki-tutorial-8**.medium**.png`
+
 ## Como é que eu escrevo?
 
 Para aprender markdown, edite a página [[sandbox]], observe como é o texto em markdown e use o botão "Preview" para observar como ele fica depois de formatado. Veja alguns exemplos:
