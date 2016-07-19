@@ -76,7 +76,7 @@ O mediagoblin salva a imagem pelo menos em dois formatos, o original e o reduzid
 
 E a reduzida:
 
-`https://biblioteca.partidopirata.org/mgoblin_media/media_entries/282/wiki-tutorial-8**.medium**.png`
+`https://biblioteca.partidopirata.org/mgoblin_media/media_entries/282/wiki-tutorial-8`**`.medium`**`.png`
 
 ## Como é que eu escrevo?
 
