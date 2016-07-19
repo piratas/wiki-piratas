@@ -88,7 +88,28 @@ Uma linha horizontal como esta acima é feita com três hífens (`---`)
 
 Para forçar uma quebra de linha, é necessário manter dois espaços em branco no **final** da linha  
 
-    Para fazer um bloco de código, é necessário colocar quatro espaços em branco no **início** da linha
+    Para fazer um bloco de código como este, é necessário colocar quatro espaços em branco no **início** da linha.
+    Sintaxe para escrever: **negrito**, *itálico*, `código`
+    > Citações começam com um > no **início** da linha seguido de espaço.
+    > Citações também podem ter *itálico* ou mesmo **negrito**.
+    
+    ---
+    
+    Uma linha horizontal é criada quando há somente --- em uma linha de texto.
+    
+    # Título
+    
+    ## Subtítulo
+    
+    ### Título nível 3
+    
+    #### Cabeçalho nível 4
+    
+    ##### Cabeçalho nível 5
+    
+    ###### Cabeçalho nível 6
+    
+    Para criar uma tabela de conteúdo, use a diretiva \[[!toc]]
 
 > Citação
 
