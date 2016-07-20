@@ -5,3 +5,5 @@ actions=yes rootpage="reuniao" postformtext="Proponha uma nova reunião:" limit=
 **Todas reuniões**
 [[!calendar  type="month" pages="reuniao/* and !*/discussao"]]
 """]]
+
+[[!meta title="Reuniões"]]
