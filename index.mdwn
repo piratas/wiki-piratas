@@ -11,7 +11,12 @@ Este site está disponível em:
 * <https://piratas.xyz>
 * <https://pirata.xyz>
 
-Este site utiliza [ikiwiki](https://ikiwiki.info), que compila a wiki e o banco de dados é na verdade um repositório GIT. Portanto, o código fonte deste site é atualizado automaticamente a cada *commit* e está disponível em:
+---
+
+# Código fonte
+
+Este site utiliza [ikiwiki](https://ikiwiki.info), que compila a wiki e o banco de dados é na verdade um repositório GIT. Isto permite que o banco de dados e todas as informações da wiki permaneçam redundantes mesmo que o servidor saia do ar.  
+O código fonte deste site é atualizado automaticamente a cada *commit* via *crontab* e está disponível em:
 
 * <https://notabug.org/piratas/wiki-piratas>
 * <https://gitlab.com/piratas/wiki-piratas>
@@ -19,7 +24,17 @@ Este site utiliza [ikiwiki](https://ikiwiki.info), que compila a wiki e o banco 
 
 ---
 
-# Toda a wiki
+# Mapas
+
+## Projetos
+
+[[!map pages="projeto/*"]]
+
+## Tutoriais
+
+[[!map pages="tutorial/*"]]
+
+## Toda a wiki
 
 [[!map pages="wiki/* and !*/discussão" show=title]]
 
@@ -38,8 +53,9 @@ Este site utiliza [ikiwiki](https://ikiwiki.info), que compila a wiki e o banco 
 
 [[Tutoriais]]  
 [[Reuniões]]  
+[[Projetos]]  
 
-**Projetos**
+**Projetos importantes**
 
 [[Coleta de assinaturas|projeto/coleta]]  
 [[Reformulação da gestão de crises|wiki/gestão de crises]]  
