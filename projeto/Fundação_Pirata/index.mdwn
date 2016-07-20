@@ -1,0 +1,26 @@
+# Instituto ou Fundação Pirata
+
+[[!toc levels=5 startlevel=2]]
+
+---
+
+## Legislação
+
+Da [lei dos partidos políticos](https://www.planalto.gov.br/ccivil_03/Leis/L9096.htm):  
+
+> Art. 44. Os recursos oriundos do Fundo Partidário serão aplicados:  
+>> IV - na criação e manutenção de instituto ou fundação de pesquisa e de doutrinação e educação política, sendo esta aplicação de, no mínimo, vinte por cento do total recebido.  
+>> § 6o No exercício financeiro em que a fundação ou instituto de pesquisa não despender a totalidade dos recursos que lhe forem assinalados, a eventual sobra poderá ser revertida para outras atividades partidárias, conforme previstas no caput deste artigo. *(Incluído pela Lei nº 12.891, de 2013)*  
+
+---
+
+## Discussão e debate
+
+### Loomio
+
+* <https://www.loomio.org/d/mBISLGa7/gt-funda-o-pesquisa-e-doutrina-o>
+* <https://www.loomio.org/d/rao4ZTXi/cria-o-do-instituto-de-educa-o-e-pesquisa-pirata>
+
+### Etherpad
+
+* <http://piratepad.net/fundacaoculturalpirata>
