@@ -1,18 +1,22 @@
-Loomio é o sistema de deliberação [adotado pelo partido pirata][0].
+# Loomio
 
-[[!toc levels=6]]
+É a ferramenta por trás do sistema de deliberação [adotado pelo partido pirata][0].
+
+[[!toc levels=5 startlevel=2]]
 
 ---
 
-# Links rápidos
+## Links rápidos
 
 **[loomio.partidopirata.org](https://loomio.partidopirata.org)**
 
 Este pseudo link redireciona para o [grupo oficial do partido pirata no loomio][1].
 
+*Nota: aparentemente, de acessar este pseudo link decorrem alguns comportamentos estranhos no login no loomio.*
+
 ---
 
-# Organização
+## Organização
 
 Atualmente o [grupo oficial][1] permite a entrada de qualquer pessoa interessada.
 
@@ -20,40 +24,169 @@ Existe um [subgrupo restrito para pessoas associadas ao partido][2] onde são fe
 
 ---
 
-# Todos os grupos e subgrupos
+## Todos os grupos e subgrupos
 
 `TODO` consertar estes links, adicionando o título do grupo  
 `TODO` adicionar os links que estão faltando
 
-## Nacional
+### Nacional
 
-* [Partido Pirata no Brasil / Pirate Party in Brazil][0]
-  * <https://www.loomio.org/g/U4Hl70Xo/partido-pirata-no-brasil-pirate-party-in-brazil-coleta-de-assinaturas>
-  * <https://www.loomio.org/g/qN9Scd7b/partido-pirata-no-brasil-pirate-party-in-brazil-conven-o-estadual-sp>
+#### [Partido Pirata no Brasil / Pirate Party in Brazil][0]
+Ambiente de discussão do Partido Pirata no Brasil.
+##### [Coleta de Assinaturas](https://www.loomio.org/g/U4Hl70Xo/partido-pirata-no-brasil-pirate-party-in-brazil-coleta-de-assinaturas)
+Ambiente para encaminhamento de questões pertinentes à coleta de assinaturas de apoiamento do Partido Pirata do Brasil
+##### [Convenção Estadual SP](https://www.loomio.org/g/qN9Scd7b/partido-pirata-no-brasil-pirate-party-in-brazil-conven-o-estadual-sp)
+Temos Quórum em SP. Que tal nos organizarmos pessoalmente?
+##### [Coordenação Nacional](https://www.loomio.org/g/Ru7WlzTI/partido-pirata-no-brasil-pirate-party-in-brazil-coordena-o-nacional)
+##### [Deliberações (APENAS PARA ASSOCIADAS/OS)](https://www.loomio.org/g/GhU7DrLz/partido-pirata-no-brasil-pirate-party-in-brazil-delibera-es-apenas-para-associadas-os-)
+Este subgrupo poderá ser acessado apenas por associados/as, onde serão deverão ser deliberados os assuntos pertinentes do Partido. POR FAVOR, ASSIM QUE ENTRAR, RESPONDA AO TÓPICO RECADASTRAMENTO.
+##### [Encontro Nacional](https://www.loomio.org/g/X9gf35G7/partido-pirata-no-brasil-pirate-party-in-brazil-encontro-nacional)
+Ambiente para deliberação de questões referentes ao Encontro Nacional do Partido Pirata, a ser realizado no 1o semestre de 2014.
+##### [Grupo de Trabalho de Igualdade de Gênero](https://www.loomio.org/g/pAVcLfmn/partido-pirata-no-brasil-pirate-party-in-brazil-grupo-de-trabalho-de-igualdade-de-g-nero)
+GT voltado para a Igualdade de Gênero e outros assuntos pertinentes ao tema ALGBTQI
+##### [GTC](https://www.loomio.org/g/vaUzbhSi/partido-pirata-no-brasil-pirate-party-in-brazil-gtc)
+Tese, antítese e síntese;  
+  
+arrrrr!  
+##### [GTI](https://www.loomio.org/g/JDmI4ZKv/partido-pirata-no-brasil-pirate-party-in-brazil-gti)
+Grupo de Trabalho Tecnologia da Informação  
+  
+Todos os links para as ferramentas do GTI estão neste tópico. Existe uma wiki com a informação consolidada, para quem não consegue acessar o Loomio.  
+  
+Pseudo link para este sub grupo: gti.partidopirata.org/loomio  
+  
+E-mail do GTI: gti@partidopirata.org  
+##### <del>[GTI](https://www.loomio.org/g/ybMF1ChZ/partido-pirata-no-brasil-pirate-party-in-brazil-gti)</del>
+<del>grupo trabalho informatica</del>
+##### [II ANAPIRATA](https://www.loomio.org/g/ynTZrd28/partido-pirata-no-brasil-pirate-party-in-brazil-ii-anapirata)
+Seguindo o modelo da I ANAPIRATA, esse subgrupo será o local de debate da II Assembleia Nacional do Partido Pirata
+##### [GTJ](https://www.loomio.org/g/3XCqcLjJ/partido-pirata-no-brasil-pirate-party-in-brazil-gtj)
+Grupo de Trabalho Jurídico
+##### [Outras deliberações](https://www.loomio.org/g/4EMzDe3p/partido-pirata-no-brasil-pirate-party-in-brazil-outras-delibera-es)
+Grupo para deliberar sobre posições especificas e encaminhamentos que não se enquadrem nos outros subgrupos.
+##### [Politica Pirata](https://www.loomio.org/g/CroncZlH/partido-pirata-no-brasil-pirate-party-in-brazil-politica-pirata)
+Criando esse subgrupo para o pedido que foi feito ao GTC para conduzir os hangouts sobre o partido, para esclarecimento do funcionamento e da politica do partido pirata do brasil e no mundo.  
+  
+(se ficar de trollagem vamos apagar e ignorar tudo)  
+##### [Reforma do Estatuto](https://www.loomio.org/g/YhXHftDs/partido-pirata-no-brasil-pirate-party-in-brazil-reforma-do-estatuto)
+Ambiente para deliberações sobre o Estatuto, a serem referendadas no Encontro Nacional do Partido Pirata do Brasil.
+##### [Reforma do Programa](https://www.loomio.org/g/0Jra13mf/partido-pirata-no-brasil-pirate-party-in-brazil-reforma-do-programa)
+Ambiente para deliberações sobre o Programa partidário, a serem referendadas no Encontro Nacional do Partido Pirata do Brasil.
+##### [Secretaria Colegiada](https://www.loomio.org/g/ZYyjEBCg/partido-pirata-no-brasil-pirate-party-in-brazil-secretaria-colegiada)
+...
+#### [Tesouro Pirata](https://www.loomio.org/g/Tvhxj2Bq/tesouro-pirata)
+Grupo criado para assuntos da Tesouraria
+#### [Regimento do Loomio](https://www.loomio.org/g/Zw9NvJ1T/regimento-do-loomio)
+Grupo destinado a discutir, idealizar e redigir uma proposta de regimento interno para uso de plataforma virtual permanente para consultas e deliberações.
 
-## Regionais
+---
+
+### Nordeste
+
+#### [Partido Pirata Brasil - BA](https://www.loomio.org/g/WP02VuJ4/partido-pirata-brasil-ba)
+www.partidopirata.org  
+  
+Este fórum congrega a iniciativa Pirata no estado da Bahia e convida a todos para o debate do nosso tempo; pela democracia direta e a transparência irrestrita!  
+##### [Partido Pirata Brasil - BA - Bahia](https://www.loomio.org/g/8S9Fy13g/partido-pirata-brasil-ba-bahia)
+##### [Partido Pirata Brasil - BA - Grupos Setoriais](https://www.loomio.org/g/GsVadeoC/partido-pirata-brasil-ba-grupos-setoriais)
+GSNET: Redes, Internet e Compartilhamento  
+  
+GSEC: Educação e Cultura Livre  
+  
+GSDS: Diversidade Social  
+##### [Partido Pirata Brasil - BA - GTC](https://www.loomio.org/g/AWcx4Gg6/partido-pirata-brasil-ba-gtc)
+Links Piratas Bahia  
+  
+Fanpage:  
+https://www.facebook.com/pages/Coletivo-Piratas-da-Bahia/475061412544700  
+  
+Reunião Virtual dos Piratas da Bahia!  
+http://www.youtube.com/watch?v=A0bdzjyJRA4  
+##### [Partido Pirata Brasil - BA - GTI](https://www.loomio.org/g/a16hidDZ/partido-pirata-brasil-ba-gti)
+##### [Partido Pirata Brasil - BA - GTJ](https://www.loomio.org/g/NU0VqR7B/partido-pirata-brasil-ba-gtj)
+##### [Partido Pirata Brasil - BA - Macrorregiões](https://www.loomio.org/g/T3Ay2atN/partido-pirata-brasil-ba-macrorregi-es)
+1. Oeste - Vermelho  
+1. Nordeste - Verde  
+1. Sudeste - azul  
+
+##### [Partido Pirata Brasil - BA - Salvador](https://www.loomio.org/g/QxqpODTo/partido-pirata-brasil-ba-salvador)
 
 ### Sudeste
 
-* <https://www.loomio.org/g/zwZk7hFA/piratas-sudeste>
-
+#### [PIRATAS Sudeste](https://www.loomio.org/g/zwZk7hFA/piratas-sudeste)
+Grupo criado para decidir sobre os temas piratas próprios do Sudeste, principalmente o encontro Regional de 2015
+##### [Outros assuntos](https://www.loomio.org/g/xiNXqPJM/piratas-sudeste-outros-assuntos)
+**Quem pode encontrar esse grupo?**  
+Não listado para o público, mas visível para os membros de PIRATAS Sudeste  
+  
+**Como as pessoas participam?**  
+Qualquer pessoa pode pedir para participar  
+  
+**Quem pode ver as discussões?**  
+Qualquer pessoa em PIRATAS Sudeste pode ver as discussões  
+##### [PARTIPIRATA - PIRATAS MG](https://www.loomio.org/g/ntAleKr7/piratas-sudeste-partipirata-piratas-mg)
+Local de discussão e deliberação dos Piratas de Minas Gerais
+##### [Piratas da Guanabara](https://www.loomio.org/g/bGiHQ7su/piratas-sudeste-piratas-da-guanabara)
+ahoy!  
+telegram: https://telegram.me/joinchat/ApAh-AFgXi2ci_MvtGQxlQ  
 ### Sul
 
-* <https://www.loomio.org/g/CYzhftgK/partido-pirata-piratas-do-sul>
-* <https://www.loomio.org/g/1LTtjPry/coletivo-piratas-do-paran->
-* <https://www.loomio.org/g/Haog5xMz/piratas-ga-chos>
+#### [Partido Pirata - Piratas do Sul](https://www.loomio.org/g/CYzhftgK/partido-pirata-piratas-do-sul)
+Piratas da região sul do Brasil, uni-vos!  
+Arrrrrrrrrrr  
+  
+Grupo para troca de informações entre os coletivos da região do partido pirata e para organização dos encontros regionais sul.  
+ahoy  
+##### [Comissão Cultural](https://www.loomio.org/g/MD2eH0W5/partido-pirata-piratas-do-sul-comiss-o-cultural)
+Comissão para organizar os interessados em fazer apresentações artísticas durante o encontro sul, principalmente músicos.
+##### [GT Assembléia Sul](https://www.loomio.org/g/bKyvoRZ8/partido-pirata-piratas-do-sul-gt-assembl-ia-sul)
+Conforme plenária sul do dia 15/09/15, foi decidido um método de organização em GTs para a Assembléia Sul.  
+Este GT visa organizar cronograma e logística do evento.  
+##### [GT Filiações](https://www.loomio.org/g/h03vcJEr/partido-pirata-piratas-do-sul-gt-filia-es)
+Conforme plenária sul do dia 15/09/15, foi decidido um método de organização em GTs para a Assembléia Sul.  
+Este GT tem como objetivo organizar uma lista de filiados e filiandos da região atualizada, um regimento do evento e um dimensionamento para logística.  
+#### [Piratas Gaúchos](https://www.loomio.org/g/Haog5xMz/piratas-ga-chos)
+##### [Associados](https://www.loomio.org/g/obx2VPHN/piratas-ga-chos-associados)
+#### [Coletivo Piratas do Paraná](https://www.loomio.org/g/1LTtjPry/coletivo-piratas-do-paran-)
+Grupo público para membros, apoiadores e simpatizantes do Partido Pirata no Paraná.
+##### [Relatos de Encontros Piratas](https://www.loomio.org/g/ckxX6CGb/coletivo-piratas-do-paran-relatos-de-encontros-piratas)
 
-## Outros
+---
 
-### Espaço Pirata
+### [Espaço Pirata][4]
 
 O Espaço Pirata foi um projeto criado e abandonado que tinha como finalidade atrair pessoas não associadas para o partido. Com a [abertura do loomio][3], o problema de não permissão de entrada foi resolvido.
 
-[Espaço Pirata][4]
+Link para o grupo do Loomio: [Espaço Pirata][4]
+
+Relação de grupos e tópicos apagados e/ou movidos:
+
+#### Grupos excluídos
+
+##### [Força Tarefa Comunicação Pirata](https://web.archive.org/web/20160720214705/https://www.loomio.org/g/x3zvlqog/espa-o-pirata-for-a-tarefa-comunica-o-pirata)
+Força tarefa do Partido Pirata para unir esforços em prol da comunicação.  
+  
+**NÃO É OBRIGATÓRIO SER FILIADO PARA ENTRAR!**  
+##### [GT filiações](https://web.archive.org/web/20160720215537/https://www.loomio.org/g/gPDhJESH/espa-o-pirata-gt-filia-es)
+Sugestão de Grupo de Trabalho para:
+
+* agilizar filiações atrasadas  
+* agilizar liberações de loomio oficial atrasadas  
+* corrigir acessos indevidos ao loomio citado,  como por exemplo de perfis fakes e desfiliados  
+* corrigir listagem de filiados  
+* corrigir listagem de emails de filiados  
+
+Etc....  
+
+#### Tópicos movidos
+
+* <https://web.archive.org/web/20160720214720/https://www.loomio.org/d/LsmMJ27w/lista-de-e-mails-no-riseup> movido para [Partido Pirata no Brasil / Pirate Party in Brazil][1]
+* <https://web.archive.org/web/20160720215241/https://www.loomio.org/d/W9TxwXKr/-iuf2015> movido para [Partido Pirata no Brasil / Pirate Party in Brazil][1]
 
 [0]: http://partidopirata.org/partido-pirata-do-brasil-traduz-loomio-e-adota-a-ferramenta-em-carater-experimental-como-meio-de-deliberacao/
 [1]: https://www.loomio.org/g/Hmpbu4Tr/partido-pirata-no-brasil-pirate-party-in-brazil
 [2]: https://www.loomio.org/g/GhU7DrLz/partido-pirata-no-brasil-pirate-party-in-brazil-delibera-es-apenas-para-associadas-os-
 [3]: https://www.loomio.org/d/DCeR9Udo/abertura-do-loomio-caiu-o-muro-de-berlim
 [4]: https://www.loomio.org/g/E7ctaKYP/espa-o-pirata
+
 [[!meta title="Loomio"]]
