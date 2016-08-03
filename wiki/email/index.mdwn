@@ -1,0 +1,55 @@
+# Configuração dos e-mails institucionais
+
+O servidor de e-mail do Partido Pirata usa a ferramenta *Google Apps*.
+
+**`AVISO`: Esta página é para fins de transparência e documentação tão somente. Para entrar em contato com grupos de trabalho, setoriais, esferas de organização, use como referência a [[página de contatos|contato]], ou na dúvida, envie mensagem para `comunicacao@partidopirata.org`.**
+
+## Registros DNS
+
+[[!table class="table table-bordered table-striped" data="""
+Tipo de registro (BIND 9)|Sub domínio|Valor|Prioridade|TTL
+MX|exchange|ALT2.ASPMX.L.GOOGLE.COM|30|1 hora
+mx|mail1|ALT2.ASPMX.L.GOOGLE.COM|30|1 hora
+mx|mail2|ALT2.ASPMX.L.GOOGLE.COM|30|1 hora
+mx|mail3|ALT2.ASPMX.L.GOOGLE.COM|30|1 hora
+mx|mx|ALT2.ASPMX.L.GOOGLE.COM|30|1 hora
+mx|mx1|ALT2.ASPMX.L.GOOGLE.COM|30|1 hora
+mx|mx2|ALT2.ASPMX.L.GOOGLE.COM|30|1 hora
+mx|mx3|ALT2.ASPMX.L.GOOGLE.COM|30|1 hora
+mx|servidor|@|10|1 hora
+"""]]
+
+## Grupos
+
+"Grupos" aqui é um conceito do *Google Apps* que na prática significa listas de distribuição de e-mail.
+
+### GTJ
+
+> juridico@partidopirata.org
+
+ou `gtj@partidopirata.org`
+
+[[!table class="table table-bordered table-striped" data="""
+Nome|Endereço|Nível de acesso
+Daniel Prazeres|(e-mail particular)|Membro
+Juliano Rombaldi|(e-mail particular)|Membro
+Paulo Rená|(e-mail particular)|Membro
+piratalegal gtj|piratalegal@partidopirata.org|Proprietário
+SecretariaGeral Piratas|secretariageral@partidopirata.org|Membro
+"""]]
+
+### Gestão de Crises
+
+> gestaodecrises@partidopirata.org
+
+[[!table class="table table-bordered table-striped" data="""
+Nome|Endereço|Nível de acesso
+Comissão Julgadora|comissaojulgadora@partidopirata.org|Membro
+Gestor de Crises|gestordecrises@partidopirata.org|Membro
+Luciana Carmo|lucarmo@partidopirata.org|Membro
+Flávio Secco Alencar|seccoalencar@partidopirata.org|Membro
+SecretariaGeral Piratas|secretariageral@partidopirata.org|Proprietário
+"""]]
+
+[[!meta title="Configuração dos e-mails institucionais"]]
+[[!tag e-mail e-mails mail lista listas]]
