@@ -14,19 +14,19 @@ Para solicitar e-mails para coletivos, diretórios provisórios, grupos de traba
 
     gti@partidopirata.org
 
-# Registros DNS
+# Registros MX
 
 [[!table class="table table-bordered table-striped" data="""
-Tipo de registro (BIND 9)|Sub domínio|Valor|Prioridade|TTL
-MX|exchange|ALT2.ASPMX.L.GOOGLE.COM|30|1 hora
-mx|mail1|ALT2.ASPMX.L.GOOGLE.COM|30|1 hora
-mx|mail2|ALT2.ASPMX.L.GOOGLE.COM|30|1 hora
-mx|mail3|ALT2.ASPMX.L.GOOGLE.COM|30|1 hora
-mx|mx|ALT2.ASPMX.L.GOOGLE.COM|30|1 hora
-mx|mx1|ALT2.ASPMX.L.GOOGLE.COM|30|1 hora
-mx|mx2|ALT2.ASPMX.L.GOOGLE.COM|30|1 hora
-mx|mx3|ALT2.ASPMX.L.GOOGLE.COM|30|1 hora
-mx|servidor|@|10|1 hora
+Sub domínio|Valor|Prioridade|TTL
+exchange|ALT2.ASPMX.L.GOOGLE.COM|30|1 hora
+mail1|ALT2.ASPMX.L.GOOGLE.COM|30|1 hora
+mail2|ALT2.ASPMX.L.GOOGLE.COM|30|1 hora
+mail3|ALT2.ASPMX.L.GOOGLE.COM|30|1 hora
+mx|ALT2.ASPMX.L.GOOGLE.COM|30|1 hora
+mx1|ALT2.ASPMX.L.GOOGLE.COM|30|1 hora
+mx2|ALT2.ASPMX.L.GOOGLE.COM|30|1 hora
+mx3|ALT2.ASPMX.L.GOOGLE.COM|30|1 hora
+servidor|@|10|1 hora
 """]]
 
 ---
