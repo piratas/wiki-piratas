@@ -24,5 +24,9 @@ Um [processo de eleição](https://www.loomio.org/d/yj1KFOXA/-coordena-o-naciona
 A processo de votação durou sete dias.  
 A coordenação nacional se manifestou através de uma [votação no loomio](https://www.loomio.org/d/cC2mR5x4/proposal/d1ulSk3x).  
 
+### Construção coletiva
+
+Um [pad](https://public.etherpad-mozilla.org/p/gestao_de_crise_tampao) foi criado para instrumentalizar e sistematizar o funcionamento da Gestão de Crises Tampão.
+
 [[!meta title="Gestão de Crises"]]
 [[!tag gc "gestão de crises" crise crises]]
