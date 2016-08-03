@@ -1,10 +1,20 @@
-# Configuração dos e-mails institucionais
+**Configuração dos e-mails institucionais**
 
 O servidor de e-mail do Partido Pirata usa a ferramenta *Google Apps*.
 
 **`AVISO`: Esta página é para fins de transparência e documentação tão somente. Para entrar em contato com grupos de trabalho, setoriais, esferas de organização, use como referência a [[página de contatos|contato]], ou na dúvida, envie mensagem para `comunicacao@partidopirata.org`.**
 
-## Registros DNS
+[[!toc levels=6]]
+
+---
+
+# Pra que servem e como solicitar isto
+
+Para solicitar e-mails para coletivos, diretórios provisórios, grupos de trabalho, setoriais, associadas(os), etc. é necessário enviar e-mail para o [[GTI]]:
+
+    gti@partidopirata.org
+
+# Registros DNS
 
 [[!table class="table table-bordered table-striped" data="""
 Tipo de registro (BIND 9)|Sub domínio|Valor|Prioridade|TTL
@@ -19,11 +29,13 @@ mx|mx3|ALT2.ASPMX.L.GOOGLE.COM|30|1 hora
 mx|servidor|@|10|1 hora
 """]]
 
-## Grupos
+---
+
+# Grupos
 
 "Grupos" aqui é um conceito do *Google Apps* que na prática significa listas de distribuição de e-mail.
 
-### GTJ
+## GTJ
 
 > juridico@partidopirata.org
 
@@ -38,7 +50,7 @@ piratalegal gtj|piratalegal@partidopirata.org|Proprietário
 SecretariaGeral Piratas|secretariageral@partidopirata.org|Membro
 """]]
 
-### Gestão de Crises
+## Gestão de Crises
 
 > gestaodecrises@partidopirata.org
 
