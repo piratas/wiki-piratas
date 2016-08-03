@@ -1,0 +1,4 @@
+[[!meta title="pages tagged lista"]]
+
+[[!inline pages="tagged(lista)" actions="no" archive="yes"
+feedshow=10]]
