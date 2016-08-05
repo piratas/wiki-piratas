@@ -1,42 +1,109 @@
-# Contatos
+**Contatos do Partido Pirata**
 
-## E-mails
+Na dúvida, envie e-mail para `comunicacao@partidopirata.org`
 
-### Comissão Nacional
+[[!toc levels=6]]
 
-#### Secretaria Geral
+---
+
+# E-mails
+
+## Comissão Nacional
+
+### Secretaria Geral
+
+Este é o e-mail institucional do Partido Pirata e o que está registrado no [[documentos/CNPJ]].
+
+Mais informações na página [[secretaria]].
 
     secretariageral@partidopirata.org
 
-#### Tesouraria Geral
+### Tesouraria Geral
+
+Mais informações na página [[tesouraria]].
 
     tesouraria@partidopirata.org
 
-### Lista aberta
+## Imprensa
 
-    espacopirata@lists.riseup.net
-
-Lista aberta para todas as pessoas, associadas ou não. Não é necessário se inscrever para publicar e todas as mensagens são moderadas. Para se inscrever, acesse o link: <https://lists.riseup.net/www/subscribe/espacopirata>.
-
-### Imprensa
+E-mail do [[Grupo de Trabalho de Comunicação|gtc]]:
 
     comunicacao@partidopirata.org
 
-### Coletivos
+## Suporte
 
-#### São Paulo
+E-mail do [[Grupo de Trabalho de Tecnologia da Informação|gti]]:
+
+    suporte@partidopirata.org
+
+## Jurídico
+
+E-mail do [[Grupo de Trabalho Jurídico|gtj]]:
+
+    juridico@partidopirata.org
+
+
+## Coordenação Nacional
+
+A Coordenação Nacional é composta por cinco Coordenações Regionais:
+
+### Centro Oeste
+
+    centro-oeste@partidopirata.org
+
+### Nordeste
+
+    nordeste@partidopirata.org
+
+### Norte
+
+    norte@partidopirata.org
+
+### Sudeste
+
+    sudeste@partidopirata.org
+
+### Sul
+
+    sul@partidopirata.org
+
+---
+
+## Coletivos
+
+E-mails de coletivos regionais
+
+### São Paulo
 
     saopaulo@partidopirata.org
 
-#### Rio de Janeiro
+### Rio de Janeiro
 
     rio@partidopirata.org
+
+### Pará
+
+    para@partidopirata.org
 
 ### Paraná
 
     parana@partidopirata.org
 
+---
+
 # Redes sociais
+
+## Diaspora
+
+    https://diasporabr.com.br/people/f24eb9d43bc51eb8
+
+---
+
+# Redes anti sociais
+
+## Twitter
+
+    @partidopiratabr
 
 ## Facebook
 
@@ -185,14 +252,9 @@ Lista aberta para todas as pessoas, associadas ou não. Não é necessário se i
 
     https://www.facebook.com/groups/partidopiratagoiano
 
-## Twitter
-
-    @partidopiratabr
-
-## Diaspora
-
-    https://diasporabr.com.br/people/f24eb9d43bc51eb8
-
 ---
 
-* Garimpado [daqui](http://partidopirata.org/contatos)*
+*Garimpado [daqui](http://partidopirata.org/contatos) e altamente editado*
+
+[[!meta title="Contatos do Partido Pirata"]]
+[[!tag email contato contatos e-mail]]
