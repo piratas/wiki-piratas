@@ -21,6 +21,7 @@ Por fim, lutamos por ampliação e fortalecimento da participação popular em c
 ### 1.2. Experimentação, possibilidades e caminhos.
 
 Não temos uma fórmula pronta para que seja atingido nosso ideal de democracia. A experimentação de novos sistemas democráticos faz parte do caminhar pirata em direção à democracia plena, assim como modelos híbridos farão parte desse processo. Aceitaremos e defenderemos sistemas que conciliem representatividade e democracia direta na medida em que ainda não forem cumpridas as condições para um aprofundamento radical da democracia, mas apenas se servirem a esse propósito. No percurso que temos à nossa frente é essencial que a população disponha de mecanismos constitucionais para revisar periodicamente a legislação eleitoral, para que possamos assim seguir passo a passo até alcançarmos a democracia plena. Compreendemos a reforma política como paliativo, a reforma constitucional como um imperativo e os movimentos de rua como essenciais para a construção da democracia plena.
+
 Defendemos um sistema de recall de mandatos executivos e legislativos, para que sejam revogados por decisão do eleitorado os mandatos daquelas pessoas que não estiverem cumprindo seu dever com a população. Defendemos a descentralização, a democracia líquida e a autogestão como alternativas à democracia representativa, mas não como soluções imutáveis a serem aplicadas em todos espaços da sociedade: experimentar é o único caminho possível para a democracia plena. Por último, declaramos que queremos o fim do monopólio partidário sobre sistemas político-institucionais, devendo estes estarem abertos a outras formas de participação política, e que defendemos o direito à candidatura independente.
 
 ## 2. Transparência e Eficiência da Gestão Pública
@@ -60,6 +61,7 @@ A reconstituição dos fatos ocorridos no passado relativos a abusos de poder po
 ## 3. Privacidade
 
 Em um mundo que avança incansavelmente no âmbito tecnológico, novas possibilidades na comunicação e no uso da informação emergem e são incorporadas em diversos aspectos da vida humana, trazendo consigo outras possibilidades: observamos novas formas de vigilância e de coleta e intercepção de dados sendo empregadas por governos, corporações e indivíduos. Lutamos contra a violação sistemática e desproporcional do direito à privacidade feita em nome de uma falsa segurança, contra a vigilância em massa que enxerga a sociedade como composta de pessoas criminosas em potencial no lugar da presunção de inocência, e defendemos o direito individual à privacidade e à inviolabilidade de todas as suas comunicações dentro e fora das redes.
+
 Consequentemente, nosso posicionamento é contrário ao determinado por itens legislativos como o artigo 15 de nosso Marco Civil da Internet (tal como disposto na Lei N°12.965 à data de sua promulgação em 23 de Abril de 2014) e outras leis de retenção de dados pelo mundo; dados apenas podem ser retidos no curso de uma investigação direcionada a um crime específico já ocorrido e através de suspeita bem fundamentada (com embasamento legal), somente após a pessoa suspeita ser identificada e mediante autorização judicial. Defendemos o fim da retenção em massa e indiscriminada de dados com intuito de prevenir crimes e estabelecer pessoas suspeitas. Deve ser respeitado e fortalecido o direito individual ao controle do uso de dados pessoais. Ninguém além de nós mesmos deve decidir como nossos dados serão usados.
 
 Em tempos de vigilância e restrição de liberdades civis, defendemos o direito ao anonimato e o uso de criptografia como meios de resistência e proteção contra governos e outras entidades que busquem monitorar, perseguir, silenciar e exercer outros tipos de violência contra pessoas.
@@ -84,12 +86,14 @@ O sonho que tinham as gerações passadas de compilar o conhecimento e a cultura
 ### 5.1. Sem restrições ao que pode ser reproduzido
 
 Sistemas tecnológicos que dificultam ou impedem a reprodução de obras criativas (proteção anticópia, DRM etc.) criam uma escassez artificial no intuito de transformar um bem público em uma mercadoria privada. Consideramos imoral a geração da escassez artificial, movida unicamente por interesses econômicos, e, por isso, denunciamos veementemente e combatemos esses procedimentos e mecanismos. Mecanismos esses que dificultam de diversas formas o uso legítimo das obras, possibilitam um controle totalmente inaceitável, frequentemente viabilizam o monitoramento de quem usa esses serviços e colocam em risco a utilização das obras pelas gerações futuras, essas que podem deixar de ter acesso aos atuais mecanismos que permitiriam a reprodução dessas obras.
+
 Como se isso não bastasse, os custos econômicos globais para estabelecer uma infraestrutura de proteção anticópia que seja ao mesmo tempo universal, sem lacunas e segura no longo prazo seriam extremamente desproporcionais em relação à sua utilidade econômica global. Os custos indiretos decorrentes dos obstáculos interpostos à interoperatividade entre os diferentes sistemas de reprodução e os respectivos softwares elevariam ainda mais esses déficits.
 
 ### 5.2. Cópia e uso livres
 
 Considerando que não existe tecnologia razoável capaz de limitar a reprodutibilidade de obras digitais e que é preciso reconhecer o fracasso das tentativas de assegurar efetividade abrangente às proibições introduzidas no âmbito da vida privada, devem ser reconhecidas e aproveitadas as oportunidades criadas pela disponibilidade universal de obras criativas. Estamos convencidos de que a reprodução e o uso não-comerciais de obras criativas devem ser vistos como algo natural e também, ao contrário das afirmações alarmistas de grupos lobistas bastante específicos, de que os interesses da maior parte das pessoas que criam não sofrem influência negativa.
 No passado, não era possível comprovar cabalmente essas implicações. Na realidade, passou a existir uma imensa variedade de modelos inovadores de negócios que deliberadamente fazem uso proveitoso da livre disponibilidade de obras e que podem ajudar a tornar as pessoas que criam mais autônomas em relação às atuais estruturas de mercado.
+
 Por isso, com o objetivo de aperfeiçoar o acesso universal à informação, ao conhecimento e à cultura, defendemos que os atos de reproduzir, tornar acessível, armazenar e utilizar obras criativas em caráter não-comercial sejam não apenas legalizados, mas ativa e explicitamente fomentados, pois isso representa uma condição essencial para ampliar o desenvolvimento social, tecnológico e econômico da nossa sociedade.
 
 ### 5.3. Fomento à cultura
@@ -166,51 +170,56 @@ Sendo a economia brasileira atualmente uma economia de mercado regulada, inserid
 
 #### I. Estabilidade para o ambiente econômico
 
-A. Garantir a estabilidade monetária;
-B. Ao promover as mudanças político-econômicas necessárias ao cumprimento dos princípios defendidos pelo PIRATAS, buscar um ambiente de confiança jurídica e econômica;
-C. Garantir uma relação responsável e protetora da população em relação a entidades financeiras.
+A. Garantir a estabilidade monetária;  
+B. Ao promover as mudanças político-econômicas necessárias ao cumprimento dos princípios defendidos pelo PIRATAS, buscar um ambiente de confiança jurídica e econômica;  
+C. Garantir uma relação responsável e protetora da população em relação a entidades financeiras.  
 
 #### II. Fomento às condições de desenvolvimento econômico
 
-A. Estabelecer as diretrizes para a redução ampla de barreiras à entrada – simplificar processos, exigências e custos para novas pessoas empresárias;
-B. Promover a desburocratização e o aumento de eficiência do sistema governamental, nos poderes executivo, legislativo e judiciário;
-C. Promover políticas para a redução de ineficiências na produção (custo de capital).
+A. Estabelecer as diretrizes para a redução ampla de barreiras à entrada – simplificar processos, exigências e custos para novas pessoas empresárias;  
+B. Promover a desburocratização e o aumento de eficiência do sistema governamental, nos poderes executivo, legislativo e judiciário;  
+C. Promover políticas para a redução de ineficiências na produção (custo de capital).  
 
 #### III. Aperfeiçoamento do sistema econômico visando eficiência e os ideais estatutários Piratas
 
-A. Promover uma reforma tributária com tributação direta gradual sobre a renda, também observando outras possíveis políticas tributárias de taxação de grandes fortunas no intuito de reduzir a desigualdade;
-B. Promover reforma da matriz de responsabilidades dos entes federados;
-C. Estabelecer e implementar as diretrizes para a substituição do sistema de patentes e direitos autorais;
-D. Auditar as dívidas públicas estaduais e nacional, internas e externas, e estabelecer práticas de transparência quanto ao endividamento governamental.
+A. Promover uma reforma tributária com tributação direta gradual sobre a renda, também observando outras possíveis políticas tributárias de taxação de grandes fortunas no intuito de reduzir a desigualdade;  
+B. Promover reforma da matriz de responsabilidades dos entes federados;  
+C. Estabelecer e implementar as diretrizes para a substituição do sistema de patentes e direitos autorais;  
+D. Auditar as dívidas públicas estaduais e nacional, internas e externas, e estabelecer práticas de transparência quanto ao endividamento governamental.  
 
 #### IV. Responsabilidades Diretas do Estado
 
-A. Promover saúde gratuita universal;
-B. Promover educação gratuita universal;
-C. Promover o transporte gratuito universal;
-D. Promover gestão eficiente do sistema de previdência;
-E. Promover e fomentar programas de Estado eficientes para assistência social;
-F. Responsabilizar-se e gerenciar eficientemente os monopólios econômicos naturais;
-G. Responsabilizar-se e gerenciar eficientemente a Infraestrutura regional;
-H. Regulação do Sistema Financeiro visando segurança e competitividade;
-I. Elaborar políticas que favoreçam Pesquisa e Desenvolvimento no país – e investir para autoaperfeiçoar os sistemas de gestão pública e práticas educacionais e científicas.
+A. Promover saúde gratuita universal;  
+B. Promover educação gratuita universal;  
+C. Promover o transporte gratuito universal;  
+D. Promover gestão eficiente do sistema de previdência;  
+E. Promover e fomentar programas de Estado eficientes para assistência social;  
+F. Responsabilizar-se e gerenciar eficientemente os monopólios econômicos naturais;  
+G. Responsabilizar-se e gerenciar eficientemente a Infraestrutura regional;  
+H. Regulação do Sistema Financeiro visando segurança e competitividade;  
+I. Elaborar políticas que favoreçam Pesquisa e Desenvolvimento no país – e investir para autoaperfeiçoar os sistemas de gestão pública e práticas educacionais e científicas.  
 
 #### V. Alternativas econômicas solidárias e criptomoedas
 
-A. O Partido Pirata apóia e incentiva a experimentação de alternativas econômicas solidárias e independentes de governo, regulação ou fiscalização;
-B. O Partido Pirata apóia e incentiva experimentação de criptomoedas, independentes de governo, regulação ou fiscalização.
+A. O Partido Pirata apóia e incentiva a experimentação de alternativas econômicas solidárias e independentes de governo, regulação ou fiscalização;  
+B. O Partido Pirata apóia e incentiva experimentação de criptomoedas, independentes de governo, regulação ou fiscalização.  
 
 ## 11. Educação
 
 Piratas entendem que a educação é direito fundamental de toda e qualquer pessoa. Acreditamos que é papel do governo assegurar uma educação pública, gratuita e que siga padrões indispensáveis de qualidade. A prática educacional deve assegurar a autonomia individual frente ao ensino formal. O investimento na produção de materiais educacionais abertos deve ser uma diretriz das políticas educacionais e deve considerar as diferenças regionais. Experiências como a não-serialização do ensino, o uso de alternativas a sistemas de avaliação e a livre construção de grades e horários de aula para assegurar a pontencialidade individual, são defendidas por Piratas, incluindo a participação de estudantes no processo.
 
 Defendemos o investimento em tecnologias educacionais e de ensino à distância como estratégias de inovação da educação tradicional e propulsores de iniciativas de Educação Aberta.
+
 O uso e difusão de ferramentas e ambientes virtuais de aprendizado livres e abertos devem ser instituídos como política pública. Nós Piratas reforçamos a equivalência entre as modalidades de ensino presencial e à distância, tanto no mercado de trabalho quanto nos espaços de decisão e deliberação das universidades e das entidades representativas de estudantes. Da mesma forma, defendemos a difusão do ensino técnico em centros de excelência em ciência e tecnologia, ao passo que se assegure a efetiva integração entre ensino, pesquisa e extensão nas universidades. Independentemente da opção por uma formação mais técnica ou acadêmica, defendemos o fortalecimento das instituições de ensino às necessidades sociais.
+
 Defendemos a valorização da carreira docente em todos os níveis de ensino, público ou privado, carga horária de trabalho compatível com a função e a garantia de cumprimento de pisos salariais.
+
 Defendemos também que a assistência estudantil deve ser tratada como um direito e não como benefício. As ações inclusivas ou afirmativas no campo educacional devem ser defendidas como políticas sociais.
 
 Tendo a convicção de que educação vai para muito além dos limites das instituições educacionais, defendemos a experimentação de processos de ensino-aprendizagem descentralizados e livres. Nós Piratas apoiamos a difusão de Hacklabs e Hackerspaces e outras iniciativas similares enquanto meios colaborativos e experimentais de aprendizagem e promoção de conhecimento.
+
 No ensino formal, acreditamos que as instituições de ensino básico, técnico e superior devem incorporar inovações na forma como se constituem e operam. Defendemos a democratização das instituições de ensino, com participação plena dos corpos docente, discente e técnico-administrativo em seus planejamentos. Nas universidades e respectivos órgãos de fomento, defendemos eleição de dirigentes e composição dos órgãos colegiados a partir do voto paritário de docentes, estudantes e pessoas que trabalham no setor técnico-administrativo.
+
 Por fim, afirmamos a necessidade de debater projetos que objetivam federalizar a educação.
 
 ## 12. Saúde
@@ -249,6 +258,7 @@ Acreditamos na democratização do ambiente de trabalho, com o incentivo à form
 ### 13.3. Direito de greve das pessoas trabalhadoras civis
 
 É fundamental em um sistema democrático que as pessoas que trabalham possuam, seguramente, o direito garantido à greve e a manifestações trabalhistas em geral, desde que mantidos 30% dos serviços essenciais, conforme presentes na atual Lei de Greve (Lei 7.783/1989) nos termos do artigo 10, no estado presente da lei no dia 25/05/2014.
+
 É importante que o direito à greve não seja entendido como forma política de criminalizar as pessoas que trabalham e entidades da sociedade civil e que a justiça não faça uso político das exceções dos serviços essenciais contra o direito de grevistas.
 
 ### 13.4. Contra o corporativismo danoso à todo o corpo de sociedades de categorias profissionais.
@@ -517,15 +527,15 @@ Por último, compreendemos que alguns dos deveres que hoje se apresentam à popu
 
 Nós Piratas proclamamos o internacionalismo como um princípio fundante de nossa atuação. Representa uma instância incontornável de resistência à repressão promovida e adotada pelas Nações no tocante à castração dos direitos humanos fundamentais. Defendemos a extensão do pleno gozo da cidadania a imigrantes, com solidariedade irrestrita e respeito integral aos direitos e liberdades, inclusive direito a votar e receber votos.
 
-I. Promovemos a cidadania universal e professamos solidariedade plena a todos aquelas pessoas que lutam, em todos os países do mundo, contra a opressão;
-II. Precisamos promover mecanismos de detecção, denúncia e proscrição de violência política praticada pelo Estado e por agentes estatais imediatos ou mediatos contra grupos oposicionistas ou minoritários, inclusive estrangeiros. Não podemos permitir que a xenofobia institucional seja motriz para políticas públicas por parte do Estado nacional;
-III. Reconhecemos e fomentamos a diversidade linguística, étnica e cultural em todos os âmbitos;
-IV. Prezamos pela transparência e pela fiscalização independente da cooperação internacional e da ajuda humanitária, inclusive denúncia e combate a todas as formas e expressões antidemocráticas do discurso nacionalista;
-V. Queremos o reconhecimento da jurisdição universal para casos de genocídio e violações graves de direitos humanos, combate ao racismo, à xenofobia e a todas as formas correlatas de discriminação social;
-VI. Requeremos uma reforma das instituições internacionais para realçar a representação civil individual na esfera internacional;
-VII. Respeito aos princípios universais que governam a concessão de asilo em todas as situações atentatórias à vida, à liberdade e à dignidade;
-VIII. Denunciamos o estadocentrismo nas relações internacionais;
-IX. Buscamos o reconhecimento, denúncia e catalogação historico-educacional de casos de genocídio, etnocídio, democídio, femicídio e outras instâncias de supressão física de populações minoritárias ou oposicionistas e promoção de políticas e mecanismos restitutivos e reparatórios, inclusive integrando o rechaço ao etnocentrismo em todas as dimensões da vida política.
+I. Promovemos a cidadania universal e professamos solidariedade plena a todos aquelas pessoas que lutam, em todos os países do mundo, contra a opressão;  
+II. Precisamos promover mecanismos de detecção, denúncia e proscrição de violência política praticada pelo Estado e por agentes estatais imediatos ou mediatos contra grupos oposicionistas ou minoritários, inclusive estrangeiros. Não podemos permitir que a xenofobia institucional seja motriz para políticas públicas por parte do Estado nacional;  
+III. Reconhecemos e fomentamos a diversidade linguística, étnica e cultural em todos os âmbitos;  
+IV. Prezamos pela transparência e pela fiscalização independente da cooperação internacional e da ajuda humanitária, inclusive denúncia e combate a todas as formas e expressões antidemocráticas do discurso nacionalista;  
+V. Queremos o reconhecimento da jurisdição universal para casos de genocídio e violações graves de direitos humanos, combate ao racismo, à xenofobia e a todas as formas correlatas de discriminação social;  
+VI. Requeremos uma reforma das instituições internacionais para realçar a representação civil individual na esfera internacional;  
+VII. Respeito aos princípios universais que governam a concessão de asilo em todas as situações atentatórias à vida, à liberdade e à dignidade;  
+VIII. Denunciamos o estadocentrismo nas relações internacionais;  
+IX. Buscamos o reconhecimento, denúncia e catalogação historico-educacional de casos de genocídio, etnocídio, democídio, femicídio e outras instâncias de supressão física de populações minoritárias ou oposicionistas e promoção de políticas e mecanismos restitutivos e reparatórios, inclusive integrando o rechaço ao etnocentrismo em todas as dimensões da vida política.  
 
 ## 21. Acessibilidade, autodeterminação do corpo e transhumanismo
 
@@ -535,18 +545,18 @@ O Partido Pirata apóia a neurodiversidade, a diversidade funcional e o cyborgis
 
 Nesse sentido, propomos:
 
-I. Adoção de políticas públicas em defesa das pessoas com necessidades especiais;
-II. A promoção de políticas de ação afirmativa no acesso à educação e ao mercado de trabalho, de modo a viabilizar a normalização, a integração, a autonomia e a promoção social de pessoas com diferentes capacidades;
-III. Uso de tecnologias no combate ao capacitismo;
-IV. Direito à morte planejada e à morte assistida;
-V. Emprego da ciência e de tecnologias emergentes na superação da morte e de limitações biológicas;
-VI. Quebra de patentes de próteses ortopédicas;
-VII. Incentivo ao estudo de tecnologias para produção de próteses em impressoras 3D;
-VIII. Incentivo à produção de próteses de alta tecnologia em território nacional;
-IX. Defesa da clonagem terapêutica e de espécies extintas;
-X. Que o Partido estabeleça uma agenda de debates sobre a clonagem reprodutiva e seus efeitos;
-XI. Que se cobre programaticamente dos governos incentivos prioritários à longevidade e à qualidade de vida, priorizando investimentos tecnológicos maiores nessas áreas;
-XII. Que o partido pirata discuta sobre a Singularidade, e que elaboremos ações políticas que garantam benefícios às gerações futuras.
+I. Adoção de políticas públicas em defesa das pessoas com necessidades especiais;  
+II. A promoção de políticas de ação afirmativa no acesso à educação e ao mercado de trabalho, de modo a viabilizar a normalização, a integração, a autonomia e a promoção social de pessoas com diferentes capacidades;  
+III. Uso de tecnologias no combate ao capacitismo;  
+IV. Direito à morte planejada e à morte assistida;  
+V. Emprego da ciência e de tecnologias emergentes na superação da morte e de limitações biológicas;  
+VI. Quebra de patentes de próteses ortopédicas;  
+VII. Incentivo ao estudo de tecnologias para produção de próteses em impressoras 3D;  
+VIII. Incentivo à produção de próteses de alta tecnologia em território nacional;  
+IX. Defesa da clonagem terapêutica e de espécies extintas;  
+X. Que o Partido estabeleça uma agenda de debates sobre a clonagem reprodutiva e seus efeitos;  
+XI. Que se cobre programaticamente dos governos incentivos prioritários à longevidade e à qualidade de vida, priorizando investimentos tecnológicos maiores nessas áreas;  
+XII. Que o partido pirata discuta sobre a Singularidade, e que elaboremos ações políticas que garantam benefícios às gerações futuras.  
 
 O Partido defende o ensino de noções de libras e braille no ensino fundamental e médio e a exigência de provas dessas linguagens em concursos para profissionais da educação das redes públicas de ensino básico e superior. Defende também a educação integrada e a capacitação efetiva de tais profissionais para viabilizar uma inserção plena de estudantes com diferentes capacidades. Apoiamos o desenvolvimento descentralizado de técnicas de difusão da informação e do conhecimento por meios acessíveis a todas as configurações de capacidade. Favorecemos o aprendizado e a utilização de libras, braille e outras linguagens por parte de membros dos grupos de comunicação do partido. Buscamos assegurar que dados públicos estejam disponíveis abertamente com garantias de acessibilidade plena. Enquanto organização partidária, buscaremos os recursos necessários para a tradução simultânea em libras e para a narração consecutiva em todos os eventos promovidos ou apoiados pelo partido.
 
@@ -554,25 +564,25 @@ O Partido defende o ensino de noções de libras e braille no ensino fundamental
 
 Levando em conta a defesa da liberdade sobre o próprio corpo e o convívio em sociedade, o Partido Pirata entende que a “guerra às drogas” é uma política essencialmente racista e classista, que, na prática, funciona como opressão à população negra, pobre e periférica. Sendo assim, piratas defendem:
 
-I. Drogas como questão prioritariamente de saúde pública, segurança pública e lazer.
-II. Combate à violência do narcotráfico mediante descriminalização e legalização de drogas.
-III. A difusão de políticas públicas de Redução de Danos e o combate à internação compulsória.
-IV. Legalização e regulação de toda a cadeia econômica em torno das drogas.
-V. Legalização e regulação da cadeia econômica da maconha como forma de introduzir uma discussão sobre a legalização e regulação da cadeia econômica envolvendo as demais drogas hoje ilícitas.
-VI. Incentivo à pesquisa na aplicação de drogas para fins medicinais e de obtenção de soberania alimentar.
+I. Drogas como questão prioritariamente de saúde pública, segurança pública e lazer.  
+II. Combate à violência do narcotráfico mediante descriminalização e legalização de drogas.  
+III. A difusão de políticas públicas de Redução de Danos e o combate à internação compulsória.  
+IV. Legalização e regulação de toda a cadeia econômica em torno das drogas.  
+V. Legalização e regulação da cadeia econômica da maconha como forma de introduzir uma discussão sobre a legalização e regulação da cadeia econômica envolvendo as demais drogas hoje ilícitas.  
+VI. Incentivo à pesquisa na aplicação de drogas para fins medicinais e de obtenção de soberania alimentar.  
 
 ## 23. Diversidade sócio-étnico-cultural
 
 Proclamamos como diretrizes da atuação pirata na luta pelo reconhecimento e pelo respeito à diversidade sócio-étnico-cultural:
 
-I. Combate ao racismo e à xenofobia;
-II. Respeito às tradições de matriz africana, indígena, de comunidades de imigrantes e comunidades tradicionais que compõem a base de nossa sociedade, respeitando a integridade e inviolabilidade das pessoas que as praticam;
-III. Respeito às tradições de todos os povos;
-IV. Respeito à liberdade de adesão ou de recusa à adesão a práticas tradicionais de povos ou comunidades minoritárias, assegurando sempre e inquestionavelmente o respeito às liberdades individuais;
-V. Atenção às demandas territoriais de comunidades quilombolas, indígenas e comunidades tradicionais bem como o respeito a todo o espectro de seus direitos;
-VI. Apoio às medidas sócio-afirmativas;
-VII. Combate ao extermínio da juventude majoritariamente pobre e negra das periferias;
-VIII. Defesa, ensino e reconhecimento das línguas minoritárias como co-oficiais em suas regiões.
+I. Combate ao racismo e à xenofobia;  
+II. Respeito às tradições de matriz africana, indígena, de comunidades de imigrantes e comunidades tradicionais que compõem a base de nossa sociedade, respeitando a integridade e inviolabilidade das pessoas que as praticam;  
+III. Respeito às tradições de todos os povos;  
+IV. Respeito à liberdade de adesão ou de recusa à adesão a práticas tradicionais de povos ou comunidades minoritárias, assegurando sempre e inquestionavelmente o respeito às liberdades individuais;  
+V. Atenção às demandas territoriais de comunidades quilombolas, indígenas e comunidades tradicionais bem como o respeito a todo o espectro de seus direitos;  
+VI. Apoio às medidas sócio-afirmativas;  
+VII. Combate ao extermínio da juventude majoritariamente pobre e negra das periferias;  
+VIII. Defesa, ensino e reconhecimento das línguas minoritárias como co-oficiais em suas regiões.  
 
 ## 24. Pluralidade familiar e liberdade do afeto
 
@@ -612,14 +622,14 @@ Que cada pessoa tenha direito à livre auto-determinação de identidade sexual 
 
 Também pautamos:
 
-I. Reconhecimento do intergênero e do gênero neutro como opções válidas de identidade de gênero, reconhecidas juridicamente;
-II. Compromisso com os movimentos ALGBTI (Assexuais, Lésbicas, Gays, Bissexuais, Trans* e Intersexuais) no diálogo e na cooperação;
-III. O combate e a criminalização de todas formas de opressão direcionadas à sexualidade ou gênero, tanto em suas expressões físicas quanto verbais e morais;
-IV. A adoção de programas permanentes de conscientização da diversidade sexual e de gênero no ensino básico, assim como a adoção de políticas públicas nesse sentido;
-V. Adoção de programas sociais e educativos que favoreçam a permanência de jovens ALGBTI na escola até a conclusão do ensino básico e incentivem sua entrada no ensino superior;
-VI. A adoção de programas de facilitação da inserção e permanência no mercado de trabalho formal para as comunidades ALGBTI, e combate a todas as formas de discriminação no ambiente de trabalho;
-VII. A concessão de asilo político a pessoas perseguidas devido à sua orientação e/ou identidade sexual e de gênero, sem que tal direito seja condicionado à exigência de prova da identidade ou orientação sexual;
-VIII. Que orientação e identidade sexual e/ou de gênero destoantes do normatismo social majoritário não devam nunca ser classificadas como doença, perversão ou crime.
+I. Reconhecimento do intergênero e do gênero neutro como opções válidas de identidade de gênero, reconhecidas juridicamente;  
+II. Compromisso com os movimentos ALGBTI (Assexuais, Lésbicas, Gays, Bissexuais, Trans* e Intersexuais) no diálogo e na cooperação;  
+III. O combate e a criminalização de todas formas de opressão direcionadas à sexualidade ou gênero, tanto em suas expressões físicas quanto verbais e morais;  
+IV. A adoção de programas permanentes de conscientização da diversidade sexual e de gênero no ensino básico, assim como a adoção de políticas públicas nesse sentido;  
+V. Adoção de programas sociais e educativos que favoreçam a permanência de jovens ALGBTI na escola até a conclusão do ensino básico e incentivem sua entrada no ensino superior;  
+VI. A adoção de programas de facilitação da inserção e permanência no mercado de trabalho formal para as comunidades ALGBTI, e combate a todas as formas de discriminação no ambiente de trabalho;  
+VII. A concessão de asilo político a pessoas perseguidas devido à sua orientação e/ou identidade sexual e de gênero, sem que tal direito seja condicionado à exigência de prova da identidade ou orientação sexual;  
+VIII. Que orientação e identidade sexual e/ou de gênero destoantes do normatismo social majoritário não devam nunca ser classificadas como doença, perversão ou crime.  
 
 ## 26. Direito das mulheres
 
@@ -629,13 +639,13 @@ Reconhecemos o aborto como um direito individual e inalienável da mulher. Defen
 
 ### 26.2. Parto
 
-I. Parto humanizado: incentivar o protagonismo da mulher desde o pré-natal com preparação para o parto;
-II. Incentivar a implementação de casas de parto, para que se retire o monopólio do parto do ambiente hospitalar;
-III. Desmistificar e informar a população sobre gestação, parto, puerpério e amamentação;
-IV. Criação de políticas públicas para incentivar a assitencia do parto domiciliar pela saúde pública;
-V. Profissionalização da função de doula, bem como ter doulas disponíveis na saúde pública para todas as mulheres;
-VI. Criminalizar a violência obstétrica, tendo em vista sua invisibilidade, em todas as fases da gestação;
-VII. Incentivar a amamentação até os dois anos ou mais e desmistificar sua prática em público.
+I. Parto humanizado: incentivar o protagonismo da mulher desde o pré-natal com preparação para o parto;  
+II. Incentivar a implementação de casas de parto, para que se retire o monopólio do parto do ambiente hospitalar;  
+III. Desmistificar e informar a população sobre gestação, parto, puerpério e amamentação;  
+IV. Criação de políticas públicas para incentivar a assitencia do parto domiciliar pela saúde pública;  
+V. Profissionalização da função de doula, bem como ter doulas disponíveis na saúde pública para todas as mulheres;  
+VI. Criminalizar a violência obstétrica, tendo em vista sua invisibilidade, em todas as fases da gestação;  
+VII. Incentivar a amamentação até os dois anos ou mais e desmistificar sua prática em público.  
 
 ### 26.3. Prostituição
 
@@ -655,12 +665,12 @@ Sendo assim, defendemos o respeito em oposição à ideia de “cura” para dif
 
 Nós piratas atuamos em defesa de um Estado Laico e Secular que respeite e defenda o direito de crença e descrença. Sendo assim, nossas pautas são:
 
-I. Pela retirada de símbolos religiosos de órgãos públicos e respeito ao uso individual de indumentárias e acessórios religiosos e tradicionais, mesmo onde exista código de vestimenta;
-II. Contra o ensino religioso nas redes de ensino básico público. Admitimos esse tipo de ensino na educação privada desde que a escola defina oficialmente sua orientação religiosa e essas aulas de religião sejam necessariamente extracurriculares;
-III. Pela proibição de repasse de recursos públicos a organizações religiosas;
-IV. Fim de isenção tributária para entidades religiosas que não realizem prestação de contas necessariamente abertas e auditáveis pela sociedade civil organizada e que comprovadamente não estejam de acordo com sua finalidade social nos termos da legislação vigente;
-V. Pela tipificação dos crimes de intolerância de credo e não-credo (agressões físicas ou psíquicas motivadas por preconceito direcionado à crença ou não-crença), assegurado o direito inalienável à liberdade de expressão;
-VI. Pela criação de uma delegacia especial para crimes de intolerância de crença e não-crença além da criação de telefones de denúncia para crimes desse gênero.
+I. Pela retirada de símbolos religiosos de órgãos públicos e respeito ao uso individual de indumentárias e acessórios religiosos e tradicionais, mesmo onde exista código de vestimenta;  
+II. Contra o ensino religioso nas redes de ensino básico público. Admitimos esse tipo de ensino na educação privada desde que a escola defina oficialmente sua orientação religiosa e essas aulas de religião sejam necessariamente extracurriculares;  
+III. Pela proibição de repasse de recursos públicos a organizações religiosas;  
+IV. Fim de isenção tributária para entidades religiosas que não realizem prestação de contas necessariamente abertas e auditáveis pela sociedade civil organizada e que comprovadamente não estejam de acordo com sua finalidade social nos termos da legislação vigente;  
+V. Pela tipificação dos crimes de intolerância de credo e não-credo (agressões físicas ou psíquicas motivadas por preconceito direcionado à crença ou não-crença), assegurado o direito inalienável à liberdade de expressão;  
+VI. Pela criação de uma delegacia especial para crimes de intolerância de crença e não-crença além da criação de telefones de denúncia para crimes desse gênero.  
 
 ---
 
