@@ -1,0 +1,4 @@
+[[!meta title="pages tagged contatos"]]
+
+[[!inline pages="tagged(contatos)" actions="no" archive="yes"
+feedshow=10]]
