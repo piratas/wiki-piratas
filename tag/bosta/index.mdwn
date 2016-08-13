@@ -1,0 +1,4 @@
+[[!meta title="pages tagged bosta"]]
+
+[[!inline pages="tagged(bosta)" actions="no" archive="yes"
+feedshow=10]]
