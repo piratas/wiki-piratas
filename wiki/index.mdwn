@@ -50,7 +50,7 @@ Não existe meio oficial de comunicação não unilateral no [partido pirata][0]
 
 [[Mumble]]
 
-[[Telegram]]
+[[wiki/contato/Telegram]]
 
 [0]: http://partidopirata.org
 
