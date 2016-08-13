@@ -1,0 +1,4 @@
+[[!meta title="pages tagged merda"]]
+
+[[!inline pages="tagged(merda)" actions="no" archive="yes"
+feedshow=10]]
