@@ -1,0 +1,4 @@
+[[!meta title="pages tagged rede anti social"]]
+
+[[!inline pages="tagged(rede_anti_social)" actions="no" archive="yes"
+feedshow=10]]
