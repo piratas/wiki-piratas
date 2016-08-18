@@ -1,0 +1,78 @@
+**Logotipo, logomarca, etc.**
+
+Veja a descrição e convenções para produzir versões ou usar o logotipo no [[manual de identidade|manual]].
+
+[[!toc levels=6]]
+
+---
+
+# Simples
+
+![][1]
+
+* [Biblioteca][0]
+* [SVG][1]
+* [PNG][2]  
+
+---
+
+# Com legenda
+
+## Preta e roxa
+
+![][4]
+
+* [Biblioteca][3]
+* [SVG][4]
+* [PNG][5]
+
+## Preta
+
+![][7]
+
+* [Biblioteca][6]
+* [SVG][7]
+* [PNG][8]
+
+## Branca
+
+![][10]
+
+* [Biblioteca][9]
+* [SVG][10]
+* [PNG][11]
+
+## Somente legenda preta e roxa
+
+![][13]
+
+* [Biblioteca][12]
+* [SVG][13]
+* [PNG][14]
+
+[0]: https://biblioteca.partidopirata.org/u/pirata/m/logotipo-do-partido-pirata/
+[1]: https://biblioteca.partidopirata.org/mgoblin_media/media_entries/237/logo.svg
+[2]: https://biblioteca.partidopirata.org/mgoblin_media/media_entries/237/logo.preview.png
+[3]: https://biblioteca.partidopirata.org/u/pirata/m/logotipo-do-partido-pirata-com-legenda/
+[4]: https://biblioteca.partidopirata.org/mgoblin_media/media_entries/266/logo-piratas_legenda-s-roxo.svg
+[5]: https://biblioteca.partidopirata.org/mgoblin_media/media_entries/266/logo-piratas_legenda-s-roxo.preview.png
+[6]: https://biblioteca.partidopirata.org/u/pirata/m/logotipo-do-partido-pirata-com-legenda/
+[7]: https://biblioteca.partidopirata.org/mgoblin_media/media_entries/265/logo-piratas_legenda-s.svg
+[8]: https://biblioteca.partidopirata.org/mgoblin_media/media_entries/265/logo-piratas_legenda-s.preview.png
+[9]: http://2.bp.blogspot.com/-9-iPN_tBgoQ/TiwND5AFBZI/AAAAAAAACvQ/P26Xc11C7co/s1600/pegadinha_do_malandro.jpg
+[10]: http://2.bp.blogspot.com/-9-iPN_tBgoQ/TiwND5AFBZI/AAAAAAAACvQ/P26Xc11C7co/s1600/pegadinha_do_malandro.jpg
+[11]: http://2.bp.blogspot.com/-9-iPN_tBgoQ/TiwND5AFBZI/AAAAAAAACvQ/P26Xc11C7co/s1600/pegadinha_do_malandro.jpg
+[12]: https://biblioteca.partidopirata.org/u/pirata/m/logotipo-do-partido-pirata-somente-legenda-roxo/
+[13]: https://biblioteca.partidopirata.org/mgoblin_media/media_entries/267/logo-piratas_legenda-somente.svg
+[14]: https://biblioteca.partidopirata.org/mgoblin_media/media_entries/267/logo-piratas_legenda-somente.preview.png
+
+---
+
+# Temática
+
+## LGBT
+
+Coleção LGBT na Biblioteca Pirata: <https://biblioteca.partidopirata.org/u/pirata/collection/lgbt/>
+
+[[!meta title="Logotipo"]]
+[[!tag logo logotipo logomarca "identidade visual" marca símbolo]]
