@@ -8,11 +8,11 @@ Veja a descrição e convenções para produzir versões ou usar o logotipo no [
 
 # Simples
 
-![][1]
+![][0]
 
-* [Biblioteca][0]
-* [SVG][1]
-* [PNG][2]  
+* [Biblioteca][a]
+* [SVG][b]
+* [PNG][c]  
 
 ---
 
@@ -20,51 +20,57 @@ Veja a descrição e convenções para produzir versões ou usar o logotipo no [
 
 ## Preta e roxa
 
-![][4]
+![][1]
 
-* [Biblioteca][3]
-* [SVG][4]
-* [PNG][5]
+* [Biblioteca][d]
+* [SVG][e]
+* [PNG][f]
 
 ## Preta
 
-![][7]
+![][2]
 
-* [Biblioteca][6]
-* [SVG][7]
-* [PNG][8]
+* [Biblioteca][g]
+* [SVG][h]
+* [PNG][i]
 
 ## Branca
 
-![][10]
+![][3]
 
-* [Biblioteca][9]
-* [SVG][10]
-* [PNG][11]
+* [Biblioteca][j]
+* [SVG][k]
+* [PNG][l]
 
 ## Somente legenda preta e roxa
 
-![][13]
+![][4]
 
-* [Biblioteca][12]
-* [SVG][13]
-* [PNG][14]
+* [Biblioteca][m]
+* [SVG][n]
+* [PNG][o]
 
-[0]: https://biblioteca.partidopirata.org/u/pirata/m/logotipo-do-partido-pirata/
-[1]: https://biblioteca.partidopirata.org/mgoblin_media/media_entries/237/logo.svg
-[2]: https://biblioteca.partidopirata.org/mgoblin_media/media_entries/237/logo.preview.png
-[3]: https://biblioteca.partidopirata.org/u/pirata/m/logotipo-do-partido-pirata-com-legenda/
-[4]: https://biblioteca.partidopirata.org/mgoblin_media/media_entries/266/logo-piratas_legenda-s-roxo.svg
-[5]: https://biblioteca.partidopirata.org/mgoblin_media/media_entries/266/logo-piratas_legenda-s-roxo.preview.png
-[6]: https://biblioteca.partidopirata.org/u/pirata/m/logotipo-do-partido-pirata-com-legenda/
-[7]: https://biblioteca.partidopirata.org/mgoblin_media/media_entries/265/logo-piratas_legenda-s.svg
-[8]: https://biblioteca.partidopirata.org/mgoblin_media/media_entries/265/logo-piratas_legenda-s.preview.png
-[9]: http://2.bp.blogspot.com/-9-iPN_tBgoQ/TiwND5AFBZI/AAAAAAAACvQ/P26Xc11C7co/s1600/pegadinha_do_malandro.jpg
-[10]: http://2.bp.blogspot.com/-9-iPN_tBgoQ/TiwND5AFBZI/AAAAAAAACvQ/P26Xc11C7co/s1600/pegadinha_do_malandro.jpg
-[11]: http://2.bp.blogspot.com/-9-iPN_tBgoQ/TiwND5AFBZI/AAAAAAAACvQ/P26Xc11C7co/s1600/pegadinha_do_malandro.jpg
-[12]: https://biblioteca.partidopirata.org/u/pirata/m/logotipo-do-partido-pirata-somente-legenda-roxo/
-[13]: https://biblioteca.partidopirata.org/mgoblin_media/media_entries/267/logo-piratas_legenda-somente.svg
-[14]: https://biblioteca.partidopirata.org/mgoblin_media/media_entries/267/logo-piratas_legenda-somente.preview.png
+[0]: https://biblioteca.partidopirata.org/mgoblin_media/media_entries/237/logo.svg
+[1]: https://biblioteca.partidopirata.org/mgoblin_media/media_entries/266/logo-piratas_legenda-s-roxo.svg
+[2]: https://biblioteca.partidopirata.org/mgoblin_media/media_entries/265/logo-piratas_legenda-s.svg
+[3]: http://2.bp.blogspot.com/-9-iPN_tBgoQ/TiwND5AFBZI/AAAAAAAACvQ/P26Xc11C7co/s1600/pegadinha_do_malandro.jpg
+[4]: https://biblioteca.partidopirata.org/mgoblin_media/media_entries/267/logo-piratas_legenda-somente.svg
+
+[a]: https://biblioteca.partidopirata.org/u/pirata/m/logotipo-do-partido-pirata/
+[b]: https://biblioteca.partidopirata.org/mgoblin_media/media_entries/237/logo.svg
+[c]: https://biblioteca.partidopirata.org/mgoblin_media/media_entries/237/logo.preview.png
+[d]: https://biblioteca.partidopirata.org/u/pirata/m/logotipo-do-partido-pirata-com-legenda/
+[e]: https://biblioteca.partidopirata.org/mgoblin_media/media_entries/266/logo-piratas_legenda-s-roxo.svg
+[f]: https://biblioteca.partidopirata.org/mgoblin_media/media_entries/266/logo-piratas_legenda-s-roxo.preview.png
+[g]: https://biblioteca.partidopirata.org/u/pirata/m/logotipo-do-partido-pirata-com-legenda/
+[h]: https://biblioteca.partidopirata.org/mgoblin_media/media_entries/265/logo-piratas_legenda-s.svg
+[i]: https://biblioteca.partidopirata.org/mgoblin_media/media_entries/265/logo-piratas_legenda-s.preview.png
+[j]: http://2.bp.blogspot.com/-9-iPN_tBgoQ/TiwND5AFBZI/AAAAAAAACvQ/P26Xc11C7co/s1600/pegadinha_do_malandro.jpg
+[k]: http://2.bp.blogspot.com/-9-iPN_tBgoQ/TiwND5AFBZI/AAAAAAAACvQ/P26Xc11C7co/s1600/pegadinha_do_malandro.jpg
+[l]: http://2.bp.blogspot.com/-9-iPN_tBgoQ/TiwND5AFBZI/AAAAAAAACvQ/P26Xc11C7co/s1600/pegadinha_do_malandro.jpg
+[m]: https://biblioteca.partidopirata.org/u/pirata/m/logotipo-do-partido-pirata-somente-legenda-roxo/
+[n]: https://biblioteca.partidopirata.org/mgoblin_media/media_entries/267/logo-piratas_legenda-somente.svg
+[o]: https://biblioteca.partidopirata.org/mgoblin_media/media_entries/267/logo-piratas_legenda-somente.preview.png
 
 ---
 
