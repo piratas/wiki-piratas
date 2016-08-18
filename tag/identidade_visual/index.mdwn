@@ -1,0 +1,4 @@
+[[!meta title="pages tagged identidade visual"]]
+
+[[!inline pages="tagged(identidade_visual)" actions="no" archive="yes"
+feedshow=10]]
