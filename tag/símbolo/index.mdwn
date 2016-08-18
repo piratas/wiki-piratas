@@ -1,0 +1,4 @@
+[[!meta title="pages tagged símbolo"]]
+
+[[!inline pages="tagged(símbolo)" actions="no" archive="yes"
+feedshow=10]]
