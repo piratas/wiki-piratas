@@ -1,0 +1,4 @@
+[[!meta title="pages tagged logomarca"]]
+
+[[!inline pages="tagged(logomarca)" actions="no" archive="yes"
+feedshow=10]]
