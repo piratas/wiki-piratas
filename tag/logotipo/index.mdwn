@@ -1,0 +1,4 @@
+[[!meta title="pages tagged logotipo"]]
+
+[[!inline pages="tagged(logotipo)" actions="no" archive="yes"
+feedshow=10]]
