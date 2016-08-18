@@ -1,8 +1,36 @@
-# Manual de Identidade
+**Manual de Identidade**
 
-## Cores
+[[!toc levels=6]]
+
+---
+
+# Cores
 
 O roxo utilizado nos símbolos e artes do partido é a cor de código hexadecimal `#522E91`.
+
+---
+
+# Logotipo
+
+## Descrição
+
+### Convenções fornecidas pelo GTC
+
+#### Letras
+
+"partido" utiliza o css *regular* da fonte, e "pirata" utiliza a versão mais *bold* possível.
+No caso da *Source Hans Sans TW* utilizada [nesta implementação](https://biblioteca.partidopirata.org/u/pirata/m/logotipo-do-partido-pirata/), o mais *bold* possível seria *heavy*.  
+Código hexadecimal RGB para roxo: **#522e91ff**
+
+#### Borda
+
+Segundo o [[autor original|mtoledo]]:
+
+> a vibe da borda é que ela protege a legibilidade da logo em qualquer fundo
+
+## Implementações
+
+Veja a página [[logo]].
 
 [[!meta title="Manual de Identidade"]]
 [[!tag gtc manual pendente todo]]
