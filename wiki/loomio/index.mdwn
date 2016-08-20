@@ -223,20 +223,20 @@ Relação de grupos e tópicos apagados e/ou movidos:
 ##### <del>[Força Tarefa Comunicação Pirata](https://web.archive.org/web/20160720214705/https://www.loomio.org/g/x3zvlqog/espa-o-pirata-for-a-tarefa-comunica-o-pirata)</del>
 `Força tarefa do Partido Pirata para unir esforços em prol da comunicação.`  
   
-`**NÃO É OBRIGATÓRIO SER FILIADO PARA ENTRAR!**`  
+**`NÃO É OBRIGATÓRIO SER FILIADO PARA ENTRAR!`**  
 
-##### `[GT filiações](https://web.archive.org/web/20160720215537/https://www.loomio.org/g/gPDhJESH/espa-o-pirata-gt-filia-es)`
+##### <del>[GT filiações](https://web.archive.org/web/20160720215537/https://www.loomio.org/g/gPDhJESH/espa-o-pirata-gt-filia-es)</del>
 `Sugestão de Grupo de Trabalho para:`
 
-`* agilizar filiações atrasadas`  
-`* agilizar liberações de loomio oficial atrasadas`  
-`* corrigir acessos indevidos ao loomio citado,  como por exemplo de perfis fakes e desfiliados`  
-`* corrigir listagem de filiados`  
-`* corrigir listagem de emails de filiados`  
+* `agilizar filiações atrasadas`  
+* `agilizar liberações de loomio oficial atrasadas`  
+* `corrigir acessos indevidos ao loomio citado,  como por exemplo de perfis fakes e desfiliados`  
+* `corrigir listagem de filiados`  
+* `corrigir listagem de emails de filiados`  
 
 `Etc....`  
 
-##### `[Outros assuntos](https://web.archive.org/save/https://www.loomio.org/g/AjiFlPax/piratas-ga-chos-outros-assuntos)`
+##### <del>[Outros assuntos](https://web.archive.org/save/https://www.loomio.org/g/AjiFlPax/piratas-ga-chos-outros-assuntos)</del>
 
 #### Tópicos movidos
 
