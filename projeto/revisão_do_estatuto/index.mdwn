@@ -1,0 +1,81 @@
+A ideia original deste projeto era lançar um tópico de revisão e discussão de cada parte do [[wiki/documentos/estatuto]], para evitar que o estatuto inteiro não fosse discutido todo ao mesmo tempo e em um prazo curto.
+
+Segundo o [[autor original|juliano]]:
+
+> Piratas. Considerando que "estudar" um estatuto não é lá uma coisa muito "empolgante" e simples, a idéia é "fazer por partes". No caso por capítulos ( e aqui vai o capítulo 1). O GTJ está iniciando uma primeira "olhada" no estatuto objetivando ter uma primeira impressão. Em paralelo, está sendo aberto este tópico para que o conjunto dos piratas possa também colaborar. Ao final, o GTJ pretende apresentar uma "conclusão" desta primeira impressão para avaliação.
+vamos lá;
+
+Para garantir que pessoas não associadas ao partido pudessem também opinar, foram criados concomitantemente tópicos nos grupos exclusivos para pessoas associadas e também no [grupo aberto][a].
+
+Demais propostas são recebidas através de tópicos nos sub grupos do loomio [Reforma do Estatuto](https://www.loomio.org/g/YhXHftDs/partido-pirata-no-brasil-pirate-party-in-brazil-reforma-do-estatuto), [II ANAPIRATA](https://www.loomio.org/g/ynTZrd28/partido-pirata-no-brasil-pirate-party-in-brazil-ii-anapirata), e no [grupo geral][a].
+
+[[!toc levels=6]]
+
+---
+
+# Lista de tópicos
+
+## Capítulo I
+
+### Exclusivo
+
+* <https://www.loomio.org/d/Mpl13VLx/estatuto-cap-tulo-1>
+
+### Aberto
+
+* <https://www.loomio.org/d/7yJeqHSf/capitulo-1-do-estatuto-programas-de-redistribui-o-de-renda-e-outras-tomadas-de-a-o-contra-desigualdade-social>
+
+## Capítulo II
+
+### Exclusivo
+
+* <https://www.loomio.org/d/U0oNKEnQ/cap-tulo-2-do-estatuto>
+
+### Aberto
+
+* <https://www.loomio.org/d/wAW7xo1Q/capitulo-2-do-estatuto-para-simpatizantes>
+
+## Capítulo III
+
+### Exclusivo
+
+* <https://www.loomio.org/d/jxs0GfNJ/cap-tulo-3-do-estatuto>
+
+### Aberto
+
+* <https://www.loomio.org/d/ZceHh3Mi/cap-tulo-3-do-estatuto-para-simpatizantes->
+
+## Capítulo IV
+
+### Exclusivo
+
+* <https://www.loomio.org/d/u8ogUiRm/cap-tulo-4-do-estatuto>
+
+### Aberto
+
+* <https://www.loomio.org/d/WNJAlYQy/cap-tulo-4-do-estatuto-para-simpatizantes->
+
+## Capítulo V
+
+### Exclusivo
+
+* <https://www.loomio.org/d/NQUAYhFT/cap-tulo-5-do-estatuto>
+
+### Aberto
+
+* <https://www.loomio.org/d/aw51KHmi/cap-tulo-5-do-estatuto-para-simpatizantes->
+
+## Capítulos VI e VII
+
+### Exclusivo
+
+* <https://www.loomio.org/d/UGtXh8ZJ/cap-tulo-6-e-7-do-estatuto>
+
+### Aberto
+
+* <https://www.loomio.org/d/5oxVF81D/cap-tulo-6-e-7-do-estatuto-para-simpatizantes->
+
+[a]: https://www.loomio.org/g/Hmpbu4Tr/partido-pirata-no-brasil-pirate-party-in-brazil
+
+[[!meta title="Revisão do Estatuto"]]
+[[!tag "assembleia nacional" anapirata estatuto]]
