@@ -1,0 +1,4 @@
+[[!meta title="pages tagged estatuto"]]
+
+[[!inline pages="tagged(estatuto)" actions="no" archive="yes"
+feedshow=10]]
