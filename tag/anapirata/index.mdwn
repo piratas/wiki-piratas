@@ -1,0 +1,4 @@
+[[!meta title="pages tagged anapirata"]]
+
+[[!inline pages="tagged(anapirata)" actions="no" archive="yes"
+feedshow=10]]
