@@ -73,6 +73,18 @@ Pra quem quer ler mais sobre isto, sugiro os seguintes links (tem informação �
 * <https://github.com/dsx-tech>
 * <https://www.blockchain-voting.org/>
 * <https://github.com/luzi41/blockchain-voting-system>
+* <https://nxt.org/what-is-nxt/voting/>
+
+Mais links:
+
+* <https://www.reddit.com/r/Bitcoin/comments/1wf7hd/votechain_bitcoins_blockchain_based_voting_system/>
+* <https://www.reddit.com/r/crypto/comments/r003r/are_others_interested_in_cryptographybased_voting/c42lo83>
+* <https://followmyvote.com/online-voting-technology/blockchain-technology/>
+* <https://followmyvote.com/blockchain-voting-the-end-to-end-process/>
+* <http://www.coindesk.com/nasdaq-shareholder-voting-estonia-blockchain/>
+* <https://bitcoininc.xyz/BitCongress_Whitepaper.pdf>
+* <https://cointelegraph.com/news/russia-tests-blockchain-voting-plans-to-launch-it-in-2017>
+* <http://www.investopedia.com/news/blockchain-company-creating-tamperproof-voting-system/>
 
 ---
 
