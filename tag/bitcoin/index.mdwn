@@ -1,0 +1,4 @@
+[[!meta title="pages tagged bitcoin"]]
+
+[[!inline pages="tagged(bitcoin)" actions="no" archive="yes"
+feedshow=10]]
