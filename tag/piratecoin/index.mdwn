@@ -1,0 +1,4 @@
+[[!meta title="pages tagged piratecoin"]]
+
+[[!inline pages="tagged(piratecoin)" actions="no" archive="yes"
+feedshow=10]]
