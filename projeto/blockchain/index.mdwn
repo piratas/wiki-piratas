@@ -1,0 +1,97 @@
+**Blockchain Pirata**
+
+[[!toc levels=6]]
+
+---
+
+Uma blockchain única para o Partido tem as seguintes vantagens (lista preliminar):
+
+# Descentralização e distribuição
+
+Hoje a coisa mais distribuída possível que temos é uma [wiki](https://wiki.partidopirata.org) que usa um bando de dados em git e é salva em [repositórios remotos](https://github.com/piratas/wiki-piratas).
+
+No passado, já perdemos sites e iniciativas porque ficaram perdidas em servidores ou em backups de pessoas que saíram do partido ou perderam os dados.
+
+Então com uma blockchain, provavelmente todos sites e serviços do partido **continuariam** na mão de poucas pessoas, que seriam as que colocam as coisas no ar normalmente. Contudo, qualquer pessoa, sendo ou não do partido, de qualquer lugar no mundo, pode replicar e manter atualizada a blockchain inteira. Na prática, basta que algumas pessoas façam isto pra ser possível que todos serviços voltem ao ar rapidamente, independentemente das circunstâncias.
+
+É muito mais resiliente uma blockchain do que manter backups de bancos de dados manualmente. Git é um passo nisto, blockchain é um salto.
+
+---
+
+# Disponibilidade de informação
+
+Tudo que é informação que deveria ser documentada, como por exemplo o conteúdo do estatuto e dos documentos oficiais do partido, as listas de associadas(os) e desassociadas(os), os e-mails de contato, os nomes das pessoas com cargos, entre outras coisas, podem ser tranquilamente armazenadas em blocos, e quando a informação precisar ser atualizada, um novo bloco é escrito, revogando o anterior.
+
+Há experiências de mundo real utilizando [smart contracts](http://chromaway.com/papers/A-blockchain-based-property-registry.pdf) para este fim.
+
+---
+
+# Armazenamento de arquivos
+
+Outra aplicação semelhante à supracitada é o armazenamento de arquivos.
+
+Para além de [brincadeiras e mensagens subliminares](http://www.righto.com/2014/02/ascii-bernanke-wikileaks-photographs.html), ou [utilizar a própria blockchain da bitcoin para gravar a soma sha256 de arquivos](https://proofofexistence.com/), há projetos que efetivamente utilizam blockchains como soluções para armazenamento "em nuvem" - sendo que este é o termo corporativo pós moderno, hoje já obsoleto, para o que a google faz.
+
+Projetos corporativos do terceiro setor já usam este tipo de tecnologia pra reinventar a proteção de copyright e monetização de conteúdo. Como exemplo cito o microsoft azure e os projetos [SiaCoin](http://sia.tech/) e [Storj](https://storj.io/).
+
+Os arquivos ficam armazenados de forma efetivamente distribuída, e elimina a necessidade de usar dropbox ou qualquer ideia imbecil parecida. Cito como exemplo mais promissor o projeto do pessoal do IPFS: [FileCoin](http://filecoin.io/).
+
+Pra quem fizer a pergunta óbvia: *"como assim? meus arquivos vão se tornar públicos na blockchain para sempre?"* - Já ouviu falar em criptografia, Pedro Bó?
+
+---
+
+# Registros
+
+Similarmente, é possível armazenar chaves públicas GPG ou SSH, identidades e identificações de associadas(os) e filiadas(os) do partido, registros DNS alternativos, DHT, links magnéticos, etc.
+
+Se é possível armazenar arquivos com base64, por exemplo, qualquer coisa que pode ser reduzida a zero e um é possível, sendo a criatividade e a imaginação os limites.
+
+---
+
+# Comunicação, interação e dinâmica de troca de informações
+
+É possível fazer foruns, ferramentas de debate, redes sociais, e até subsídio para mensagens instantâneas seguras e privadas.
+
+Os exemplos mais exemplares deste tipo de aplicação são o [Steemit](https://steemit.com/) e o [Synereo](https://www.synereo.com/).
+
+Isto resolveria a necessidade de se ter uma rede social, um sistema de deliberação, um forum, enfim, todo tipo de necessidade de comunicação interna para o Partido. Além disto, resolveria problemas com custos e manutenção de servidores. Imagine redes sociais, talvez uma internet alternativa inteira, que fica no computador de todo mundo. Isto já é realidade hoje, e poderíamos utilizar.
+
+---
+
+# Votação e democracia direta
+
+O maior medo de qualquer déspota, oligopólio, plutocracia e illuminatis em atividade é a capacidade de usar a internet para votação e engajamento político, em detrimento da realidade atual que são as massas plugadas na matrix assistindo gifs de gatos o dia inteiro.
+
+Em conjunto com sistemas semelhantes a foruns, é possível criar uma alternativa ao loomio totalmente distribuída e que garante a identidade de cada voto, de forma totalmente pública e transparente.
+
+Pra quem quer ler mais sobre isto, sugiro os seguintes links (tem informação útil e tem encheção de linguiça nestes links, filtra por ti mesma(o), eu já filtrei o máximo possível):
+
+* [e-Vox](http://e-vox.org/BLOCKCHAINE-VOXMEMORANDUM.pdf)
+* <http://www.diplomacy.edu/blog/blockchain-and-future-governance>
+* <https://followmyvote.com/online-voting-technology/blockchain-technology/>
+* <https://www.nsd.ru/en/press/ndcnews/index.php?id36=628973>
+* <https://github.com/dsx-tech>
+* <https://www.blockchain-voting.org/>
+* <https://github.com/luzi41/blockchain-voting-system>
+
+---
+
+# Dinheiro
+
+A coisa mais óbvia pra todo mundo é que uma blockchain serve como dinheiro. É isso a coisa principal que a Bitcoin faz.
+
+E isto dialoga com todas as atividades supracitadas. Porque a ideia de ser recompensada(o) para armazenar arquivos, informações, documentos, facilitar a distribuição de serviços, chaves, registros, facilita com que as informações sejam redundantes em mais lugares.
+
+Isto também incentiva e motiva as pessoas a tentarem aprender e se enturmarem no processo.
+
+Provavelmente uma criptomoeda pirata poderia ter *proof of work*, *proof of stake*, e incorporar todas as melhorias relacionadas ao aspecto de dinheiro propriamente dito que já foram feitas em outras criptomoedas.
+
+---
+
+# Referências
+
+* <https://github.com/piratas/gti/issues/34>
+* <https://www.loomio.org/d/JXvbuox1/blockchain-pirata-ou-criptomoeda-pirata->
+
+[[!meta title="Blockchain Pirata"]]
+[[!tag piratecoin piratacoin bitcoin blockchain criptomoeda]]
