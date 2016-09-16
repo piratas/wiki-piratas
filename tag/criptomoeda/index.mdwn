@@ -1,0 +1,4 @@
+[[!meta title="pages tagged criptomoeda"]]
+
+[[!inline pages="tagged(criptomoeda)" actions="no" archive="yes"
+feedshow=10]]
