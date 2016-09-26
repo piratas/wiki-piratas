@@ -16,9 +16,13 @@ Servidor dedicado [KS-2A](http://www.kimsufi.com/pt/servidores.xml) providenciad
 
 Basicamente tudo o que estiver redirecionando para **entwickler.partidopirata.org** e **piratas.iikb.org** está neste servidor.
 
+### Administração
+
+Servidor atualmente administrado pelo [[felipe]] e pelo [[desci]].
+
 ### Financiamento
 
-Este servidor foi financiado individualmente pelo [[felipe]] ao Partido até outubro de 2016.
+Este servidor foi financiado individualmente pelo tesoureiro [[felipe]] ao Partido até outubro de 2016.
 
 ### Endereços IPs públicos
 
@@ -77,6 +81,24 @@ Disponível em:
 
 *`TODO`: Atualizar serviços com web2py*
 
+#### Perl
+
+##### Ikiwiki
+
+Este site!
+
+* <https://wiki.partidopirata.org>
+
+#### Outros
+
+##### naofo.de
+
+Disponível em:
+
+* <http://nao.usem.xyz>
+* <http://naofode.xyz>
+* <http://nfde.xyz>
+
 #### Hospedagem
 
 ##### Sites do Partido Pirata oficiais
@@ -86,6 +108,7 @@ Disponível em:
 * gti.partidopirata.org
 * iuf.partidopirata.org
 * mumble.partidopirata.org
+* wiki.partidopirata.org
 
 ##### Sites do Partido Pirata não oficiais
 
@@ -108,14 +131,17 @@ Disponível em:
 
 #### Backup
 
-Atualmente armazenando temporariamente os backups dos servidores suecos para análise e migração.
-
+Atualmente armazenando temporariamente os backups dos servidores suecos para análise e migração, inclusive o noosfero (antiga social pirata).
 
 ---
 
 ## bastidores.org
 
-Dois servidores na europa (islandia.bastidores.org e suecia.bastidores.org) disponibilizados pelo [[mtoledo]].
+Servidores da Hostgator nos Estados Unidos (islandia.bastidores.org e suecia.bastidores.org) disponibilizados pelo [[mtoledo]].
+
+### Administração
+
+O servidor é administrado pela Hostgator e pelo [[mtoledo]].
 
 ### Financiamento
 
@@ -123,7 +149,10 @@ Dois servidores na europa (islandia.bastidores.org e suecia.bastidores.org) disp
 
 ### Endereços IPs públicos
 
-`TODO`: adicionar informações de rede
+#### IPv4
+
+    108.179.253.235
+    108.179.253.238
 
 ### Serviços
 
@@ -143,9 +172,13 @@ II ANAPIRATA
 
 * <http://internetlivre.cc>
 
-#### Backup
+##### Site do coletivo paulista
 
-Backup do site do Partido - **partidopirata.org**
+* <http://saopaulo.partidopirata.org>
+
+##### Site do Partido
+
+* <http://partidopirata.org>
 
 ---
 
