@@ -39,11 +39,11 @@ Contas anônimas e sem rastreamento são uma dádiva sagrada, se fizerem mau uso
 
 ## Não estou conseguindo criar páginas!
 
-A wiki está com um problema que o [plugin 404](https://ikiwiki.info/plugin/404) não está funcionando, e consequentemente atualmente não é possível criar páginas de forma convencional (digitando o endereço no URL do navegador).
+<del>A wiki está com um problema que o [plugin 404](https://ikiwiki.info/plugin/404) não está funcionando, e consequentemente atualmente não é possível criar páginas de forma convencional (digitando o endereço no URL do navegador). Quem quiser ajduar a consertar isto se [integre no gti](https://github.com/piratas/gti/issues/29).</del>
 
-Quem quiser ajduar a consertar isto se [integre no gti](https://github.com/piratas/gti/issues/29).
+Este problema foi resolvido, agora é possível criar páginas da forma tradicional, como na wikipedia. Quando uma página inexistente é acessada digitando o endereço na barra do navegador, um link aparecerá para criar a página.
 
-Para criar páginas atualmente existem duas formas:
+Para criar páginas atualmente existem três formas:
 
 #### Wikilink
 
@@ -55,6 +55,9 @@ A sintaxe do CGI é a seguinte: `https://wiki.partidopirata.org/ikiwiki.cgi?do=c
 
 O importante é o parâmetro `do` ter o argumento `create` e é necessário ter um parâmetro `page` com o caminho da página nova como argumento.
 
+#### Digitando URL inexistente
+
+Ao tentar acessar uma página inexistente, um erro 404 será gerado, e um link aparecerá com um sinal de interrogação `?` para criar a nova página.
 
 ## Não estou conseguindo enviar imagens e arquivos!
 
