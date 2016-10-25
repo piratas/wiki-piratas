@@ -1,0 +1,4 @@
+[[!meta title="pages tagged comissão julgadora"]]
+
+[[!inline pages="tagged(comissão_julgadora)" actions="no" archive="yes"
+feedshow=10]]
