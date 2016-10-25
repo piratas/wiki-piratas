@@ -1,12 +1,65 @@
-# Gestão de Crises
+**Gestão de Crises**
 
-## Fundamentos
+[[!toc levels=6]]
+
+---
+
+# Contato
+
+    gestaodecrises@partidopirata.org
+
+# Estatuto
+
+Onde é citada a gestão de crises e a comissão julgadora no [[estatuto]]:
+
+* Art. 28, caput, §s 1° e 2°
+* Art. 29, § 4°
+* Art. 31, caput, § 3°
+* Art. 33, §s 1° e 3°
+* Art. 34, caput, § 3°
+* Art. 35, caput, inciso II, §s 1° a 4°
+* Art. 47, inciso IV, inciso III do parágrafo único
+* Art. 48, inciso VII
+* Art. 49, inciso V
+* Art. 51, inciso VII
+* Art. 52, inciso V
+* Art. 84, inciso V
+
+## Definição
+
+Artigo 51 do estatuto:
+
+> Art. 51  
+> 
+> A Gestão de Crises e sua suplência, também conhecidos como Ombudsman/Ombudskvinna ou órgão julgador, serão eleitas na mesma Assembleia Nacional que eleger a Secretaria-Geral, tendo as seguintes funções:  
+> 
+> I – Instaurar, monitorar e fiscalizar a condução de procedimentos disciplinares, nos termos deste Estatuto;  
+> II – Estipular, cumprir e fazer cumprir os prazos para a abertura e conclusão de procedimentos disciplinares;  
+> III – Instaurar e conduzir procedimentos de mediação e arbitragem de conflitos internos em todas as instâncias e níveis da estrutura partidária, de acordo com princípios e regras legais e estatutárias aplicáveis.  
+> IV – Apresentar, nos meios oficiais de consulta do Partido, relatórios periódicos sobre sua atuação na mediação e gestão de conflitos e sobre o andamento das soluções adotadas;  
+> V – Buscar junto aos Grupos de Trabalho do Partido e outras instâncias consultivas a assessoria técnica que julgar necessária para realizar suas incumbências;  
+> VI – Arbitrar soluções para situações de crise que não envolvam ilícitos, ilegalidades ou violações estatutárias, desde que a mesma não viole princípios estatutários;  
+> VII – Atuar como custos legis em Comissão Julgadora, oferecendo denúncia contra infratores das normas estatutárias e elaborando pareceres detalhados referentes à conduta das pessoas denunciadas.  
+> VIII – Decidir sobre a instauração de novo procedimento a partir da consideração de fatos novos desconhecidos no curso de procedimento disciplinar já transitado em julgado;  
+> IX – Auxiliar a Coordenação Nacional no exercício de sua atribuição deliberativa sobre os casos omissos deste Estatuto.  
+> 
+> Parágrafo Único  
+> 
+> A Segunda Gestão de Crises atuará como suplente da Primeira Gestão de Crises, em caso de sua impossibilidade de atuar ou vacância do cargo, e poderá haver alternância entre os incumbentes a partir da metade do mandato.  
+
+---
+
+# História
+
+`TODO`: Documentar aqui a história da gestão de crises e da comissão julgadora antes de 2016
+
+## Reestruturação 2016
+
+### Fundamentos
 
 Os fundamentos para Gestão de Crises estão em discussão no tópico do loomio [fundamentos da gestão de crises](https://www.loomio.org/d/DKkB4AOi/fundamentos-da-gestao-de-crises).  
 Segundo o [[principal autor|galdino]] do documento:  
 > o texto foi escrito com o único propósito de ser "oficialmente" incorporado pelo partido e usado como documento-base para as futuras gestões de crises
-
-## Reestruturação 2016
 
 ### Proposta de eleição tampão
 
@@ -29,4 +82,4 @@ A coordenação nacional se manifestou através de uma [votação no loomio](htt
 Um [pad](https://public.etherpad-mozilla.org/p/gestao_de_crise_tampao) foi criado para instrumentalizar e sistematizar o funcionamento da Gestão de Crises Tampão.
 
 [[!meta title="Gestão de Crises"]]
-[[!tag gc "gestão de crises" crise crises]]
+[[!tag gc "gestão de crises" crise crises "comissão julgadora"]]
