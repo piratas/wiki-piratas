@@ -10,7 +10,7 @@
 
 # Estatuto
 
-Onde é citada a gestão de crises e a comissão julgadora no [[estatuto]]:
+Onde é citada a gestão de crises e a comissão julgadora no [[estatuto|wiki/documentos/estatuto]]:
 
 * Art. 28, caput, §s 1° e 2°
 * Art. 29, § 4°
@@ -79,7 +79,9 @@ A coordenação nacional se manifestou através de uma [votação no loomio](htt
 
 ### Construção coletiva
 
-Um [pad](https://public.etherpad-mozilla.org/p/gestao_de_crise_tampao) foi criado para instrumentalizar e sistematizar o funcionamento da Gestão de Crises Tampão.
+Um [pad](https://public.etherpad-mozilla.org/p/gestao_de_crise_tampao) foi criado para instrumentalizar e sistematizar o funcionamento da Gestão de Crises Tampão.  
+
+A Gestão de Crises Tampão segue se organizando em reuniões no [[mumble]].
 
 [[!meta title="Gestão de Crises"]]
 [[!tag gc "gestão de crises" crise crises "comissão julgadora"]]
