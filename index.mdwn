@@ -1,8 +1,6 @@
 Este espaço serve de apoio ao [PIRATAS - partido pirata no brasil][0].
 
-A wiki está em processo de reconstrução. Quem tiver backups, material, vontade de ajudar, por favor encaminhe ao [GTI][1].
-
----
+A [[wiki]] está em processo de reconstrução. Quem tiver backups, material, vontade de ajudar, por favor encaminhe ao [GTI][1].
 
 Este site está disponível em:
 
@@ -10,6 +8,24 @@ Este site está disponível em:
 * <https://partidopirata.xyz>
 * <https://piratas.xyz>
 * <https://pirata.xyz>
+
+---
+
+# [[Projetos]]
+
+[[Todos projetos / adicionar novo|projetos]]  
+
+[[!map pages="projeto/*"]]
+
+# [[Tutoriais]]
+
+[[Todos tutoriais / adicionar novo|tutoriais]]
+
+[[!map pages="tutorial/*"]]
+
+# Toda a [[wiki]]
+
+[[!map pages="wiki/* and !*/discussão" show=title]]
 
 ---
 
@@ -22,43 +38,35 @@ O código fonte deste site é atualizado automaticamente a cada *commit* via *cr
 * <https://gitlab.com/piratas/wiki-piratas>
 * <https://github.com/piratas/wiki-piratas>
 
----
-
-# Mapas
-
-## Projetos
-
-[[!map pages="projeto/*"]]
-
-## Tutoriais
-
-[[!map pages="tutorial/*"]]
-
-## Toda a wiki
-
-[[!map pages="wiki/* and !*/discussão" show=title]]
-
 [0]: http://partidopirata.org
 [1]: https://gti.partidopirata.org
 
 [[!sidebar content="""
 
-**Atalhos**
+**Atalhos**  
 
 [[Como editar esta wiki|tutorial/editar a wiki]]  
 [[Documentos do Partido|wiki/Documentos]]  
 [[Infraestrutura de TI do Partido|wiki/infra]]  
 
-**Ferramentas**
+**Ferramentas**  
 
 [[Tutoriais]]  
 [[Reuniões]]  
 [[Projetos]]  
 
-**Projetos importantes**
+**Estrutura do Partido Pirata**  
 
-[[Coleta de assinaturas|projeto/coleta]]  
-[[Reformulação da gestão de crises|wiki/gestão de crises]]  
+[[Secretaria Geral|wiki/secretaria]]  
+[[Tesouraria Nacional|wiki/tesouraria]]  
+[[Gestão de crises|wiki/gestão de crises]]  
+
+Grupos de trabalho  
+
+[[Comunicação|wiki/gtc]]  
+[[Tecnologia da Informação|wiki/gti]]  
+[[Jurídico|wiki/gtj]]  
+
 """]]
 
 [[!meta title="Wiki Pirata"]]
