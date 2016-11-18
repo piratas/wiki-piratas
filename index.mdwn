@@ -11,32 +11,47 @@ Este site está disponível em:
 
 ---
 
-# [[Projetos]]
+# Como funciona esta wiki
 
-[[Todos projetos / adicionar novo|projetos]]  
+## Software
 
-[[!map pages="projeto/*"]]
+Este site utiliza [ikiwiki](https://ikiwiki.info), que compila a wiki e o banco de dados é na verdade um repositório [git](https://git-smc.org). Isto permite usar *git hooks* e automatizar a clonagem da wiki, e assim o banco de dados e todas as informações da wiki permaneçam redundantes mesmo que o servidor saia do ar, sendo a retomada um processo simples como instalar *ikiwiki* em um servidor novo e clonar o repositório git em qualquer um dos espelhos.
 
-# [[Tutoriais]]
+## Código fonte
 
-[[Todos tutoriais / adicionar novo|tutoriais]]
-
-[[!map pages="tutorial/*"]]
-
-# Toda a [[wiki]]
-
-[[!map pages="wiki/* and !*/discussão" show=title]]
-
----
-
-# Código fonte
-
-Este site utiliza [ikiwiki](https://ikiwiki.info), que compila a wiki e o banco de dados é na verdade um repositório GIT. Isto permite que o banco de dados e todas as informações da wiki permaneçam redundantes mesmo que o servidor saia do ar.  
 O código fonte deste site é atualizado automaticamente a cada *commit* via *crontab* e está disponível em:
 
 * <https://notabug.org/piratas/wiki-piratas>
 * <https://gitlab.com/piratas/wiki-piratas>
 * <https://github.com/piratas/wiki-piratas>
+
+## Para além de wiki
+
+A *ikiwiki* permite o uso além da simples funcionalidade de wiki, sendo que temos organizadas páginas para organizar projetos, tutoriais, reuniões e até um blog embutido.
+
+### [[Projetos]]
+
+[[!map pages="projeto/* and !*/discussão"]]
+
+### [[Tutoriais]]
+
+[[!map pages="tutorial/* and !*/discussão"]]
+
+### [[Reuniões]]
+
+[[!map pages="reuniao/* and !*/discussão"]]
+
+### [[Blog]]
+
+[[!map pages="blog/* and !*/discussão"]]
+
+### [[Forum]]
+
+[[!map pages="forum/* and !*/discussão"]]
+
+### [[Wiki]]
+
+[[!map pages="wiki/* and !*/discussão" show=title]]
 
 [0]: http://partidopirata.org
 [1]: https://gti.partidopirata.org
@@ -48,12 +63,6 @@ O código fonte deste site é atualizado automaticamente a cada *commit* via *cr
 [[Como editar esta wiki|tutorial/editar a wiki]]  
 [[Documentos do Partido|wiki/Documentos]]  
 [[Infraestrutura de TI do Partido|wiki/infra]]  
-
-**Ferramentas**  
-
-[[Tutoriais]]  
-[[Reuniões]]  
-[[Projetos]]  
 
 **Estrutura do Partido Pirata**  
 
