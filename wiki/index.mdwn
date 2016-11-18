@@ -1,8 +1,6 @@
-Edite a wiki com informação factível.
+Edite a wiki com informação factível. Mantenha opiniões pessoais na página de [[discussão]], e caso não concorde com alguma coisa, problematize na [[discussão]] da respectiva página.
 
-Mantenha opiniões pessoais na página de [[discussão|discussao]].
-
-Caso não concorde com alguma coisa, problematize na [[discussão|discussao]] da respectiva página.
+Caso não esteja conseguindo editar, verifique o [[tutorial para editar a wiki|/tutorial/editar_a_wiki/]].
 
 **Índice**
 
@@ -10,48 +8,212 @@ Caso não concorde com alguma coisa, problematize na [[discussão|discussao]] da
 
 ---
 
-# Institucional
+# Estrutura organizacional
 
-* [[wiki/Secretaria]]
-* [[wiki/Tesouraria]]
-* [[Gestão de Crises]]
+## Institucional
+
+* [[Secretaria]]  
+* [[Tesouraria]]  
+* [[Gestão de Crises]]  
+* [[Assembleia Nacional|anapirata]]  
 
 ## Grupos de trabalho
 
-* [[GTC]] - Grupo de Trabalho de Comunicação
+### Permanentes
 
-* [[GTI]] - Grupo de Trabalho de Tecnologia da Informação
+* [[GTC]] - Grupo de Trabalho de Comunicação  
+* [[GTI]] - Grupo de Trabalho de Tecnologia da Informação  
+* [[GTJ]] - Grupo de Trabalho Jurídico  
 
-* [[wiki/gtj]] - Grupo de Trabalho Jurídico
+#### Pendentes
+
+* [[GTRI]] - Grupo de Trabalho de Relações Internacionais  
+
+### Temporários
+
+* Grupo de Trabalho para Campanha de [[/projeto/coleta]] de assinaturas para formalização do partido
 
 ## Grupos Setoriais
 
-* [[Bucaneiras]]
+* Bucaneiras
+* Diversidade de gênero
+
+## Coordenação
+
+A coordenação nacional é composta por um(a) representante de cada uma das cinco coordenações regionais.
+
+### Regionais
+
+* Centro Oeste
+* Nordeste
+* Norte
+* Sudeste
+* Sul
 
 ---
 
 # Material
 
-[[Documentos]]
+## Documentos
+
+[[!map pages="wiki/documentos* and !*/discussão" show=title]]
 
 ---
 
-# Organização
+# Ferramentas
 
-[[Loomio]]  
+## Organização
+
+### [[Loomio]]
+
+**[loomio.partidopirata.org](https://loomio.partidopirata.org)**
+
+Loomio é a ferramenta oficial do Partido Pirata para deliberações, conforme definido na [[II Anapirata|anapirata]].
+
+Mais informações na página [[loomio]].
+
+### Taiga
+
+Taiga é uma ferramenta para organização de projetos e atualmente é utilizada para controlar a lista de associações do partido pela [[secretaria colegiada|secretaria]].
+
+<https://tree.taiga.io/project/desci-piratas/kanban>
+
+## Grupos de trabalho
+
+### Github
+
+Github é a ferramenta utilizada pelo [[GTI]] para organização do trabalho.
+
+<https://github.com/piratas/gti>
+
+### Trello
+
+Trello é a ferramenta utilizada pelo [[GTC]] para organização do trabalho.
+
+<https://trello.com/b/szHgILvY/gtc>
+
+---
+
+## Sites
+
+### HTML
+
+#### [IUF 2015][5]
+
+**[iuf.partidopirata.org][5]**
+
+[Código fonte][6]
+
+#### [GTI][9]
+
+**[gti.partidopirata.org][9]**
+
+[Código fonte][10]
+
+#### [Mumble Pirata][14]
+
+**[mumble.partidopirata.org][14]**
+
+[Código fonte][15]
+
+### Wordpress
+
+#### [Site oficial][0]
+
+**[partidopirata.org][0]**
+
+[Código fonte][2]
+
+#### [II ANAPIRATA][3]
+
+**[anapirata.partidopirata.org][3]**
+
+[Código fonte][4]
+
+#### [PIRATAS São Paulo][7]
+
+**[saopaulo.partidopirata.org][7]**
+
+[Código fonte][8]
+
+#### [GTC][12]
+
+**[gtc.partidopirata.org][12]**
+
+[Código fonte][13]
+
+### Outros
+
+#### Bucaneiras
+
+Foi definido na II ANAPIRATA que será feito um site do coletivo de mulheres e LGBTQIAP.  
+
+`TODO`: acrescentar mais informações aqui tão logo este projeto tome forma.
+
+#### PIRATAS Gaúchos
+
+<http://piratasgauchos.com.br>
+
+---
+
+## Outras
+
+Ferramentas atualmente utilizadas de forma oficial, independente ou em carater de teste
+
+### Oficiais
+
+* [[Biblioteca Pirata|biblioteca]]
+* [[Mumble Pirata|mumble]]
+
+### Independentes
+
+* [Forum Pirata MG][11]
+* [Midiateca pirata][1]
+
+### Teste
+
+Ferramentas sendo testadas
+
+#### GNU Social
+
+<https://social.pirata.xyz>
+
+### Inativas
+
+Projetos parados ou abandonados
+
+* Noosfero (Social Pirata)
+* SIM
 
 ---
 
 # Comunicação
 
-Estes meios de comunicação são tidos como extra oficiais pelo [partido pirata][0].
+* [[Mumble]]
+* [[Telegram]]
+* [[contato/Facebook]]
 
-Não existe meio oficial de comunicação não unilateral no [partido pirata][0].
+---
 
-[[Mumble]]
+# Mapa da wiki
 
-[[wiki/Telegram]]
+[[!map pages="wiki/* and !*/discussão" show=title]]
 
 [0]: http://partidopirata.org
+[1]: https://github.com/piratas/midiateca
+[2]: https://github.com/piratas/piratas-site
+[3]: http://anapirata.partidopirata.org
+[4]: https://github.com/piratas/anapirata-site
+[5]: http://iuf.partidopirata.org
+[6]: https://notabug.org/piratas/desgovernanca-site
+[7]: http://saopaulo.partidopirata.org
+[8]: https://github.com/piratas/site-saopaulo
+[9]: http://gti.partidopirata.org
+[10]: https://github.com/piratas/piratas.github.io
+[11]: http://partidopiratamg.org/
+[12]: http://gtc.partidopirata.org
+[13]: https://github.com/piratas/site-gtc
+[14]: http://mumble.partidopirata.org
+[15]: https://github.com/piratas/mumble-site
 
 [[!meta title="Wiki"]]
