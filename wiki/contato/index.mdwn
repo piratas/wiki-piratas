@@ -97,6 +97,14 @@ E-mails de coletivos regionais
 
 ---
 
+# Ferramentas oficiais
+
+## Mumble
+
+[[Mumble]]
+
+---
+
 # Redes sociais
 
 ## Diaspora
@@ -104,8 +112,6 @@ E-mails de coletivos regionais
 * [piratas_br@diasporabr.com.br](https://diasporabr.com.br/people/f24eb9d43bc51eb8)
 
 ## GNU Social
-
-### quitter.se
 
 * [PIRATAS Brasil](https://quitter.se/group/piratasbrasil)
 
@@ -121,13 +127,17 @@ E-mails de coletivos regionais
 
     @partidopiratabr
 
-#### [[Facebook]]  
+#### Facebook
 
-#### [[wiki/Telegram]]  
+[[Facebook]]  
+
+#### Telegram
+
+[[wiki/Telegram]]  
 
 ---
 
 *Garimpado [daqui](http://partidopirata.org/contatos) e altamente editado*
 
 [[!meta title="Contatos do Partido Pirata"]]
-[[!tag email contato contatos e-mail]]
+[[!tag email contato contatos e-mail mumble facebook telegram actor quitter "gnu social" diaspora]]
