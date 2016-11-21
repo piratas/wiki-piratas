@@ -34,7 +34,7 @@ E-mail do [[Grupo de Trabalho de Comunicação|gtc]]:
 
 E-mail do [[Grupo de Trabalho de Tecnologia da Informação|gti]]:
 
-    suporte@partidopirata.org
+    gti@partidopirata.org
 
 ## Jurídico
 
@@ -73,19 +73,25 @@ A Coordenação Nacional é composta por cinco Coordenações Regionais:
 
 E-mails de coletivos regionais
 
-### São Paulo
+### Norte
 
-    saopaulo@partidopirata.org
-
-### Rio de Janeiro
-
-    rio@partidopirata.org
-
-### Pará
+#### Pará
 
     para@partidopirata.org
 
-### Paraná
+### Sudeste
+
+#### São Paulo
+
+    saopaulo@partidopirata.org
+
+#### Rio de Janeiro
+
+    rio@partidopirata.org
+
+### Sul
+
+#### Paraná
 
     parana@partidopirata.org
 
