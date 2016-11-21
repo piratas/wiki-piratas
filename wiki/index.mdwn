@@ -98,19 +98,19 @@ Trello é a ferramenta utilizada pelo [[GTC]] para organização do trabalho.
 
 ### HTML
 
-#### [IUF 2015][5]
+#### IUF 2015
 
 **[iuf.partidopirata.org][5]**
 
 [Código fonte][6]
 
-#### [GTI][9]
+#### GTI
 
 **[gti.partidopirata.org][9]**
 
 [Código fonte][10]
 
-#### [Mumble Pirata][14]
+#### Mumble Pirata
 
 **[mumble.partidopirata.org][14]**
 
@@ -118,25 +118,25 @@ Trello é a ferramenta utilizada pelo [[GTC]] para organização do trabalho.
 
 ### Wordpress
 
-#### [Site oficial][0]
+#### Site oficial
 
 **[partidopirata.org][0]**
 
 [Código fonte][2]
 
-#### [II ANAPIRATA][3]
+#### II ANAPIRATA
 
 **[anapirata.partidopirata.org][3]**
 
 [Código fonte][4]
 
-#### [PIRATAS São Paulo][7]
+#### PIRATAS São Paulo
 
 **[saopaulo.partidopirata.org][7]**
 
 [Código fonte][8]
 
-#### [GTC][12]
+#### GTC
 
 **[gtc.partidopirata.org][12]**
 
@@ -146,7 +146,7 @@ Trello é a ferramenta utilizada pelo [[GTC]] para organização do trabalho.
 
 #### Bucaneiras
 
-Foi definido na II ANAPIRATA que será feito um site do coletivo de mulheres e LGBTQIAP.  
+Foi definido na II ANAPIRATA que será feito um site do coletivo de mulheres, diversidade de gênero e LGBTQIAP.  
 
 `TODO`: acrescentar mais informações aqui tão logo este projeto tome forma.
 
@@ -158,7 +158,7 @@ Foi definido na II ANAPIRATA que será feito um site do coletivo de mulheres e L
 
 ## Outras
 
-Ferramentas atualmente utilizadas de forma oficial, independente ou em carater de teste
+Ferramentas atualmente utilizadas de forma oficial, independente ou em caráter de teste
 
 ### Oficiais
 
@@ -189,9 +189,41 @@ Projetos parados ou abandonados
 
 # Comunicação
 
-* [[Mumble]]
-* [[Telegram]]
-* [[contato/Facebook]]
+Ver também página de [[contato]].
+
+## Oficiais
+
+### Mumble
+
+[[Mumble]]
+
+## Redes sociais
+
+### Diaspora
+
+* [piratas_br@diasporabr.com.br](https://diasporabr.com.br/people/f24eb9d43bc51eb8)
+
+### GNU Social
+
+* [PIRATAS Brasil](https://quitter.se/group/piratasbrasil)
+
+### Actor
+
+* [Partido Pirata](https://actor.im/join/f87c04bcc1be1c820d8798ae9db52787f8ac208f9e396d88992e0c338c9b6da4)
+
+## Redes anti sociais
+
+#### Twitter
+
+    @partidopiratabr
+
+#### Facebook
+
+[[contato/Facebook]]
+
+#### Telegram
+
+[[wiki/Telegram]]
 
 ---
 
