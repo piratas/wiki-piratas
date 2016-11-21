@@ -1,0 +1,4 @@
+[[!meta title="pages tagged gnu social"]]
+
+[[!inline pages="tagged(gnu_social)" actions="no" archive="yes"
+feedshow=10]]
