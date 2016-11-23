@@ -1,0 +1,4 @@
+[[!meta title="pages tagged entwickler"]]
+
+[[!inline pages="tagged(entwickler)" actions="no" archive="yes"
+feedshow=10]]
