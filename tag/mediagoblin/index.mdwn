@@ -1,0 +1,4 @@
+[[!meta title="pages tagged mediagoblin"]]
+
+[[!inline pages="tagged(mediagoblin)" actions="no" archive="yes"
+feedshow=10]]
