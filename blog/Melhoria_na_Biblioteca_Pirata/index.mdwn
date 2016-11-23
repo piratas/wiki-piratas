@@ -1,0 +1,16 @@
+A [Biblioteca Pirata][0] estava sem exibir material que era enviado há duas semanas.
+
+Isto aconteceu porque o *celery worker* estava inativo no servidor. Mediagoblin separa o *paster* do *celery worker* para que os uploads sejam dissociados do processamento.  
+Ou seja, quando se envia um arquivo para a biblioteca, ele é enviado para o servidor, uma tela de confirmação aparece, e o arquivo vai pra fila de processamento onde será tratado. Se é uma imagem, miniaturas serão criadas, se é um documento, será convertido para PDF, e assim por diante.
+
+O site continuou no ar porque o serviço *paster* estava ativo, contudo, nenhum material era processado porque o *celery worker* estava inativo.
+
+Sendo assim, [[eu|desci]] botei na crontab do root as seguintes linhas pra garantir que se cair de novo o serviço, ele vai voltar em o mais tardar cinco minutos:
+
+    */5     *       *       *       *       /bin/bash /bin/systemctl is-active mediagoblin-paster.service || /bin/systemctl start mediagoblin-paster.service 
+    */5     *       *       *       *       /bin/bash /bin/systemctl is-active mediagoblin-celeryd.service || /bin/systemctl start mediagoblin-celeryd.service 
+
+Daqui pra frente, se qualquer um dos dois serviços cair por qualquer motivo, deve voltar a funcionar em no máximo cinco minutos, garantindo que a [biblioteca][0] persevere funcionando.
+
+[0]: https://biblioteca.partidopirata.org
+[[!tag biblioteca celeryd "celery worker" mediagoblin systemd crontab entwickler]]
