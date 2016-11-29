@@ -1,6 +1,6 @@
 **Loomio**
 
-[[!toc levels=5 startlevel=2]]
+[[!toc levels=5]]
 
 ---
 
