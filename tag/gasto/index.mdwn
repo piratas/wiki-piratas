@@ -1,0 +1,4 @@
+[[!meta title="pages tagged gasto"]]
+
+[[!inline pages="tagged(gasto)" actions="no" archive="yes"
+feedshow=10]]
