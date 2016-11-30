@@ -1,1 +1,1 @@
-[[!map pages="wiki/gtc/reuniao/* and ! wiki/gtc/reuniao/*/*"]]
+[[!meta redir="wiki/gtc/reuniões"]]
