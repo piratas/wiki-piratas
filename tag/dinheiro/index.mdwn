@@ -1,0 +1,4 @@
+[[!meta title="pages tagged dinheiro"]]
+
+[[!inline pages="tagged(dinheiro)" actions="no" archive="yes"
+feedshow=10]]
