@@ -1,0 +1,9 @@
+[[!inline pages="reunião/* and !reunião/discussão and !reunião/*/*"
+actions=yes rootpage="reunião" postformtext="Registre uma nova reunião:" limit=15]]
+
+[[!sidebar content="""
+**Todas reuniões**
+[[!calendar  type="month" pages="reunião/* and !*/discussão"]]
+"""]]
+
+[[!meta title="Reuniões do GTC"]]
