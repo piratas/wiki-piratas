@@ -1,18 +1,23 @@
-# GTC - Grupo de Trabalho de Comunicação
+**GTC - Grupo de Trabalho de Comunicação**
 
 Tese, antítese e síntese;
 
 arrrrr!
 
-## Links
+[[!toc levels=6]]
 
-* [Loomio](https://www.loomio.org/g/vaUzbhSi)
-* [Trello](https://trello.com/b/szHgILvY/gtc)
+---
+
+# Links
+
+* [Site][0]
+* [Loomio][1]
+* [Trello][2]
 * E-mails:
   * `comunicacao@partidopirata.org`
   * `contato@partidopirata.org`
 
-## Como participar
+# Como participar
 
 Tentar descobrir a data da próxima reunião no [mumble][4], que normalmente é divulgada no tópico de relatoria da última reunião no [loomio][1].
 
@@ -20,7 +25,7 @@ Paralelamente se pode enviar [e-mail][3] pedindo entrada no grupo do [trello][2]
 
 O ideal seria fazer as duas coisas.
 
-## Material
+# Material
 
 * [[Regimento Interno|regimento]]
 * [[Guia Editorial|guia]]
@@ -28,33 +33,40 @@ O ideal seria fazer as duas coisas.
 
 ---
 
-## Organização interna
+# Organização interna
 
 Extraído [daqui](https://www.loomio.org/d/fBaXJ2lU):
 
-### Qual objetivo?
+## Qual objetivo?
 
 Promover integração e comunicação entre piratas
 
 Noticiar ações dos piratas
 
-### O que está fazendo?
+## O que está fazendo?
 
 Administra as redes sociais e o site do Partido Pirata www.partidopirata.org
 
-### Como se organiza?
+## Como se organiza?
 
 No aplicativo Trello, artigos de opinião, memes, notícias e ações dos Piratas são listados e encaminhados para publicação https://trello.com/b/szHgILvY/gtc
 
-### Como participar?
+## Como participar?
 
 Se reúne no Mumble quinzenalmente, geralmente aos sábados às 16:20 abertos a todos e responde pelos emails comunicacao@partidopirata.org e contato@partidopirata.org
+
+---
+
+# Reuniões
+
+Ver página de [[reuniões do GTC|reuniões]]
 
 [[!sidebar content="""
 **Links do GTC**
 
 [Loomio][1]  
 [Trello][2]  
+[[Reuniões]]  
 
 [1]: https://www.loomio.org/g/vaUzbhSi
 [2]: https://trello.com/b/szHgILvY/gtc
@@ -63,6 +75,7 @@ Se reúne no Mumble quinzenalmente, geralmente aos sábados às 16:20 abertos a 
 [[!meta title="Grupo de Trabalho de Comunicação"]]
 [[!tag gtc]]
 
+[0]: http://gtc.partidopirata.org
 [1]: https://www.loomio.org/g/vaUzbhSi
 [2]: https://trello.com/b/szHgILvY/gtc
 [3]: mailto:comunicacao@partidopirata.org
