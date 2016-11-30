@@ -1,0 +1,4 @@
+[[!meta title="pages tagged tabela"]]
+
+[[!inline pages="tagged(tabela)" actions="no" archive="yes"
+feedshow=10]]
