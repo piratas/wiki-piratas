@@ -1,0 +1,1 @@
+[[!map pages="wiki/gti/reuniao/* and ! wiki/gti/reuniao/*/*"]]
