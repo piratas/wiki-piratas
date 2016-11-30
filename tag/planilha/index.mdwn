@@ -1,0 +1,4 @@
+[[!meta title="pages tagged planilha"]]
+
+[[!inline pages="tagged(planilha)" actions="no" archive="yes"
+feedshow=10]]
