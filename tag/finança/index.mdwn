@@ -1,0 +1,4 @@
+[[!meta title="pages tagged finança"]]
+
+[[!inline pages="tagged(finança)" actions="no" archive="yes"
+feedshow=10]]
