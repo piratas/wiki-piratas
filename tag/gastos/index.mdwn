@@ -1,0 +1,4 @@
+[[!meta title="pages tagged gastos"]]
+
+[[!inline pages="tagged(gastos)" actions="no" archive="yes"
+feedshow=10]]
