@@ -40,8 +40,6 @@ desconhecido4|servidor não identificado que hospeda o site piratasgauchos.com.b
 
 # Domínios
 
-`TODO`: formatar em tabela os dados que começam na linha 178 de <https://pad.riseup.net/p/gti2016>
-
 Em ordem alfabética. Se alguém achar que algum domínio constante aqui é impertinente ou não relacionado com o partido pirata, faça uma lista nova com escopo reduzido e não apague esta. Obrigado pela compreensão.
 
 [[!table class="table table-bordered table-striped" data="""
