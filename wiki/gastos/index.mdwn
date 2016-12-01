@@ -13,27 +13,27 @@ Esta iniciativa de listagem compreende projetos apoiados ou incentivados por pes
 # Servidores
 
 [[!table class="table table-bordered table-striped" data="""
-nome|descrição|contato (intermediário)|contato (administrativo)|contato (técnico)|contato (financeiro)|custo|custo (mês)|custo (ano)|doações|despesas
-entwickler|[OVH KS-2A](https://www.kimsufi.com/pt/servidores.xml)|[[desci]]|[[felipe]]|[[felipe]]|[[felipe]]| |9.99 EUR/Mês|~120 EUR/Ano|[[felipe]]: 130 EUR|nov/2015 a nov/2016:120 EUR
- | | | | | | | | | |dez/2016: 10 EUR
+nome|descrição|contato (intermediário)|contato (administrativo)|contato (técnico)|contato (financeiro)|custo|custo (mês)|custo (ano)|doações|despesas|fonte das informações
+entwickler|[OVH KS-2A](https://www.kimsufi.com/pt/servidores.xml)|[[desci]]|[[felipe]]|[[felipe]]|[[felipe]]| |9.99 EUR/Mês|~120 EUR/Ano|[[felipe]]: 130 EUR|nov/2015 a nov/2016:120 EUR|[iikb iti](https://we.riseup.net/iikb/iti)
+ | | | | | | | | | |dez/2016: 10 EUR| 
 lv1|[yoursever.se linux 512mb](https://yourserver.se/linux)|[[desci]]|[[desci]]|[[desci]]|[[desci]]| |4 EUR/Mês| |[[desci]]: 40 EUR|janeiro de 2016 a janeiro de 2017: 40 EUR
- | | | | | | | | |anon1: 50 BRL| 
-lv2|[yoursever.se linux 512mb](https://yourserver.se/linux)|[[desci]]|[[desci]]|[[desci]]|[[desci]]| |4 EUR/Mês| |[[desci]]: 40 EUR|janeiro de 2016 a janeiro de 2017: 40 EUR
-lx7|servidor sob demanda da gandi.net|[[desci]]|[[desci]]|[[desci]]|[[desci]]|[iikb-transparencia-financeira](https://loomio-attachments.s3.amazonaws.com/uploads/981dd074420cb62c1d6bd2ae816eff08/iikb-trasnparencia_financeira.pdf)| | | | 
-lx8|servidor sob demanda da gandi.net|[[desci]]|[[desci]]|[[desci]]|[[desci]]|[iikb-transparencia-financeira](https://loomio-attachments.s3.amazonaws.com/uploads/981dd074420cb62c1d6bd2ae816eff08/iikb-trasnparencia_financeira.pdf)| | |[[desci]]: 100 BRL| 
- | | | | | | | | |anon2: 50 BRL| 
- | | | | | | | | |anon3: 150 BRL| 
- | | | | | | | | |[[felipe]]: 350 BRL| 
-lx9|servidor sob demanda da gandi.net|[[desci]]|[[desci]]|[[desci]]|[[desci]]|[iikb-transparencia-financeira](https://loomio-attachments.s3.amazonaws.com/uploads/981dd074420cb62c1d6bd2ae816eff08/iikb-trasnparencia_financeira.pdf)| | | | 
-do1|"droplet" da digital ocean|[[desci]]|[[desci]] [[gbrezende]]|[[desci]] [[gbrezende]]|[[gbrezende]]|[iikb-transparencia-financeira](https://loomio-attachments.s3.amazonaws.com/uploads/981dd074420cb62c1d6bd2ae816eff08/iikb-trasnparencia_financeira.pdf)| | |[[gbrezende]]: 10 USD|10 USD
-desconhecido1|servidor não identificado que hospedava o site saopaulo.partidopirata.org| | | | | | | | | 
-desconhecido2|servidor não identificado que hospedava o site partidopirata.org| |[[marcelohk]]|[[marcelohk]]|[[marcelohk]]| | | | | 
-desconhecido3|servidor não identificado que hospeda o site partidopiratamg.org| | | | | | | | | 
-desconhecido4|servidor não identificado que hospeda o site piratasgauchos.com.br| | | | | | | | | 
-bastidores1|hostgator que hospeda o internetlivre.cc| |[[mtoledo]]|[[mtoledo]]|[[mtoledo]]| | | | | 
-bastidores2|hostgator que hospeda o internetlivre.cc| |[[mtoledo]]|[[mtoledo]]|[[mtoledo]]| | | | | 
-suecia1|vmware no servidor do partido pirata sueco|[[desci]]| | | | | | | | 
-suecia2|vmware no servidor do partido pirata sueco|[[desci]]| | | | | | | | 
+ | | | | | | | | |anon1: 50 BRL| | 
+lv2|[yoursever.se linux 512mb](https://yourserver.se/linux)|[[desci]]|[[desci]]|[[desci]]|[[desci]]| |4 EUR/Mês| |[[desci]]: 40 EUR|janeiro de 2016 a janeiro de 2017: 40 EUR| 
+lx7|servidor sob demanda da gandi.net|[[desci]]|[[desci]]|[[desci]]|[[desci]]|[iikb-transparencia-financeira](https://loomio-attachments.s3.amazonaws.com/uploads/981dd074420cb62c1d6bd2ae816eff08/iikb-trasnparencia_financeira.pdf)| | | | |[iikb-transparencia-financeira](https://loomio-attachments.s3.amazonaws.com/uploads/981dd074420cb62c1d6bd2ae816eff08/iikb-trasnparencia_financeira.pdf) [hiatobr sustentabilidade](https://we.riseup.net/hiatobr/sustentabilidade)
+lx8|servidor sob demanda da gandi.net|[[desci]]|[[desci]]|[[desci]]|[[desci]]|[iikb-transparencia-financeira](https://loomio-attachments.s3.amazonaws.com/uploads/981dd074420cb62c1d6bd2ae816eff08/iikb-trasnparencia_financeira.pdf)| | |[[desci]]: 100 BRL| |[iikb-transparencia-financeira](https://loomio-attachments.s3.amazonaws.com/uploads/981dd074420cb62c1d6bd2ae816eff08/iikb-trasnparencia_financeira.pdf) [hiatobr sustentabilidade](https://we.riseup.net/hiatobr/sustentabilidade)
+ | | | | | | | | |anon2: 50 BRL| | 
+ | | | | | | | | |anon3: 150 BRL| | 
+ | | | | | | | | |[[felipe]]: 350 BRL| | 
+lx9|servidor sob demanda da gandi.net|[[desci]]|[[desci]]|[[desci]]|[[desci]]|[iikb-transparencia-financeira](https://loomio-attachments.s3.amazonaws.com/uploads/981dd074420cb62c1d6bd2ae816eff08/iikb-trasnparencia_financeira.pdf)| | | | |[iikb-transparencia-financeira](https://loomio-attachments.s3.amazonaws.com/uploads/981dd074420cb62c1d6bd2ae816eff08/iikb-trasnparencia_financeira.pdf) [hiatobr sustentabilidade](https://we.riseup.net/hiatobr/sustentabilidade)
+do1|"droplet" da digital ocean|[[desci]]|[[desci]] [[gbrezende]]|[[desci]] [[gbrezende]]|[[gbrezende]]|[iikb-transparencia-financeira](https://loomio-attachments.s3.amazonaws.com/uploads/981dd074420cb62c1d6bd2ae816eff08/iikb-trasnparencia_financeira.pdf)| | |[[gbrezende]]: 10 USD|10 USD|[iikb-transparencia-financeira](https://loomio-attachments.s3.amazonaws.com/uploads/981dd074420cb62c1d6bd2ae816eff08/iikb-trasnparencia_financeira.pdf)
+do2|servidor que hospeda o site partidopiratamg.org| |[[dfujise]]|[[dfujise]]|[[dfujise]]| | | |[[dfujise]]: 47.51 USD|47.51 USD|[Prestação de contas fórum e sugestão](http://partidopiratamg.org/t/prestacao-de-contas-forum-e-sugestao/38/6)
+suecia1|vmware no servidor do partido pirata sueco|[[desci]]| | | | | | | | | 
+suecia2|vmware no servidor do partido pirata sueco|[[desci]]| | | | | | | | | 
+bastidores1|hostgator que hospeda o internetlivre.cc| |[[mtoledo]]|[[mtoledo]]|[[mtoledo]]| | | | | | 
+bastidores2|hostgator que hospeda o internetlivre.cc| |[[mtoledo]]|[[mtoledo]]|[[mtoledo]]| | | | | | 
+desconhecido1|servidor não identificado que hospedava o site saopaulo.partidopirata.org| | | | | | | | | | 
+desconhecido2|servidor não identificado que hospedava o site partidopirata.org| |[[marcelohk]]|[[marcelohk]]|[[marcelohk]]| | | | | | 
+desconhecido4|servidor não identificado que hospeda o site piratasgauchos.com.br| | | | | | | | | | 
 """]]
 
 ---
@@ -42,296 +42,36 @@ suecia2|vmware no servidor do partido pirata sueco|[[desci]]| | | | | | | |
 
 `TODO`: formatar em tabela os dados que começam na linha 178 de <https://pad.riseup.net/p/gti2016>
 
-    "escolapirata.org"
-
-    custo atual: 17.2 USD/Ano
-
-    doações
-
-    desci: 16.67 USD
-
-    despesas
-
-    janeiro de 2016 a janeiro de 2017 16.67 USD
-
-    "escolapirata.xyz"
-
-    custo atual: 13.63 USD/Ano
-
-    doações
-
-    desci: 1 USD
-
-    despesas
-
-    janeiro de 2016 a janeiro de 2017 1 USD
-
-    "greve.xyz"
-
-    custo atual: 13.63 USD/Ano
-
-    doações
-
-    desci: 16.13 USD
-
-    despesas
-
-    maio de 2015 a maio de 2016 2.5 USD
-
-    maio de 2016 a maio de 2017 13.63 USD
-
-    "iikb.org"
-
-    custo atual: 17.2 USD/Ano
-
-    doações
-
-    desci: 31.72 USD
-
-    despesas
-
-    abril de 2015 a abril de 2016 15.05 USD
-
-    abril de 2016 a abril de 2017 16.67 USD
-
-    "iikb.xyz"
-
-    custo atual: 13.63 USD/Ano
-
-    doações
-
-    desci: 1 USD
-
-    despesas
-
-    janeiro de 2016 a janeiro de 2017 1 USD
-
-    "lapirata.org"
-
-    custo atual: 17.2 USD/Ano
-
-    doações
-
-    desci: 16.67 USD
-
-    despesas
-
-    janeiro de 2016 a janeiro de 2017 16.67 USD
-
-    "lapirata.xyz"
-
-    custo atual: 13.63 USD/Ano
-
-    doações
-
-    desci: 1 USD
-
-    despesas
-
-    janeiro de 2016 a janeiro de 2017 1 USD
-
-    "midiacapoeira.xyz"
-
-    custo atual: 13.63 USD/Ano
-
-    doações
-
-    desci: 1 USD
-
-    despesas
-
-    janeiro de 2016 a janeiro de 2017 1 USD
-
-    "midiapirata.xyz"
-
-    custo atual: 13.63 USD/Ano
-
-    doações
-
-    desci: 1 USD
-
-    despesas
-
-    janeiro de 2016 a janeiro de 2017 1 USD
-
-    "movimentopirata.xyz"
-
-    custo atual: 13.63 USD/Ano
-
-    doações
-
-    desci: 1 USD
-
-    despesas
-
-    janeiro de 2016 a janeiro de 2017 1 USD
-
-    "naofode.xyz"
-
-    custo atual: 13.63 USD/Ano
-
-    doações
-
-    desci: 1 USD
-
-    despesas
-
-    janeiro de 2016 a janeiro de 2017 1 USD
-
-    "nfde.xyz"
-
-    custo atual: 13.63 USD/Ano
-
-    doações
-
-    desci: 1 USD
-
-    despesas
-
-    janeiro de 2016 a janeiro de 2017 1 USD
-
-    "partidopirata.net.br"
-
-    custo atual: 30 BRL/Ano
-
-    doações
-
-    anon3: 30 BRL
-
-    despesas
-
-    dezembro de 2015 a dezembro e 2016: 30 BRL
-
-    "partidopirata.org"
-
-    custo atual: 
-
-    doações
-
-
-    despesas
-
-    março de 2016 a março de 2017
-
-    "partidopirata.org.br"
-
-    custo atual: 30 BRL/Ano
-
-    doações
-
-
-    despesas
-
-    "partidopirata.xyz"
-
-    custo atual: 13.63 USD/Ano
-
-    doações
-
-    desci: 1 USD
-
-    despesas
-
-    janeiro de 2016 a janeiro de 2017 1 USD
-
-    "partidopiratamg.org"
-
-    custo atual: 30 BRL/Ano
-
-    doações
-
-
-    despesas
-
-    "pirata.xyz"
-
-    custo atual: 13.63 USD/Ano
-
-    doações
-
-    desci: 17.63 USD
-
-    despesas
-
-    abril de 2015 a abril de 2016 4 USD
-
-    abril de 2016 a abril de 2017 13.63 USD
-
-    "piratas.xyz"
-
-    custo atual: 13.63 USD/Ano
-
-    doações
-
-    desci: 16.13 USD
-
-    despesas
-
-    maio de 2015 a maio de 2016 2.5 USD
-
-    maio de 2016 a maio de 2017 13.63 USD
-
-    "piratasgauchos.com.br"
-
-    custo atual: 30 BRL/Ano
-
-    doações
-
-
-    despesas
-
-
-    "politica.xyz"
-
-    custo atual: 13.63 USD/Ano
-
-    doações
-
-    desci: 4 USD
-
-    despesas
-
-    outubro de 2014 a outubro de 2015 4 USD
-
-    "redes.xyz"
-
-    custo atual: 13.63 USD/Ano
-
-    doações
-
-    desci: 5 USD
-
-    despesas
-
-    outubro de 2014 a outubro de 2015 4 USD
-
-    janeiro de 2016 a janeiro de 2017 1 USD
-
-    "temblog.xyz"
-
-    custo atual: 13.63 USD/Ano
-
-    doações
-
-    desci: 1 USD
-
-    despesas
-
-    janeiro de 2016 a janeiro de 2017 1 USD
-
-    "usem.xyz"
-
-    custo atual: 13.63 USD/Ano
-
-    doações
-
-    desci: 16.13 USD
-
-    despesas
-
-    maio de 2015 a maio de 2016 2.5 USD
-
-    maio de 2016 a maio de 2017 13.63 USD
+Em ordem alfabética. Se alguém achar que algum domínio constante aqui é impertinente ou não relacionado com o partido pirata, faça uma lista nova com escopo reduzido e não apague esta. Obrigado pela compreensão.
+
+[[!table class="table table-bordered table-striped" data="""
+domínio|*registrar*|contato (intermediário)|contato (administrativo)|contato (técnico)|contato (financeiro)|custo (ano)|doações|despesas|fonte das informações
+escolapirata.org|Gandi| |[[desci]]|[[desci]]|[[desci]]|17.2 USD|[[desci]]: 16.67 USD|jan/16-jan/17: 16.67 USD|[iikb infra](https://iikb.org/wiki/infra/)
+escolapirata.xyz|Gandi| |[[desci]]|[[desci]]|[[desci]]|13.63 USD|[[desci]]: 1 USD|jan/16-jan/17: 1 USD|[iikb infra](https://iikb.org/wiki/infra/)
+greve.xyz|Gandi| |[[desci]]|[[desci]]|[[desci]]|13.63 USD|[[desci]]: 16.13 USD|maio de 2015 a maio de 2016 2.5 USD; maio de 2016 a maio de 2017 13.63 USD|[iikb infra](https://iikb.org/wiki/infra/) [domínios renovados](https://iikb.org/blog/Dom%C3%ADnios_renovados/)
+iikb.org|Gandi| |[[desci]]|[[desci]]|[[desci]]|17.2 USD|[[desci]]: 31.72 USD|abril de 2015 a abril de 2016 15.05 USD; abril de 2016 a abril de 2017 16.67 USD|[iikb infra](https://iikb.org/wiki/infra/) [domínios renovados](https://iikb.org/blog/Dom%C3%ADnios_renovados/)
+iikb.xyz|Gandi| |[[desci]]|[[desci]]|[[desci]]|13.63 USD|[[desci]]: 1 USD|jan/16-jan/17: 1 USD|[iikb infra](https://iikb.org/wiki/infra/) [domínios renovados](https://iikb.org/blog/Dom%C3%ADnios_renovados/)
+lapirata.org|Gandi| |[[desci]]|[[desci]]|[[desci]]|17.2 USD|[[desci]]: 16.67 USD|jan/16-jan/17: 16.67 USD|[iikb infra](https://iikb.org/wiki/infra/)
+lapirata.xyz|Gandi| |[[desci]]|[[desci]]|[[desci]]|13.63 USD|[[desci]]: 1 USD|jan/16-jan/17: 1 USD|[iikb infra](https://iikb.org/wiki/infra/)
+midiacapoeira.xyz|Gandi| |[[desci]]|[[desci]]|[[desci]]|13.63 USD|[[desci]]: 1 USD|jan/16-jan/17: 1 USD|[iikb infra](https://iikb.org/wiki/infra/)
+midiapirata.xyz|Gandi| |[[desci]]|[[desci]]|[[desci]]|13.63 USD|[[desci]]: 1 USD|jan/16-jan/17: 1 USD|[iikb infra](https://iikb.org/wiki/infra/)
+movimentopirata.xyz|Gandi| |[[desci]]|[[desci]]|[[desci]]|13.63 USD|[[desci]]: 1 USD|jan/16-jan/17: 1 USD|[iikb infra](https://iikb.org/wiki/infra/)
+naofode.xyz|Gandi| |[[desci]]|[[desci]]|[[desci]]|13.63 USD|[[desci]]: 1 USD|jan/16-jan/17: 1 USD|[iikb infra](https://iikb.org/wiki/infra/)
+nfde.xyz|Gandi| |[[desci]]|[[desci]]|[[desci]]|13.63 USD|[[desci]]: 1 USD|jan/16-jan/17: 1 USD|[iikb infra](https://iikb.org/wiki/infra/)
+partidopirata.net.br|registro.br|[[desci]]|[[tjack]]|[[desci]]|[[tjack]]|30 BRL|[[tjack]]: 30 BRL|dezembro de 2015 a dezembro e 2016: 30 BRL|[hiatobr sustentabilidade](https://we.riseup.net/hiatobr/sustentabilidade)
+partidopirata.org|godaddy|[[desci]]| |[[desci]]| | | |março de 2016 a março de 2017| 
+partidopirata.org.br|registro.br| | | | |30 BRL| | | 
+partidopirata.xyz|Gandi| |[[desci]]|[[desci]]|[[desci]]|13.63 USD|[[desci]]: 1 USD|jan/16-jan/17: 1 USD|[iikb infra](https://iikb.org/wiki/infra/)
+partidopiratamg.org| |[[dfujise]]| | | | | | | 
+pirata.xyz|Gandi| |[[desci]]|[[desci]]|[[desci]]|13.63 USD|[[desci]]: 17.63 USD|abril de 2015 a abril de 2016 4 USD; abril de 2016 a abril de 2017 13.63 USD|[iikb infra](https://iikb.org/wiki/infra/) [domínios renovados](https://iikb.org/blog/Dom%C3%ADnios_renovados/) [hiatobr sustentabilidade](https://we.riseup.net/hiatobr/sustentabilidade)
+piratas.xyz|Gandi| |[[desci]]|[[desci]]|[[desci]]|13.63 USD|[[desci]]: 16.13 USD|maio de 2015 a maio de 2016 2.5 USD; maio de 2016 a maio de 2017 13.63 USD|[iikb infra](https://iikb.org/wiki/infra/) [domínios renovados](https://iikb.org/blog/Dom%C3%ADnios_renovados/) [hiatobr sustentabilidade](https://we.riseup.net/hiatobr/sustentabilidade)
+piratasgauchos.com.br|registro.br| | | | |30 BRL| | | 
+politica.xyz|Gandi| |[[desci]]|[[desci]]|[[desci]]|13.63 USD|[[desci]]: 4 USD|outubro de 2014 a outubro de 2015 4 USD|[politica xyz](https://we.riseup.net/hiatobr+politicaxyz/pol%C3%ADtica-xyz) [hiatobr sustentabilidade](https://we.riseup.net/hiatobr/sustentabilidade)
+redes.xyz|Gandi| |[[desci]]|[[desci]]|[[desci]]|13.63 USD|[[desci]]: 5 USD|outubro de 2014 a outubro de 2015 4 USD; janeiro de 2016 a janeiro de 2017 1 USD|[hiatobr sustentabilidade](https://we.riseup.net/hiatobr/sustentabilidade)
+tem.blog.br|registro.br| |[[desci]]|[[desci]]|[[desci]]|30 BRL| | |[hiatobr sustentabilidade](https://we.riseup.net/hiatobr/sustentabilidade)
+temblog.xyz|Gandi| |[[desci]]|[[desci]]|[[desci]]|13.63 USD|[[desci]]: 1 USD|jan/16-jan/17: 1 USD|[iikb infra](https://iikb.org/wiki/infra/)
+usem.xyz|Gandi| |[[desci]]|[[desci]]|[[desci]]|13.63 USD|[[desci]]: 16.13 USD|maio de 2015 a maio de 2016 2.5 USD; maio de 2016 a maio de 2017 13.63 USD|[iikb infra](https://iikb.org/wiki/infra/) [domínios renovados](https://iikb.org/blog/Dom%C3%ADnios_renovados/) [hiatobr sustentabilidade](https://we.riseup.net/hiatobr/sustentabilidade)
+"""]]
 
 [[!meta title="Gastos com Tecnologia da Informação"]]
 [[!tag gti dinheiro finança gasto tabela planilha financeira finanças gastos servidor domínio]]
