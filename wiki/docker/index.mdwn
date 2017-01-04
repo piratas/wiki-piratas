@@ -1,0 +1,51 @@
+[[!toc  levels=3]]
+
+# Containerização
+
+## Docker
+## Kubernetes (monitoramento e administração)
+
+# Serviços
+
+
+## Load balancer: nginx
+
+## Wordpress
+
+### Site oficial
+### Coordenação nacional (5x)
+### Coletivos estaduais/locais
+
+## Wiki: mediawiki ou ikiwiki
+## git: gitlab ou gogs.io
+## Forum: discourse
+## Chat/Conferência: mumble
+## Compartilhar arquivos: mediagoblin, davros?
+## Documentos: Etherpad (ethercalc?, etherdraw?)
+## Kanban(?): weban
+## Deliberação(?): loomio, wasa2il    
+## Demais serviços
+
+descritos em: https://github.com/piratas/gti/issues/39
+
+# Autenticação
+
+## Hydra
+provedor oauth2 e openid connect
+https://ory##am.gitbooks.io/hydra/    
+
+## Authboss 
+criação de conta, redefinição de senha, etc...
+https://github.com/go-authboss/authboss
+
+## Desenvolver plugins / fork para que os demais serviços usem o servidor de authenticação
+    ## wordpress
+    ## loomio (enquanto não tiver outra alternativa para deliberação)
+    ## gitlab
+    ## etc ...
+
+# Servidores
+
+## entwickler
+## bastidores.org
+## suecia
