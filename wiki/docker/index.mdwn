@@ -5,6 +5,8 @@
 ## Docker
 ## Kubernetes (monitoramento e administração)
 
+http://kubernetes.io/
+
 # Serviços
 
 
@@ -12,8 +14,20 @@
 
 ## Wordpress
 
-### Site oficial
+### Site oficial nacional
+
+### Setoriais
+ - Diversidade
+ - bucaneiras
+
+### GTs
+ - GTC
+ - GTI
+ - GTJ
+
+
 ### Coordenação nacional (5x)
+
 ### Coletivos estaduais/locais
 
 ## Wiki: mediawiki ou ikiwiki
@@ -28,11 +42,17 @@
 
 descritos em: https://github.com/piratas/gti/issues/39
 
+# backups
+
+cron + rsync
+dump database
+github como espelho dos gits locais
+
 # Autenticação
 
 ## Hydra
 provedor oauth2 e openid connect
-https://ory##am.gitbooks.io/hydra/    
+https://ory-am.gitbooks.io/hydra/    
 
 ## Authboss 
 criação de conta, redefinição de senha, etc...
@@ -43,6 +63,7 @@ https://github.com/go-authboss/authboss
     ## loomio (enquanto não tiver outra alternativa para deliberação)
     ## gitlab
     ## etc ...
+
 
 # Servidores
 
