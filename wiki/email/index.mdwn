@@ -16,6 +16,8 @@ Para solicitar e-mails para coletivos, diretórios provisórios, grupos de traba
 
 # Registros MX
 
+Estes registros são referentes ao domínio **partidopirata.org**
+
 [[!table class="table table-bordered table-striped" data="""
 Sub domínio|Valor|Prioridade|TTL
 exchange|ALT2.ASPMX.L.GOOGLE.COM|30|1 hora
@@ -62,6 +64,20 @@ Luciana Carmo|lucarmo@partidopirata.org|Membro
 Flávio Secco Alencar|seccoalencar@partidopirata.org|Membro
 SecretariaGeral Piratas|secretariageral@partidopirata.org|Proprietário
 """]]
+
+---
+
+# Contas
+
+Contas de usuários comuns
+
+## Apoiamento
+
+Grupo de Trabalho de [[apoiamento|projeto/coleta]]
+
+Responsável: [[tiago]]
+
+    apoio@partidopirata.org
 
 [[!meta title="Configuração dos e-mails institucionais"]]
 [[!tag e-mail e-mails mail lista listas]]
