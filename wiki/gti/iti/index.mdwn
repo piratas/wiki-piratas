@@ -14,4 +14,5 @@ docker-compose site-anapirata|42081-42441|<https://github.com/piratas/anapirata-
 docker-compose site-financiamento|42082-42442|<https://github.com/piratas/site-financiamento>
 docker-compose site-saopaulo|42083-42443|<https://github.com/piratas/site-saopaulo>
 docker-compose site-gtc|42084-42444|<https://github.com/piratas/site-gtc>
+docker-compose site-tesouraria|42085-42445|<https://github.com/piratas/site-tesouraria>
 """]]
