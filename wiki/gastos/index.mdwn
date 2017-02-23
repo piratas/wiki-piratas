@@ -58,7 +58,15 @@ movimentopirata.xyz|Gandi| |[[desci]]|[[desci]]|[[desci]]|13.63 USD|[[desci]]: 1
 naofode.xyz|Gandi| |[[desci]]|[[desci]]|[[desci]]|13.63 USD|[[desci]]: 1 USD|jan/16-jan/17: 1 USD|[iikb infra](https://iikb.org/wiki/infra/)
 nfde.xyz|Gandi| |[[desci]]|[[desci]]|[[desci]]|13.63 USD|[[desci]]: 1 USD|jan/16-jan/17: 1 USD|[iikb infra](https://iikb.org/wiki/infra/)
 partidopirata.net.br|registro.br|[[desci]]|[[tjack]]|[[desci]]|[[tjack]]|30 BRL|[[tjack]]: 30 BRL|dezembro de 2015 a dezembro e 2016: 30 BRL|[hiatobr sustentabilidade](https://we.riseup.net/hiatobr/sustentabilidade)
-partidopirata.org|godaddy|[[desci]]| |[[desci]]| | | |março de 2016 a março de 2017| 
+partidopirata.org|godaddy|[[desci]]| |[[desci]]| | |[[jorge]]: 78.87 USD|março de 2009 a março de 2010: 15.19 USD| 
+ | | | | | | |[[jorge]]: 111.81 BRL|março de 2010 a março de 2011: 15.17 USD| 
+ | | | | | | |[[daniel]]: 65.72 BRL|março de 2011 a março de 2012: 15.17 USD| 
+ | | | | | | | |março de 2012 a março de 2013: 15.17 USD| 
+ | | | | | | | |março de 2013 a março de 2014: 26.97 BRL| 
+ | | | | | | | |março de 2014 a março de 2015: 42.42 BRL| 
+ | | | | | | | |março de 2015 a março de 2016: 42.42 BRL| 
+ | | | | | | | |março de 2016 a março de 2017: 18.17 USD| 
+ | | | | | | | |março de 2017 a março de 2018: 65.72 BRL| 
 partidopirata.org.br|registro.br| | | | |30 BRL| | | 
 partidopirata.xyz|Gandi| |[[desci]]|[[desci]]|[[desci]]|13.63 USD|[[desci]]: 1 USD|jan/16-jan/17: 1 USD|[iikb infra](https://iikb.org/wiki/infra/)
 partidopiratamg.org| |[[dfujise]]| | | | | | | 
