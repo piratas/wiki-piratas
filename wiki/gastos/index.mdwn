@@ -14,8 +14,9 @@ Esta iniciativa de listagem compreende projetos apoiados ou incentivados por pes
 
 [[!table class="table table-bordered table-striped" data="""
 nome|descrição|contato (intermediário)|contato (administrativo)|contato (técnico)|contato (financeiro)|custo|custo (mês)|custo (ano)|doações|despesas|fonte das informações
-entwickler|[OVH KS-2A](https://www.kimsufi.com/pt/servidores.xml)|[[desci]]|[[felipe]]|[[felipe]]|[[felipe]]| |9.99 EUR/Mês|~120 EUR/Ano|[[felipe]]: 130 EUR|nov/2015 a nov/2016:120 EUR|[iikb iti](https://we.riseup.net/iikb/iti)
+entwickler|[OVH KS-2A](https://www.kimsufi.com/pt/servidores.xml)|[[desci]]|[[felipe]]|[[felipe]]|[[felipe]]| |9.99 EUR/Mês|~120 EUR/Ano|[[felipe]]: 210 EUR|nov/2015 a nov/2016:120 EUR|[iikb iti](https://we.riseup.net/iikb/iti)
  | | | | | | | | | |dez/2016: 10 EUR| 
+ | | | | | | | | | |jan/2017 a jul/2017: 70 EUR| 
 lv1|[yoursever.se linux 512mb](https://yourserver.se/linux)|[[desci]]|[[desci]]|[[desci]]|[[desci]]| |4 EUR/Mês| |[[desci]]: 40 EUR|janeiro de 2016 a janeiro de 2017: 40 EUR
  | | | | | | | | |anon1: 50 BRL| | 
 lv2|[yoursever.se linux 512mb](https://yourserver.se/linux)|[[desci]]|[[desci]]|[[desci]]|[[desci]]| |4 EUR/Mês| |[[desci]]: 40 EUR|janeiro de 2016 a janeiro de 2017: 40 EUR| 
