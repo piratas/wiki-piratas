@@ -17,9 +17,9 @@ nome|descrição|contato (intermediário)|contato (administrativo)|contato (téc
 entwickler|[OVH KS-2A](https://www.kimsufi.com/pt/servidores.xml)|[[desci]]|[[felipe]]|[[felipe]]|[[felipe]]| |9.99 EUR/Mês|~120 EUR/Ano|[[felipe]]: 210 EUR|nov/2015 a nov/2016:120 EUR|[iikb iti](https://we.riseup.net/iikb/iti)
  | | | | | | | | | |dez/2016: 10 EUR| 
  | | | | | | | | | |jan/2017 a jul/2017: 70 EUR| 
-lv1|[yoursever.se linux 512mb](https://yourserver.se/linux)|[[desci]]|[[desci]]|[[desci]]|[[desci]]| |4 EUR/Mês| |[[desci]]: 40 EUR|janeiro de 2016 a janeiro de 2017: 40 EUR
- | | | | | | | | |anon1: 50 BRL| | 
-lv2|[yoursever.se linux 512mb](https://yourserver.se/linux)|[[desci]]|[[desci]]|[[desci]]|[[desci]]| |4 EUR/Mês| |[[desci]]: 40 EUR|janeiro de 2016 a janeiro de 2017: 40 EUR| 
+lv1|[yoursever.se linux 512mb](https://yourserver.se/linux)|[[desci]]|[[desci]]|[[desci]]|[[desci]]| |4 EUR/Mês|40 EUR/Ano|[[desci]]: 40 EUR|janeiro de 2016 a janeiro de 2017: 40 EUR| 
+ | | | | | | | | |anon1: 50 BRL|janeiro de 2017 a janeiro de 2018: 40 EUR| 
+lv2|[yoursever.se linux 512mb](https://yourserver.se/linux)|[[desci]]|[[desci]]|[[desci]]|[[desci]]| |4 EUR/Mês|40 EUR/Ano|[[desci]]: 40 EUR|janeiro de 2016 a janeiro de 2017: 40 EUR| 
 lx7|servidor sob demanda da gandi.net|[[desci]]|[[desci]]|[[desci]]|[[desci]]|[iikb-transparencia-financeira](https://loomio-attachments.s3.amazonaws.com/uploads/981dd074420cb62c1d6bd2ae816eff08/iikb-trasnparencia_financeira.pdf)| | | | |[iikb-transparencia-financeira](https://loomio-attachments.s3.amazonaws.com/uploads/981dd074420cb62c1d6bd2ae816eff08/iikb-trasnparencia_financeira.pdf) [hiatobr sustentabilidade](https://we.riseup.net/hiatobr/sustentabilidade)
 lx8|servidor sob demanda da gandi.net|[[desci]]|[[desci]]|[[desci]]|[[desci]]|[iikb-transparencia-financeira](https://loomio-attachments.s3.amazonaws.com/uploads/981dd074420cb62c1d6bd2ae816eff08/iikb-trasnparencia_financeira.pdf)| | |[[desci]]: 100 BRL| |[iikb-transparencia-financeira](https://loomio-attachments.s3.amazonaws.com/uploads/981dd074420cb62c1d6bd2ae816eff08/iikb-trasnparencia_financeira.pdf) [hiatobr sustentabilidade](https://we.riseup.net/hiatobr/sustentabilidade)
  | | | | | | | | |anon2: 50 BRL| | 
