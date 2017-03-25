@@ -63,6 +63,7 @@ A *ikiwiki* permite o uso além da simples funcionalidade de wiki, sendo que tem
 [[Como editar esta wiki|tutorial/editar a wiki]]  
 [[Documentos do Partido|wiki/Documentos]]  
 [[Infraestrutura de TI do Partido|wiki/infra]]  
+[[Gastos com TI do Partido|wiki/gastos]]  
 
 **Estrutura do Partido Pirata**  
 
