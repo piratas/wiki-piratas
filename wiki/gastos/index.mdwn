@@ -37,6 +37,7 @@ bastidores2|hostgator que hospeda o internetlivre.cc| |[[mtoledo]]|[[mtoledo]]|[
 desconhecido1|servidor não identificado que hospedava o site saopaulo.partidopirata.org| | | | | | | | | | 
 desconhecido2|servidor não identificado que hospedava o site partidopirata.org| |[[marcelohk]]|[[marcelohk]]|[[marcelohk]]| | | | | | 
 desconhecido4|servidor não identificado que hospeda o site piratasgauchos.com.br| | | | | | | | | | 
+iniciativa| vps no [[scaleway |https://www.scaleway.com/pricing/]] hospedando iniciativa.* e tesouraria.*| |[[diegor2]]|[[diegor2]]|[[diegor2]]| 3 EUR/mês | | | | | 
 """]]
 
 ---
