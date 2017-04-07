@@ -10,6 +10,8 @@ Existe um terceiro conceito de "saldo" que é quando o dinheiro fica retido pela
 
 Esta iniciativa de listagem compreende projetos apoiados ou incentivados por pessoas ligadas ao partido pirata. Quem quiser fazer uma lista de gerenciamento financeiro com escopo menor, crie uma página nova, não apague coisas desta.
 
+Atualização: o esquema se tornou mais complexo, vamos ter que migrar para um sistema sem tabela pra compreender novas formas de lançar movimentações. Existe trabalho sendo feito neste sentido juntamente à tesouraria, vamos aproveitar o que já está sendo feito.
+
 ---
 
 # Servidores
@@ -17,7 +19,7 @@ Esta iniciativa de listagem compreende projetos apoiados ou incentivados por pes
 [[!table class="table table-bordered table-striped" data="""
 nome|descrição|contato (intermediário)|contato (administrativo)|contato (técnico)|contato (financeiro)|custo|custo (mês)|custo (ano)|doações|despesas|fonte das informações
 entwickler|[OVH KS-2A](https://www.kimsufi.com/pt/servidores.xml)|[[desci]]|[[felipe]]|[[felipe]]|[[felipe]]| |9.99 EUR/Mês|~120 EUR/Ano|[[felipe]]: 210 EUR|nov/2015 a nov/2016:120 EUR|[iikb iti](https://we.riseup.net/iikb/iti)
- | | | | | | | | | |dez/2016: 10 EUR| 
+ | | | | | | | |anon4: 210 BRL *(para [[felipe]] em 2017-04-07)*| |dez/2016: 10 EUR| 
  | | | | | | | | | |jan/2017 a jul/2017: 70 EUR| 
 lv1|[yoursever.se linux 512mb](https://yourserver.se/linux)|[[desci]]|[[desci]]|[[desci]]|[[desci]]| |4 EUR/Mês|40 EUR/Ano|[[desci]]: 80 EUR|janeiro de 2016 a janeiro de 2017: 40 EUR| 
  | | | | | | | | |anon1: 50 BRL|janeiro de 2017 a janeiro de 2018: 40 EUR| 
