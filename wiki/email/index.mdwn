@@ -79,5 +79,7 @@ Responsável: [[tiago]]
 
     apoio@partidopirata.org
 
+`TODO`: Atualizar conforme documentado em <https://github.com/piratas/gti/issues/56> e remover tag pendente
+
 [[!meta title="Configuração dos e-mails institucionais"]]
-[[!tag e-mail e-mails mail lista listas]]
+[[!tag e-mail e-mails mail lista listas pendente]]
