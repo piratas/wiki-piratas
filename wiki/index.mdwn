@@ -231,6 +231,8 @@ Ver também página de [[contato]].
 
 [[!map pages="wiki/* and !*/discussão" show=title]]
 
+`TODO`: Atualizar conforme documentado em <https://github.com/piratas/gti/issues/56> e remover tag pendente
+
 [0]: http://partidopirata.org
 [1]: https://github.com/piratas/midiateca
 [2]: https://github.com/piratas/piratas-site
@@ -249,3 +251,4 @@ Ver também página de [[contato]].
 [15]: https://github.com/piratas/mumble-site
 
 [[!meta title="Wiki"]]
+[[!tag pendente]]
