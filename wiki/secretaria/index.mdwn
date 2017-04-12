@@ -79,5 +79,7 @@ Para envio de comunicação oficial e fichas de associação
 
 *`TODO`: Completar esta lista com secretarias que estejam formalizadas. Quem tiver informações, entre em contato com a secretaria colegiada e providencie os dados, por favor.*
 
+`TODO`: Atualizar conforme documentado em <https://github.com/piratas/gti/issues/56> e remover tag pendente
+
 [[!meta title="Secretaria Geral"]]
-[[!tag secretaria associação embarque]]
+[[!tag secretaria associação embarque pendente]]
