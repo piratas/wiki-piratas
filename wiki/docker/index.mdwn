@@ -70,3 +70,7 @@ https://github.com/go-authboss/authboss
 ## entwickler
 ## bastidores.org
 ## suecia
+
+`TODO`: Atualizar conforme documentado em <https://github.com/piratas/gti/issues/56> e remover tag pendente
+
+[[!tag pendente]]
