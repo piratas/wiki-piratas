@@ -266,6 +266,8 @@ Relação de grupos e tópicos apagados e/ou movidos:
 * <https://web.archive.org/web/20160720214720/https://www.loomio.org/d/LsmMJ27w/lista-de-e-mails-no-riseup> movido para [Partido Pirata no Brasil / Pirate Party in Brazil][1]
 * <https://web.archive.org/web/20160720215241/https://www.loomio.org/d/W9TxwXKr/-iuf2015> movido para [Partido Pirata no Brasil / Pirate Party in Brazil][1]
 
+`TODO`: Atualizar conforme documentado em <https://github.com/piratas/gti/issues/56> e remover tag pendente
+
 [0]: http://partidopirata.org/partido-pirata-do-brasil-traduz-loomio-e-adota-a-ferramenta-em-carater-experimental-como-meio-de-deliberacao/
 [1]: https://www.loomio.org/g/Hmpbu4Tr/partido-pirata-no-brasil-pirate-party-in-brazil
 [2]: https://www.loomio.org/g/GhU7DrLz/partido-pirata-no-brasil-pirate-party-in-brazil-delibera-es-apenas-para-associadas-os-
@@ -273,3 +275,5 @@ Relação de grupos e tópicos apagados e/ou movidos:
 [4]: https://www.loomio.org/g/E7ctaKYP/espa-o-pirata
 
 [[!meta title="Loomio"]]
+
+[[!tag pendente]]
