@@ -1,5 +1,6 @@
-
 <https://www.loomio.org/d/lhWt59Gy/guia-editorial>
+
+`TODO`: Atualizar conforme documentado em <https://github.com/piratas/gti/issues/56> e remover tag pendente
 
 [[!meta title="Guia Editorial"]]
 [[!tag gtc guia "guia editorial" pendente todo]]
