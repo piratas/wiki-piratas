@@ -8,3 +8,7 @@ Para downloads, passo-a-passo e mais informações acesse os sites abaixo:
 * [mumble.partidopirata.xyz](https://mumble.partidopirata.xyz)
 * [mumble.pirata.xyz](https://mumble.pirata.xyz)
 * Zeronet: [17q6cP24qcfQUb8EH4jbyvZeZ68P7AEVUj](http://127.0.0.1:43100/17q6cP24qcfQUb8EH4jbyvZeZ68P7AEVUj) - *[gateway](https://zeronet.iikb.org/17q6cP24qcfQUb8EH4jbyvZeZ68P7AEVUj/)*
+
+`TODO`: Atualizar conforme documentado em <https://github.com/piratas/gti/issues/56> e remover tag pendente
+
+[[!tag pendente]]
