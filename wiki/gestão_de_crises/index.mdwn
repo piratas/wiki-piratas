@@ -83,5 +83,7 @@ Um [pad](https://public.etherpad-mozilla.org/p/gestao_de_crise_tampao) foi criad
 
 A Gestão de Crises Tampão segue se organizando em reuniões no [[mumble]].
 
+`TODO`: Atualizar conforme documentado em <https://github.com/piratas/gti/issues/56> e remover tag pendente
+
 [[!meta title="Gestão de Crises"]]
-[[!tag gc "gestão de crises" crise crises "comissão julgadora"]]
+[[!tag gc "gestão de crises" crise crises "comissão julgadora" pendente]]
