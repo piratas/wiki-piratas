@@ -4,15 +4,14 @@ Ideia melhor documentada na [wiki da igreja insurgente](https://iikb.org/forum/P
 
 Lembre de adicionar todas as portas que usar e verifique qual é a próxima porta antes de atribuir uma nova. Mostre esta página para qualquer pessoa que for usar uma nova porta em um servidor.
 
-## entwickler
-
 [[!table class="table table-bordered table-striped" data="""
-Servidor|Usuário|Nome do(s) serviço(s)|Porta(s)|Descrição
-entwickler|root|ssh e sftp|4242|entwickler não escuta na porta 22
-entwickler|wordpress|docker-compose site-www|42080-42440|<https://github.com/piratas/piratas-site>
-entwickler|wordpress|docker-compose site-anapirata|42081-42441|<https://github.com/piratas/anapirata-site>
-entwickler|wordpress|docker-compose site-saopaulo|42083-42443|<https://github.com/piratas/site-saopaulo>
-entwickler|wordpress|docker-compose site-gtc|42084-42444|<https://github.com/piratas/site-gtc>
-iniciativa|containers|docker-compose tesouro-pirata|42085-42445|<https://github.com/piratas/tesouro-pirata>
-iniciativa|containers|docker-compose site-financiamento|42082-42442|<https://github.com/piratas/site-financiamento>
+Servidor|Nome do(s) serviço(s)|Porta(s)|Descrição
+entwickler|ssh e sftp|4242|entwickler não escuta na porta 22
+entwickler|docker-compose site-www|42080-42440|<https://github.com/piratas/piratas-site>
+entwickler|docker-compose site-anapirata|42081-42441|<https://github.com/piratas/anapirata-site>
+entwickler|docker-compose site-saopaulo|42083-42443|<https://github.com/piratas/site-saopaulo>
+entwickler|docker-compose site-gtc|42084-42444|<https://github.com/piratas/site-gtc>
+entwickler|tor social.pirata.xyz|42086|Social Pirata hidden service
+iniciativa|docker-compose tesouro-pirata|42085-42445|<https://github.com/piratas/tesouro-pirata>
+iniciativa|docker-compose site-financiamento|42082-42442|<https://github.com/piratas/site-financiamento>
 """]]
