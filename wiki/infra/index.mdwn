@@ -2,6 +2,8 @@
 
 Esta página visa organizar e identificar os recursos computacionais do Partido Pirata, com a dupla finalidade de publicizar a informação e para organização interna do [[GTI]].
 
+A informação está organizada em pelo menos duas abordagens diferentes: de acordo com o ponto de vista de administração do sistema computacional, a partir dos endereços físicos, e de acordo com o ponto de vista de quem acessa os recursos, a partir dos endereços virtuais.
+
 [[!toc levels=6]]
 
 ---
@@ -88,6 +90,7 @@ Disponível em:
 Este site!
 
 * <https://wiki.partidopirata.org>
+* <https://sul.partidopirata.org>
 
 #### Outros
 
@@ -96,8 +99,8 @@ Este site!
 Disponível em:
 
 * <http://nao.usem.xyz>
-* <http://naofode.xyz>
-* <http://nfde.xyz>
+* <del><http://naofode.xyz></del>
+* <del><http://nfde.xyz></del>
 
 #### Hospedagem
 
@@ -109,25 +112,28 @@ Disponível em:
 * iuf.partidopirata.org
 * mumble.partidopirata.org
 * wiki.partidopirata.org
+* <http://anapirata.partidopirata.org>
+* <http://saopaulo.partidopirata.org>
+* <https://partidopirata.org>
 
 ##### Sites do Partido Pirata não oficiais
 
-* partidopirata.xyz
-* piratas.xyz
-* social.pirata.xyz (gnu social)
+* <del>partidopirata.xyz</del>
+* <del>piratas.xyz</del>
+* <del>social.pirata.xyz (gnu social)</del>
 
 ##### Outros sites
 
-###### lapirata
+###### <del>lapirata
 
-* lapirata.org
-* lapirata.xyz
+* <del>lapirata.org</del>
+* <del>lapirata.xyz</del>
 
 ###### naofo.de
 
 * nao.usem.xyz
-* naofode.xyz
-* nfde.xyz
+* <del>naofode.xyz</del>
+* <del>nfde.xyz</del>
 
 #### Backup
 
@@ -162,27 +168,62 @@ O servidor é administrado pela Hostgator e pelo [[mtoledo]].
 
 * <http://gtc.partidopirata.org>
 
-##### Site da Assembleia Nacional 2016
-
-II ANAPIRATA
-
-* <http://anapirata.partidopirata.org>
-
 ##### Campanha Internet Livre
 
 * <http://internetlivre.cc>
 
-##### Site do coletivo paulista
+---
 
-* <http://saopaulo.partidopirata.org>
-
-##### Site do Partido
-
-* <http://partidopirata.org>
+*`TODO`: adicionar servidores da suecia e iniciativa*
 
 ---
 
-*`TODO`: adicionar servidores da suecia*
+# Serviços
+
+## Portas TCP efêmeras
+
+<del>Ideia melhor documentada na [wiki da igreja insurgente](https://iikb.org/forum/Portas_TCP).</del>
+
+Lembre de adicionar todas as portas que usar e verifique qual é a próxima porta antes de atribuir uma nova. Mostre esta página para qualquer pessoa que for usar uma nova porta em um servidor.
+
+[[!table class="table table-bordered table-striped" data="""
+Servidor|Nome do(s) serviço(s)|Porta(s)|Descrição
+entwickler|ssh e sftp|4242|entwickler não escuta na porta 22
+entwickler|docker-compose site-www|42080-42440|<https://github.com/piratas/piratas-site>
+entwickler|docker-compose site-anapirata|42081-42441|<https://github.com/piratas/anapirata-site>
+entwickler|docker-compose site-saopaulo|42083-42443|<https://github.com/piratas/site-saopaulo>
+entwickler|docker-compose site-gtc|42084-42444|<https://github.com/piratas/site-gtc>
+entwickler|tor social.pirata.xyz|42086|Social Pirata hidden service
+iniciativa|docker-compose tesouro-pirata|42085-42445|<https://github.com/piratas/tesouro-pirata>
+iniciativa|docker-compose site-financiamento|42082-42442|<https://github.com/piratas/site-financiamento>
+"""]]
+
+## Sites
+
+[[!table class="table table-bordered table-striped" data="""
+Endereço (URL, clearnet)|Endereços alternativos|Código fonte|Descrição
+[anapirata.partidopirata.org](http://anapirata.partidopirata.org)| |<https://github.com/piratas/anapirata-site>|Site para II [[ANAPIRATA]]
+[apoio.partidopirata.org](http://apoio.partidopirata.org)| |<https://github.com/piratas/apoio-piratas>|Hotsite para coleta de assinaturas
+[biblioteca.partidopirata.org](http://biblioteca.partidopirata.org)| |<https://notabug.org/piratas/biblioteca>|Mediagoblin
+[gtc.partidopirata.org](http://gtc.partidopirata.org)| | |Site do [[GTC]]
+[gti.partidopirata.org](http://gti.partidopirata.org)|<https://piratas.github.io>|<https://github.com/piratas/piratas.github.io>|Github Pages
+<del>internetlivre.cc</del>| | |*<del>`PHP mal configurado desde 2017-04-28`</del>*
+[iniciativa.partidopirata.org](http://iniciativa.partidopirata.org)| |<https://github.com/piratas/site-financiamento>|Iniciativa Pirata
+[iuf.partidopirata.org](http://iuf.partidopirata.org)| |<https://notabug.org/piratas/desgovernanca-site>|IUF Brasil 2015
+<del>lapirata.org</del>|<del>lapirata.xyz</del>|<https://notabug.org/piratas/lapirata.org>|<del>LAPirata</del>
+<del>moodle.escolapirata.org</del>|<del>moodle.escolapirata.xyz</del>|<https://notabug.org/piratas/moodle>|<del>Moodle</del>
+[mumble.partidopirata.org](http://mumble.partidopirata.org)|[Zeronet](http://127.0.0.1:43110/17q6cP24qcfQUb8EH4jbyvZeZ68P7AEVUj)|<https://notabug.org/piratas/mumble-site>|Site educativo para auxiliar no uso do [[Mumble]]
+[nao.usem.xyz](http://nao.usem.xyz)| |<https://github.com/naofode/nao.usem.xyz>|naofo.de
+<del>naofode.xyz</del>| |<https://github.com/naofode/naofode.xyz>|<del>naofo.de</del>
+<del>nfde.xyz</del>| |<https://github.com/naofode/nfde.xyz>|<del>naofo.de</del>
+[partidopirata.org](http://partidopirata.org)| |<https://github.com/piratas/piratas-site>|Site oficial do Partido Pirata
+<del>radio.lapirata.org</del>|<del>radio.lapirata.xyz</del>|<https://notabug.org/piratas/radio.lapirata.org>|<del>Rádio LAPirata</del>
+[saopaulo.partidopirata.org](http://saopaulo.partidopirata.org)| |<https://github.com/piratas/site-saopaulo>|Site do coletivo paulista
+<del>social.pirata.xyz</del>|[Tor](http://ro4a6wyb4bjqpqgg.onion)|<https://notabug.org/piratas/social.pirata.xyz>|GNU Social
+[sul.partidopirata.org](http://sul.partidopirata.org)| |<https://notabug.org/piratas/sul.partidopirata.xyz> <https://github.com/piratas/sul.partidopirata.xyz>|Wiki Piratas Sul
+[tesouraria.partidopirata.org](http://tesouraria.partidopirata.org)| |<https://github.com/piratas/tesouro-pirata>|Site da Tesouraria
+[[wiki.partidopirata.org|index]]| |<https://notabug.org/piratas/wiki-piratas> <https://github.com/piratas/wiki-piratas>|Este site
+"""]]
 
 [[!meta title="Infraestrutura de Tecnologia da Informação"]]
 [[!tag gti todo pendente]]
