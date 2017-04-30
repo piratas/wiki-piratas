@@ -18,4 +18,15 @@
 
 #### [[Programa de Governo]]
 
+---
+
+# Regimentos internos
+
+#### [[GTC|gtc/regimento]]
+
+#### [[GTI|gti/regimento]]
+
+`TODO`: encontrar regimento do GTJ e botar na wiki regimento do grupo setorial
+
 [[!meta title="Documentos"]]
+[[!tag pendente todo]]
