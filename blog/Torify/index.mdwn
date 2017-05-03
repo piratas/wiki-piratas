@@ -35,6 +35,13 @@ E no arquivo `/etc/nginx/sites-enabled/mumble.conf` o seguinte ([commit](https:/
 
     }
 
+Conectar no mumble pelo endereço oculto torna o acesso anônimo até para o próprio servidor:
+
+    <W>2017-05-03 22:04:05.506 1 => <4:(-1)> New connection: 127.0.0.1:34187
+    <W>2017-05-03 22:04:07.283 1 => <4:(-1)> Client version 1.2.11 (X11: 1.2.11)
+    <W>2017-05-03 22:04:07.397 1 => Starting voice thread
+    <W>2017-05-03 22:04:07.473 1 => <4:desci(4)> Authenticated
+
 Mumble Pirata agora está acessível então através do endereço **[mumble4htdctgdd7.onion](http://mumble4htdctgdd7.onion/)**
 
 [1]: https://torporject.org
