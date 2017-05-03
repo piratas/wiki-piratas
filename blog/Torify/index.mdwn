@@ -2,7 +2,7 @@ Em decorrência da não renovação dos domínios **pirata.xyz** e **piratas.xyz
 
 A medida tomada no último dia em que o domínio habitual era acessível foi alterar o URL do site para um [[!wikipedia pt:.onion desc="domínio *.onion*"]].
 
-O domínio automaticamente gerado foi **[ro4a6wyb4bjqpqgg.onion](http://ro4a6wyb4bjqpqgg.onion/)**. Futuramente será alterado, o domínio antigo redirecionando para o novo.
+O domínio automaticamente gerado foi **[ro4a6wyb4bjqpqgg.onion](http://ro4a6wyb4bjqpqgg.onion/)**. <del>Futuramente será alterado</del>, o domínio antigo redirecionando para o novo. **Atualização**: domínio agora é **[social5dgegf5a7k.onion](http://social5dgegf5a7k.onion/)**.
 
 Domínios *.onion* não custam dinheiro para gerar e manter, e contanto que a chave privada seja guardada, vão durar pra sempre. Se todo mundo abandonar a rede [Tor][1], ainda assim o site vai continuar lá até que resolvam voltar para a rede. O software por trás da Social Pirata ([GNU Social](https://gnu.io/social)) é que pode dar problemas se o servidor onde ele está sair do ar e nenhum outro subir um backup.
 
@@ -43,5 +43,9 @@ Conectar no mumble pelo endereço oculto torna o acesso anônimo até para o pr�
     <W>2017-05-03 22:04:07.473 1 => <4:desci(4)> Authenticated
 
 Mumble Pirata agora está acessível então através do endereço **[mumble4htdctgdd7.onion](http://mumble4htdctgdd7.onion/)**
+
+---
+
+Mais serviços ocultos serão eventualmente listados nesta página, e [nesta lista](http://iikbmpwhwbbusn23.onion/wiki/onion/) - tor2web (pode demorar para atualizar): <http://pirat.as/17M)>
 
 [1]: https://torporject.org
