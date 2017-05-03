@@ -1,0 +1,40 @@
+Em decorrência da não renovação dos domínios **pirata.xyz** e **piratas.xyz**, o único site que dependia destes domínios saiu do ar, a Social Pirata.
+
+A medida tomada no último dia em que o domínio habitual era acessível foi alterar o URL do site para um [[!wikipedia pt:.onion desc="domínio *.onion*"]].
+
+O domínio automaticamente gerado foi **[ro4a6wyb4bjqpqgg.onion](http://ro4a6wyb4bjqpqgg.onion/)**. Futuramente será alterado, o domínio antigo redirecionando para o novo.
+
+Domínios *.onion* não custam dinheiro para gerar e manter, e contanto que a chave privada seja guardada, vão durar pra sempre. Se todo mundo abandonar a rede [Tor][1], ainda assim o site vai continuar lá até que resolvam voltar para a rede. O software por trás da Social Pirata ([GNU Social](https://gnu.io/social)) é que pode dar problemas se o servidor onde ele está sair do ar e nenhum outro subir um backup.
+
+Podíamos ter usado outras soluções? Sim, podíamos. [[Eu|desci]] escrevi um blog sobre porque ter escolhido [Tor][1] aqui: <http://iikbmpwhwbbusn23.onion/blog/Migrando_pra___34__deep_web__34__/> (use [Navegador Tor](https://www.torproject.org/download/download-easy.html) pra acessar).
+
+---
+
+Seguindo o hype, alguém me lembrou que não dava pra acessar o [[Mumble Pirata|wiki/mumble]] através do [Tails](https://tails.boum.org).
+
+Pra resolver isto, só colocando o *murmur* por um serviço oculto. Os guias e tutoriais para fazer isto são antigos, mas como no *entwickler* o murmur está escutando em localhost, eu não tive que mudar nenhuma configuração lá. Eu só tive que configurar o [Tor][1] e o servidor web / proxy reverso [Nginx](https://nginx.org) que a gente usa.
+
+No arquivo `/etc/tor/torrc` eu adicionei o seguinte:
+
+    HiddenServiceDir /var/lib/tor/hidden_service/mumble-pirata/
+    HiddenServicePort 80 127.0.0.1:42087
+    HiddenServicePort 64738 127.0.0.1:64738
+
+E no arquivo `/etc/nginx/sites-enabled/mumble.conf` o seguinte ([commit](https://github.com/piratas/nginx.d/commit/2c48b293d2650ceb59058d67f04bc7d10b72f92c)):
+
+    server {
+    	listen	127.0.0.1:42087;
+    	allow	127.0.0.1;
+    	deny	all;
+
+    	add_header	X-Frame-Options SAMEORIGIN;
+    	add_header	X-Content-Type-Options nosniff;
+
+    	server_name	mumble4htdctgdd7.onion;
+    	root		/var/www/git/mumble-site/;
+
+    }
+
+Mumble Pirata agora está acessível então através do endereço **[mumble4htdctgdd7.onion](http://mumble4htdctgdd7.onion/)**
+
+[1]: https://torporject.org
