@@ -67,7 +67,7 @@ Disponível em:
 
 Disponível em:
 
-* <https://social.pirata.xyz>
+* <del><https://social.pirata.xyz></del>
 
 #### Python
 
@@ -98,7 +98,7 @@ Este site!
 
 Disponível em:
 
-* <http://nao.usem.xyz>
+* <del><http://nao.usem.xyz></del>
 * <del><http://naofode.xyz></del>
 * <del><http://nfde.xyz></del>
 
@@ -124,14 +124,14 @@ Disponível em:
 
 ##### Outros sites
 
-###### <del>lapirata
+###### <del>lapirata</del>
 
 * <del>lapirata.org</del>
 * <del>lapirata.xyz</del>
 
 ###### naofo.de
 
-* nao.usem.xyz
+* <del>nao.usem.xyz</del>
 * <del>naofode.xyz</del>
 * <del>nfde.xyz</del>
 
@@ -189,11 +189,15 @@ Lembre de adicionar todas as portas que usar e verifique qual é a próxima port
 [[!table class="table table-bordered table-striped" data="""
 Servidor|Nome do(s) serviço(s)|Porta(s)|Descrição
 entwickler|ssh e sftp|4242|entwickler não escuta na porta 22
-entwickler|docker-compose site-www|42080-42440|<https://github.com/piratas/piratas-site>
-entwickler|docker-compose site-anapirata|42081-42441|<https://github.com/piratas/anapirata-site>
-entwickler|docker-compose site-saopaulo|42083-42443|<https://github.com/piratas/site-saopaulo>
-entwickler|docker-compose site-gtc|42084-42444|<https://github.com/piratas/site-gtc>
-entwickler|tor social.pirata.xyz|42086|Social Pirata hidden service
+entwickler|docker-compose site-www|42080,42440|<https://github.com/piratas/piratas-site>
+entwickler|docker-compose site-anapirata|42081,42441|<https://github.com/piratas/anapirata-site>
+entwickler|docker-compose site-saopaulo|42083,42443|<https://github.com/piratas/site-saopaulo>
+entwickler|docker-compose site-gtc|42084,42444|<https://github.com/piratas/site-gtc>
+entwickler|tor social-pirata|42086,42088|Social Pirata hidden service
+entwickler|tor mumble-pirata|42087|Site Mumble hidden service
+entwickler|tor site-gti-pirata|42089|Site GTI hidden service
+entwickler|tor site-iuf-pirata|42090|Site IUF hidden service
+entwickler|tor sftp-pirata|42090|Site SFTP hidden service
 iniciativa|docker-compose tesouro-pirata|42085-42445|<https://github.com/piratas/tesouro-pirata>
 iniciativa|docker-compose site-financiamento|42082-42442|<https://github.com/piratas/site-financiamento>
 """]]
@@ -207,22 +211,34 @@ Endereço (URL, clearnet)|Endereços alternativos|Código fonte|Descrição
 [biblioteca.partidopirata.org](http://biblioteca.partidopirata.org)| |<https://notabug.org/piratas/biblioteca>|Mediagoblin
 [gtc.partidopirata.org](http://gtc.partidopirata.org)| | |Site do [[GTC]]
 [gti.partidopirata.org](http://gti.partidopirata.org)|<https://piratas.github.io>|<https://github.com/piratas/piratas.github.io>|Github Pages
+[ftp.partidopirata.org](http://ftp.partidopirata.org)| | |Instruções para acessar sftp
 <del>internetlivre.cc</del>| | |*<del>`PHP mal configurado desde 2017-04-28`</del>*
 [iniciativa.partidopirata.org](http://iniciativa.partidopirata.org)| |<https://github.com/piratas/site-financiamento>|Iniciativa Pirata
 [iuf.partidopirata.org](http://iuf.partidopirata.org)| |<https://notabug.org/piratas/desgovernanca-site>|IUF Brasil 2015
 <del>lapirata.org</del>|<del>lapirata.xyz</del>|<https://notabug.org/piratas/lapirata.org>|<del>LAPirata</del>
 <del>moodle.escolapirata.org</del>|<del>moodle.escolapirata.xyz</del>|<https://notabug.org/piratas/moodle>|<del>Moodle</del>
-[mumble.partidopirata.org](http://mumble.partidopirata.org)|[Zeronet](http://127.0.0.1:43110/17q6cP24qcfQUb8EH4jbyvZeZ68P7AEVUj)|<https://notabug.org/piratas/mumble-site>|Site educativo para auxiliar no uso do [[Mumble]]
+[mumble.partidopirata.org](http://mumble.partidopirata.org)|[Tor](http://mumble4htdctgdd7.onion/) [Zeronet](http://127.0.0.1:43110/17q6cP24qcfQUb8EH4jbyvZeZ68P7AEVUj)|<https://notabug.org/piratas/mumble-site>|Site educativo para auxiliar no uso do [[Mumble]]
 [nao.usem.xyz](http://nao.usem.xyz)| |<https://github.com/naofode/nao.usem.xyz>|naofo.de
 <del>naofode.xyz</del>| |<https://github.com/naofode/naofode.xyz>|<del>naofo.de</del>
 <del>nfde.xyz</del>| |<https://github.com/naofode/nfde.xyz>|<del>naofo.de</del>
 [partidopirata.org](http://partidopirata.org)| |<https://github.com/piratas/piratas-site>|Site oficial do Partido Pirata
 <del>radio.lapirata.org</del>|<del>radio.lapirata.xyz</del>|<https://notabug.org/piratas/radio.lapirata.org>|<del>Rádio LAPirata</del>
 [saopaulo.partidopirata.org](http://saopaulo.partidopirata.org)| |<https://github.com/piratas/site-saopaulo>|Site do coletivo paulista
-<del>social.pirata.xyz</del>|[Tor](http://ro4a6wyb4bjqpqgg.onion)|<https://notabug.org/piratas/social.pirata.xyz>|GNU Social
+<del>social.pirata.xyz</del>|[Tor](http://social5dgegf5a7k.onion)|<https://notabug.org/piratas/social.pirata.xyz>|GNU Social
 [sul.partidopirata.org](http://sul.partidopirata.org)| |<https://notabug.org/piratas/sul.partidopirata.xyz> <https://github.com/piratas/sul.partidopirata.xyz>|Wiki Piratas Sul
 [tesouraria.partidopirata.org](http://tesouraria.partidopirata.org)| |<https://github.com/piratas/tesouro-pirata>|Site da Tesouraria
 [[wiki.partidopirata.org|index]]| |<https://notabug.org/piratas/wiki-piratas> <https://github.com/piratas/wiki-piratas>|Este site
+"""]]
+
+## Tor
+
+[[!table class="table table-bordered table-striped" data="""
+Endereço|Portas|Descrição
+[social5dgegf5a7k.onion](http://social5dgegf5a7k.onion)|80|GNU Social
+[mumble4htdctgdd7.onion](http://mumble4htdctgdd7.onion/)|80 (site),64738|Mumble
+2jhmnwu6yep6bdhm.onion `(temporário)`|80 (site sftp), 22|ssh / sftp
+joxeelupougy3vqq.onion `(temporário)`|80|Site GTI
+v27tzey35klcfrpw.onion `(temporário)`|80|Site IUF
 """]]
 
 [[!meta title="Infraestrutura de Tecnologia da Informação"]]
