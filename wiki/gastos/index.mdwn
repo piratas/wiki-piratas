@@ -52,7 +52,7 @@ Em ordem alfabética. Se alguém achar que algum domínio constante aqui é impe
 domínio|*registrar*|contato (intermediário)|contato (administrativo)|contato (técnico)|contato (financeiro)|custo (ano)|doações|despesas|fonte das informações
 escolapirata.org|Gandi| |[[desci]]|[[desci]]|[[desci]]|17.2 USD|[[desci]]: 16.67 USD|jan/16-jan/17: 16.67 USD|[iikb infra](https://iikb.org/wiki/infra/)
 escolapirata.xyz|Gandi| |[[desci]]|[[desci]]|[[desci]]|13.63 USD|[[desci]]: 1 USD|jan/16-jan/17: 1 USD|[iikb infra](https://iikb.org/wiki/infra/)
-greve.xyz|Gandi| |[[desci]]|[[desci]]|[[desci]]|13.63 USD|[[desci]]: 16.13 USD|maio de 2015 a maio de 2016 2.5 USD; maio de 2016 a maio de 2017 13.63 USD|[iikb infra](https://iikb.org/wiki/infra/) [domínios renovados](https://iikb.org/blog/Dom%C3%ADnios_renovados/)
+greve.xyz|Gandi| |[[desci]]|[[desci]]|[[desci]]|13.63 USD|[[desci]]: 16.13 USD [[guilmour]]: 13.65 USD|maio de 2015 a maio de 2016 2.5 USD; maio de 2016 a maio de 2017 13.63 USD|[iikb infra](https://iikb.org/wiki/infra/) [domínios renovados](https://iikb.org/blog/Dom%C3%ADnios_renovados/)
 iikb.org|Gandi| |[[desci]]|[[desci]]|[[desci]]|17.2 USD|[[desci]]: 31.72 USD|abril de 2015 a abril de 2016 15.05 USD; abril de 2016 a abril de 2017 16.67 USD|[iikb infra](https://iikb.org/wiki/infra/) [domínios renovados](https://iikb.org/blog/Dom%C3%ADnios_renovados/)
 iikb.xyz|Gandi| |[[desci]]|[[desci]]|[[desci]]|13.63 USD|[[desci]]: 1 USD|jan/16-jan/17: 1 USD|[iikb infra](https://iikb.org/wiki/infra/) [domínios renovados](https://iikb.org/blog/Dom%C3%ADnios_renovados/)
 lapirata.org|Gandi| |[[desci]]|[[desci]]|[[desci]]|17.2 USD|[[desci]]: 16.67 USD|jan/16-jan/17: 16.67 USD|[iikb infra](https://iikb.org/wiki/infra/)
