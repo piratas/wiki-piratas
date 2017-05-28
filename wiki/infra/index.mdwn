@@ -229,6 +229,7 @@ Endereço (URL, clearnet)|Endereços alternativos|Código fonte|Descrição
 [sul.partidopirata.org](http://sul.partidopirata.org)| |<https://notabug.org/piratas/sul.partidopirata.xyz> <https://github.com/piratas/sul.partidopirata.xyz>|Wiki Piratas Sul
 [tesouraria.partidopirata.org](http://tesouraria.partidopirata.org)| |<https://github.com/piratas/tesouro-pirata>|Site da Tesouraria
 [[wiki.partidopirata.org|index]]| |<https://notabug.org/piratas/wiki-piratas> <https://github.com/piratas/wiki-piratas>|Este site
+[pad.partidopirata.org](http://pad.partidopirata.org)| |<https://github.com/piratas/etherpad-docker>| Pad de edição colaborativa
 """]]
 
 ## Tor
