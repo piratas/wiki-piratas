@@ -200,6 +200,7 @@ entwickler|tor site-iuf-pirata|42090|Site IUF hidden service
 entwickler|tor sftp-pirata|42090|Site SFTP hidden service
 iniciativa|docker-compose tesouro-pirata|42085-42445|<https://github.com/piratas/tesouro-pirata>
 iniciativa|docker-compose site-financiamento|42082-42442|<https://github.com/piratas/site-financiamento>
+iniciativa|docker-compose etherpad-docker|42091|<https://github.com/piratas/etherpad-docker>
 """]]
 
 ## Sites
