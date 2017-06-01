@@ -170,6 +170,12 @@ Considerando que o nome do usuário é "maria" e que o Navegador Tor está numa 
 4. Reinicie o Navegador Tor, reiniciando assim o Tor em si. Se tudo der certo, o Tor deve ter criado o arquivo `C:\Users\maria\Desktop\Tor Browser\Data\Tor\hidden_service\hostname`. Abra este arquivo em qualquer editor de texto, aí está o endereço *.onion* do teu site. Copie e cole ele no Navegador Tor pra testar, e divulgue pras pessoas.
 5. Se alguém usar estas instruções pra hospedar pornografia infantil, alguns de nós abandonarão o discurso de liberdade de expressão e não punitivismo, achar-te-ão e cobrir-te-ão de porrada. E depois ainda vamos acionar o estado malvadão e chamar a polícia fascista pra te levar.
 
+Para instruções mais elaboradas, veja as seguintes páginas:
+
+* <https://www.torproject.org/docs/tor-hidden-service.html>
+* <https://riseup.net/pt/security/network-security/tor/onionservices-best-practices>
+* <https://tor.stackexchange.com/questions/2018/having-trouble-editing-torrc>
+
 ## Whonix
 
 Pra quem já entendeu o que é o Tor e quer usar do jeito certo, Whonix é um sistema que funciona dentro do próprio sistema que tu já usa. É possível instalar Whonix como uma máquina virtual no Windows, Linux, etc. sem precisar formatar o disco como no caso do Qubes ou usar pendrives como no caso do Tails.
@@ -210,3 +216,7 @@ Site do Grupo de Trabalho de Tecnologia da Informação do Partido Pirata: <http
 
 Fórum de Desgovernança da Internet Brasil 2015 foi um evento realizado pelo Partido Pirata: <http://v27tzey35klcfrpw.onion>
 
+[a]: https://www.torproject.org/docs/tor-hidden-service.html
+
+[[!meta title="Mais sobre Tor"]]
+[[!tag tor onion]]
