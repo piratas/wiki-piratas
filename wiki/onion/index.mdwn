@@ -1,0 +1,37 @@
+[[!toc levels=6]]
+
+---
+
+# Diretório de sites .onion do Partido Pirata
+
+Alguns serviços podem mudar de endereço, acesse a versão mais atual em **<https://wiki.partidopirata.org/wiki/onion>**
+## Social Pirata
+
+Social Pirata é uma instância de GNU Social, que só pode ser acessada através deste serviço oculto, porque o domínio que era utilizado deixou de ser pago: <http://social5dgegf5a7k.onion/>
+
+## Mumble Pirata
+
+Mumble é uma ferramenta de audioconferência utilizada para reuniões do Partido Pirata. Este endereço é o site informativo e também é o endereço que pode ser utilizado para acessar o servidor mumble: <http://mumble4htdctgdd7.onion/>
+
+## FTP Pirata
+
+Nós temos um servidor de arquivos onde as pessoas podem enviar arquivos anonimamente: <http://2jhmnwu6yep6bdhm.onion>
+
+## Site do GTI
+
+Site do Grupo de Trabalho de Tecnologia da Informação do Partido Pirata: <http://joxeelupougy3vqq.onion>
+
+## Site do IUF Brasil 2015
+
+Fórum de Desgovernança da Internet Brasil 2015 foi um evento realizado pelo Partido Pirata: <http://v27tzey35klcfrpw.onion>
+
+---
+
+# Outros sites
+
+Sites que não são do Partido Pirata
+
+**`TODO`**: Fazer lista de sites *.onion*
+
+[[!meta title="Lista de serviços ocultos"]]
+[[!tag pendente]]
