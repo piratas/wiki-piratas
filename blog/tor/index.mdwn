@@ -1,0 +1,212 @@
+[[!toc levels=6]]
+
+---
+
+# Porque Tor?
+
+Alguns sites e serviços do Partido Pirata estão sendo disponibilizados como [serviços ocultos][a]. Nem todo mundo está acostumada(o) com esta tecnologia, então resolvi escrever sobre este assunto para explanar do que se tratam.
+
+# Tor não é aquela coisa de deep web?
+
+Embora eu não tenha como saber qual é o conhecimento de todo mundo que está lendo isto sobre o Tor, eu posso presumir corretamente que todo mundo já ouviu falar da "deep web".
+
+Outra coisa que eu posso presumir é que o que o canal de influência promove é que *deep web* é uma coisa obscura, feia, macabra.
+
+Eu digo "canal de influência", porque no Brasil existe um monopólio da veracidade de informação enraizado que ainda não tirou a Rede Globo do poder até hoje, não obstante o acesso amplo que as pessoas têm, por exemplo, à própria internet convencional.
+
+Na Wikipedia e em outros sites informativos há esclarecimentos acerca das diferenças entre darknet, deep web, tecnologias para privacidade, anonimização, etc. Mas estas informações não são direcionadas e específicas pra ajudar a limpar o fertilizante que é colocado na mente das pessoas no Brasil acerca do Tor.
+
+## Creepypasta
+
+A cultura da *[creepypasta](https://en.wikipedia.org/wiki/Creepypasta)* já existia antes do 4chan, do Tor, da Freenet, e com certeza antes da Internet em si.
+
+Aqui no Brasil foi uma época especialmente notável o fenômeno dos perfis falsos no Orkut, e a quantidade massiva de pessoas criando histórias falsas e até ARGs inteiros pelo puro prazer de entreter as outras pessoas, ou algumas vezes com uma agenda política como segunda intenção.
+
+Qualquer pessoa que se ocupar em "surfar na deep web" pra procurar atrocidades, vai encontrar. Isto também vai acontecer pra quem desabilitar o "safesearch" da Google e fizer buscas de coisas obscuras, macabras ou indesejáveis na internet convencional.
+
+Enquanto é correto afirmar que redes como o Tor dificultam a censura de material indesejável, é incorreto afirmar que a rede Tor abriga uma grande quantidade de material indesejável.
+
+Coisas obscuras e macabras existem dentro dos armários das pessoas, nas calçadas das cidades e dentro do nariz de todo mundo. Eu que estou na internet há décadas, nunca vi nada de surpreendente em serviços ocultos na rede Tor que eu não tenha visto em outra ocasião na internet convencional ou no mundo real. Eu desafio alguém a achar algo horrível ou abominável que me surpreenda.
+
+## Então pra que é que serve o Tor?
+
+Tor foi criado pela marinha americana pra ajudar militares a estabelecer comunicação segura com as forças armadas. Um soldado em território inimigo não pode acessar serviços do governo abrindo um navegador convencional em uma rede insegura. Ele precisa usar a internet de forma inteligente, porque a vida dele depende disto.
+
+Ou seja, Tor é uma ferramenta de comunicação segura. Desenvolvida e mantida por gente que está concentrada em garantir seu anonimato, sua privacidade e sua segurança.
+
+Eu uso Tor por exemplo para acessar servidores remotos via SSH. Endereços IP fixos custam muito caro, e serviços de DNS dinâmico são baratos mas são bloqueados em alguns lugares. Então quando eu preciso acessar uma máquina que está na minha casa, ou aonde eu trabalho, ou em outro país, o jeito mais fácil e seguro quase sempre é usar Tor.
+
+Isto é muito mais seguro do que enviar a senha do wordpress por FTP ou botar senhas em sites sem certificado SSL nem nada, usando a rede dos outros.
+
+Casos mais práticos pra usuárias(os) comuns de internet são serviços web disponíveis como serviços ocultos, como por exemplo:
+
+### Motor de busca
+
+Duckduckgo é um mecanismo de busca tão bom ou melhor que Google, e tem um serviço tor neste endereço: https://3g2upl4pq6kufc4m.onion/
+
+As buscas feitas através deste serviço são suficientemente anônimas, seguras, privadas, etc. E não dói.
+
+### Ferramenta de jornalismo
+
+Secure Drop é uma ferramenta para envio de material para veículos de jornalismo de forma segura e anônima, conforme prevê a legislação vigente (inclusive no Brasil): http://secrdrop5wyphb5x.onion/
+
+O Tor é usado neste caso para garantir o anonimato da fonte que está enviando a informação, e o software secure drop garante que o material vai chegar no veículo ou no jornalista.
+
+GlobaLeaks é outra ferramenta com um propósito semelhante.
+
+### Mensageiro instantâneo
+
+Ricochet é uma ferramenta de mensagem instantânea, que nem Whatsapp, Telegram, etc. que usa Tor para o envio de mensagens. O nome de usuário é uma chave pública Tor, da mesma forma que um endereço de um serviço oculto.
+
+A dificuldade de decorar um nome de usuário Ricochet é praticamente a mesma que decorar um número de telefone, então usar Ricochet é tão difícil quanto usar Whatsapp. Alias, é mais fácil, porque não precisa instalar nada.
+
+Leia mais em https://ricochet.im/
+
+## Partido Pirata
+
+Este artigo era pra ser simplesmente uma lista de sites do Partido Pirata acessíveis por serviços ocultos Tor. Eu escrevi todo o resto só porque as pessoas perguntam porque é que eu tive o trabalho de configurar todos eles.
+
+Pra mim é óbvio que disponibilizar sites através de serviços ocultos é importante, mas é justo elencar alguns motivos:
+
+### Resistência à censura
+
+Serviços ocultos não sofrem censura tão facilmente quanto serviços disponíveis somente por métodos convencionais. Nomes de domínios convencionais como por exemplo **partidopirata.org** podem ser tirados do ar por governos, empresas, organizações políticas rivais, etc. No Brasil não é tão difundida esta prática, até porque quando acontece ninguém dá muita atenção contanto que o facebook continue funcionando, mas em vários lugares do mundo, este tipo de coisa é uma notícia diária.
+
+Exemplos de sites que estão na internet convencional mas também contam com um serviço oculto como forma de resiliência (além dos já citados anteriormente):
+
+* Riseup - https://riseup.net/pt/security/network-security/tor#servi%C3%A7os-ocultos-do-riseup
+* Debian - https://onion.debian.org/
+* Whonix - http://kkkkkkkkkk63ava6.onion/
+* Ahmia - http://msydqstlz2kzerdg.onion/
+* The Pirate Bay - http://uj3wazyk5u4hnvtk.onion/
+* Facebook - https://facebookcorewwwi.onion/
+* LQDN - http://lqdnwwwmaouokzmg.onion/
+
+Sites .onion do Partido Pirata são listados no final deste artigo.
+
+## Outras ferramentas também atribuídas à "deep web"
+
+### Freenet
+
+Freenet é uma rede com foco em anonimato e privacidade mais antiga ainda que Tor. No caso dos serviços do Partido Pirata, o foco é distribuir e publicizar o máximo possível, daí a escolha pelo Tor.
+
+Quem quiser partir pra internet de fato incensurável, privativa e anônima pode usar a Freenet hoje mesmo: https://freenetproject.org/
+
+### Inivisible Internet
+
+I2P é um projeto similar ao Tor que está em desenvolvimento e também providencia uma rede alternativa à internet convencional. As pessoas envolvidas buscam usar técnicas melhores que as utilizadas no Tor e providenciar uma ferramenta superior. Por consequência disto, e porque há menos interesse e desenvolvimento, este projeto ainda está mais imaturo do que Freenet e Tor, mas é possível utilizar em carater experimental: https://geti2p.net/pt/
+
+### GNU Net
+
+GNU Net é o projeto pra "consertar a internet" do projeto GNU, que todo mundo adora adorar ou odiar. Leia mais em https://gnunet.org
+
+### Zeronet
+
+Zeronet é uma ferramenta recente que usa bitorrent e bitcoin para criar um sistema de hospedagem coletiva e distribuída de sites, funcionando como uma internet só de navegação e interação no navegador.
+
+Cada pessoa que acessa um site na zeronet se torna um servidor daquele site, e portanto, qualquer site que ainda tenha pelo menos uma pessoa semeando é incensurável. Cabe notar que isto é o exato oposto do anonimato pretendido pelas ferramentas anteriores, ainda mais usando a tecnologia bitorrent.
+Sendo assim, é sugerido que se use a Zeronet em conjunto com o Tor, apesar de que esta abordagem está em fase de testes.
+
+Notavelmente uma parte expressiva da comunidade chinesa têm utilizado a Zeronet cada vez mais nos últimos meses, o que pode significar que esta é uma ferramenta fácil de aprender a usar. Aprenda mais em https://zeronet.io/
+
+## Mitos
+
+Algumas coisas que falam e que eu não concordo
+
+> *"-Se Tor é do exército americano, então é óbvio que eu não confio nisto!"*
+
+Em primeiro lugar, quem dispara um absurdo destes geralmente faz uso intensivo do Facebook, então isto nem se qualifica como uma afirmação. De qualquer forma, Tor é software livre, acompanhado e auditado por muita gente séria do mundo inteiro, e amplamente utilizado por grupos de direitos humanos, jornalismo, segurança da informação, e sim, militares.
+Mas não vou ser eu que vou dizer pra confiar em mim ou em "muita gente séria". Estude segurança da informação e analise por si mesma(o).
+
+> *"-Eu vi no Fantástico que isso aí é lar de terroristas, pedófilos, traficantes, matadores de aluguel, neo nazistas e tudo quanto é coisa ruim."*
+
+Eu sei. É exatamente isto que eu estou dizendo neste artigo. Não tem nenhuma lei te obrigando a encher o cérebro de merda, tu ta fazendo isto voluntariamente.
+
+> *"-Eu não acho que a NSA está escondida embaixo do meu travesseiro e não vou perder meu tempo com isso, não tenho nada pra esconder e consigo acessar o site do partido pirata sem nada disto."*
+
+Mas na Venezuela, no oriente médio, na Europa, etc. as pessoas têm sites censurados diariamente. Não é porque o Brasil é o país da anarquia e da desobediência civil (no sentido estúpido destes conceitos), onde todo mundo faz o que quer e fica impune, que essa zueira vai durar pra sempre.
+
+# Ta, me convenceu, como é que eu faço pra acessar isto?
+
+Vou tentar apresentar as formas de acessar a rede Tor, do jeito mais fácil e inseguro até o jeito mais difícil e seguro:
+
+## Tor2Web
+
+O jeito mais rápido de acessar qualquer serviço na rede Tor é usando Tor2Web, um projeto começado por Aaron Swartz (R.I.P.) para ajudar as pessoas a terem acesso à informação em um tempo em que ainda era difícil pra maioria das pessoas usar Tor.
+
+Acessar serviços ocultos com tor2web significa abrir mão da privacidade e do anonimato para favorecer a facilidade de acesso. Para ler mais sobre Tor2Web: https://tor2web.org/
+
+Para navegar em sites ocultos agora mesmo em qualquer navegador usando a busca da Google: https://onion.link/
+
+Busca de sites .onion: http://msydqstlz2kzerdg.onion/ ou https://ahmia.fi/
+
+## Navegador Tor
+
+Baixar o Navegador Tor é o jeito mais fácil de obter todos os benefícios da rede Tor de uma forma simples e intuitiva. Isto deve funcionar em praticamente qualquer sistema (Windows, Linux, OS X, Android, etc.): https://www.torproject.org/download/download-easy.html
+
+Não sabe o que fazer depois que abrir o Navegador Tor? Comece abrindo o Facebook do jeito mais seguro possível: https://facebookcorewwwi.onion/
+
+### "-Como assim Facebook???"
+
+Apesar de "Facebook" e "privacidade" serem mutuamente exclusivos, o fato do serviço oculto mais famoso ser justamente o site do Facebook é um exemplo de que Tor não é um lugar onde só tem site obscuro, macabro e de conteúdo duvidoso. Não, pera...
+
+### Aonde estão os sites?
+
+Quer achar mais sites ocultos e não sabe por onde começar? Busca de sites .onion: http://msydqstlz2kzerdg.onion/ Endereço na clearnet: https://ahmia.fi/
+
+### Eu quero botar os meus sites no ar!
+
+Guia rápido para Windows (pule ou faça diferente algumas partes se souber o que está fazendo):
+
+1. Abra com o bloco de notas ou qualquer editor de texto o arquivo `Data/Tor/torrc` no diretório onde foi instalado o Navegador Tor.
+2. Adicione as seguintes linhas no arquivo (nesta ordem):
+    HiddenServiceDir C:\Users\maria\Desktop\Tor Browser\Data\Tor\hidden_service\
+    HiddenServicePort 80 127.0.0.1:80
+Considerando que o nome do usuário é "maria" e que o Navegador Tor está numa área de trabalho do Windows 7 ou mais recente.
+3. Instale um servidor web
+3.1. Extraia este arquivo em qualquer lugar do computador: https://nginx.org/download/nginx-1.13.1.zip
+3.2. Acrescente arquivos .html no diretório `nginx-1.13.1\html`, edite o arquivo `index.html`, que será a página inicial do site.
+3.3. Rode o arquivo `nginx.exe`. Não vai aparecer nada, mas o servidor web estará rodando na porta 80.
+4. Reinicie o Navegador Tor, reiniciando assim o Tor em si. Se tudo der certo, o Tor deve ter criado o arquivo `C:\Users\maria\Desktop\Tor Browser\Data\Tor\hidden_service\hostname`. Abra este arquivo em qualquer editor de texto, aí está o endereço *.onion* do teu site. Copie e cole ele no Navegador Tor pra testar, e divulgue pras pessoas.
+5. Se alguém usar estas instruções pra hospedar pornografia infantil, alguns de nós abandonarão o discurso de liberdade de expressão e não punitivismo, achar-te-ão e cobrir-te-ão de porrada. E depois ainda vamos acionar o estado malvadão e chamar a polícia fascista pra te levar.
+
+## Whonix
+
+Pra quem já entendeu o que é o Tor e quer usar do jeito certo, Whonix é um sistema que funciona dentro do próprio sistema que tu já usa. É possível instalar Whonix como uma máquina virtual no Windows, Linux, etc. sem precisar formatar o disco como no caso do Qubes ou usar pendrives como no caso do Tails.
+
+Requer um pouco de dedicação pra quem não está acostumada(o), mas é relativamente fácil instalar Whonix, basta seguir as instruções: https://www.whonix.org/download/
+
+Todo o tráfego é encapsulado pelo Tor, e portanto é impossível revelar a localização de quem está usando o Navegador Tor dentro do Whonix, mesmo que o sistema operacional do computador não seja seguro.
+
+## Tails
+
+Para quem não confia no próprio computador, ou quer um jeito de usar Tor em qualquer lugar, o Tails é um sistema operacional que é instalado em um pendrive, feito para não deixar rastros. Além de acessar a rede Tor, é um método útil para trabalhar com arquivos de forma suficientemente anônima, privativa e segura, sem deixar históricos, registros e marcas no computador onde for utilizado.
+
+Mais paranoia que isto, só usando Qubes com Whonix em uma cadeia de VPNs, com alta cirptografia e máquinas virtuais descartáveis que nem eu faço aqui.
+
+Tutorial interativo para instalação: https://tails.boum.org/install/index.pt.html
+
+# Lista de serviços ocultos do Partido Pirata
+
+A versão mais atualizada desta lista deve estar na wiki: https://wiki.partidopirata.org/wiki/onion
+
+## Social Pirata
+
+Social Pirata é uma instância de GNU Social, que só pode ser acessada através deste serviço oculto, porque o domínio que era utilizado deixou de ser pago: <http://social5dgegf5a7k.onion/>
+
+## Mumble Pirata
+
+Mumble é uma ferramenta de audioconferência utilizada para reuniões do Partido Pirata. Este endereço é o site informativo e também é o endereço que pode ser utilizado para acessar o servidor mumble: <http://mumble4htdctgdd7.onion/>
+
+## FTP Pirata
+
+Nós temos um servidor de arquivos onde as pessoas podem enviar arquivos anonimamente: <http://2jhmnwu6yep6bdhm.onion>
+
+## Site do GTI
+
+Site do Grupo de Trabalho de Tecnologia da Informação do Partido Pirata: <http://joxeelupougy3vqq.onion>
+
+## Site do IUF Brasil 2015
+
+Fórum de Desgovernança da Internet Brasil 2015 foi um evento realizado pelo Partido Pirata: <http://v27tzey35klcfrpw.onion>
+
