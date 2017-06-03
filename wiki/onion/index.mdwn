@@ -5,25 +5,137 @@
 # Diretório de sites .onion do Partido Pirata
 
 Alguns serviços podem mudar de endereço, acesse a versão mais atual em **<https://wiki.partidopirata.org/wiki/onion>**
-## Social Pirata
 
-Social Pirata é uma instância de GNU Social, que só pode ser acessada através deste serviço oculto, porque o domínio que era utilizado deixou de ser pago: <http://social5dgegf5a7k.onion/>
+## Site do Partido Pirata
 
-## Mumble Pirata
+<http://piratasxmu4ven46.onion>
+
+---
+
+## Coletivos regionais
+
+### Piratas Gaúchos
+
+<http://gau7tkjiqx5v7qfg.onion>
+
+### Movimento Pirata Mineiro
+
+<http://mg4hkdeljcl6n4pl.onion>
+
+### Coletivo Mineiro
+
+Site do Coletivo Mineiro do Partido Pirata: <http://mgsnjbysh24rxdnw.onion>
+
+### Forum Pirata MG
+
+Discourse <http://mgfnpl7p3kglftnk.onion>
+
+### Site de São Paulo
+
+<https://sp2jp75hdpxxqug5.onion>
+
+### Piratas Sul
+
+<https://sultytmrawcxcnw3.onion>
+
+---
+
+## Grupos de trabalho
+
+### Site do GTC
+
+Site do Grupo de Trabalho de Comunicação do Partido Pirata: <http://gtcnragsy3lx55p2.onion>
+
+### Site do GTI
+
+Site do Grupo de Trabalho de Tecnologia da Informação do Partido Pirata: <http://gticmrgitxepelle.onion>
+
+---
+
+## Outros sites do Partido Pirata
+
+### II ANAPIRATA
+
+<http://ana5s26zq5enf6ov.onion>
+
+### Coleta de assinaturas / apoiamento
+
+<http://apo5yfpbivxd5obb.onion>
+
+### Iniciativa Pirata
+
+<http://iniadkcgvnqvz7fv.onion>
+
+### Site do IUF Brasil 2015
+
+Fórum de Desgovernança da Internet Brasil 2015 foi um evento realizado pelo Partido Pirata: <http://iufywjvpmxty53fy.onion>
+
+### Loomio Pirata
+
+<http://lomaxbahzywqmyvg.onion>
+
+### Tesouraria Pirata
+
+<http://tesu5lmwhxql2oen.onion>
+
+### Wiki Pirata
+
+Este site!
+
+<http://wikibvg7ty3xsboc.onion>
+
+---
+
+## Serviços e ferramentas
+
+### Biblioteca Pirata
+
+Mediagoblin <http://bibvznfpj46ymcwr.onion>
+
+### FTP Pirata
+
+Nós temos um servidor de arquivos onde as pessoas podem enviar arquivos anonimamente: <http://ftp37tqcn2nwfkjk.onion>
+
+### Mumble Pirata
 
 Mumble é uma ferramenta de audioconferência utilizada para reuniões do Partido Pirata. Este endereço é o site informativo e também é o endereço que pode ser utilizado para acessar o servidor mumble: <http://mumble4htdctgdd7.onion/>
 
-## FTP Pirata
+Este endereço escuta nas portas **80** (somente site) e **64738** (somente mumble).
 
-Nós temos um servidor de arquivos onde as pessoas podem enviar arquivos anonimamente: <http://2jhmnwu6yep6bdhm.onion>
+### Etherpad
 
-## Site do GTI
+<http://padrw2aemzoggqyf.onion>
 
-Site do Grupo de Trabalho de Tecnologia da Informação do Partido Pirata: <http://joxeelupougy3vqq.onion>
+### Social Pirata
 
-## Site do IUF Brasil 2015
+Social Pirata é uma instância de GNU Social, que só pode ser acessada através deste serviço oculto, porque o domínio que era utilizado deixou de ser pago: <http://social5dgegf5a7k.onion/>
 
-Fórum de Desgovernança da Internet Brasil 2015 foi um evento realizado pelo Partido Pirata: <http://v27tzey35klcfrpw.onion>
+### Web torrent
+
+<http://btweb36l5cxqtcg4.onion>
+
+### Instant.io
+
+<http://twebheztijgt5qhj.onion>
+
+---
+
+## SSH em entwickler
+
+Este endereço só escuta na porta 22
+
+**sshyrmfjm2ez33sx.onion**
+
+---
+
+## Endereços antigos
+
+Use os novos e atualize os favoritos
+
+FTP: *2jhmnwu6yep6bdhm.onion*  
+GTI: *joxeelupougy3vqq.onion*  
+IUF: *v27tzey35klcfrpw.onion*  
+GNU Social: *ro4a6wyb4bjqpqgg.onion*  
 
 ---
 
@@ -32,6 +144,8 @@ Fórum de Desgovernança da Internet Brasil 2015 foi um evento realizado pelo Pa
 Sites que não são do Partido Pirata
 
 **`TODO`**: Fazer lista de sites *.onion*
+
+**`TODO`**: Completar descrição de cada site
 
 [[!meta title="Lista de serviços ocultos"]]
 [[!tag pendente]]
