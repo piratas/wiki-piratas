@@ -98,11 +98,11 @@ O meu site pessoal por exemplo está hospedado aqui no meu quarto: <http://pa2wo
 
 Freenet é uma rede com foco em anonimato e privacidade mais antiga ainda que Tor. No caso dos serviços do Partido Pirata, o foco é distribuir e publicizar o máximo possível, daí a escolha pelo Tor.
 
-Quem quiser partir pra internet de fato incensurável, privativa e anônima pode usar a Freenet hoje mesmo: https://freenetproject.org/
+Quem quiser partir pra internet de fato incensurável, privativa e anônima pode usar a Freenet hoje mesmo: <https://freenetproject.org/>
 
 ### Inivisible Internet
 
-I2P é um projeto similar ao Tor que está em desenvolvimento e também providencia uma rede alternativa à internet convencional. As pessoas envolvidas buscam usar técnicas melhores que as utilizadas no Tor e providenciar uma ferramenta superior. Por consequência disto, e porque há menos interesse e desenvolvimento, este projeto ainda está mais imaturo do que Freenet e Tor, mas é possível utilizar em carater experimental: https://geti2p.net/pt/
+I2P é um projeto similar ao Tor que está em desenvolvimento e também providencia uma rede alternativa à internet convencional. As pessoas envolvidas buscam usar técnicas melhores que as utilizadas no Tor e providenciar uma ferramenta superior. Por consequência disto, e porque há menos interesse e desenvolvimento, este projeto ainda está mais imaturo do que Freenet e Tor, mas é possível utilizar em carater experimental: <https://geti2p.net/pt/>
 
 ### GNU Net
 
@@ -115,7 +115,7 @@ Zeronet é uma ferramenta recente que usa bitorrent e bitcoin para criar um sist
 Cada pessoa que acessa um site na zeronet se torna um servidor daquele site, e portanto, qualquer site que ainda tenha pelo menos uma pessoa semeando é incensurável. Cabe notar que isto é o exato oposto do anonimato pretendido pelas ferramentas anteriores, ainda mais usando a tecnologia bitorrent.
 Sendo assim, é sugerido que se use a Zeronet em conjunto com o Tor, apesar de que esta abordagem está em fase de testes.
 
-Notavelmente uma parte expressiva da comunidade chinesa têm utilizado a Zeronet cada vez mais nos últimos meses, o que pode significar que esta é uma ferramenta fácil de aprender a usar. Aprenda mais em https://zeronet.io/
+Notavelmente uma parte expressiva da comunidade chinesa têm utilizado a Zeronet cada vez mais nos últimos meses, o que pode significar que esta é uma ferramenta fácil de aprender a usar. Aprenda mais em <https://zeronet.io/>
 
 ## Mitos
 
@@ -142,17 +142,17 @@ Vou tentar apresentar as formas de acessar a rede Tor, do jeito mais fácil e in
 
 O jeito mais rápido de acessar qualquer serviço na rede Tor é usando Tor2Web, um projeto começado por Aaron Swartz (R.I.P.) para ajudar as pessoas a terem acesso à informação em um tempo em que ainda era difícil pra maioria das pessoas usar Tor.
 
-Acessar serviços ocultos com tor2web significa abrir mão da privacidade e do anonimato para favorecer a facilidade de acesso. Para ler mais sobre Tor2Web: https://tor2web.org/
+Acessar serviços ocultos com tor2web significa abrir mão da privacidade e do anonimato para favorecer a facilidade de acesso. Para ler mais sobre Tor2Web: <https://tor2web.org/>
 
 Para navegar em sites ocultos agora mesmo em qualquer navegador usando a busca da Google: https://onion.link/
 
-Busca de sites .onion: http://msydqstlz2kzerdg.onion/ ou https://ahmia.fi/
+Busca de sites .onion: <http://msydqstlz2kzerdg.onion/> ou <https://ahmia.fi/>
 
 ## Navegador Tor
 
-Baixar o Navegador Tor é o jeito mais fácil de obter todos os benefícios da rede Tor de uma forma simples e intuitiva. Isto deve funcionar em praticamente qualquer sistema (Windows, Linux, OS X, Android, etc.): https://www.torproject.org/download/download-easy.html
+Baixar o Navegador Tor é o jeito mais fácil de obter todos os benefícios da rede Tor de uma forma simples e intuitiva. Isto deve funcionar em praticamente qualquer sistema (Windows, Linux, OS X, Android, etc.): <https://www.torproject.org/download/download-easy.html>
 
-Não sabe o que fazer depois que abrir o Navegador Tor? Comece abrindo o Facebook do jeito mais seguro possível: https://facebookcorewwwi.onion/
+Não sabe o que fazer depois que abrir o Navegador Tor? Comece abrindo o Facebook do jeito mais seguro possível: <https://facebookcorewwwi.onion/>
 
 ### "-Como assim Facebook???"
 
@@ -160,7 +160,7 @@ Apesar de "Facebook" e "privacidade" serem mutuamente exclusivos, o fato do serv
 
 ### Aonde estão os sites?
 
-Quer achar mais sites ocultos e não sabe por onde começar? Busca de sites .onion: http://msydqstlz2kzerdg.onion/ Endereço na clearnet: https://ahmia.fi/
+Quer achar mais sites ocultos e não sabe por onde começar? Busca de sites .onion: <http://msydqstlz2kzerdg.onion/> Endereço na clearnet: <https://ahmia.fi/>
 
 ### Eu quero botar os meus sites no ar!
 
@@ -188,7 +188,7 @@ Para instruções mais elaboradas, veja as seguintes páginas:
 
 Pra quem já entendeu o que é o Tor e quer usar do jeito certo, Whonix é um sistema que funciona dentro do próprio sistema que tu já usa. É possível instalar Whonix como uma máquina virtual no Windows, Linux, etc. sem precisar formatar o disco como no caso do Qubes ou usar pendrives como no caso do Tails.
 
-Requer um pouco de dedicação pra quem não está acostumada(o), mas é relativamente fácil instalar Whonix, basta seguir as instruções: https://www.whonix.org/download/
+Requer um pouco de dedicação pra quem não está acostumada(o), mas é relativamente fácil instalar Whonix, basta seguir as instruções: <https://www.whonix.org/download/>
 
 Todo o tráfego é encapsulado pelo Tor, e portanto é impossível revelar a localização de quem está usando o Navegador Tor dentro do Whonix, mesmo que o sistema operacional do computador não seja seguro.
 
@@ -198,7 +198,7 @@ Para quem não confia no próprio computador, ou quer um jeito de usar Tor em qu
 
 Mais paranoia que isto, só usando Qubes com Whonix em uma cadeia de VPNs, com alta cirptografia e máquinas virtuais descartáveis que nem eu faço aqui.
 
-Tutorial interativo para instalação: https://tails.boum.org/install/index.pt.html
+Tutorial interativo para instalação: <https://tails.boum.org/install/index.pt.html>
 
 # Lista de alguns serviços ocultos do Partido Pirata
 
@@ -219,10 +219,6 @@ Mumble é uma ferramenta de audioconferência utilizada para reuniões do Partid
 ## FTP Pirata
 
 Nós temos um servidor de arquivos onde as pessoas podem enviar arquivos anonimamente: <http://ftp37tqcn2nwfkjk.onion/>
-
-## Site do GTI
-
-Site do Grupo de Trabalho de Tecnologia da Informação do Partido Pirata: <http://joxeelupougy3vqq.onion>
 
 ## Site do IUF Brasil 2015
 
