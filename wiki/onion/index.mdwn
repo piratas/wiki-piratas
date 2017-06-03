@@ -1,16 +1,14 @@
+# Diretório de sites .onion do Partido Pirata
+
+Alguns serviços podem mudar de endereço, acesse a versão mais atual em **<https://wiki.partidopirata.org/wiki/onion>** ou **<http://wikibvg7ty3xsboc.onion/wiki/onion>**
+
 [[!toc levels=6]]
 
 ---
 
-# Diretório de sites .onion do Partido Pirata
-
-Alguns serviços podem mudar de endereço, acesse a versão mais atual em **<https://wiki.partidopirata.org/wiki/onion>**
-
 ## Site do Partido Pirata
 
 <http://piratasxmu4ven46.onion>
-
----
 
 ## Coletivos regionais
 
