@@ -139,6 +139,10 @@ Disponível em:
 
 Atualmente armazenando temporariamente os backups dos servidores suecos para análise e migração, inclusive o noosfero (antiga social pirata).
 
+#### Tor
+
+[[Lista de serviços tor|onion]]
+
 ---
 
 ## bastidores.org
@@ -189,21 +193,42 @@ Lembre de adicionar todas as portas que usar e verifique qual é a próxima port
 [[!table class="table table-bordered table-striped" data="""
 Servidor|Nome do(s) serviço(s)|Porta(s)|Descrição
 entwickler|ssh e sftp|4242|entwickler não escuta na porta 22
-entwickler|docker-compose site-www|42080,42440|<https://github.com/piratas/piratas-site>
-entwickler|docker-compose site-anapirata|42081,42441|<https://github.com/piratas/anapirata-site>
-entwickler|docker-compose site-saopaulo|42083,42443|<https://github.com/piratas/site-saopaulo>
-entwickler|docker-compose site-gtc|42084,42444|<https://github.com/piratas/site-gtc>
-entwickler|tor social-pirata|42086,42088|Social Pirata hidden service
-entwickler|tor mumble-pirata|42087|Site Mumble hidden service
-entwickler|tor site-gti-pirata|42089|Site GTI hidden service
-entwickler|tor site-iuf-pirata|42090|Site IUF hidden service
-entwickler|tor sftp-pirata|42090|Site SFTP hidden service
-iniciativa|docker-compose tesouro-pirata|42085-42445|<https://github.com/piratas/tesouro-pirata>
-iniciativa|docker-compose site-financiamento|42082-42442|<https://github.com/piratas/site-financiamento>
-iniciativa|docker-compose etherpad-docker|42091|<https://github.com/piratas/etherpad-docker>
+entwickler|docker-compose site-www|42080 e 42440|<https://github.com/piratas/piratas-site>
+entwickler|docker-compose site-anapirata|42081 e 42441|<https://github.com/piratas/anapirata-site>
+iniciativa|docker-compose site-financiamento|42082 e 42442|<https://github.com/piratas/site-financiamento>
+entwickler|docker-compose site-saopaulo|42083 e 42443|<https://github.com/piratas/site-saopaulo>
+entwickler|docker-compose site-gtc|42084 e 42444|<https://github.com/piratas/site-gtc>
+iniciativa|docker-compose tesouro-pirata|42085 e 42445|<https://github.com/piratas/tesouro-pirata>
+iniciativa|docker-compose etherpad-docker|42091 e 42905|<https://github.com/piratas/etherpad-docker>
+entwickler|tor sftp-pirata|42901|Site SFTP hidden service
+entwickler|tor social-pirata|42902 e 42909|Social Pirata hidden service
+entwickler|tor site-gti-pirata|42903 e 42915|Site GTI hidden service
+entwickler|tor site-iuf-pirata|42904 e 42907|Site IUF hidden service
+entwickler|tor site-btorrent-pirata|42906|Site Btorrent hidden service
+entwickler|tor biblioteca-pirata|42908|Biblioteca Pirata hidden service
+entwickler|tor social-pirata|42909|Social Pirata hidden service
+entwickler|tor site-apoio-pirata|42910|Site Apoio hidden service
+entwickler|tor site-mg-pirata|42911|Site Wordpress Minas Gerais hidden service
+entwickler|tor site-torrent-pirata|42912|Site Instant.io hidden service
+entwickler|tor site-sul-pirata|42913|Site Piratas Sul hidden service
+entwickler|tor wiki-pirata|42914|Ikiwiki Pirata hidden service
+entwickler|tor site-loomio-pirata|42916|Redirecionamento para loomio hidden service
+entwickler|tor site-piratasgauchos-pirata|42917|Redirecionamento para <del>piratasgauchos.com.br</del> hidden service
+entwickler|tor site-partidopiratamg-pirata|42918|Redirecionamento para partidopiratamg.org hidden service
+entwickler|tor forum-partidopiratamg-pirata|42919|Redirecionamento para forum.partidopiratamg.org hidden service
+entwickler|tor mumble-pirata|42920|Site Mumble hidden service
+entwickler|tor docker-compose site-www|42980|<https://github.com/piratas/piratas-site>
+entwickler|tor docker-compose site-anapirata|42981|<https://github.com/piratas/anapirata-site>
+entwickler|tor docker-compose site-financiamento|42982|<https://github.com/piratas/site-financiamento>
+entwickler|tor docker-compose site-saopaulo|42983|<https://github.com/piratas/site-saopaulo>
+entwickler|tor docker-compose site-gtc|42984|<https://github.com/piratas/site-gtc>
+entwickler|tor docker-compose tesouro-pirata|42985|<https://github.com/piratas/tesouro-pirata>
+entwickler|tor docker-compose etherpad-docker|42991|<https://github.com/piratas/etherpad-docker>
 """]]
 
 ## Sites
+
+*`TODO`*: Adicionar endereços tor
 
 [[!table class="table table-bordered table-striped" data="""
 Endereço (URL, clearnet)|Endereços alternativos|Código fonte|Descrição
@@ -211,7 +236,8 @@ Endereço (URL, clearnet)|Endereços alternativos|Código fonte|Descrição
 [apoio.partidopirata.org](http://apoio.partidopirata.org)| |<https://github.com/piratas/apoio-piratas>|Hotsite para coleta de assinaturas
 [biblioteca.partidopirata.org](http://biblioteca.partidopirata.org)| |<https://notabug.org/piratas/biblioteca>|Mediagoblin
 [gtc.partidopirata.org](http://gtc.partidopirata.org)| | |Site do [[GTC]]
-[gti.partidopirata.org](http://gti.partidopirata.org)|<https://piratas.github.io>|<https://github.com/piratas/piratas.github.io>|Github Pages
+[gti.partidopirata.org](http://gti.partidopirata.org)|<https://github.partidopirata.org> <https://piratas.github.io>|<https://github.com/piratas/piratas.github.io>|Github Pages
+[etherpad.partidopirata.org](http://etherpad.partidopirata.org)| |<https://github.com/piratas/etherpad-docker>| Pad de edição colaborativa
 [ftp.partidopirata.org](http://ftp.partidopirata.org)| | |Instruções para acessar sftp
 <del>internetlivre.cc</del>| | |*<del>`PHP mal configurado desde 2017-04-28`</del>*
 [iniciativa.partidopirata.org](http://iniciativa.partidopirata.org)| |<https://github.com/piratas/site-financiamento>|Iniciativa Pirata
@@ -229,19 +255,11 @@ Endereço (URL, clearnet)|Endereços alternativos|Código fonte|Descrição
 [sul.partidopirata.org](http://sul.partidopirata.org)| |<https://notabug.org/piratas/sul.partidopirata.xyz> <https://github.com/piratas/sul.partidopirata.xyz>|Wiki Piratas Sul
 [tesouraria.partidopirata.org](http://tesouraria.partidopirata.org)| |<https://github.com/piratas/tesouro-pirata>|Site da Tesouraria
 [[wiki.partidopirata.org|index]]| |<https://notabug.org/piratas/wiki-piratas> <https://github.com/piratas/wiki-piratas>|Este site
-[pad.partidopirata.org](http://pad.partidopirata.org)| |<https://github.com/piratas/etherpad-docker>| Pad de edição colaborativa
 """]]
 
 ## Tor
 
-[[!table class="table table-bordered table-striped" data="""
-Endereço|Portas|Descrição
-[social5dgegf5a7k.onion](http://social5dgegf5a7k.onion)|80|GNU Social
-[mumble4htdctgdd7.onion](http://mumble4htdctgdd7.onion/)|80 (site),64738|Mumble
-2jhmnwu6yep6bdhm.onion `(temporário)`|80 (site sftp), 22|ssh / sftp
-joxeelupougy3vqq.onion `(temporário)`|80|Site GTI
-v27tzey35klcfrpw.onion `(temporário)`|80|Site IUF
-"""]]
+[[Lista de serviços tor|onion]]
 
 [[!meta title="Infraestrutura de Tecnologia da Informação"]]
 [[!tag gti todo pendente]]
