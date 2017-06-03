@@ -42,13 +42,13 @@ Casos mais práticos pra usuárias(os) comuns de internet são serviços web dis
 
 ### Motor de busca
 
-Duckduckgo é um mecanismo de busca tão bom ou melhor que Google, e tem um serviço tor neste endereço: https://3g2upl4pq6kufc4m.onion/
+Duckduckgo é um mecanismo de busca tão bom ou melhor que Google, e tem um serviço tor neste endereço: <https://3g2upl4pq6kufc4m.onion/>
 
 As buscas feitas através deste serviço são suficientemente anônimas, seguras, privadas, etc. E não dói.
 
 ### Ferramenta de jornalismo
 
-Secure Drop é uma ferramenta para envio de material para veículos de jornalismo de forma segura e anônima, conforme prevê a legislação vigente (inclusive no Brasil): http://secrdrop5wyphb5x.onion/
+Secure Drop é uma ferramenta para envio de material para veículos de jornalismo de forma segura e anônima, conforme prevê a legislação vigente (inclusive no Brasil): <http://secrdrop5wyphb5x.onion/>
 
 O Tor é usado neste caso para garantir o anonimato da fonte que está enviando a informação, e o software secure drop garante que o material vai chegar no veículo ou no jornalista.
 
@@ -60,7 +60,7 @@ Ricochet é uma ferramenta de mensagem instantânea, que nem Whatsapp, Telegram,
 
 A dificuldade de decorar um nome de usuário Ricochet é praticamente a mesma que decorar um número de telefone, então usar Ricochet é tão difícil quanto usar Whatsapp. Alias, é mais fácil, porque não precisa instalar nada.
 
-Leia mais em https://ricochet.im/
+Leia mais em <https://ricochet.im/>
 
 ## Partido Pirata
 
@@ -74,15 +74,23 @@ Serviços ocultos não sofrem censura tão facilmente quanto serviços disponív
 
 Exemplos de sites que estão na internet convencional mas também contam com um serviço oculto como forma de resiliência (além dos já citados anteriormente):
 
-* Riseup - https://riseup.net/pt/security/network-security/tor#servi%C3%A7os-ocultos-do-riseup
-* Debian - https://onion.debian.org/
-* Whonix - http://kkkkkkkkkk63ava6.onion/
-* Ahmia - http://msydqstlz2kzerdg.onion/
-* The Pirate Bay - http://uj3wazyk5u4hnvtk.onion/
-* Facebook - https://facebookcorewwwi.onion/
-* LQDN - http://lqdnwwwmaouokzmg.onion/
+* Riseup - <https://riseup.net/pt/security/network-security/tor#servi%C3%A7os-ocultos-do-riseup>
+* Debian - <https://onion.debian.org/>
+* Whonix - <http://kkkkkkkkkk63ava6.onion/>
+* Ahmia - <http://msydqstlz2kzerdg.onion/>
+* The Pirate Bay - <http://uj3wazyk5u4hnvtk.onion/>
+* Facebook - <https://facebookcorewwwi.onion/>
+* LQDN - <http://lqdnwwwmaouokzmg.onion/>
 
 Sites .onion do Partido Pirata são listados no final deste artigo.
+
+### Liberdade de expressão
+
+Não é necessário ter um ip fixo pra hospedar um site com tor. Endereços não custam dinheiro e são gerados instaneamente pelo software tor.
+
+É possível hospedar sites usando só um navegador tor no windows, ou em um raspberry pi por exemplo, em qualquer conexão convencional à internet.
+
+O meu site pessoal por exemplo está hospedado aqui no meu quarto: <http://pa2wof2iqhkhcrmt.onion/>
 
 ## Outras ferramentas também atribuídas à "deep web"
 
@@ -192,9 +200,13 @@ Mais paranoia que isto, só usando Qubes com Whonix em uma cadeia de VPNs, com a
 
 Tutorial interativo para instalação: https://tails.boum.org/install/index.pt.html
 
-# Lista de serviços ocultos do Partido Pirata
+# Lista de alguns serviços ocultos do Partido Pirata
 
-A versão mais atualizada desta lista deve estar na wiki: https://wiki.partidopirata.org/wiki/onion
+A versão completa e atualizada com todos serviços ocultos deve estar na wiki: <https://wiki.partidopirata.org/wiki/onion>
+
+## Site do Partido Pirata
+
+O site acessível em <https://partidopirata.org> está disponível em <http://piratasxmu4ven46.onion/>.
 
 ## Social Pirata
 
@@ -206,7 +218,7 @@ Mumble é uma ferramenta de audioconferência utilizada para reuniões do Partid
 
 ## FTP Pirata
 
-Nós temos um servidor de arquivos onde as pessoas podem enviar arquivos anonimamente: <http://2jhmnwu6yep6bdhm.onion>
+Nós temos um servidor de arquivos onde as pessoas podem enviar arquivos anonimamente: <http://ftp37tqcn2nwfkjk.onion/>
 
 ## Site do GTI
 
@@ -214,7 +226,7 @@ Site do Grupo de Trabalho de Tecnologia da Informação do Partido Pirata: <http
 
 ## Site do IUF Brasil 2015
 
-Fórum de Desgovernança da Internet Brasil 2015 foi um evento realizado pelo Partido Pirata: <http://v27tzey35klcfrpw.onion>
+Fórum de Desgovernança da Internet Brasil 2015 foi um evento realizado pelo Partido Pirata: <http://iufywjvpmxty53fy.onion/>
 
 [a]: https://www.torproject.org/docs/tor-hidden-service.html
 
