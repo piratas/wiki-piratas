@@ -1,0 +1,4 @@
+[[!meta title="pages tagged bucaneiras"]]
+
+[[!inline pages="tagged(bucaneiras)" actions="no" archive="yes"
+feedshow=10]]
