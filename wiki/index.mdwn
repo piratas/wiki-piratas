@@ -35,7 +35,7 @@ Caso não esteja conseguindo editar, verifique o [[tutorial para editar a wiki|/
 
 ## Grupos Setoriais
 
-* Bucaneiras
+* [[Bucaneiras]]
 * Diversidade de gênero
 
 ## Coordenação
