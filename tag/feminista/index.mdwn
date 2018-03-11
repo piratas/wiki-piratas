@@ -1,0 +1,4 @@
+[[!meta title="pages tagged feminista"]]
+
+[[!inline pages="tagged(feminista)" actions="no" archive="yes"
+feedshow=10]]
