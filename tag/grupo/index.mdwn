@@ -1,0 +1,4 @@
+[[!meta title="pages tagged grupo"]]
+
+[[!inline pages="tagged(grupo)" actions="no" archive="yes"
+feedshow=10]]
