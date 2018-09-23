@@ -178,7 +178,7 @@ O servidor é administrado pela Hostgator e pelo [[mtoledo]].
 
 ---
 
-*`TODO`: adicionar servidores da suecia e iniciativa*
+*`TODO`: adicionar servidores da suecia*
 
 ---
 
@@ -195,11 +195,11 @@ Servidor|Nome do(s) serviço(s)|Porta(s)|Descrição
 entwickler|ssh e sftp|4242|entwickler não escuta na porta 22
 entwickler|docker-compose site-www|42080 e 42440|<https://github.com/piratas/piratas-site>
 entwickler|docker-compose site-anapirata|42081 e 42441|<https://github.com/piratas/anapirata-site>
-iniciativa|docker-compose site-financiamento|42082 e 42442|<https://github.com/piratas/site-financiamento>
+entwickler|docker-compose site-financiamento|42082 e 42442|<https://github.com/piratas/site-financiamento>
 entwickler|docker-compose site-saopaulo|42083 e 42443|<https://github.com/piratas/site-saopaulo>
 entwickler|docker-compose site-gtc|42084 e 42444|<https://github.com/piratas/site-gtc>
-iniciativa|docker-compose tesouro-pirata|42085 e 42445|<https://github.com/piratas/tesouro-pirata>
-iniciativa|docker-compose etherpad-docker|42091 e 42905|<https://github.com/piratas/etherpad-docker>
+entwickler|docker-compose tesouro-pirata|42085 e 42445|<https://github.com/piratas/tesouro-pirata>
+entwickler|docker-compose etherpad-docker|42091 e 42905|<https://github.com/piratas/etherpad-docker>
 entwickler|tor sftp-pirata|42901|Site SFTP hidden service
 entwickler|tor social-pirata|42902 e 42909|Social Pirata hidden service
 entwickler|tor site-gti-pirata|42903 e 42915|Site GTI hidden service
