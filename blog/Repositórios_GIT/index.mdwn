@@ -1,0 +1,25 @@
+Há muito tempo era necessário revisar os repositórios **git** do Partido Pirata hospedados no _notabug_ assim como no _github_.
+
+Originalmente não sabíamos qual das soluções utilizar, havia pessoas favoráveis a manter repositórios git no github, pessoas favoráveis a utilizar somente notabug, algumas favoráveis a usar somente gitlab, outras favoráveis a utilizar todas as soluções possíveis, algumas favoráveis a utilizar determinadas ferramentas e serviços de acordo com diretrizes, e inclusive pessoas que não queriam opinar sobre isto mas queriam uma resolução sobre esta situação.
+
+Na época aconteceu de termos uma organização para o partido no [github](https://github.com/piratas), no [notabug](https://notabug.org/piratas) e no [gitlab](https://gitlab.com/piratas).
+
+Algumas pessoas passaram a utilizar exclusivamente o github e algumas a utilizar exclusivamente o notabug, sendo que [[eu|pirata/desci]] acompanhava a atividade e sincronizava todos os remotes.
+
+Eu perdi o acesso ao gitlab ou porque eu esqueci a senha, ou porque eu [falei merda no tuiter](https://twitter.com/aindatenhoconta/status/588435110590025728). Como só eu tinha acesso  conta da organização do partido no gitlab, então se pode assumir que ninguém mais tem controle sobre ela. Isto nunca foi um problema porque ninguém usa lá.
+
+Hoje em decorrência da minha necessidade de clonar um repositório do partido e usar para outra finalidade, me dei conta de que o nome do repositório estava errado e não tinha licença. E então como eu sempre faço, me dediquei a "consertar" tudo o que está esperando há quatro anos ser consertado.
+
+O resultado disto é mais ou menos o seguinte:
+
+Para os repositórios que eu criei ou que eu sou o contribuidor principal, eu melhorei a descrição no notabug e alterei a descrição no github para "Espelho do repositório no notabug". Quando este texto aparecer, deve se assumir que o remote mais atualizado e oficial é no notabug, sendo que o remote do github está lá para conveniência e provavelmente será atualizado eventualmente com as alterações enviadas para o remote do notabug. Alguns que se enquadram nesta regra estavam no github e não no notabug, nestes casos eu criei um repositório novo no notabug, atualizei com o conteúdo do github e passei a tratar conforme supradescrito.
+
+Para os repositórios que alguém criou originalmente no github, eu criei um repositório com o mesmo nome no notabug com uma descrição no formato "Espelho para o repositório original no github". Eu decidi fazer isto para não forçar as pessoas a usarem o notabug em detrimento do github, tendo em vista de que é opinião pessoal minha que as coisas deveriam ser criadas no notabug ou em outro serviço livre, e não no github que eu não gosto.
+
+Para os repositórios no github que são "forks" de outros repositórios, eu fiz um repositório com o mesmo nome no notabug, com a descrição no formato "Espelho para o repositório original no github". Quando isto acontecia ao contrário, eu fiz o contrário.
+
+Então daqui pra frente as pessoas vão continuar contribuindo e alterando os repositórios onde o fizeram originalmente, sendo que sempre haverá uma cópia do trabalho em pelo menos mais um lugar publicamente disponível.
+
+Em relação às licenças, para os repositórios que eu criei, vou utilizar GPL em todos onde for possível. É possível que em alguns eu utilize outra licença mais permissiva se isto for pertinente. Para os repositórios onde eu não sou o principal contribuidor, vou perguntar para as outras pessoas o que elas querem fazer, mas assumir que não é ideal que repositórios não tenham licença. Existem licenças pra quem não quer licença, como Kopimi e Unlicense.
+
+TODO: Alguém me lembra de atualizar esta publicação com uma tabela de cada repositório explanando a situação de cada um. E também alguém me lembre de fazer de fato tudo o que eu escrevi aqui, porque tem coisa que eu ainda não fiz =D
