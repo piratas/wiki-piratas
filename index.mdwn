@@ -5,9 +5,9 @@ A [[wiki]] está em processo de reconstrução. Quem tiver backups, material, vo
 Este site está disponível em:
 
 * <https://wiki.partidopirata.org>
-* <https://partidopirata.xyz>
-* <https://piratas.xyz>
-* <https://pirata.xyz>
+* <del><https://partidopirata.xyz></del> fora do ar, domínio expirado
+* <del><https://piratas.xyz></del> fora do ar, domínio expirado
+* <del><https://pirata.xyz></del> fora do ar, domínio expirado
 
 ---
 
@@ -22,7 +22,7 @@ Este site utiliza [ikiwiki](https://ikiwiki.info), que compila a wiki e o banco 
 O código fonte deste site é atualizado automaticamente a cada *commit* via *crontab* e está disponível em:
 
 * <https://notabug.org/piratas/wiki-piratas>
-* <https://gitlab.com/piratas/wiki-piratas>
+* <del><https://gitlab.com/piratas/wiki-piratas></del> fora do ar, conta bloqueada
 * <https://github.com/piratas/wiki-piratas>
 
 ## Para além de wiki
