@@ -23,3 +23,16 @@ Então daqui pra frente as pessoas vão continuar contribuindo e alterando os re
 Em relação às licenças, para os repositórios que eu criei, vou utilizar GPL em todos onde for possível. É possível que em alguns eu utilize outra licença mais permissiva se isto for pertinente. Para os repositórios onde eu não sou o principal contribuidor, vou perguntar para as outras pessoas o que elas querem fazer, mas assumir que não é ideal que repositórios não tenham licença. Existem licenças pra quem não quer licença, como Kopimi e Unlicense.
 
 TODO: Alguém me lembra de atualizar esta publicação com uma tabela de cada repositório explanando a situação de cada um. E também alguém me lembre de fazer de fato tudo o que eu escrevi aqui, porque tem coisa que eu ainda não fiz =D
+
+---
+
+## Registro da situação atual de cada repositório
+
+[[!table class="table table-bordered table-striped" data="""
+Nome|Descrição|Licença|Repositório principal (origin)|Repositório espelho|Repositório original (upstream)
+Action Center Platform|Software de tomada de atitude clonado da EFF como parte do projeto descrito em <https://github.com/piratas/gti/issues/46>|[GPL v3](https://notabug.org/piratas/action-center-platform/src/master/LICENSE)|<https://notabug.org/piratas/action-center-platform>|<https://github.com/piratas/action-center-platform>|<https://github.com/EFForg/action-center-platform>
+apache2.d|Configurações do servidor web tomcat apache|pendente|<https://notabug.org/piratas/apache2.d>|<https://github.com/piratas/apache2.d>|nenhum
+API insurgente|O objetivo deste projeto é abrir meios de comunicação abertos (API) para com os serviços fornecidos pelo governo através apenas de portais, formulários ou aplicativos, tornando assim mais acessível a informação para que os cidadãos possam usufruir da informação pública da forma que bem entenderem, não ficando limitados a softwares castrantes mal desenvolvidos por autarquias.|[MIT](https://github.com/piratas/api-insurgente/blob/master/LICENSE)|<https://github.com/piratas/api-insurgente>|<https://notabug.org/piratas/api-insurgente>|nenhum
+"""]]
+
+[[!meta title="Alterações nos repositórios git do partido"]]
