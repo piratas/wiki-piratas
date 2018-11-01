@@ -199,6 +199,7 @@ entwickler|docker-compose site-financiamento|42082 e 42442|<https://github.com/p
 entwickler|docker-compose site-saopaulo|42083 e 42443|<https://github.com/piratas/site-saopaulo>
 entwickler|docker-compose site-gtc|42084 e 42444|<https://github.com/piratas/site-gtc>
 entwickler|docker-compose tesouro-pirata|42085 e 42445|<https://github.com/piratas/tesouro-pirata>
+entwickler|docker-compose site-dev|42086 e 42446|<https://github.com/piratas/piratas-site>
 entwickler|docker-compose etherpad-docker|42091 e 42905|<https://github.com/piratas/etherpad-docker>
 entwickler|tor sftp-pirata|42901|Site SFTP hidden service
 entwickler|tor social-pirata|42902 e 42909|Social Pirata hidden service
